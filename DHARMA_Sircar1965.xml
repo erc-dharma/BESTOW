@@ -1,35 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_BESTOW.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_BESTOW.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>INDIAN EPIGRAPHY</title>
-                <author>Gd</author>
+                <title>BESTOW</title>
+                <editor ref="part:amwb">
+                    <persName>
+                        <forename>Amandine</forename>
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:jodo"><!-- Update the id -->
+                        <forename>John</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Doe</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- This may be the same as the creator of the file -->
+                    <persName ref="part:jodo"><!-- Update the id -->
+                        <forename>John</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Doe</surname>
+                    </persName>
+                </respStmt>
             </titleStmt>
-            <editionStmt>
-                <edition><date>2023-05-07</date></edition>
-            </editionStmt>
             <publicationStmt>
-                <p>unknown</p>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_Sicar1965</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Amandine Wattelier-Bricout.</p>
+                    </licence>
+                </availability>
+                <date from="2023" to="2025">2023-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Converted from a Word document</p>
+                <bibl><ptr target="bib:Sircar1965_03"/></bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <appInfo>
-                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
-                    <label>DOCX to TEI</label>
-                </application>
-            </appInfo>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
             <listChange>
-                <change><date>2023-05-09T08:44:34Z</date><name>Gd</name></change>
+                <change who="part:axja" when="2023-05-09">conversion of the OCR</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-    <text>
+    <text  xml:space="preserve">
         <body>
             <!-- <p rend="Style2"><hi rend="Font_Style32"><seg rend="subscript" style="position:-4">INDIAN EPIGRAPHY</seg></hi></p>
 <p rend="Style3"><hi rend="Font_Style37">BY</hi></p>
@@ -66,8 +107,7 @@
                 verses are sometimes also quoted in connection with the sale of land since there was
                 a tendency to represent a sale of land also as a gift by a sort of popular
                     fiction.<hi rend="superscript">2</hi></p>
-            <p>The verses are sometimes quoted without any introduction<seg rend="superscript"
-                    >3</seg> and often without any reference to the source, merely introducing them
+            <p>The verses are sometimes quoted without any introduction<hi rend="superscript">3</hi> and often without any reference to the source, merely introducing them
                 by a passage like uktañ=ca, "It has also been</p>
             <note>1. See JRAS, 1912, pp. 248 ff., p. 476; 1913, PP. 388-89; IHQ, Vol. III, p. 432;
                 Vol. VI, pp. 775 ff. ; S. Lévi, Le Nepal, III, pp. 122 ff.; P. V. Kane, History of
@@ -96,10 +136,8 @@
                 the Mahābhārata.<seg rend="superscript">3 </seg> Some of the stanzas quoted in the
                 inscriptions are actually found in theMahābhārata (especially in the Dānadharma
                     section<hi rend="superscript">4</hi> of the Anuśāsana-parvan) as well as in
-                the Purāṇas. In some cases, they are stated to be the sayings of Manu,<seg
-                    rend="superscript">5</seg> Brahman<hi rend="superscript">6</hi> or
-                    Bṛhaspati<hi rend="superscript">7</hi> and often of the sages.<seg
-                    rend="superscript">8</seg> They are represented in a few cases as quotations
+                the Purāṇas. In some cases, they are stated to be the sayings of Manu,<hi rend="superscript">5</hi> Brahman<hi rend="superscript">6</hi> or
+                    Bṛhaspati<hi rend="superscript">7</hi> and often of the sages.<hi rend="superscript">8</hi> They are represented in a few cases as quotations
                 from the Mānava-Dharmaśāstra<hi rend="superscript">9</hi> or Vaiṣṇava -
                     Dharmaśāstra,<hi rend="superscript">10</hi> but often from the</p>
             <note>1. See, e.g., CII, Vol. III. p. 289, text line 12. Other such passages are api c =
@@ -143,23 +181,19 @@
                 quoted below, only No. 164 (Yo =<seg rend="italic color(FF0000)">’m</seg><seg
                     rend="color(FF0000)">tam</seg>, etc) belongs to the Manusmṛti.</note>
             <note>10. Cf. Ep. Ind., Vol. XVII, p. 304, text line 150.</note>
-            <p><pb n="172"/>Dharmaśāstras and rarely from the Smṛtis and the Purāṇas.<seg
-                    rend="superscript">1</seg>
+            <p><pb n="172"/>Dharmaśāstras and rarely from the Smṛtis and the Purāṇas.<hi rend="superscript">1</hi>
             </p>
             <p>The subject of gifts of all kinds is dealt with more or less elaborately in the epics
-                and the Purāṇas<hi rend="superscript">2</hi> as well as in the Dharmaśāstras.<seg
-                    rend="superscript">3</seg></p>
+                and the Purāṇas<hi rend="superscript">2</hi> as well as in the Dharmaśāstras.<hi rend="superscript">3</hi></p>
             <p>Since the Mahābhārata and the Purāṇas, both of which are regarded as Dharmaśāstra,
                 are ascribed to the authorship of the sage Vyāsa, it is interesting to note that
                 some of the imprecatory and benedictory stanzas generally quoted in the copper-plate
                 grants have been traced to the said sources and also that some of these charters
                 specifically mention Vyāsa as the author of the verses. Thus some records introduce
-                a few of the stanzas with the wordsVyāsa-gītā ṁś=c=ātra ślokān= udāharanti, <seg
-                    rend="superscript">4</seg> while others have uktaṁ ca bhagavatā paramar<hi
+                a few of the stanzas with the wordsVyāsa-gītā ṁś=c=ātra ślokān= udāharanti, <hi rend="superscript">4</hi> while others have uktaṁ ca bhagavatā paramar<hi
                     rend="italic">ṣ</hi>iṇā Vedavyāsena.<hi rend="superscript">5</hi> The
                 Mahābhārata is particularly mentioned in another group of early charters in which we
-                haveuktaṁ ca Mahābhārate bhagavatā Vedavyāsena Vyāsena<seg rend="superscript"
-                    >6</seg> or more fully</p>
+                haveuktaṁ ca Mahābhārate bhagavatā Vedavyāsena Vyāsena<hi rend="superscript">6</hi> or more fully</p>
             <note>1. See, e. g., ibid., Vol. XXVIII, p. 263 (text line 34: dharmaśāstre); p. 282
                 (text line 24: dharmaśāstre<hi rend="italic">ṣu</hi>). For reference to Smṛti, cf.
                 ibid., Vol. XXXI, p. 248, text lines 35, 38, and to Purāṇa, see ibid., Vol. II, p.
@@ -204,8 +238,7 @@
                 later quoted often along with various additional verses which were assigned to Vyāsa
                 or any of the other sources referred to above.<hi rend="superscript">2</hi> The
                 introduction of Bṛhaspati as the author of the verses is easily explained by the
-                fact that theMahābhārata puts some of the stanzas in Bṛhaspati’s advice to Indra<seg
-                    rend="superscript">3</seg> and that they are also found in the B<hi
+                fact that theMahābhārata puts some of the stanzas in Bṛhaspati’s advice to Indra<hi rend="superscript">3</hi> and that they are also found in the B<hi
                     rend="italic">ṛhaspatisa</hi>ṁhitā. This double authorship ascribed to some of
                 the stanzas gradually led to further confusion. It seems that the word 'sage' as the
                 author of the stanzas, which was originally intended for Vyāsa or Bṛhaspati or both
@@ -242,8 +275,7 @@
                 Thus No. 88 (Madhu-Kaiṭabha°, etc.) is quoted from Murāri's Anargharāghava in an
                 inscription of 1521 A. D. There are many other stanzas of this nature, which do not
                 appear to be quotations, but were probably composed by the court poets of the
-                donors, who were responsible for drafting the documents.<seg rend="superscript"
-                    >3</seg> This seems</p>
+                donors, who were responsible for drafting the documents.<hi rend="superscript">3</hi> This seems</p>
             <note>1. Of the stanzas quoted below, Nos. 3-6, 78, 80-81, 93, 106, 119, and 155-59 have
                 been traced in the Mahābhārata, while Nos. 127 and 150 are assigned to the
                 Mahābhārataby Hemādri (cf. Nos. 93,96). Nos. 5, 20, 23, 29, 98, 106, 119, 123, 132
@@ -263,22 +295,19 @@
                 30, 70, 86-87, 99, 108, 136, 138, 140, 153, 163, etc, a few of which are quoted in
                 many records.</note>
             <p><pb n="175"/>to be supported by the fact that a few of the stanzas are sometimes
-                found outside the usual list of imprecatory and benedictory verses.<seg
-                    rend="superscript">1</seg></p>
+                found outside the usual list of imprecatory and benedictory verses.<hi rend="superscript">1</hi></p>
             <p>In some eases, stanzas which look like the composition of the court poets are mixed
                 up with the usual benedictory and minatory verses to create the impression that they
                 are also quotations from ancient authors.<hi rend="superscript">2</hi> A number of
                 pseudo-quotations of this kind have been omitted by us. They do not appear to be
                 quotations from the Dharmaśāstras, although some of them may be quoted from poetical
-                works. Stanzas not directly connected with gift have often been omitted.<seg
-                    rend="superscript">3</seg></p>
+                works. Stanzas not directly connected with gift have often been omitted.<hi rend="superscript">3</hi></p>
             <p>There are cases where two consecutive stanzas have to be read together in order to
                 get the complete sense. We have kept them together, although the position of the
                 second verse in the couplet has also been indicated in its proper place in the
                 alphabetical order.<hi rend="superscript">4</hi> But there are a few instances
                 where more than two stanzas have to be read together for the sake of sense and we
-                have found it difficult to accommodate them in our scheme.<seg rend="superscript"
-                    >5</seg></p>
+                have found it difficult to accommodate them in our scheme.<hi rend="superscript">5</hi></p>
 
             <note>1. See, e.g., Calā vibhūtiḥ, etc. (No. 36). cf. No. 30.</note>
             <note>2. Cf. the following stanza among those ascribed to Vyāsa (Ind. Ant., Vol. VI, p.
@@ -312,15 +341,18 @@
                 gift land in the possession of Brāhmaṇas in particular. Some of the stanzas have
                 been quoted after removing the linguistic and metrical errors in their texts as
                 found in the inscriptions, while a few could not be quoted because their full texts
-                are either not decipherable owing to unsatisfactory preservation<seg
-                    rend="superscript">1</seg> or too erroneous to be reconstructed.<seg
-                    rend="superscript">2</seg> It is felt that some genuine quotations from the
+                are either not decipherable owing to unsatisfactory preservation<hi rend="superscript">1</hi> or too erroneous to be reconstructed.<hi rend="superscript">2</hi> It is felt that some genuine quotations from the
                 Dharmaśāstras and medieval poems in epigraphic records may have escaped our
                 notice.</p>
-            <lg xml:id="Sircar1965_st001">
+            
+            <div xml:id="Sircar1965_st001">
+                <div type="text"><!-- Stanza text -->
+                <lg>
                 <l>Adbhir=dattaṁ tribhir=bhuktaṁ sadbhiś=ca paripā-litam l</l>
                 <l>etāni na nivartante pūrva-rāja-kṛtāni ca ll 1<hi rend="superscript">3</hi></l>
             </lg>
+                </div>
+            </div>
             
                 <l>Āditya-candrāv—anilo=’nalaś=ca</l>
                 <l>dyaur=bhūmir=āpo hṛdayaṁ manaś=ca l</l>
@@ -329,8 +361,7 @@
             
             
                 <l>Ādityā iva dīpyante tejasā divi mānavāḥ l</l>
-                <l>ye prayacchanti vasudhāṁ Brāhmaṇāy=āhit–āgnaye ll 3<seg rend="superscript"
-                        >5</seg></l>
+                <l>ye prayacchanti vasudhāṁ Brāhmaṇāy=āhit–āgnaye ll 3<hi rend="superscript">5</hi></l>
             
             <note>We have kāka-māṁsaṁ surā-siktaṁ in op. cit., Vol. V‚ Arkalgud No. 9. For
                 Brahma-svaṁ, etc., sometimes we have Deva-Brāhmaṇa-vittāni balād=apaharanti ye
@@ -355,10 +386,23 @@
 
             <pb n="177"/>
 
-            
+            <div xml:id="Sircar1965_st0004">               
+                <div type="text"><!-- Stanza text -->
                 <l>Ādityo Varuṇo Viṣṇur=Brahmā Somo Hutāśanaḥ |</l>
-                <l>Śūlapāṇiś=ca bhagavān=pratinandanti bhūmidam ||4<seg rend="superscript"
-                    >1</seg></l>
+                <l>Śūlapāṇiś=ca bhagavān=pratinandanti bhūmidam ||4<hi rend="superscript">1</hi></l>
+                </div>
+                <div type="notes">
+                    <note>1. See, e. g., Ep. Ind., Vol. VIII, p. 142, text lines 33 f. Often abhinandanti is
+                found instead of pratinandanti and sometimes Hutāsana-purogamāḥ (Ep. Ind., Vol. XXX,
+                p. 278, text line 14) in the second foot. Sometimes we have Ādityā Vasavo Rudrā in
+                the first and Nārāyaṇaś=ca bhagavān in the third foot (Ep. Carn., Vol.III, No. Sr.
+                15). The stanza occurs in the Mahābhārata, XIII. 62, 48; Atrisaṁhitā, verse 330
+                (with abhinandati); Bṛhaspatisaṁhitā, 16 (with abhinandati, and Vahni° for Viṣṇu°).
+                Ballāla's Dānasāgara (op. cit„ p. 316) attributes the stanza to the Dāna-Bṛhaspati.
+                A similar stanza is Pitaraḥ pitṛ-lokasthā deva-loke divaukasaḥ | santarpayanti
+                dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note>
+                </div>
+            </div>
             
             <div xml:id="Sircar1965_st0005">               
                 <div type="text"><!-- Stanza text -->
@@ -382,69 +426,85 @@
                 </div>
                 <div type="bibliography">
                     <listBibl>
-                        
+                        <bibl/>
                     </listBibl>
                     
                 </div>
-            </div>
-                <l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
-                <l>na tat=phalam=avāpnoti yad=dattvā vasudhāṁ nṛpa ||6<seg rend="superscript"
-                        >3</seg></l>
-            
-            
-                <l>Aho Rāghava rājendra sapta kalpāni jīvinam |</l>
-                <l>na śṛṇomi na paśyāmi svayaṁ-datt-āpahāriṇam ||7<seg rend="superscript"
-                    >4</seg></l>
-            
-            <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
-            
-                <l>A-karasya kar-ādānaṁ go-koṭi-vadha ucyate |</l>
-                <l>sa-karasya kara-cchedī prāpnoti paramaṁ padam ||8<seg rend="superscript"
-                    >5</seg></l>
-            
-            <l>Akareṣu, etc. See No. 8, note.</l>
-            <l>Ānandanti ca, etc. See No. 20, note.</l>
-            <l>Andhakaḥ, etc. See No. 9, note.</l>
-            <note>1. See, e. g., Ep. Ind., Vol. VIII, p. 142, text lines 33 f. Often abhinandanti is
-                found instead of pratinandanti and sometimes Hutāsana-purogamāḥ (Ep. Ind., Vol. XXX,
-                p. 278, text line 14) in the second foot. Sometimes we have Ādityā Vasavo Rudrā in
-                the first and Nārāyaṇaś=ca bhagavān in the third foot (Ep. Carn., Vol.III, No. Sr.
-                15). The stanza occurs in the Mahābhārata, XIII. 62, 48; Atrisaṁhitā, verse 330
-                (with abhinandati); Bṛhaspatisaṁhitā, 16 (with abhinandati, and Vahni° for Viṣṇu°).
-                Ballāla's Dānasāgara (op. cit„ p. 316) attributes the stanza to the Dāna-Bṛhaspati.
-                A similar stanza is Pitaraḥ pitṛ-lokasthā deva-loke divaukasaḥ | santarpayanti
-                dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note>
-            <note>2. CII, Vol. III, pp. 194, 198, 296. Sometimes we have loka-trayaṁ tena bhaved=dhi
+                <div type="notes">
+                     <note>2. CII, Vol. III, pp. 194, 198, 296. Sometimes we have loka-trayaṁ tena bhaved=dhi
                 dattaṁ (Ep. Ind., Vol. XXV, p. 60‚ text lines 51-52). The same stanza occurs in the
                 Mahābhārata, III, 199, 128, Bṛhaspatisaṁhitā, verse 31, and Saṁvartasaṁhitā, verse
                 74, with lokās=trayas=tena bhavanti dattā°, while the Padma Purāṇa, VI, 33, 32, has
                 the quarter as teṣām=anantaṁ phalam=aśnuvīta. Ballāla's Ḍānasāgara (op. cit„ p. 317)
                 attributes it to Saṁvaṛta.</note>
-            <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
+                </div>
+            </div>
+                
+            <div xml:id="Sircar1965_st0006">
+                <div type="text">
+                    <lg>
+                        <l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
+                <l>na tat=phalam=avāpnoti yad=dattvā vasudhāṁ nṛpa ||6<hi rend="superscript">3</hi></l>
+                    </lg>
+                </div>
+                <div type="notes">
+                     <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
                 bhavati rājendra yo dadāti vasundharām (ibid„ Vol. XXV, p. 278, text lines 12-13).
                 Sometimes we have the stanza as Agniṣṭoma-prabhṛtibhir=iṣṭvā yajñaiḥ sa-dakṣiṇaiḥ|
                 na tat=phalam=avāpnoti bhūmi-dānād=yad=aśnute || (Ind. Ant., Vol. XIV, p. 319, text
                 lines 108-09) while the Mahābhārata (XIII, 62, 73) shows this reading with ca
                 sv-āpta- dakṣiṇaiḥ in the second foot.</note>
-            <note>4. Ep. Carn., Vol. IX, Dv. No. 15; Vol. X, Goribidnur No. 3; cf. Vol. XIV, Gu. No.
+                </div>
+            </div>
+            
+            
+               <div xml:id="Sircar1965_st0007">
+                   <div type="text">
+                       <lg><l>Aho Rāghava rājendra sapta kalpāni jīvinam |</l>
+                <l>na śṛṇomi na paśyāmi svayaṁ-datt-āpahāriṇam ||7<hi rend="superscript">4</hi></l>
+                       </lg>
+                   </div>
+                   <div type="notes">
+                       <note>4. Ep. Carn., Vol. IX, Dv. No. 15; Vol. X, Goribidnur No. 3; cf. Vol. XIV, Gu. No.
                 126.</note>
-            <note>5. Ep. Carn., Vol. V, Belur No. 74. Sometimes we have : Akara-kara-kāras=tu
+                   </div>
+               </div>
+            
+            <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
+            
+                <div xml:id="Sircar1965_st0008">
+                    <div type="text">
+                        <lg><l>A-karasya kar-ādānaṁ go-koṭi-vadha ucyate |</l>
+                <l>sa-karasya kara-cchedī prāpnoti paramaṁ padam ||8<hi rend="superscript">5</hi></l>
+                        </lg>
+                    </div>
+                    <div type="notes">
+                        <note>5. Ep. Carn., Vol. V, Belur No. 74. Sometimes we have : Akara-kara-kāras=tu
                 go-sahasra-vadhaḥ smṛtaḥ |nivṛtta-kara-kāras=tu go-koṭi-phalam=aśnute (ibid., Vol.
                 VII, Sk. No. 323). For slight variations, see ibid., Vol. XII. Tp. No. 28. Ibid.,
                 Vol. XII, Ck. No. 42 has : Akareṣu karaṁ kṛtvā bhī<hi rend="italic">ṣayitvā ca
                     go-vrajam </hi>| sva-vaṁśaḥ kāla-sūtre ca kramaśo bhuvi pātyate ||</note>
+                    </div>
+                </div>
+            
+            <l>Akareṣu, etc. See No. 8, note.</l>
+            <l>Ānandanti ca, etc. See No. 20, note.</l>
+            <l>Andhakaḥ, etc. See No. 9, note.</l>
+            
+            
+           
+            
+            
             <pb n="178"/>
             
                 <l>Andho dvādaśa janmāni daśa janmāni śūkaraḥ |</l>
-                <l>kuṣṭhī janma-sahasrāṇi bhūmi-dān-āpahārakaḥ ||9<seg rend="superscript"
-                    >1</seg></l>
+                <l>kuṣṭhī janma-sahasrāṇi bhūmi-dān-āpahārakaḥ ||9<hi rend="superscript">1</hi></l>
             
             <l>Aṅgam=ekam, etc. See No. 132, note. </l>
             <l>Anityāni śarīrāṇi, etc. See No. 12, note. </l>
             
                 <l>Anucintya śriyaṁ jīvyaṁ padma-patr-āṇu-binduvat ||</l>
-            <l>buddhv=ātr=odāhṛtaṁ sarvaṁ na lopyāḥ para-kīrtayaḥ || 10<seg rend="superscript"
-                    >2</seg>
+            <l>buddhv=ātr=odāhṛtaṁ sarvaṁ na lopyāḥ para-kīrtayaḥ || 10<hi rend="superscript">2</hi>
             </l>
             
             <l>Anudakeṣv=araṇyeṣu, etc. See No. 150, note. </l>
@@ -470,8 +530,7 @@
                <l>A-pānīyeṣv=araṇyeṣu, etc. See No. 150, note. </l>
             
                 <l>Api Gaṅg-ādi-tīrtheṣu hantur=gām=athavā dvijam ||</l>
-            <l>niṣkṛtiḥ syān=na devasva-brahmasva-haraṇe nṛṇām || 15<seg rend="superscript"
-                >7</seg></l>
+            <l>niṣkṛtiḥ syān=na devasva-brahmasva-haraṇe nṛṇām || 15<hi rend="superscript">7</hi></l>
             <note>1. Chhabra, Antiquities of Chamba State, II, p. 177. Sometimes we have Andhakaḥ
                 sapta janmāni in the first foot and svayaṁ datt-āpahārakāḥ in the last.</note>
             <note>2. Ep. Ind., Vol. XIX, p. 45, text lines 31-32. See No. 71 below.</note>
@@ -547,8 +606,7 @@
                 kṛtvā yat=phalam--āpnoti bhūmi-dānat=tad=aśnute(Ep. Carn., Vol. X, Malur No.
                 57).</note>
             <pb n="180"/>
-            <l>ābhiśraiṣṭhyaṁ yaśaḥ svargaṁ bhūmido labhate phalam || 22<seg rend="superscript"
-                    >1</seg></l>
+            <l>ābhiśraiṣṭhyaṁ yaśaḥ svargaṁ bhūmido labhate phalam || 22<hi rend="superscript">1</hi></l>
             <l>Bahubhir=vasudhā bhuktā rājabhiḥ Sagar-ādibhiḥ | </l>
             <l>yasya yasya yadā bhūmis=tasya tasya tadā phalam || 23<hi rend="superscript">2</hi>
             </l>
@@ -663,8 +721,7 @@
             <l>Candr-ārkau ca tathā bhūmir=nabhas=tāpanam=anilaḥ | </l>
             <l>tārakāś=c=ānalaś=c=aiva Dharmarājas=tath=aiva ca || </l>
             <l>tisraḥ sandhyās=trayo vedās=trayo devās=trayo='gnayaḥ |</l>
-            <l>aho rātraṁ ca dānasya ete vai sākṣiṇaḥ smṛtāḥ || 37-38<seg rend="superscript"
-                >4</seg></l>
+            <l>aho rātraṁ ca dānasya ete vai sākṣiṇaḥ smṛtāḥ || 37-38<hi rend="superscript">4</hi></l>
             <l>Dānād=viśiṣṭaṁ paripālanajaṁ purāṇā</l>
             <l>dharmeṣu niścita-dhiyaḥ pravadanti dharmam |</l>
             <l>tasmād=dvijāya suviśuddha-kula-śrutāya</l>
@@ -673,8 +730,7 @@
             <l>Dāna-pālanayos = tāvat=phalaṁ sugati-durgatī |</l>
             <l>ko nāma svargam=utsṛjya narakaṁ pratipadyate || 40<hi rend="superscript">6</hi></l>
             <l>Dātā c=aiv=ānumantā ca svargasy=opari tiṣṭhati ||</l>
-            <l>hartā hārayitā bhūmeḥ pacyate Raurave dhruvam || 41<seg rend="superscript"
-                >7</seg></l>
+            <l>hartā hārayitā bhūmeḥ pacyate Raurave dhruvam || 41<hi rend="superscript">7</hi></l>
             <l>Dātā ca preraka°, etc. See No. 29, note.</l>
             <l>Dātā daś=ānugṛhṇāti daśa, etc. See No. 42, note.</l>
             <note>1. Ind. Ant., Vol. XIX, p. 310, text lines 30-32. The first half of the stanza is
@@ -758,8 +814,7 @@
             <l>Dharmād=vivardhate rājyaṁ dharmāt=kīrtiś=ca śāśvatī |</l>
             <l>dharmāt=tṛpyanti pitaro dharmāt=tuṣyanti devatāḥ</l>
             <l>tasmād=dharmaḥ prayatnena rakṣaṇīyo mahīkṣitā |</l>
-            <l>sva–kṛto = 'nya–kṛto v=āpi loka-dvaya-hitaiṣiṇā ll 49-50<seg rend="superscript"
-                    >4</seg></l>
+            <l>sva–kṛto = 'nya–kṛto v=āpi loka-dvaya-hitaiṣiṇā ll 49-50<hi rend="superscript">4</hi></l>
             <l>Dharmāt=Paijavano rājā cirāya bubhuje bhuvam |</l>
             <l>adharmāc=c=aiva Nahuṣaḥ pratipede rasātalam ll 51<hi rend="superscript">3</hi></l>
             <l>Dhavalāny=ātapatrāṇi, etc. See No. 119, note.</l>
@@ -767,8 +822,7 @@
             <l>devavat=pūjanīyāś=ca dāna-mān-ārcan–ādibhiḥ ll 52<hi rend="superscript">5</hi></l>
             <l>Ek–āhany=api, etc. See No. 82, note.</l>
             <l>Ek=aiva bhaginī loke sarveṣām=eva bhūbhujām |</l>
-            <l>na bhojyā na kara-grāhyā vipra-dattā vasundharā || 53<seg rend="superscript"
-                >6</seg></l>
+            <l>na bhojyā na kara-grāhyā vipra-dattā vasundharā || 53<hi rend="superscript">6</hi></l>
             <l>Ekaviṁsat–kulasy=eva kaṣṭaṁ hi narake sthitam l</l>
             <l>bhūmi-pradāna-mātreṇa tvac=ev=āher=vimucyate ll 54<hi rend="superscript">7</hi></l>
             <l>Gām=ekāṁ ca, etc. See No. 55, note.</l>
@@ -802,23 +856,19 @@
             <l>śrāvayanti hi rājānaṁ Brahma-hatyā ca limpati || 57<hi rend="superscript">2</hi>
             </l>
             <l>Gayā-Godāvarī-Gaṅgā-Prayāg-ādiṣu dānataḥ l </l>
-            <l>yat=phalaṁ tat=phalaṁ sarvaṁ bhaved=bhūmi-prapālanāt ll 58<seg rend="superscript"
-                    >3</seg></l>
+            <l>yat=phalaṁ tat=phalaṁ sarvaṁ bhaved=bhūmi-prapālanāt ll 58<hi rend="superscript">3</hi></l>
             <l>Go-hatyā brahma-hatyā ca bāla-hatyā tath=aiva ca | </l>
             <l>vipra-haty = ārṣi-haty=āvabhañjakas=tayā lipyate || 59<hi rend="superscript">4</hi>
             </l>
             <l>Gṛṇhanti yāvataḥ pāṁsūn=krandatām=aśru=bindavaḥ | </l>
             <l>viprāṇāṁ hata-vṛttīnāṁ vadānyānāṁ kuṭumbinām || </l>
             <l>rājāno rāja-kulyāś=ca tāvato='bdān-niraṅkuśāḥ </l>
-            <l>kumbhīpākeṣu pacyante Brahma-bhūmy-apahārakāḥ ||60-61<seg rend="superscript"
-                >5</seg></l>
+            <l>kumbhīpākeṣu pacyante Brahma-bhūmy-apahārakāḥ ||60-61<hi rend="superscript">5</hi></l>
             <l>Haṁsair=yutaṁ yānam=āruhya divyaṁ bhūmer-dātā yāti lokaṁ surāṇām |</l>
-            <l>tapte kumbhe prajvalat-taila-pūrṇe tasyā hartā pācyate Kāla-dūtaiḥ || 62<seg
-                    rend="superscript">6</seg></l>
+            <l>tapte kumbhe prajvalat-taila-pūrṇe tasyā hartā pācyate Kāla-dūtaiḥ || 62<hi rend="superscript">6</hi></l>
             <l>Hanti jātān=ajatāṁś=ca, etc. See No. 81.</l>
             <l>Harasya prīṇan-ārthaṁ tu Śiva-bhaktāya dīyate |</l>
-            <l>dānaṁ tad=vimalaṁ proktaṁ kevalaṁ mokṣ a-dāyinam ||63<seg rend="superscript"
-                >7</seg></l>
+            <l>dānaṁ tad=vimalaṁ proktaṁ kevalaṁ mokṣ a-dāyinam ||63<hi rend="superscript">7</hi></l>
             <note>dahaty=ā=saptamaṁ kulam (ibid., Vol.XXXI. pp. 248, 281; or
                 yāvac=candra-divākarau—vogel, Antiquities of Chamba State, I. p. 167). The first
                 half is sometimes given as : Kanyām=ekāṁ gavām=ekām bhūmer=ardhārdham=aṅgulam (Ind.
@@ -843,8 +893,7 @@
             <pb n="186"/>
 
             <l>Harate hārayed=yas=tu manda-buddhis=tamo-vṛtaḥ | </l>
-            <l>sa baddho Vāruṇaiḥ pāśais=tiryag-yoniṁ ca gacchati || 64<seg rend="superscript"
-                    >1</seg></l>
+            <l>sa baddho Vāruṇaiḥ pāśais=tiryag-yoniṁ ca gacchati || 64<hi rend="superscript">1</hi></l>
             <l>Hareta, etc. See No. 64, note.</l>
             <l>Hartā devasya yo bhūmiṁ Brāhmaṇa-guror=api yaḥ | </l>
             <l>sva-dattāṁ para-dattāṁ vā sa yāti narakaṁ naraḥ || 65<hi rend="superscript">2</hi>
@@ -899,32 +948,25 @@
             <l>Iṣṭaṁ dattaṁ, etc. See No. 126, note. </l>
             <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>
             <l>Jñātv=aivaṁ mat-pradatto='yaṁ bhūrni-dāyo manīṣibhiḥ |</l>
-            <l>n=occhedyo bhāvi-bhūpālaiḥ sarvair=ātma-hitaiṣ ibhiḥ || 72<seg rend="superscript"
-                    >1</seg></l>
+            <l>n=occhedyo bhāvi-bhūpālaiḥ sarvair=ātma-hitaiṣ ibhiḥ || 72<hi rend="superscript">1</hi></l>
             <l>Kalpa-koṭi-sahasrāṇi kalpa-koṭi-satāni ca |</l>
-            <l>nivased=Brahmaṇo loke dharma-dāyaṁ karoti yaḥ || 73<seg rend="superscript"
-                >2</seg></l>
+            <l>nivased=Brahmaṇo loke dharma-dāyaṁ karoti yaḥ || 73<hi rend="superscript">2</hi></l>
             <l>Kanyām=ekām, etc. See No. 55, note.</l>
             <l>Karmaṇā manasā vācā yaḥ samartho=’py=upekṣate |</l>
-            <l>sa syāt=tad=aiva Caṇḍālaḥ sarva-karma-bahiṣkṛtaḥ || 74<seg rend="superscript"
-                >3</seg></l>
+            <l>sa syāt=tad=aiva Caṇḍālaḥ sarva-karma-bahiṣkṛtaḥ || 74<hi rend="superscript">3</hi></l>
             <l>Kartuḥ kārayitur=hetor=anumoditur=eva ca |</l>
-            <l>karmanāṁ bhāginah pretya bhūyo bhūyas=tu tat=phalam || 75<seg rend="superscript"
-                    >4</seg></l>
+            <l>karmanāṁ bhāginah pretya bhūyo bhūyas=tu tat=phalam || 75<hi rend="superscript">4</hi></l>
             <l>Kharo dvādaśa, etc. See No 128, note.</l>
             <l>Khila-bhagnā tu yā bhūmir=yā ca bhuktā daś=āpara |</l>
-            <l>śataṁ yāvat=tu yā bhuktā na rājā hartum=arhati || 76<seg rend="superscript"
-                >5</seg></l>
+            <l>śataṁ yāvat=tu yā bhuktā na rājā hartum=arhati || 76<hi rend="superscript">5</hi></l>
             <l>Koṭis=tu vājapeyānāṁ lakṣaṁ viśvajitāṁ tathā |</l>
-            <l>sahasram=aśvamedhānāṁ sva-hastaś=c=aiva tat-samah || 77<seg rend="superscript"
-                    >6</seg></l>
+            <l>sahasram=aśvamedhānāṁ sva-hastaś=c=aiva tat-samah || 77<hi rend="superscript">6</hi></l>
             <l>Kṛśāya kṛśa-vṛttāya vṛtti-kṣīṇāya sīdate | </l>
             <l>bhūmiṁ vṛttikarīṁ dattvā sukhī bhavati kāmadaḥ || 78<hi rend="superscript">7</hi>
             </l>
             <l>Kṛta-Tretā-Dvāpareṣu, etc. See No. 97, note. </l>
             <l>Kṣitir=iyaṁ kulaṭ=eva bahu-priyā hata-śarīram=idaṁ ca vinaśvaram | </l>
-            <l>sukṛtam=adya na cet=kriyate dhruvaṁ vipadi dhakṣyati vo='nusay-ānalaḥ || 79<seg
-                    rend="superscript">8</seg></l>
+            <l>sukṛtam=adya na cet=kriyate dhruvaṁ vipadi dhakṣyati vo='nusay-ānalaḥ || 79<hi rend="superscript">8</hi></l>
             <note>1. Ep. Ind., Vol. XXXII, p. 54, text lines 55–56.</note>
             <note>2. Ep. Ind., Vol. XXXII, p. 70, text lines 2I–22.</note>
             <note>3. Ep. Ind., Vol. VI, p. 97, text lines 52-53. We have also dharma for karma (Ind.
@@ -945,8 +987,7 @@
             <l>Kṣudra-paśv-anṛte pañca daśa hanti gav-ānṛte | </l>
             <l>śatam=aśv-ānṛte hanti sahasraṁ puruṣ-ānṛte || </l>
             <l>hanti jātān=ajātāṁś=ca suvarṇasy=ānṛte prabhoḥ | </l>
-            <l>sarvaṁ bhūmy-anṛte hanti mā sma bhūmy-anṛtaṁ vadet || 80-81<seg rend="superscript"
-                    >1</seg>
+            <l>sarvaṁ bhūmy-anṛte hanti mā sma bhūmy-anṛtaṁ vadet || 80-81<hi rend="superscript">1</hi>
             </l>
             <l>Kulāni tārayet=kartā sapta sapta ca sapta ca | </l>
             <l>adho-dhaḥ pātayed=dhartā sapta sapta ca sapta ca || 82<hi rend="superscript">2</hi>
@@ -961,8 +1002,7 @@
             <l>sva-dānāt=phalam=ānantyam para-datt-ānupālane || 85<hi rend="superscript">5</hi>
             </l>
             <l>Mad-dāna-phala-siddhy-arthaṁ tad-rakṣā-phala-siddhaye |</l>
-            <l>mad-dharmaḥ paripālyo='yaṁ bhūpair=ā-candra-tārakam || 86<seg rend="superscript"
-                    >6</seg></l>
+            <l>mad-dharmaḥ paripālyo='yaṁ bhūpair=ā-candra-tārakam || 86<hi rend="superscript">6</hi></l>
             <note>1. Mys. Arch. Rep., 1910, paragraphs 47-50. The second stanza is sometimes found
                 as : Hanti jātān=ajātāṁś=ca bhūmy=arthe yo='nṛtaṁ vadet | sa baddho vāruṇaiḥ
                 pāśais=tiryag=yonyāṁ tu jāyate ||(Ep. Ind., vol. XIX, p. 213, text lines 33-34). Cf.
@@ -994,8 +1034,7 @@
             <pb n="189"/>
 
             <l>Mad-dattaṁ sad-dvijātibhyo pāti ya iha daivikam | </l>
-            <l>mac-chiro-mukuṭa-nyastaṁ tasya rājñaḥ pada-dvayam || 87<seg rend="superscript"
-                    >2</seg>
+            <l>mac-chiro-mukuṭa-nyastaṁ tasya rājñaḥ pada-dvayam || 87<hi rend="superscript">2</hi>
             </l>
             <l>Mad-dattā putrikā jneyā, etc. See No. 133, note. </l>
             <l>Madhu-Kaiṭabha-dānavendra-medaḥ-plava-visrā-miśram=eva medin=īyam | </l>
@@ -1008,16 +1047,13 @@
             <l>teṣāṁ mayā viracito=’ñjalir=eṣa mūrdhni || 89<hi rend="superscript">3</hi>
             </l>
             <l>Mad-vaṁśe para-vaṁśe vā yaḥ kaścin=nṛpatir=bhavet |</l>
-            <l>tasy=āhaṁ kara-lagnaḥ syāṁ yo mat-kīrtir lumpati || 90<seg rend="superscript"
-                >4</seg></l>
+            <l>tasy=āhaṁ kara-lagnaḥ syāṁ yo mat-kīrtir lumpati || 90<hi rend="superscript">4</hi></l>
             <l>Mahatām=api pāpānāṁ dṛṣṭā śāstreṣu niṣkṛtiḥ | </l>
-            <l>brahmadey-āpahart<seg rend="italic">ṛnāṁ na dṛiṣṭā niṣkṛtiḥ kvacit</seg> || 91<seg
-                    rend="superscript">5</seg>
+            <l>brahmadey-āpahart<seg rend="italic">ṛnāṁ na dṛiṣṭā niṣkṛtiḥ kvacit</seg> || 91<hi rend="superscript">5</hi>
             </l>
             <l>Mama vaṁśe, etc. Sec No. 90, note. </l>
             <l>Mā pārthiva kadācit=tvaṁ brahma-svaṁ manasā api | </l>
-            <l>āneṣa dharma-bhaiṣajyam=etad=dhalāhalaṁ viṣam || 92<seg rend="superscript"
-                >6</seg></l>
+            <l>āneṣa dharma-bhaiṣajyam=etad=dhalāhalaṁ viṣam || 92<hi rend="superscript">6</hi></l>
             <note>1. Ep. Ind., Vol. XXXI, p. 191. See Nos. 89 and 90.</note>
             <note>2. Mys. Arch. Rep., 1912, paragraph 108. The stanza is quoted from Murāri's
                 Anargharāghava as already indicated above.</note>
@@ -1051,8 +1087,7 @@
             <l>ghorāś=ca Vāruṇāḥ pāśā n=opasarpanti bhūmidam || 93<hi rend="superscript">1</hi>
             </l>
             <l>Na dadāti pratiśrutaṁ dattaṁ v=āparet=tu yaḥ | </l>
-            <l>tau baddhau Vāruṇaiḥ pāśais=tapyate mṛtyu-śāsanāt || 94<seg rend="superscript"
-                    >2</seg>
+            <l>tau baddhau Vāruṇaiḥ pāśais=tapyate mṛtyu-śāsanāt || 94<hi rend="superscript">2</hi>
             </l>
             <l>Na hi bhūmi-pradānād=vai dānam=anyad=viśiṣyate | </l>
             <l>na c=āpi bhūmi-haraṇāt=pāpam=anyad=vidhīyate || 95<hi rend="superscript">3</hi>
@@ -1120,8 +1155,7 @@
             <l>yāvat-sūrya-kṛt-ālokas=tāvat=svarge mahīyate || 106<hi rend="superscript">7</hi>
             </l>
             <l>Phalasya kathito dharmaḥ phalān=niṣphal-āsambhavaḥ | </l>
-            <l>bhūmi-hartā phala-cchettā phalān=niṣ phalatāṁ vrajet || 107<seg rend="superscript"
-                    >8</seg></l>
+            <l>bhūmi-hartā phala-cchettā phalān=niṣ phalatāṁ vrajet || 107<hi rend="superscript">8</hi></l>
             <l>Pitaraḥ, etc. See No. 4, note.</l>
             <l>Prāg-dattāṁ bhūmiṁ viprebhyo, etc. See 131, note. </l>
             <l>Prajā-hit-ārthaṁ sthitayaḥ praṇītā </l>
@@ -1151,35 +1185,28 @@
             <l>yo lobha-mohād=dharate durātmā</l>
             <l>so='ndho vrajed=durgatim=āśu kaṣṭām || 108<hi rend="superscript">1</hi></l>
             <l>Prāpsyase vipulān=bhogān=pūrva-dattasyatat=phalam |</l>
-            <l>punar=dadāsi dānād=dhi punar=bhogī bhaviṣyasi || 109<seg rend="superscript"
-                >2</seg></l>
+            <l>punar=dadāsi dānād=dhi punar=bhogī bhaviṣyasi || 109<hi rend="superscript">2</hi></l>
             <l>Prāsādā yatra, etc. See No. 127, note.</l>
             <l>Prasṛty=āsampradānena datt-āpaharaṇena ca |</l>
-            <l>janma-prabhṛti yad=dattaṁ tat=sarvaṁ niṣphalaṁ bhavet || 110<seg rend="superscript"
-                    >3</seg></l>
+            <l>janma-prabhṛti yad=dattaṁ tat=sarvaṁ niṣphalaṁ bhavet || 110<hi rend="superscript">3</hi></l>
             <l>Prāyeṇa hi narendrāṇāṁ vidyate na śubhā gatiḥ |</l>
-            <l>pūyante te tu satataṁ prayacchanto vasundharām || 111<seg rend="superscript"
-                >4</seg></l>
+            <l>pūyante te tu satataṁ prayacchanto vasundharām || 111<hi rend="superscript">4</hi></l>
             <l>Pṛthivyā dīyamānāyā yāvanto madhya-reṇavaḥ |</l>
             <l>tāvad=varṣa-sahasrāṇi Brahma-loke mahīyate || 112 <hi rend="superscript">5</hi></l>
             <l>Pūrva–dattāṁ dvijātibhyo, etc. See No. 131, note.</l>
             <l>Pūrva–dattāṁ narendraiś=ca, etc. See No. 131, note.</l>
             <l>Pūrva-dattāṁ tu, etc. See No. 103, note.</l>
             <l>Purvaiḥ pūrvataraiś=c=aiva dattāṁ bhūmiṁ haret= tu yaḥ |</l>
-            <l>sa nitya-vyasane magno narake ca vaset=punaḥ || 113<seg rend="superscript"
-                >6</seg></l>
+            <l>sa nitya-vyasane magno narake ca vaset=punaḥ || 113<hi rend="superscript">6</hi></l>
             <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l>
             <l>Rājāno rāja-kulyāś=ca, etc. See No. 61. </l>
             <l>Rakṣā, etc. See No. 40, note.</l>
             <l>Ratn-ānna-pāna-goṣṭh-ādyaṁ sarvaṁ bhūmau prajāyate |</l>
-            <l>tasmād=bhūmi-pradānena naro bhavati sarvadaḥ || 114<seg rend="superscript"
-                >7</seg></l>
+            <l>tasmād=bhūmi-pradānena naro bhavati sarvadaḥ || 114<hi rend="superscript">7</hi></l>
             <l>Ṣaḍaśīti-sahasrāṇāṁ yojanānāṁ vasundharā l</l>
-            <l>aho puṇyāya Kaunteya svargo grāma-pradāyinaḥ || 115<seg rend="superscript"
-                >8</seg></l>
+            <l>aho puṇyāya Kaunteya svargo grāma-pradāyinaḥ || 115<hi rend="superscript">8</hi></l>
             <l>Sadyo-dānaṁ nirāyāsaṁ s-āyāsaṁ dīrgha–pālanam |</l>
-            <l>ata ev=arṣayaḥ prāhur=dānāc=chreyo=’nupālanam || 116<seg rend="superscript"
-                >9</seg></l>
+            <l>ata ev=arṣayaḥ prāhur=dānāc=chreyo=’nupālanam || 116<hi rend="superscript">9</hi></l>
             <note>1. Ep. Ind., Vol.XII, p. 214, verse 35.</note>
             <note>2. Ep. Ind., Vol. XXXIII, p. 213, verse 8.</note>
             <note>3. Ind. Ant., Vol. XII, p. 252.</note>
@@ -1203,8 +1230,7 @@
             <l>sarvān=etān=bhāvinaḥ pārthivendrān= </l>
             <l>bhūyo bhūyo yācate Rāmacandraḥ || 117<hi rend="superscript">1</hi></l>
             <l>Sāmānyo='yaṁ dharma-setuḥ sarveṣām=iha bhūbhujām | </l>
-            <l>yato= 'taḥ pālanīyo = 'yaṁ kāle kāle mahātmabhiḥ || 118<seg rend="superscript"
-                    >2</seg>
+            <l>yato= 'taḥ pālanīyo = 'yaṁ kāle kāle mahātmabhiḥ || 118<hi rend="superscript">2</hi>
             </l>
             <l>Śaṅkhaṁ bhadr-āsanaṁ chatraṁ var-āśvā vara-vāraṇāḥ | </l>
             <l>bhūmi-dānasya puṣpāṇi phalaṁ svargaḥ Purandara || 119<hi rend="superscript">3</hi>
@@ -1251,8 +1277,7 @@
                 dhar-āśvā vara-vāraṇāḥ and puṣpāni—op. cit., pp. 483-84). Ballāla's Dānasāgara (op.
                 cit., p. 316) attributes the stanza to the Dāna-Bṛhaspati.</note>
             <pb n="194"/>
-            <l>bhumi-hartā vaset=tasmān=narake kālam=akṣayam || 120<seg rend="superscript"
-                >1</seg></l>
+            <l>bhumi-hartā vaset=tasmān=narake kālam=akṣayam || 120<hi rend="superscript">1</hi></l>
             <l>Sarvān=etān, etc. See No. 117, note. </l>
             <l>Sarvān=eva-=āgāminaḥ, etc. See No. 117, note. </l>
             <l>Sarvān=eva prārthayaty=eṣa, etc. See No. 117, note. </l>
@@ -1302,8 +1327,7 @@
                 150. Hemādri assigns it to Yājñavalkya (op. cit., p. 75).</note>
             <pb n="195"/>
 
-            <l>śatrur=eva hi śatruḥ syād=dharmaḥ śatrur=na kasyacit || 125<seg rend="superscript"
-                    >1</seg></l>
+            <l>śatrur=eva hi śatruḥ syād=dharmaḥ śatrur=na kasyacit || 125<hi rend="superscript">1</hi></l>
             <l>Satyaṁ c=aiva, etc. See No. 126, note. </l>
             <l>Satyaṁ yajña-hutaṁ c=aiva yat=kiñcid=dharma-sañcayaḥ |</l>
             <l>ardh-āṅgulena sīmāyā haraṇena praṇaśyati || 126<hi rend="superscript">2</hi>
@@ -1350,8 +1374,7 @@
             <note>6. Ind. Ant., Vol. XII. pp. 257-58.</note>
             <pb n="196"/>
 
-            <l>mahīṁ mahīmatāṁ śreṣṭha dānāc=chreyo=’nupālanam || 131<seg rend="superscript"
-                >1</seg></l>
+            <l>mahīṁ mahīmatāṁ śreṣṭha dānāc=chreyo=’nupālanam || 131<hi rend="superscript">1</hi></l>
             <l>Sva-dattāṁ para-dattāṁ vā yo hareta vasundharām | </l>
             <l>sa viṣṭhāyāṁ kṛmir=bhutvā pitṛbhiḥ saha pacyate || 132<hi rend="superscript">2</hi>
             </l>
@@ -1417,8 +1440,7 @@
             <l>Harir=api Kamalāsanasya sṛṣṭiṁ</l>
             <l>satatam=avañ =jagatām=abhūd=upāsyaḥ || 136<hi rend="superscript">4</hi></l>
             <l>Taḍāgānāṁ sahasreṇa vājapeya-śatena ca |</l>
-            <l>gavāṁ koṭi-pradānena bhūmi-hartā na śudhyati || 137<seg rend="superscript"
-                >5</seg></l>
+            <l>gavāṁ koṭi-pradānena bhūmi-hartā na śudhyati || 137<hi rend="superscript">5</hi></l>
             <l>Taḍit-taraṅga-bahulām, etc. See No. 71, note.</l>
             <note>tiara (Hemādri, loc. cit.), the first and second halves occur as the first and
                 second halves of two consecutive stanzas with harec=ca and viṣṭhāyāṁ kṛmitāṁ=eti
@@ -1458,32 +1480,25 @@
             <l>Taḍit-tulyā lakṣmīs=tanur=api ca dīp-ānala-samā </l>
             <l>bhavo duḥkh-aik-āntaḥ para-kṛtim=akīrtiḥ kṣapayatām | </l>
             <l>yaśāṁsy=ā-candr-ārkaṁ niyatam=avatām=atra ca </l>
-            <l>nṛpāḥ kariṣyante buddhvā yad=abhirucitaṁ kiṁ pravacanaiḥ || 138<seg
-                    rend="superscript">1</seg></l>
+            <l>nṛpāḥ kariṣyante buddhvā yad=abhirucitaṁ kiṁ pravacanaiḥ || 138<hi rend="superscript">1</hi></l>
             <l>Tādṛk-puṇyaṁ na dadatāṁ jāyate no dharābhujām | </l>
-            <l>bhuvam=anya-pratiṣṭhāṁ tu yādṛg=bhavati rakṣatām || 139<seg rend="superscript"
-                    >2</seg></l>
+            <l>bhuvam=anya-pratiṣṭhāṁ tu yādṛg=bhavati rakṣatām || 139<hi rend="superscript">2</hi></l>
             <l>Tapati na tapanaḥ prakharo marud=api no vāti śāsane tīvraḥ |</l>
-            <l>Brahmasva-steya-pātakam=atiśaya-bhīmaṁ samā-locya || 140<seg rend="superscript"
-                    >3</seg></l>
+            <l>Brahmasva-steya-pātakam=atiśaya-bhīmaṁ samā-locya || 140<hi rend="superscript">3</hi></l>
             <l>Tasmād=dharmaḥ, etc. See No. 50.</l>
             <l>Taṭākānām, etc. See No. 137, note.</l>
             <l>Tisraḥ sandhyā , etc. See No. 38.</l>
             <l>Toya-hīneṣv=araṇyeṣu, etc. See No. 149, note.</l>
             <l>Tṛṇ-āgra-jala-binduś=ca jala-budbuda-sadṛśam |</l>
-            <l>sadṛśaṁ jīvitaṁ jñātvā kīrti-dharmaṁ na lopayet || 141<seg rend="superscript"
-                >4</seg></l>
+            <l>sadṛśaṁ jīvitaṁ jñātvā kīrti-dharmaṁ na lopayet || 141<hi rend="superscript">4</hi></l>
             <l>Triṇy=āhur=ati-dānāni gāvaḥ pṛthvī sarasvatī |</l>
-            <l>ā-saptamaṁ phalanty=ete doha-vāha-nivedanaiḥ || 142<seg rend="superscript"
-                >5</seg></l>
+            <l>ā-saptamaṁ phalanty=ete doha-vāha-nivedanaiḥ || 142<hi rend="superscript">5</hi></l>
             <l>Upadeśī ca dātā ca, etc. See No. 29, note.</l>
             <l>Vācā dattaṁ mano-dattaṁ dattaṁ pāṇi-kuś-odak<seg rend="color(FF0000)">aiḥ</seg> |</l>
-            <l>yo haret=triṇi dānāni sa ghoraṁ narakaṁ vrajet || 143<seg rend="superscript"
-                >6</seg></l>
+            <l>yo haret=triṇi dānāni sa ghoraṁ narakaṁ vrajet || 143<hi rend="superscript">6</hi></l>
             <l>Vāk–dattaṁ ca, etc. See No. 143, note.</l>
             <l>Vahniṁ vahni–sutaṁ c=āmbu pañca-kṛtvaḥ prajāyate |</l>
-            <l>dattvā sarva-rasāṁ c=aiva na martyo jāyate punaḥ || 144<seg rend="superscript"
-                    >7</seg></l>
+            <l>dattvā sarva-rasāṁ c=aiva na martyo jāyate punaḥ || 144<hi rend="superscript">7</hi></l>
             <note>1. Ep. Ind., Vol. IV, p. 250, lines 59-60.</note>
             <note>2. Ind. Ant., Vol.XX, p. 310, text lines 28-29. for grāsa-hartā for bhūmi-hartā,
                 see Ep. Ind., Vol. XXXII. p. 76, text line 46.</note>
@@ -1504,8 +1519,7 @@
             <l>Vāpī-kūpa°, etc. See No. 137, note. </l>
             <l>Vāridas=tṛptim=āpnoti sukham=akṣayam=annadaḥ | </l>
             <l>tila-pradaḥ prajām=iṣṭāṁ dīpadaś=ca Kurūttama | </l>
-            <l>bhūmidaḥ sarvam=āpnoti dīrgham=āyus=tath=aiva ca || 145<seg rend="superscript"
-                    >1</seg></l>
+            <l>bhūmidaḥ sarvam=āpnoti dīrgham=āyus=tath=aiva ca || 145<hi rend="superscript">1</hi></l>
             <l>Vāri-hīneṣv=araṇyeṣu, etc. See No. 150, note.</l>
             <l>Vāt-ābhra-vibhramam=idaṁ vasudh-ādhipatyam=</l>
             <l>āpāta-mātra-madhuro viṣay–opabhogaḥ |</l>
@@ -1518,11 +1532,9 @@
             <l>nityaṁ par-opakṛti-mātra-ratair=bhavadbhir=</l>
             <l>dharm-ābhirādhana-parair=anumoditavyā || 148 <hi rend="superscript">4</hi></l>
             <l>Vighnatāṁ bhartṛ-go-vipra-bāla-yoṣid-vipaścitām |</l>
-            <l>yā gatiḥ sā bhaved=bhūmiṁ harataḥ śāsan-āṅkitām || 149<seg rend="superscript"
-                >5</seg></l>
+            <l>yā gatiḥ sā bhaved=bhūmiṁ harataḥ śāsan-āṅkitām || 149<hi rend="superscript">5</hi></l>
             <l>Vindhy-āṭavīṣv=a-toyāsu śuṣka-koṭara-vāsinaḥ |</l>
-            <l>kṛṣṇāhayo=’bhijāyantc pūrva-dāyaṁ haranti ye || 150<seg rend="superscript"
-                >8</seg></l>
+            <l>kṛṣṇāhayo=’bhijāyantc pūrva-dāyaṁ haranti ye || 150<hi rend="superscript">8</hi></l>
             <note>1. Ep. Ind., Vol. XXV, p. 219, verse 46.</note>
             <note>2. Ind. Ant., Vol. VI. p. 56; Ep. Ind., Vol.XXVI, p. 56, text lines 13-14.
                 Sometimes we have °madhurā viṣay-opabhogāḥ (ibid., Vol. XXIV, p. 295, text line
@@ -1613,14 +1625,12 @@
             <l>naras=tāvanti varṣāṇi svarge tiṣṭhati bhūmidaḥ || 161<hi rend="superscript">4</hi>
             </l>
             <l>Yāvat=sūrya-saśāṅkau ca yāvad=bhūdhara-sāgarān | </l>
-            <l>tāvat=putra-prapautrako grāmaḥ pālyaḥ nṛp–ottamaiḥ || 162<seg rend="superscript"
-                    >5</seg></l>
+            <l>tāvat=putra-prapautrako grāmaḥ pālyaḥ nṛp–ottamaiḥ || 162<hi rend="superscript">5</hi></l>
             <l>Ye Brāhmaṇānām=ayathā haranti pradeśa–mātrām=api bhūtadhātrīm | pūrīṣa–kūpe pitṛbhiḥ
                 sametās= te kalpa–koṭir=api yāpayanti || 163<hi rend="superscript">6</hi>
             </l>
             <l>Yo=’rcitaṁ pratigṛhṇāti dadāty=arcitam=eva vā | </l>
-            <l>tāv=ubhau gacchataḥ svargaṁ narakaṁ tu viparyaye || 164<seg rend="superscript"
-                    >7</seg>z</l>
+            <l>tāv=ubhau gacchataḥ svargaṁ narakaṁ tu viparyaye || 164<hi rend="superscript">7</hi>z</l>
             <note>1. Ep. Ind., Vol. XII. p. 327, text lines 37–38. The verse is found in the
                 Mahābhārata, XIII, 62, 84 (with tathā for evaṁ and vivardhate for prarohati);
                 Bṛhaspatisaṁhitā, verse 12 (with sadyas° for Śakra and prasarpati for visarpati).
