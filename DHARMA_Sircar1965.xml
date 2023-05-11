@@ -363,26 +363,59 @@
             <div xml:id="Sircar1965_st0005">               
                 <div type="text"><!-- Stanza text -->
                     <lg met="indravajrā">
-                    <l>Agner=apatyaṁ prathamaṁ suvarṇaṁ</l>
-                    <l>bhūr=Vaiṣṇavī Sūrya-sutāś=ca gāvaḥ |</l>
-                    <l>dattās=trayas=tena bhavanti lokā</l>
-                    <l>yaḥ kāñcanaṁ gāṁ ca mahīṁ ca dadyāt || 5<hi rend="superscript">2</hi></l>
+                    <l n="a">agner apatyaṁ prathamaṁ suvarṇaṁ</l>
+                    <l n="b">bhūr vaiṣṇavī sūrya-sutāś ca gāvaḥ |</l>
+                    <l n="c">dattās trayas tena bhavanti lokā</l>
+                    <l n="d">yaḥ kāñcanaṁ gāṁ ca mahīṁ ca dadyāt</l>
                     </lg>
                 </div>
-                <div type="translation"><!-- translation -->
-                <p n="4" rend="stanza">
+                <div type="translation">
+                    <div type="textpart" xml:lang="en">
+                        <p rend="stanza">
                  Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
                 </p>
+                    </div>
+                    <div type="textpart" xml:lang="fra">
+                        <p rend="stanza">L'Or est le premier fils né d'Agni, la Terre est l'épouse Viṣṇu et les vaches sont les filles du Soleil; celui qui donne de l'or, des vaches et des terres, par ces trois sortes de dons les mondes lui appartiennent.</p>
+                    </div>
                 </div>
-                <div type="occurences"><!-- Occurrences  -->
-                <p>This stanza occurs in :</p>
+                <div type="occurences">
+                    <div type="inscriptions">
+                        <p>Aapart for the spelling differences, this stanza identically appears in : 
+                            <list>
+                                <item> <bibl><ptr target="bib:Fleet1970_04"/><citedRange unit="line">17-19</citedRange><citedRange unit="page">194</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti -->
+                                <item><bibl><ptr target="bib:Fleet1970_02"/><citedRange unit="line">19-20</citedRange><citedRange unit="page">198</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti -->
+                                <item><bibl><ptr target="bib:Fleet1970_03"/><citedRange unit="line">30-32</citedRange><citedRange unit="page">296</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti + preceded by Api ca rakṣāpālanayas tāvaat phalaṁ sugati durgati ko nāma svargam ucchrijya narakaṁ pratipadyate -->
+                            </list></p>
+                    </div>
+                    <div type="purāṇas">
+                        <p>This stanza occurs in : </p>
+                    </div>
+                    <div type="dharmaśāśtras">
+                        <p>This stanza occurs in : </p>
+                    </div>
+                    <div type="variation">  
+                        <p>This stanza appears with the following modifications here :
+                            <list>
+                                <item><bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl> : <foreign>pāda</foreign> c <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign> </item>
+                                <item><title>Mahābhārata</title>, III, 199, 128, <title>Bṛhaspatisaṁhitā</title>, verse 31, and <title>Saṁvartasaṁhitā</title>, verse 74 : <foreign>pāda</foreign> c <foreign>lokās trayas=tena bhavanti dattā</foreign></item><!-- Need to check -->
+                                <item><title>Padma Purāṇa</title>, VI, 33, 32 : <foreign>pāda</foreign> c <foreign>teṣām anantaṁ phalam aśnuvīta</foreign></item><!-- Need to check -->
+                            </list>
+                            </p>
+                    </div>
+ 
                 </div>
-                <div type="authorship"><!--  -->
-                    
+                <div type="authorship">
+                    <p>The authorship of this stanza is attributed to the following sources :
+                    <list>
+                        <item><title>Dharmaśāstra</title> according to <ref target="DHARMA_INSSomavamsin00003">Gopalpur Plates of Mahābhavagupta Janamejaya, Year 10</ref></item>
+                        <item>Saṁvarta according to Ballāla's <title>Ḍānasāgara</title> p.137</item><!-- Need to check -->
+                    </list>
+                    </p>
                 </div>
                 <div type="bibliography">
                     <listBibl>
-                        
+                        <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="entry">5</citedRange><citedRange unit="page">177</citedRange></bibl>
                     </listBibl>
                     
                 </div>
@@ -414,12 +447,6 @@
                 Ballāla's Dānasāgara (op. cit„ p. 316) attributes the stanza to the Dāna-Bṛhaspati.
                 A similar stanza is Pitaraḥ pitṛ-lokasthā deva-loke divaukasaḥ | santarpayanti
                 dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note>
-            <note>2. CII, Vol. III, pp. 194, 198, 296. Sometimes we have loka-trayaṁ tena bhaved=dhi
-                dattaṁ (Ep. Ind., Vol. XXV, p. 60‚ text lines 51-52). The same stanza occurs in the
-                Mahābhārata, III, 199, 128, Bṛhaspatisaṁhitā, verse 31, and Saṁvartasaṁhitā, verse
-                74, with lokās=trayas=tena bhavanti dattā°, while the Padma Purāṇa, VI, 33, 32, has
-                the quarter as teṣām=anantaṁ phalam=aśnuvīta. Ballāla's Ḍānasāgara (op. cit„ p. 317)
-                attributes it to Saṁvaṛta.</note>
             <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
                 bhavati rājendra yo dadāti vasundharām (ibid„ Vol. XXV, p. 278, text lines 12-13).
                 Sometimes we have the stanza as Agniṣṭoma-prabhṛtibhir=iṣṭvā yajñaiḥ sa-dakṣiṇaiḥ|
