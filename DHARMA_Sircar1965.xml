@@ -94,7 +94,7 @@
                 
             </div>
             -->
-            <head>APPENDIX II</head>
+           <!-- <head>APPENDIX II</head>
             <head><hi rend="bold">STANZAS ON BHŪMI-DĀNA QUOTED IN RAJA-ŚĀSANAS<hi
                         rend="superscript">1</hi></hi></head>
             <p>We have seen above how, while making grants of land, the donor often emphasized the
@@ -346,7 +346,7 @@
                 notice.</p>
             
             <div xml:id="Sircar1965_st001">
-                <div type="text"><!-- Stanza text -->
+                <div type="text"><!-\- Stanza text -\->
                 <lg>
                 <l>Adbhir=dattaṁ tribhir=bhuktaṁ sadbhiś=ca paripā-litam l</l>
                 <l>etāni na nivartante pūrva-rāja-kṛtāni ca ll 1<hi rend="superscript">3</hi></l>
@@ -382,7 +382,7 @@
             <note>5. Ep. Ind., Vol. XXV, p. 218, verse 39. The Mahābhārata (XIII, 62, 46) has it
                 with dīpyanti tejasā bhuvi in the first half and dadāti vasudhāṁ sphītāṁ ye
                 veda-viduṣi dvije in the second. Ballāla’s Dānasāgara (op. cit., p. 332) seems to
-                attribute the stanza to the Viṣṇudharmottara.</note>
+                attribute the stanza to the Viṣṇudharmottara.</note>-->
 
             <pb n="177"/>
 
@@ -414,7 +414,7 @@
                     </lg>
                 </div>
                 <div type="translation">
-                    <div type="textpart" xml:lang="en">
+                    <div type="textpart" xml:lang="eng">
                         <p rend="stanza">
                  Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
                 </p>
@@ -425,24 +425,20 @@
                 </div>
                 <div type="occurences">
                     <div type="inscriptions">
-                        <p>Aapart for the spelling differences, this stanza identically appears in : 
+                        <p>
                             <list>
                                 <item> <bibl><ptr target="bib:Fleet1970_04"/><citedRange unit="line">17-19</citedRange><citedRange unit="page">194</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti -->
                                 <item><bibl><ptr target="bib:Fleet1970_02"/><citedRange unit="line">19-20</citedRange><citedRange unit="page">198</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti -->
                                 <item><bibl><ptr target="bib:Fleet1970_03"/><citedRange unit="line">30-32</citedRange><citedRange unit="page">296</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti + preceded by Api ca rakṣāpālanayas tāvaat phalaṁ sugati durgati ko nāma svargam ucchrijya narakaṁ pratipadyate -->
                             </list></p>
                     </div>
-                    <div type="purāṇas">
-                        <p>This stanza occurs in : </p>
-                    </div>
-                    <div type="dharmaśāśtras">
-                        <p>This stanza occurs in : </p>
-                    </div>
+                    <div type="purāṇas"/>
+                    <div type="dharmaśāśtras"/>
                     <div type="variation">  
-                        <p>This stanza appears with the following modifications here :
+                        <p>
                             <list>
-                                <item><bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl> : <foreign>pāda</foreign> c <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign> </item>
-                                <item><title>Mahābhārata</title>, III, 199, 128, <title>Bṛhaspatisaṁhitā</title>, verse 31, and <title>Saṁvartasaṁhitā</title>, verse 74 : <foreign>pāda</foreign> c <foreign>lokās trayas=tena bhavanti dattā</foreign></item><!-- Need to check -->
+                                <item><bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl>: <foreign>pāda</foreign> c <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign></item>
+                                <item><title>Mahābhārata</title>, III, 199, 128, <title>Bṛhaspatisaṁhitā</title>, verse 31, and <title>Saṁvartasaṁhitā</title>, verse 74: <foreign>pāda</foreign> c <foreign>lokās trayas=tena bhavanti dattā</foreign></item><!-- Need to check -->
                                 <item><title>Padma Purāṇa</title>, VI, 33, 32 : <foreign>pāda</foreign> c <foreign>teṣām anantaṁ phalam aśnuvīta</foreign></item><!-- Need to check -->
                             </list>
                             </p>
@@ -450,7 +446,7 @@
  
                 </div>
                 <div type="authorship">
-                    <p>The authorship of this stanza is attributed to the following sources :
+                    <p>
                     <list>
                         <item><title>Dharmaśāstra</title> according to <ref target="DHARMA_INSSomavamsin00003">Gopalpur Plates of Mahābhavagupta Janamejaya, Year 10</ref></item>
                         <item>Saṁvarta according to Ballāla's <title>Ḍānasāgara</title> p.137</item><!-- Need to check -->
@@ -459,7 +455,6 @@
                 </div>
                 <div type="bibliography">
                     <listBibl>
-
                         <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="entry">5</citedRange><citedRange unit="page">177</citedRange></bibl>
                     </listBibl>
                     
@@ -473,37 +468,8 @@
                 attributes it to Saṁvaṛta.</note>
                 </div>
             </div>
-            
-                <lg><l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
-                <l>na tat=phalam=avāpnoti yad=dattvā vasudhāṁ nṛpa ||6<seg rend="superscript"
-                        >3</seg></l></lg>
-            
-            
-                <lg><l>Aho Rāghava rājendra sapta kalpāni jīvinam |</l>
-                <l>na śṛṇomi na paśyāmi svayaṁ-datt-āpahāriṇam ||7<seg rend="superscript"
-                    >4</seg></l></lg>
-            
-            <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
-            
-               <lg> <l>A-karasya kar-ādānaṁ go-koṭi-vadha ucyate |</l>
-                <l>sa-karasya kara-cchedī prāpnoti paramaṁ padam ||8<seg rend="superscript"
-                    >5</seg></l></lg>
-            
-            <l>Akareṣu, etc. See No. 8, note.</l>
-            <l>Ānandanti ca, etc. See No. 20, note.</l>
-            <l>Andhakaḥ, etc. See No. 9, note.</l>
-            <note>1. See, e. g., Ep. Ind., Vol. VIII, p. 142, text lines 33 f. Often abhinandanti is
-                found instead of pratinandanti and sometimes Hutāsana-purogamāḥ (Ep. Ind., Vol. XXX,
-                p. 278, text line 14) in the second foot. Sometimes we have Ādityā Vasavo Rudrā in
-                the first and Nārāyaṇaś=ca bhagavān in the third foot (Ep. Carn., Vol.III, No. Sr.
-                15). The stanza occurs in the Mahābhārata, XIII. 62, 48; Atrisaṁhitā, verse 330
-                (with abhinandati); Bṛhaspatisaṁhitā, 16 (with abhinandati, and Vahni° for Viṣṇu°).
-                Ballāla's Dānasāgara (op. cit„ p. 316) attributes the stanza to the Dāna-Bṛhaspati.
-                A similar stanza is Pitaraḥ pitṛ-lokasthā deva-loke divaukasaḥ | santarpayanti
-                dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note>
-            
-                
-            <div xml:id="Sircar1965_st0006">
+           
+           <div xml:id="Sircar1965_st0006">
                 <div type="text">
                     <lg>
                         <l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
@@ -532,8 +498,9 @@
                 126.</note>
                    </div>
                </div>
+                            
             
-            <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
+           <!-- <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
             
                 <div xml:id="Sircar1965_st0008">
                     <div type="text">
@@ -640,7 +607,7 @@
             </l>
             <l>Asmin=vaṁśe, etc. See No. 90, note. </l>
             <l>Āsphoṭayanti pitaraḥ pravalganti pitāmahāḥ |</l>
-            <l>bhūmido--'smat-kule jātaḥ sa nas=trātā bhaviṣyati ||20<hi rend="superscript">5</hi>
+            <l>bhūmido-\-'smat-kule jātaḥ sa nas=trātā bhaviṣyati ||20<hi rend="superscript">5</hi>
             </l>
             <l>Aṣṭāviṁśati, etc. See No. 15, note. </l>
             <l>Aśvamedha-sahasrāṇi vājapeya-śatāni ca | </l>
@@ -666,7 +633,7 @@
                 Anandasrama Press, p. 370) assign it to Bṛhaspati and the Viṣ<seg rend="italic"
                     >ṇudharmottara </seg>respectively.</note>
             <note>6. Ep. Ind., Vol. XII, p. 324, text lines 26-27. The second half is also given as
-                kṛtvā yat=phalam--āpnoti bhūmi-dānat=tad=aśnute(Ep. Carn., Vol. X, Malur No.
+                kṛtvā yat=phalam-\-āpnoti bhūmi-dānat=tad=aśnute(Ep. Carn., Vol. X, Malur No.
                 57).</note>
             <pb n="180"/>
             <l>ābhiśraiṣṭhyaṁ yaśaḥ svargaṁ bhūmido labhate phalam || 22<hi rend="superscript">1</hi></l>
@@ -1711,7 +1678,7 @@
                 73.</note>
             <note>5. Ind. Ant., Vol. XII, p. 121.</note>
             <note>6. Ep. Ind., Vol. XXII, p. 156, text lines 40-41.</note>
-            <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmṛti, IV, 235.</note>
+            <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmṛti, IV, 235.</note>-->
             
             
         </body>
