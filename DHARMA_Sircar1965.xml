@@ -438,7 +438,7 @@
                     <div type="dharmaśāśtras">
                         <p>This stanza occurs in : </p>
                     </div>
-                    <div type="variation">  
+                 <div type="authorship">  
                         <p>This stanza appears with the following modifications here :
                             <list>
                                 <item><bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl> : <foreign>pāda</foreign> c <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign> </item>
@@ -459,35 +459,26 @@
                 </div>
                 <div type="bibliography">
                     <listBibl>
-
+<<<<<<< HEAD
                         <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="entry">5</citedRange><citedRange unit="page">177</citedRange></bibl>
                     </listBibl>
                     
                 </div>
-                 <div type="notes">
-                     <note>2. CII, Vol. III, pp. 194, 198, 296. Sometimes we have loka-trayaṁ tena bhaved=dhi
-                dattaṁ (Ep. Ind., Vol. XXV, p. 60‚ text lines 51-52). The same stanza occurs in the
-                Mahābhārata, III, 199, 128, Bṛhaspatisaṁhitā, verse 31, and Saṁvartasaṁhitā, verse
-                74, with lokās=trayas=tena bhavanti dattā°, while the Padma Purāṇa, VI, 33, 32, has
-                the quarter as teṣām=anantaṁ phalam=aśnuvīta. Ballāla's Ḍānasāgara (op. cit„ p. 317)
-                attributes it to Saṁvaṛta.</note>
-                </div>
             </div>
-            
-                <lg><l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
+                <l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
                 <l>na tat=phalam=avāpnoti yad=dattvā vasudhāṁ nṛpa ||6<seg rend="superscript"
-                        >3</seg></l></lg>
+                        >3</seg></l>
             
             
-                <lg><l>Aho Rāghava rājendra sapta kalpāni jīvinam |</l>
+                <l>Aho Rāghava rājendra sapta kalpāni jīvinam |</l>
                 <l>na śṛṇomi na paśyāmi svayaṁ-datt-āpahāriṇam ||7<seg rend="superscript"
-                    >4</seg></l></lg>
+                    >4</seg></l>
             
             <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
             
-               <lg> <l>A-karasya kar-ādānaṁ go-koṭi-vadha ucyate |</l>
+                <l>A-karasya kar-ādānaṁ go-koṭi-vadha ucyate |</l>
                 <l>sa-karasya kara-cchedī prāpnoti paramaṁ padam ||8<seg rend="superscript"
-                    >5</seg></l></lg>
+                    >5</seg></l>
             
             <l>Akareṣu, etc. See No. 8, note.</l>
             <l>Ānandanti ca, etc. See No. 20, note.</l>
@@ -501,7 +492,21 @@
                 Ballāla's Dānasāgara (op. cit„ p. 316) attributes the stanza to the Dāna-Bṛhaspati.
                 A similar stanza is Pitaraḥ pitṛ-lokasthā deva-loke divaukasaḥ | santarpayanti
                 dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note>
-            
+            <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
+=======
+                        <bibl/>
+                    </listBibl>
+                    
+                </div>
+                <div type="notes">
+                     <note>2. CII, Vol. III, pp. 194, 198, 296. Sometimes we have loka-trayaṁ tena bhaved=dhi
+                dattaṁ (Ep. Ind., Vol. XXV, p. 60‚ text lines 51-52). The same stanza occurs in the
+                Mahābhārata, III, 199, 128, Bṛhaspatisaṁhitā, verse 31, and Saṁvartasaṁhitā, verse
+                74, with lokās=trayas=tena bhavanti dattā°, while the Padma Purāṇa, VI, 33, 32, has
+                the quarter as teṣām=anantaṁ phalam=aśnuvīta. Ballāla's Ḍānasāgara (op. cit„ p. 317)
+                attributes it to Saṁvaṛta.</note>
+                </div>
+            </div>
                 
             <div xml:id="Sircar1965_st0006">
                 <div type="text">
@@ -512,6 +517,7 @@
                 </div>
                 <div type="notes">
                      <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
+>>>>>>> 30926366e7fc6633afd2ab29be4dc507389debe6
                 bhavati rājendra yo dadāti vasundharām (ibid„ Vol. XXV, p. 278, text lines 12-13).
                 Sometimes we have the stanza as Agniṣṭoma-prabhṛtibhir=iṣṭvā yajñaiḥ sa-dakṣiṇaiḥ|
                 na tat=phalam=avāpnoti bhūmi-dānād=yad=aśnute || (Ind. Ant., Vol. XIV, p. 319, text
