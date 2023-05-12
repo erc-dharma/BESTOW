@@ -432,22 +432,11 @@
                                 <item><bibl><ptr target="bib:Fleet1970_03"/><citedRange unit="line">30-32</citedRange><citedRange unit="page">296</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti + preceded by Api ca rakṣāpālanayas tāvaat phalaṁ sugati durgati ko nāma svargam ucchrijya narakaṁ pratipadyate -->
                             </list></p>
                     </div>
-<<<<<<< HEAD
-                    <div type="purāṇas">
-                        <p>This stanza occurs in : </p>
-                    </div>
-                    <div type="dharmaśāśtras">
-                        <p>This stanza occurs in : </p>
-                    </div>
-                 <div type="authorship">  
-                        <p>This stanza appears with the following modifications here :
-=======
+
                     <div type="purāṇas"/>
                     <div type="dharmaśāśtras"/>
                     <div type="variation">  
-                        <p>
->>>>>>> 6d4ecfbfbebd9121cf05c96060db4002bddc13b9
-                            <list>
+                        <p>                            <list>
                                 <item><bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl>: <foreign>pāda</foreign> c <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign></item>
                                 <item><title>Mahābhārata</title>, III, 199, 128, <title>Bṛhaspatisaṁhitā</title>, verse 31, and <title>Saṁvartasaṁhitā</title>, verse 74: <foreign>pāda</foreign> c <foreign>lokās trayas=tena bhavanti dattā</foreign></item><!-- Need to check -->
                                 <item><title>Padma Purāṇa</title>, VI, 33, 32 : <foreign>pāda</foreign> c <foreign>teṣām anantaṁ phalam aśnuvīta</foreign></item><!-- Need to check -->
@@ -466,46 +455,8 @@
                 </div>
                 <div type="bibliography">
                     <listBibl>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6d4ecfbfbebd9121cf05c96060db4002bddc13b9
+
                         <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="entry">5</citedRange><citedRange unit="page">177</citedRange></bibl>
-                    </listBibl>
-                    
-                </div>
-            </div>
-<<<<<<< HEAD
-                <l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
-                <l>na tat=phalam=avāpnoti yad=dattvā vasudhāṁ nṛpa ||6<seg rend="superscript"
-                        >3</seg></l>
-            
-            
-                <l>Aho Rāghava rājendra sapta kalpāni jīvinam |</l>
-                <l>na śṛṇomi na paśyāmi svayaṁ-datt-āpahāriṇam ||7<seg rend="superscript"
-                    >4</seg></l>
-            
-            <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
-            
-                <l>A-karasya kar-ādānaṁ go-koṭi-vadha ucyate |</l>
-                <l>sa-karasya kara-cchedī prāpnoti paramaṁ padam ||8<seg rend="superscript"
-                    >5</seg></l>
-            
-            <l>Akareṣu, etc. See No. 8, note.</l>
-            <l>Ānandanti ca, etc. See No. 20, note.</l>
-            <l>Andhakaḥ, etc. See No. 9, note.</l>
-            <note>1. See, e. g., Ep. Ind., Vol. VIII, p. 142, text lines 33 f. Often abhinandanti is
-                found instead of pratinandanti and sometimes Hutāsana-purogamāḥ (Ep. Ind., Vol. XXX,
-                p. 278, text line 14) in the second foot. Sometimes we have Ādityā Vasavo Rudrā in
-                the first and Nārāyaṇaś=ca bhagavān in the third foot (Ep. Carn., Vol.III, No. Sr.
-                15). The stanza occurs in the Mahābhārata, XIII. 62, 48; Atrisaṁhitā, verse 330
-                (with abhinandati); Bṛhaspatisaṁhitā, 16 (with abhinandati, and Vahni° for Viṣṇu°).
-                Ballāla's Dānasāgara (op. cit„ p. 316) attributes the stanza to the Dāna-Bṛhaspati.
-                A similar stanza is Pitaraḥ pitṛ-lokasthā deva-loke divaukasaḥ | santarpayanti
-                dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note>
-            <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
-=======
-                        <bibl/>
                     </listBibl>
                     
                 </div>
@@ -520,10 +471,6 @@
             </div>
                 
             <div xml:id="Sircar1965_st0006">
-=======
-           
-           <div xml:id="Sircar1965_st0006">
->>>>>>> 6d4ecfbfbebd9121cf05c96060db4002bddc13b9
                 <div type="text">
                     <lg>
                         <l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
@@ -532,7 +479,6 @@
                 </div>
                 <div type="notes">
                      <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
->>>>>>> 30926366e7fc6633afd2ab29be4dc507389debe6
                 bhavati rājendra yo dadāti vasundharām (ibid„ Vol. XXV, p. 278, text lines 12-13).
                 Sometimes we have the stanza as Agniṣṭoma-prabhṛtibhir=iṣṭvā yajñaiḥ sa-dakṣiṇaiḥ|
                 na tat=phalam=avāpnoti bhūmi-dānād=yad=aśnute || (Ind. Ant., Vol. XIV, p. 319, text
