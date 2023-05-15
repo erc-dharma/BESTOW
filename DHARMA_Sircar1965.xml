@@ -388,8 +388,12 @@
 
             <div xml:id="Sircar1965_st0004">               
                 <div type="text"><!-- Stanza text -->
-                <l>Ādityo Varuṇo Viṣṇur=Brahmā Somo Hutāśanaḥ |</l>
-                <l>Śūlapāṇiś=ca bhagavān=pratinandanti bhūmidam ||4<hi rend="superscript">1</hi></l>
+                <lg met="anuṣṭubh">
+                <l n="a">ādityo varuṇo viṣṇur</l>
+                <l n="b">brahmā somo hutāśanaḥ |</l>
+                <l n="c">śūlapāṇiś ca bhagavān</l>
+                <l n="d">pratinandanti bhūmidam ||</l>
+                </lg>
                 </div>
                 <div type="notes">
                     <note>1. See, e. g., Ep. Ind., Vol. VIII, p. 142, text lines 33 f. Often abhinandanti is
@@ -413,7 +417,15 @@
                     <l n="d">yaḥ kāñcanaṁ gāṁ ca mahīṁ ca dadyāt</l>
                     </lg>
                 </div>
-                <div type="translation">
+                <div type="variation">  
+                        <p>                            <list>
+                                <item><foreign>pāda</foreign> c: <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign> in <bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl></item>
+                                <item><foreign>pāda</foreign> c: <foreign>lokās trayas tena bhavanti dattā</foreign> in <title>Mahābhārata</title>, III, 199, 128, <title>Bṛhaspatisaṁhitā</title>, verse 31, and <title>Saṁvartasaṁhitā</title>, verse 74</item><!-- Need to check -->
+                                <item><foreign>pāda</foreign> c <foreign>teṣām anantaṁ phalam aśnuvīta</foreign> in <title>Padma Purāṇa</title>, VI, 33, 32</item><!-- Need to check -->
+                            </list>
+                            </p>
+                    </div>
+                <div type="translation" resp="part:amwb">
                     <div type="textpart" xml:lang="eng">
                         <p rend="stanza">
                  Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
@@ -432,19 +444,10 @@
                                 <item><bibl><ptr target="bib:Fleet1970_03"/><citedRange unit="line">30-32</citedRange><citedRange unit="page">296</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti + preceded by Api ca rakṣāpālanayas tāvaat phalaṁ sugati durgati ko nāma svargam ucchrijya narakaṁ pratipadyate -->
                             </list></p>
                     </div>
-
                     <div type="purāṇas"/>
-                    <div type="dharmaśāśtras"/>
-                    <div type="variation">  
-                        <p>                            <list>
-                                <item><bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl>: <foreign>pāda</foreign> c <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign></item>
-                                <item><title>Mahābhārata</title>, III, 199, 128, <title>Bṛhaspatisaṁhitā</title>, verse 31, and <title>Saṁvartasaṁhitā</title>, verse 74: <foreign>pāda</foreign> c <foreign>lokās trayas=tena bhavanti dattā</foreign></item><!-- Need to check -->
-                                <item><title>Padma Purāṇa</title>, VI, 33, 32 : <foreign>pāda</foreign> c <foreign>teṣām anantaṁ phalam aśnuvīta</foreign></item><!-- Need to check -->
-                            </list>
-                            </p>
                     </div>
- 
-                </div>
+                    <div type="dharmaśāśtras"/>
+                    </div>
                 <div type="authorship">
                     <p>
                     <list>
@@ -467,14 +470,14 @@
                 74, with lokās=trayas=tena bhavanti dattā°, while the Padma Purāṇa, VI, 33, 32, has
                 the quarter as teṣām=anantaṁ phalam=aśnuvīta. Ballāla's Ḍānasāgara (op. cit„ p. 317)
                 attributes it to Saṁvaṛta.</note>
-                </div>
-            </div>
-                
+                </div>             
             <div xml:id="Sircar1965_st0006">
                 <div type="text">
-                    <lg>
-                        <l>Agniṣṭom-ādibhir=yajñair=iṣṭvā vipula-dakṣiṇaiḥ |</l>
-                <l>na tat=phalam=avāpnoti yad=dattvā vasudhāṁ nṛpa ||6<hi rend="superscript">3</hi></l>
+                    <lg met="anuṣṭubh">
+                        <l n="a">agniṣṭomādibhir yajñair</l>
+                        <l n="b">iṣṭvā vipula-dakṣiṇaiḥ |</l>
+                        <l n="c">na tat phalam avāpnoti</l>
+                        <l n="d">yad dattvā vasudhāṁ nṛpa ||</l>
                     </lg>
                 </div>
                 <div type="notes">
@@ -490,8 +493,11 @@
             
                <div xml:id="Sircar1965_st0007">
                    <div type="text">
-                       <lg><l>Aho Rāghava rājendra sapta kalpāni jīvinam |</l>
-                <l>na śṛṇomi na paśyāmi svayaṁ-datt-āpahāriṇam ||7<hi rend="superscript">4</hi></l>
+                       <lg met="anuṣṭubh">
+                           <l n="a">Aho Rāghava rājendra</l>
+                           <l n="b">sapta kalpāni jīvinam |</l>
+                           <l n="c">na śṛṇomi na paśyāmi</l>
+                           <l n="d">svayaṁ-datt-āpahāriṇam ||</l>
                        </lg>
                    </div>
                    <div type="notes">
