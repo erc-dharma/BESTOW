@@ -417,7 +417,6 @@
                     <l n="d">yaḥ kāñcanaṁ gāṁ ca mahīṁ ca dadyāt</l>
                     </lg>
                 </div>
-<<<<<<< HEAD
                 <div type="variation">  
                         <p>                            <list>
                                 <item><foreign>pāda</foreign> c: <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign> in <bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl></item>
@@ -426,12 +425,8 @@
                             </list>
                             </p>
                     </div>
-                <div type="translation" resp="part:amwb">
-                    <div type="textpart" xml:lang="eng">
-=======
-                <div type="translation" xml:lang="eng">
+                <div type="translation" xml:lang="eng" resp="part:amwb">
                
->>>>>>> e1214f801175ba0227dc01d8e39ae24008e035aa
                         <p rend="stanza">
                  Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
                 </p>
