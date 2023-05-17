@@ -31,9 +31,13 @@
   <!-- git clone then pull -->
   <git-clone-pull repository="https://github.com/erc-dharma/project-documentation.git" dest="project-documentation" />
 
-    <!-- Step 1 — splitting files -->
+    <!-- Step 1 — Sircar transformation  -->
     <xslt force="true" in="DHARMA_Sircar1965.xml" out="output-bestow/display-bestow.html" style="./project-documentation/stylesheets/bestow/bestow-display.xsl" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
 
+<!-- Step 2 — Auhtorities list  transformation  -->
+    <xslt force="true" in="DHARMA_BestAuthorities.xml" out="output-bestow/authorities-bestow.html" style="./project-documentation/stylesheets/bestow/bestAuthorities-display.xsl" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+    </xslt>
 </project>
