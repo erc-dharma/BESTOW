@@ -47,10 +47,21 @@
             <list>
                 <item xml:id="auth001">
                     <!-- depending on the nature of the authority, use persName, title or other. We can rediscussed if necessary -->
+                    <persName>Vyāsa</persName><!-- Formes déjà rencontrées :
+                    bhagavatā vyāsena
+                    bhagavatā veda-vyāsa-mahātmanā
+                    bhagavatā dvaipāyanena
+                    vyāsagītau
+                    vyāsagītaślokā
+                    bhagavatā parāśarātmajena veda-vyāsena
+                    -->
                 </item>
                 <item xml:id="auth002"/>
+                    <title>Mahābhārata</title>
                 <item xml:id="auth003"/>
+                    <title>Dharmaśāstra</title>
                 <item xml:id="auth004"/>
+                    <persName>Manu</persName>
                 <item xml:id="auth005"/>
                 <item xml:id="auth006"/>
                 <item xml:id="auth007"/>
