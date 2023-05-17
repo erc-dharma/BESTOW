@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Bestow Identifiers for authorities</title>
+                <editor ref="part:amwb"></editor>
+               
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA Project (ERC 809994): The Domestication of “Hindu” Asceticism and
+                    the Religious Making of South and Southeast Asia (2019–2025).</authority>
+                <date>2019-2025</date>
+                <idno type="filename">DHARMA_BestAuthorities</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 2.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <!-- Adding a relevant copyright and the way to quote the file.  -->
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Natively Digital</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>List of all the authorities of the BESTOW project associated with their internal
+                    identifiers.</p>
+            </abstract>
+        </profileDesc>
+        <revisionDesc status="draft">
+            <change who="part:axja" when="2023-05-17">Creating the structure for Amandine</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="auth001">
+                    <!-- depending on the nature of the authority, use persName, title or other. We can rediscussed if necessary -->
+                </item>
+                <item xml:id="auth002"/>
+                <item xml:id="auth003"/>
+                <item xml:id="auth004"/>
+                <item xml:id="auth005"/>
+                <item xml:id="auth006"/>
+                <item xml:id="auth007"/>
+                <item xml:id="auth008"/>
+                <item xml:id="auth009"/>
+                <item xml:id="auth010"/>
+            </list>
+        </body>
+    </text>
+</TEI>
