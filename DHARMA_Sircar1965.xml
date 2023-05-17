@@ -12,23 +12,7 @@
                         <forename>Amandine</forename>
                         <surname>Wattelier-Bricout</surname>
                     </persName>
-                </editor>
-               <!-- <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <!-\- Work done in the file, e.g. editor ...-\->
-                    <persName ref="part:jodo"><!-\- Update the id -\->
-                        <forename>John</forename><!-\- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -\->
-                        <surname>Doe</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <!-\- This may be the same as the creator of the file -\->
-                    <persName ref="part:jodo"><!-\- Update the id -\->
-                        <forename>John</forename><!-\- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -\->
-                        <surname>Doe</surname>
-                    </persName>
-                </respStmt>-->
+                </editor>              
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -425,7 +409,7 @@
                             </list>
                             </p>
                     </div>
-                <div type="translation" xml:lang="eng" resp="part:amwb">
+                <div type="translation" resp="part:amwb">
                
                         <p rend="stanza">
                  Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
@@ -468,7 +452,8 @@
                 74, with lokās=trayas=tena bhavanti dattā°, while the Padma Purāṇa, VI, 33, 32, has
                 the quarter as teṣām=anantaṁ phalam=aśnuvīta. Ballāla's Ḍānasāgara (op. cit„ p. 317)
                 attributes it to Saṁvaṛta.</note>
-                </div>             
+                </div>     
+            </div>
             <div xml:id="Sircar1965_st0006">
                 <div type="text">
                     <lg met="anuṣṭubh">
