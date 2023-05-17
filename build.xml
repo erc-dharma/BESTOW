@@ -37,7 +37,7 @@
     </xslt>
 
 <!-- Step 2 — Auhtorities list  transformation  -->
-    <xslt force="true" in="DHARMA_BestAuhtorities.xml" out="output-bestow/authorities-bestow.html" style="./project-documentation/stylesheets/bestow/bestAuthorities-display.xsl" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+    <xslt force="true" in="DHARMA_BestAuthorities.xml" out="output-bestow/authorities-bestow.html" style="./project-documentation/stylesheets/bestow/bestAuthorities-display.xsl" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
 </project>
