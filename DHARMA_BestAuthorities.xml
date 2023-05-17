@@ -4,8 +4,12 @@
         <fileDesc>
             <titleStmt>
                 <title>Bestow Identifiers for authorities</title>
-                <editor ref="part:amwb"></editor>
-               
+                <editor ref="part:amwb">
+                    <persName>
+                        <forename>Amandine</forename>
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </editor>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA Project (ERC 809994): The Domestication of “Hindu” Asceticism and
