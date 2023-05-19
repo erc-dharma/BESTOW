@@ -47,7 +47,7 @@
             <list>
                 <item xml:id="auth001">
                     <!-- depending on the nature of the authority, use persName, title or other. We can rediscussed if necessary -->
-                    <persName>Vyāsa</persName><!-- Formes déjà rencontrées :
+                    <persName>Vyāsa</persName><!-- Designations already encountered :
                     bhagavatā vyāsena
                     bhagavatā veda-vyāsa-mahātmanā
                     bhagavatā dvaipāyanena
@@ -62,7 +62,14 @@
                     <title>Dharmaśāstra</title>
                 <item xml:id="auth004"/>
                     <persName>Manu</persName>
+                <!-- I have already found Manu and Vyāsa. In this case, I can tag each of them by their own id but when I encounter Manu and others manvādayaḥ, can I tag Manu with his ID and others (ādayaḥ) by the ID for sages? -->
                 <item xml:id="auth005"/>
+                   <rs type="undefined">Sages</rs>
+                <!-- That is to say 
+                maharṣṣibhiḥ
+                Ārṣāḥ ślokā 
+                manvādayaḥ
+                -->
                 <item xml:id="auth006"/>
                 <item xml:id="auth007"/>
                 <item xml:id="auth008"/>
