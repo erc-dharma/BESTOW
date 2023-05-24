@@ -52,7 +52,8 @@
             
                 <item xml:id="auth001">
                     <!-- depending on the nature of the authority, use persName, title or other. We can rediscussed if necessary -->
-                    <persName>Vyāsa</persName><!-- Designations already encountered :
+                    <persName>Vyāsa</persName>
+                    <!--<note></note>--><!-- Designations already encountered :
                     bhagavatā vyāsena
                     bhagavatā veda-vyāsa-mahātmanā
                     bhagavatā dvaipāyanena
@@ -63,29 +64,31 @@
                 </item>
                 <item xml:id="auth002">
                     <title>Mahābhārata</title>
+                    <!--<note></note>-->
                 </item>
                 <item xml:id="auth003">
                     <title>Dharmaśāstra</title>
+                    <!--<note></note>-->
                 </item>
                 <item xml:id="auth004">
                     <persName>Manu</persName>
-<<<<<<< HEAD
+                    <!--<note></note>-->
                 <!-- I have already found Manu and Vyāsa. In this case, I can tag each of them by their own id but when I encounter Manu and others manvādayaḥ, can I tag Manu with his ID and others (ādayaḥ) by the ID for sages? -->
-=======
                 </item>
->>>>>>> 84202092100402a7dec1a9a6f2e75852b6e1be09
-                <item xml:id="auth005"/>
+                <item xml:id="auth005">
                    <rs type="undefined">Sages</rs>
+                    <!--<note></note>-->
                 <!-- That is to say 
                 maharṣṣibhiḥ
                 Ārṣāḥ ślokā 
                 manvādayaḥ
                 -->
-                <item xml:id="auth006"/>
-                <item xml:id="auth007"/>
-                <item xml:id="auth008"/>
-                <item xml:id="auth009"/>
-                <item xml:id="auth010"/>
+                </item>
+                <item xml:id="auth006"></item>
+                <item xml:id="auth007"></item>
+                <item xml:id="auth008"></item>
+                <item xml:id="auth009"></item>
+                <item xml:id="auth010"></item>
             </list>
         </body>
     </text>
