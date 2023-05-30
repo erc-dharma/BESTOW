@@ -53,18 +53,27 @@
                 <item xml:id="auth001">
                     <!-- depending on the nature of the authority, use persName, title or other. We can rediscussed if necessary -->
                     <persName>Vyāsa</persName>
-                    <!--<note></note>--><!-- Designations already encountered :
-                    bhagavatā vyāsena
-                    bhagavatā veda-vyāsa-mahātmanā
-                    bhagavatā dvaipāyanena
-                    vyāsagītau
-                    vyāsagītaślokā
-                    bhagavatā parāśarātmajena veda-vyāsena
+                    <note>Designations already encountered :
+                        
+                    <list>
+                        <item><foreign>bhagavatā vyāsena</foreign></item>
+                    <item><foreign>bhagavatā veda-vyāsa-mahātmanā</foreign></item>
+                    <item><foreign>bhagavatā dvaipāyanena</foreign></item>
+                    <item><foreign>bhagavatā parāśarātmajena veda-vyāsena</foreign></item>
+                    </list>
+                    </note><!-- 
                     -->
                 </item>
                 <item xml:id="auth002">
                     <title>Mahābhārata</title>
-                    <!--<note></note>-->
+                    <note>
+                        Designations already encountered :
+                        <list>
+                            <item><foreign>vyāsagītau</foreign></item>
+                            <item><foreign>vyāsagītaślokā</foreign></item>
+                            <item><foreign>mahābhārate</foreign></item>
+                        </list>
+                    </note>
                 </item>
                 <item xml:id="auth003">
                     <title>Dharmaśāstra</title>
@@ -72,23 +81,24 @@
                 </item>
                 <item xml:id="auth004">
                     <persName>Manu</persName>
-                    <!--<note></note>-->
+                    <note>
+                        Manu can be found associated with Vyāsa (In this case, please tag each of them). He also can be found as the first of eminent sages like in <foreign>manvādayaḥ</foreign> (In this case, please tag Manu 
+                    </note>
                 <!-- I have already found Manu and Vyāsa. In this case, I can tag each of them by their own id but when I encounter Manu and others manvādayaḥ, can I tag Manu with his ID and others (ādayaḥ) by the ID for sages? -->
                 </item>
                 <item xml:id="auth005">
-                   <rs type="undefined">Sages</rs>
-                    <!--<note></note>-->
-                <!-- That is to say 
-                maharṣṣibhiḥ
-                Ārṣāḥ ślokā 
-                manvādayaḥ
-                -->
+                    <!--<note></note>-->                   
                 </item>
                 <item xml:id="auth006"></item>
                 <item xml:id="auth007"></item>
                 <item xml:id="auth008"></item>
                 <item xml:id="auth009"></item>
                 <item xml:id="auth010"></item>
+                <!-- <rs type="undefined"></rs> That is to say 
+                maharṣṣibhiḥ
+                Ārṣāḥ ślokā 
+                manvādayaḥ
+                -->
             </list>
         </body>
     </text>
