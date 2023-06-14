@@ -390,10 +390,10 @@
             <div xml:id="Sircar1965_st0004">               
                 <div type="text"><!-- Stanza text -->
                 <lg met="anuṣṭubh">
-                <l n="a">ādityo varuṇo viṣṇur</l>
-                <l n="b">brahmā somo hutāśanaḥ |</l>
+                <l n="a">Ādityo varuṇo viṣṇur</l>
+                <l n="b">brahmā somo hutāśanaḥ</l>
                 <l n="c">śūlapāṇiś ca bhagavān</l>
-                <l n="d">pratinandanti bhūmidam ||</l>
+                <l n="d">pratinandanti bhūmidam</l>
                 </lg>
                 </div>
                 <div type="variation">
@@ -416,7 +416,7 @@
                 <div type="text"><!-- Stanza text -->
                     <lg met="indravajrā">
                     <l n="a">agner apatyaṁ prathamaṁ suvarṇaṁ</l>
-                    <l n="b">bhūr vaiṣṇavī sūrya-sutāś ca gāvaḥ |</l>
+                    <l n="b">bhūr vaiṣṇavī sūrya-sutāś ca gāvaḥ</l>
                     <l n="c">dattās trayas tena bhavanti lokā</l>
                     <l n="d">yaḥ kāñcanaṁ gāṁ ca mahīṁ ca dadyāt</l>
                     </lg>
@@ -595,9 +595,9 @@
              <div xml:id="Sircar1965_st0013">
                  <div type="text">
                      <lg met="anuṣṭubh">
-                         <l n="a">anyāyena hṛtā bhūmir</l>
+                         <l n="a">Anyāyena hṛtā bhūmir</l>
                          <l n="b">hāritā vānumoditā</l>
-                         <l n="c">atītāgāmi-pāpānāṁ</l>
+                         <l n="c">Atītāgāmi-pāpānāṁ</l>
                          <l n="d">dahaty ā-saptamaṁ kulam</l>
                      </lg>
                  </div>
@@ -706,7 +706,7 @@
               <div xml:id="Sircar1965_st0020">
                    <div type="text">
                        <lg met="anuṣṭubh">
-            <l n="a">āsphoṭayanti pitaraḥ</l>
+            <l n="a">Āsphoṭayanti pitaraḥ</l>
             <l n="b">pravalganti pitāmahāḥ</l>
             <l n="c">bhūmido 'smat-kule jātaḥ</l>
             <l n="d">sa nas trātā bhaviṣyati</l>
@@ -1455,10 +1455,11 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
             <div xml:id="Sircar1965_st0064">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                        <l>Harate hārayed yas tu</l>
-                        <l>manda-buddhis tamo-vṛtaḥ</l>
-                        <l>sa baddho vāruṇaiḥ pāśais</l>
-                        <l>tiryag-yoniṁ ca gacchati</l></lg>
+                        <l n="a">harate hārayed yas tu</l>
+                        <l n="b">manda-buddhis tamo-vṛtaḥ</l>
+                        <l n="c">sa baddho vāruṇaiḥ pāśais</l>
+                        <l n="d">tiryag-yoniṁ ca gacchati</l>
+                    </lg>
                 </div>
                 <div type="variation">
                      <l>Hareta, etc. See No. 64, note.</l>
@@ -2695,9 +2696,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">taḍāgānāṁ sahasreṇa</l>
-                        <l n="b">vājapeya-śatena ca |</l>
+                        <l n="b">vājapeya-śatena ca</l>
                         <l n="c">gavāṁ koṭi-pradānena</l>
-                        <l n="d">bhūmi-hartā na śudhyati ||</l></lg>
+                        <l n="d">bhūmi-hartā na śudhyati</l></lg>
                 </div>
                 <div type="variation">
                     <l>Saṣṭiṁ varṣa°, etc. See No. 137, note. </l>
@@ -2951,7 +2952,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="a">yaḥ svayaṁ kurute dharmaṁ</l>
                         <l n="b">yaś ca pāti kṛtaṁ paraiḥ</l>
                         <l n="c">tayoḥ pālayitā śreṣṭha</l>
-                        <l n="d">iti prāhur manīṣiṇaḥ</l>
+                        <l n="d">Iti prāhur manīṣiṇaḥ</l>
                     </lg>
                 </div>
                 <div type="notes">
