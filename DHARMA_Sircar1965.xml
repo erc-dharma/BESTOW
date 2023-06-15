@@ -347,8 +347,8 @@
             <div xml:id="Sircar1965_st001">
                 <div type="text">
                 <lg met="anuṣṭubh">
-                <l n="a">adbhir dattaṁ tribhir bhuktaṁ</l>
-                <l n="b">sadbhiś=ca paripā-litam</l>
+                <l n="a">Adbhir dattaṁ tribhir bhuktaṁ</l>
+                <l n="b">sadbhiś ca paripā-litam</l>
                 <l n="c">etāni na nivartante</l>
                 <l n="d">pūrva-rāja-kṛtāni ca</l>
             </lg>
@@ -360,7 +360,7 @@
             <div xml:id="Sircar1965_st002">
                 <div type="text">
                     <lg met="upajāti">
-                        <l n="a">āditya-candrāvanilo 'nalaś ca</l>
+                        <l n="a">Āditya-candrāvanilo 'nalaś ca</l>
                         <l n="b">dyaur bhūmir āpo hṛdayaṁ manaś ca</l>
                         <l n="c">ahaś ca rātriś ca ubhe ca sandhye</l>
                         <l n="d">dharmasya jānanti narasya vṛttam</l>
@@ -374,7 +374,7 @@
                 <div xml:id="Sircar1965_st003">
                     <div type="text">
                         <lg met="anuṣṭubh">
-                            <l n="a">ādityā iva dīpyante</l>
+                            <l n="a">Ādityā iva dīpyante</l>
                             <l n="b">tejasā divi mānavāḥ</l>
                             <l n="c">ye prayacchanti vasudhāṁ</l>
                             <l n="d">brāhmaṇāyāhit–āgnaye 3<hi rend="superscript">5</hi></l>
@@ -415,7 +415,7 @@
             <div xml:id="Sircar1965_st0005">               
                 <div type="text"><!-- Stanza text -->
                     <lg met="indravajrā">
-                    <l n="a">agner apatyaṁ prathamaṁ suvarṇaṁ</l>
+                    <l n="a">Agner apatyaṁ prathamaṁ suvarṇaṁ</l>
                     <l n="b">bhūr vaiṣṇavī sūrya-sutāś ca gāvaḥ</l>
                     <l n="c">dattās trayas tena bhavanti lokā</l>
                     <l n="d">yaḥ kāñcanaṁ gāṁ ca mahīṁ ca dadyāt</l>
@@ -477,7 +477,7 @@
             <div xml:id="Sircar1965_st0006">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                        <l n="a">agniṣṭomādibhir yajñair</l>
+                        <l n="a">Agniṣṭomādibhir yajñair</l>
                         <l n="b">iṣṭvā vipula-dakṣiṇaiḥ</l>
                         <l n="c">na tat phalam avāpnoti</l>
                         <l n="d">yad dattvā vasudhāṁ nṛpa</l>
@@ -497,7 +497,7 @@
                <div xml:id="Sircar1965_st0007">
                    <div type="text">
                        <lg met="anuṣṭubh">
-                           <l n="a">aho rāghava rājendra</l>
+                           <l n="a">Aho rāghava rājendra</l>
                            <l n="b">sapta kalpāni jīvinam</l>
                            <l n="c">na śṛṇomi na paśyāmi</l>
                            <l n="d">svayaṁ-dattāpahāriṇam</l>
@@ -517,10 +517,10 @@
                             <l n="d">prāpnoti paramaṁ padam</l>
                         </lg>
                     </div>
-                    <!-- <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
-            <l>Akareṣu, etc. See No. 8, note.</l>
-            <l>Ānandanti ca, etc. See No. 20, note.</l>
-            <l>Andhakaḥ, etc. See No. 9, note.</l>-->
+                    <div type="variation">
+                        <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
+                        <l>Akareṣu, etc. See No. 8, note.</l>
+                    </div>
                     <div type="notes">
                         <note>5. Ep. Carn., Vol. V, Belur No. 74. Sometimes we have : Akara-kara-kāras=tu
                 go-sahasra-vadhaḥ smṛtaḥ |nivṛtta-kara-kāras=tu go-koṭi-phalam=aśnute (ibid., Vol.
@@ -528,21 +528,19 @@
                 Vol. XII, Ck. No. 42 has : Akareṣu karaṁ kṛtvā bhīṣayitvā ca
                     go-vrajam | sva-vaṁśaḥ kāla-sūtre ca kramaśo bhuvi pātyate ||</note>
                     </div>
-                </div>
-            
-            
+                </div>      
                 <div xml:id="Sircar1965_st0009">
                     <div type="text">
                         <lg met="anuṣṭubh">
-                            <l n="a">andho dvādaśa janmāni</l> 
+                            <l n="a">Andho dvādaśa janmāni</l> 
                             <l n="b">daśa janmāni śūkaraḥ</l>
                             <l n="c">kuṣṭhī janma-sahasrāṇi</l> 
-                            <l n="d">bhūmi-dān-āpahārakaḥ</l>
+                            <l n="d">bhūmi-dānāpahārakaḥ</l>
                         </lg>
                     </div>
-                    <!--  
-                        <l>Aṅgam=ekam, etc. See No. 132, note. </l>
-            <l>Anityāni śarīrāṇi, etc. See No. 12, note. </l> -->
+                    <div type="variation">
+                        <l>Andhakaḥ, etc. See No. 9, note.</l>
+                    </div>
                     <div type="notes">
                         <note>1. Chhabra, Antiquities of Chamba State, II, p. 177. Sometimes we have Andhakaḥ
                 sapta janmāni in the first foot and svayaṁ datt-āpahārakāḥ in the last.</note>
@@ -557,7 +555,6 @@
                             <l n="d">na lopyāḥ para-kīrtayaḥ</l>
                         </lg>
                     </div>
-                    <!-- <l>Anudakeṣv=araṇyeṣu, etc. See No. 150, note. </l> -->
                     <div type="notes">
                         <note>2. Ep. Ind., Vol. XIX, p. 45, text lines 31-32. See No. 71 below.</note>
                     </div>
@@ -571,7 +568,6 @@
                        <l n="d">yo dānaṁ parisaṁvaret</l>
                    </lg>
                </div>
-               <!-- <l>Anyaiś=ca charditaṁ, etc. See No. 14, note. </l> -->
                <div type="notes">
                    <note>3. Ep. Carn., Vol. XIV, IIg. No. 143.</note>
                </div>
@@ -579,12 +575,15 @@
                 <div xml:id="Sircar1965_st0012">
                     <div type="text">
                         <lg met="anuṣṭubh">
-                            <l n="a">anya-kṣetre kṛtaṁ pāpaṁ</l>
+                            <l n="a">Anya-kṣetre kṛtaṁ pāpaṁ</l>
                             <l n="b">puṇya-kṣetre vinaśyati</l>
                             <l n="c">puṇya-kṣetre kṛtaṁ pāpaṁ</l>
                             <l n="d">vajralepena tiṣṭhati</l>
                         </lg>
                     </div>
+                    <div type="variation">
+                        <l>Anityāni śarīrāṇi, etc. See No. 12, note. </l>
+                     </div>
                     <div type="notes">
                          <note>4. Ep. Carn., Vol. VII, Sk. No. 63. For vajra-lepaṁ bhaviṣyati in the last foot,
                 see ibid., Vol. XII, Tp. No. 28. This stanza is not specially related to dāna as
@@ -618,7 +617,9 @@
                             <l n="d">sva-dattasyāpahārakaḥ</l>
                         </lg>
                     </div>
-                    <!-- <l>A-pānīyeṣv=araṇyeṣu, etc. See No. 150, note. </l> -->
+                    <div type="variation">
+                        <l>Anyaiś ca charditaṁ, etc. See No. 14, note. </l>
+                    </div>
                     <div type="notes">
                           <note>6. Ep. Carn., vol. III, ML. No. 121. Sometimes we have : Anyais=tu charditaṁ
                 kṣudraiḥ śvabhiś=ca charditaṁ na tu| tataḥ kaṣṭas=tato nīcaḥ svayaṁdatt-āpahārakaḥ
@@ -635,8 +636,8 @@
                         </lg>
                     </div>
                     <div type="variation">
-                         <l>Śiva-putro, etc. See No. 15, note. </l>
-                         <l>Suvarṇam=ekaṁ, etc. See No. 55, note. </l>
+                         <l>Śiva-putro, etc. See No. 15, note. </l>                
+                        <l>Aṣṭāviṁśati, etc. See No. 15, note. </l>
                     </div>
                     <div type="notes">
                          <note>7. Ep. Carn., Vol XIII, p. 22. Cf. Śāstreṣu pāpīnāṁ dṛṣṭaṁ prāyaścittaṁ dvijottama | na dṛṭṣaṁ bhūmi-hartṛṇām prāyaścittaṁ *dvija
@@ -656,7 +657,6 @@
                             <l n="d">svarga-loke mahīyate</l>
                         </lg>
                     </div>
-                    <!--  <l>Ārāmāṇāṁ sahasreṇa, etc. See No. 137, note. </l> -->
                     <div type="notes">
                          <note>1. Ind. Ant., Vol.XIV, p. 73.</note>
                     </div>
@@ -670,7 +670,6 @@
                             <l n="d">kalpa-koṭiṣu modate</l>
                         </lg>
                     </div>
-                    <!--  <l>A-saṅkheyāni varṣāṇi, etc. See No. 123, note. </l> -->
                     <div type="notes">
                         <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note>
                     </div>
@@ -697,7 +696,6 @@
                         <l n="d">dānaṁ phalaṁ para-yaśaḥ-paripālanañ ca</l>
                     </lg>
                 </div>
-                <!--  <l>Asmin=vaṁśe, etc. See No. 90, note. </l> -->
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXVIII, p. 277, text lines 22-25; cf. Vol. XXXVI, p. 46.</note>
                 </div>
@@ -713,8 +711,9 @@
                            </lg>
                    </div>
                     <div type="variation">
-                        <l>Nandanti tasya pitaraḥ, etc. See No. 20, note. </l></div>
-                  <!-- <l>Aṣṭāviṁśati, etc. See No. 15, note. </l> -->
+                        <l>nandanti tasya pitaraḥ, etc. See No. 20, note. </l>
+                        <l>Ānandanti ca, etc. See No. 20, note.</l>
+                    </div>                       
                   <div type="notes">
                         <note>5. CII, Vol. III. p. 119. Sometimes we have nandanti tasya pitaraḥ or nṛtyanti
                 pitaras=tasya (Ep. Ind.,Vol. XXIX, p. 194, text line 35; Vol. XXV, p. 218, verse 38)
@@ -738,8 +737,6 @@
                           <l n="d">bhūmi-dānārdhikaṁ phalam</l>
                       </lg>
                   </div>
-                  <!-- <l>Aśvamedha-sahasreṇa, etc See No. 137, note. </l>
-            <l>Aviṣaṁ viṣam=ity=āhu, etc. See No. 98, note. </l> -->
                   <div type="notes">
                        <note>6. Ep. Ind., Vol. XII, p. 324, text lines 26-27. The second half is also given as
                 kṛtvā yat=phalam-\-āpnoti bhūmi-dānat=tad=aśnute(Ep. Carn., Vol. X, Malur No.
@@ -802,9 +799,7 @@
                 tad=stāṁ yo yadā bhuṅkte sa tadā phalam=aśnute l| (Ep. Ind., Vol.XXXVI, pp. 18,
                 46).</note>
                    </div>
-               </div>
-           
-            
+               </div>      
             <div xml:id="Sircar1965_st0024">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -818,8 +813,6 @@
                      <note>3. Ep. Ind., Vol. XXVIII, p. 216, text lines 25–26.</note>
                 </div>
             </div>
-          
-            <!--  <l>Bho rājānaḥ, etc. See No. 117, note. </l> = variant of 117, mentioned here because of the alphabetical ordre -->
             <div xml:id="Sircar1965_st0025">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -938,9 +931,7 @@
                 <div type="notes">
                     <note>3. CII, Vol. III, p. 115. text lines 22-23.</note>
                 </div>
-            </div>
-            <!-- <l>Bhūṣv=aṭavīṣv=atoyāsu, etc. See No. 150, note. </l> a variant for 150-->
-            <!-- <l>Brāhmaṇebhyaḥ, etc. See No. 55, note. </l> a variant for 50 -->    
+            </div>   
            <div xml:id="Sircar1965_st0032">
                <div type="text">
                    <lg met="anuṣṭubh">
@@ -959,8 +950,8 @@
                 For variations, see Ep. Carn. Vol. X‚ Mulbagal No. 157.</note>
                </div>
            </div>
-           <!-- <l>Brahma-svaṁ putra-pautraghnaṁ, etc. See No. 98, note. </l>
-            <l>Brahma-svaṁ tu viṣam, etc. See No. 98, note. </l>-->
+           <!-- 
+           -->
            <div xml:id="Sircar1965_st0033">
                <div type="text">
                 <lg met="anuṣṭubh"> 
@@ -1140,7 +1131,6 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 foot and audāryato vipra-niveditāni in the third.</note>
                </div>
            </div>
-            <!-- <l>Dattvā bhūmiṁ, etc. See No. 117, note. </l> variation 117 -->
             <div xml:id="Sircar1965_st0044">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1201,7 +1191,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 pranaṣḷaṁ (R. S. Panchamukhi, Karnatak Inscriptions, Vol. II, p. 102),</note>
                 </div>
             </div>           
-            <!-- <l>Deva-svaṁ tu viṣaṁ ghoram, etc. See No. 98, note.</l> -->
+            <!--  -->
             <!-- <pb n="184"/> -->
             <div xml:id="Sircar1965_st0047">
                 <div type="text">
@@ -1244,6 +1234,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                </div>
                <div type="variation">
                    <l>Tasmād=dharmaḥ, etc. See No. 50.</l>
+                   <l>Brāhmaṇebhyaḥ, etc. See No. 55, note. </l> 
                </div>
                <div type="notes">
                    <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note>
@@ -1262,7 +1253,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <note>3. Ep. Ind., Vol. VI, p. 344, verses 45-46.</note>
                 </div>
             </div>
-            <!-- <l>Dhavalāny=ātapatrāṇi, etc. See No. 119, note.</l> -->
+            <!--  -->
             <div xml:id="Sircar1965_st0052">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1276,7 +1267,6 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                      <note>5. Ep. Ind., Vol. XIX, p. 213, text lines 34-35.</note>
                 </div>
             </div>
-            <!-- <l>Ek–āhany=api, etc. See No. 82, note.</l> -->
             <div xml:id="Sircar1965_st0053">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1322,6 +1312,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <l>gām ekāṁ svarṇa-raktmi, etc. See No. 55, note. </l>
                     <l>hiraṇyam ekam, etc. See No. 55, note. </l>
                      <l>Kanyām=ekām, etc. See No. 55, note.</l>
+                    <l>Suvarṇam=ekaṁ, etc. See No. 55, note. </l>
                 </div>
                         <div type="notes">
                             <note>8. Ep. Ind., Vol. XXXI, p. 128, verse in. Ep. Carn.,Vol. VI. Kp. No. 53 has
@@ -1432,7 +1423,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <note> 6. Chhabra, Antiquities of Chamba State, II, p. 179.</note>
                 </div>
             </div>
-            <!-- <l>hanti jātān=ajatāṁś=ca, etc. See No. 81.</l> -->
+            <!--  -->
             <div xml:id="Sircar1965_st0063">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1563,7 +1554,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
             <div xml:id="Sircar1965_st0071">
                 <div type="text">
                 <lg met="puṣpitāgrā">
-                    <l n="a">Iti kamala-dalāmbu-bindu-lolāṁ </l>
+                    <l n="a">Iti kamala-dalāmbu-bindu-lolāṁ</l>
                     <l n="b">śriyam anucintya manuṣya-jīvitaṁ ca</l>
                     <l n="c">sakalam idam udāhṛtaṁ ca buddhvā </l>
                     <l n="d">na hi puruṣaiḥ para-kīrtayo vilopyāḥ</l>
@@ -1585,7 +1576,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
             </div>                     
             <!--
             <pb n="187"/>
-            <l>Iṣṭaṁ dattaṁ, etc. See No. 126, note. </l>-->       
+           -->       
             <div xml:id="Sircar1965_st0072">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1723,6 +1714,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                      <l>Pañca paśv-anṛte hanti, etc. See Nos. 80-81, note. </l>
                     <l>Śāstreṣu, etc. See No. 15, note. </l>
             <l>Śatam=aśv-ānṛte hanti, etc. Sec Nos. 80-81, note. </l>
+                    <l>hanti jātān=ajatāṁś=ca, etc. See No. 81.</l>
                 </div>
                 <div type="notes">
                       <note>1. Mys. Arch. Rep., 1910, paragraphs 47-50. The second stanza is sometimes found
@@ -1748,6 +1740,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">adho-dhaḥ pātayed dhartā</l>
                         <l n="d">sapta sapta ca sapta ca</l>
                     </lg>
+                </div>
+                <div type="variation">
+                    <l>Ek–āhany=api, etc. See No. 82, note.</l>
                 </div>
                 <div type="notes">
                      <note>2. Ep. Ind., Vol. VI, p. 97, text lines 50–51. Similar style is noticed in the
@@ -1881,6 +1876,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                      <l>mama vaṁśe, etc. Sec No. 90, note. </l>
                     <l>mayi rājñi vyatikrānte, etc. See No. 90, note. </l>
                     <l>para-dattāṁ sva-dattāṁ‚ etc. See No. 90, note. </l>
+                    <l>Asmin=vaṁśe, etc. See No. 90, note. </l>
                 </div>
                 <div type="notes">
                      <note>4 Ep. Ind., Vol. XXVIII. text line 18. Cf. mama dharmaṁ na lumpati or na lopyaṁ
@@ -2004,6 +2000,12 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">brahma-svaṁ putra-pautrikam</l>
                    </lg>
                </div>
+               <div type="variation">
+                   <l>Aviṣaṁ viṣam=ity=āhu, etc. See No. 98, note. </l>
+                   <l>Brahma-svaṁ putra-pautraghnaṁ, etc. See No. 98, note. </l>
+                    <l>Brahma-svaṁ tu viṣam, etc. See No. 98, note. </l>
+                   <l>Deva-svaṁ tu viṣaṁ ghoram, etc. See No. 98, note.</l>
+               </div>
                <div type="notes">
                    <note>6. Ep. Ind., Vol. XXII, p. 167, text lines 35-36. In some cases, the first half
                 reads : Deva-svaṁ hi viṣaṁ ghoraṁ kālakūṭa-sama-prabham (ibid., vol. IV, p. 345).
@@ -2042,6 +2044,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">haranto hārayantaś ca</l>
                         <l n="d">hiṁsanty ā-saptamaṁ kulam</l>
                     </lg>
+                </div>
+                <div type="variation">
+                    <l>Anudakeṣv=araṇyeṣu, etc. See No. 150, note. </l>
                 </div>
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XI, p. 312, text lines 50-51.Cf. Bṛhaspatisaṁhitā, 35; Padma
@@ -2295,6 +2300,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                      <l>sarvān=etān, etc. See No. 117, note. </l>
             <l>sarvān=eva-=āgāminaḥ, etc. See No. 117, note. </l>
             <l>sarvān=eva prārthayaty=eṣa, etc. See No. 117, note. </l>
+                    <l>Bho rājānaḥ, etc. See No. 117, note. </l>
+                    <l>Dattvā bhūmiṁ, etc. See No. 117, note. </l>
                 </div>
                 <div type="notes"> 
                     <note>1. Ep. Ind., Vol. III, p. 343, text lines 55-57; etc. Sometimes the first half
@@ -2342,6 +2349,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 </div>
                 <div type="variation">
                     <l>Siṁhāsanaṁ tathā chatraṁ, etc. See No 119, note. </l>
+                    <l>Dhavalāny=ātapatrāṇi, etc. See No. 119, note.</l>
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXXII, p. 123, text lines 34-35. Sometimes we have Siṁhāsanaṁ
@@ -2414,6 +2422,17 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                    <l n="c">ācchettā cānumantā ca</l>
                    <l n="d">tāny eva narake vaset</l></lg>
            </div>
+               <div type="variation">
+                   <l>A-saṅkheyāni varṣāṇi, etc. See No. 123, note. </l>
+                   <!-- Kunthea thèse p160
+                       Inscription bilingue inscription K. 341S Cœdès, IC VI : 24, 26.
+                   ṣaṣṭivarṣasahassrāni svar[gg]e modati bhūmidaḥ
+..................................... ..................................... ||
+« Celui qui donne de la terre se réjouit (dans le ciel) pendant soixante mille ans
+........ »
+                   
+                   -->
+               </div>
                <div type="notes">
                    <note>4. CII, Vol. III, pp. 96,104, 238, 247, etc. often we have Ṣaṣṭir=varṣa° or
                 Ṣaṣṭir=varṣa°. Sometimes modati is found replaced by nandati (Ep. Ind., Vol. XXVIII,
@@ -2473,6 +2492,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <div type="variation">
                         <l>satyaṁ c=aiva, etc. See No. 126, note. </l>
                         <l>sapta-janm-āntareṇ=aiva, etc. See No. 126, note. </l>
+                         <l>Iṣṭaṁ dattaṁ, etc. See No. 126, note. </l>
                     </div>
                     <div type="notes"> <note>2. See, e. g., Ep. Ind., Vol. XXIX, p. 193, text lines 32-33; Vol. XXVIII, p. 283,
                 lines 29-30. The first half is sometimes found as : Sapta-janm-āntareṇ=aiva yat=puṇyaṁ pūrva-sañcitam (ibid., Vol.
@@ -2482,7 +2502,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 text lines 57-58. The second half of the stanza is found in the Bṛhaspatisaṁhitā
                 (verse 41) with ardh-āṅgulasya.</note>
                     </div>
-                </div>     
+                </div>
+            </div>
             <div xml:id="Sircar1965_st0127">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -2553,8 +2574,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 </lg>
             </div>
             <div type="variation">
-                 <l>Pūrva–dattāṁ dvijātibhyo, etc. See No. 131, note.</l>
-                <l>Pūrva–dattāṁ narendraiś=ca, etc. See No. 131, note.</l>
+                 <l>pūrva–dattāṁ dvijātibhyo, etc. See No. 131, note.</l>
+                <l>pūrva–dattāṁ narendraiś=ca, etc. See No. 131, note.</l>
             </div>
             <div type="notes">
                  <note>1. CII, pp. 119, 122, 127, 133, 194, 198, 296. The word mahīmatāṁ is altered in
@@ -2580,7 +2601,57 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     </lg>
                 </div>
                 <div type="variation">
-                     <l>Sarva-sasya–samṛddhāṁ, etc. See No. 132, note. </l>
+                     <l>sarva-sasya–samṛddhāṁ, etc. See No. 132, note. </l>
+                    <l>Aṅgam=ekam, etc. See No. 132, note. </l>
+                    <!-- Kunthea thèse p.159-160
+                        inscription de Kumāragupta Ier (c. 414‒455 apr. Agrawala, 1983 : 37
+J.-C.)
+                        svadattām paradattāṃ vā [yo hareta vasundharām [|]
+                        sa viṣṭhāyāṃ kṛmir bhūtvā pitṛ]bhiḥ saha pacyate|| 
+                    + 
+                         ṣaṣṭiṃ varṣa-sahasrāni(ṇi) svarge modati [bhū]midaḥ [|]
+                        [ākṣeptā cānumantā ca tāny eva narake vaset ||]
+                    + 
+                         [pū]rvvadattāṃ dvijātibhyo yatnād rakṣa yudhiṣṭhira |
+                         mahīṃ [mahī matāñchreṣṭha-dānācchreyo nupālanam ||]
+                         Traduction 
+                         « Il a été dit … par le Bhagavan Dvaipāyana que “celui qui prendrait la terre donnée
+par soi-même ou donnée par autrui, naisse en tant que ver et soit plongé dans les
+excréments de chien avec ses parents ; que le donateur de terre profitera du paradis
+pendant soixante mille ans alors que celui qui attaquera [la fondation] ou qui
+approuvera [l’attaque] doit passer les mêmes [années] en enfer.” »
+
+
+                    Une autre variante :
+                    inscription du roi Ravivarman (485‒519 apr. J.-C.) Sukthankar, 1983 : 267
+                    svadattāṃ paradattāṃ vā yo hareta vasundharām
+                    ṣaṣṭiṃ varṣasahasrāṇi narake pacyate tu saḥ ||
+                    « Que celui qui prendrait la terre donnée par soi-même ou donnée par autrui, sera cuit
+en enfer pendant une période de soixante mille ans. »
+                    
+                    Autre vairante : 
+                    inscription de Dhruvasena Ier de Valabhī (fin du IIIe siècle) Buhler, 1875: 105, 107.
+                    yaś vacchindyādācchidyamānaṃ vānumodeta sa pañcabhiḥ mahāpātakaiḥ
+sopapātakaiśca saṃyuktaḥ syādatra ca vyāsaśoktaḥ śloko bhavanti ||
+                    svadattāṃ paradattāṃ vā yo hareta vasundharāṃ
+gavāṃ śatasahasrasya hantuḥ prāpnoti kilviṣaṃ
+
+He who takes it away, or permits it to be taken away, shall be guilty of the five mortal sins and of the minor sins. And with reference to this (matter here) is also a verse
+proclaimed by Vyāsa: He who resumes land given by himself or by others, taken upon
+himself the guilt of the slayer of a hundred thousand kine. »
++
+AUtre variante :  K. 55, composée entièrement en
+sanskrit, datée de 667 apr. J.-C Barth, 1885 : 56, 59
+svadattāṃ paradattāṃ vā yo hareta vasundharām
+śvaviṣṭhāyāṃ krimir bhūtvā pitṛbhis saha pacyate |
+« Celui qui s’aviserait de ravir la terre donnée par lui-même ou par un autre, expie (ce
+forfait) changé en ver (et plongé), lui et ses ancêtres, dans des excréments de
+chien. »
+
++ inscription en vieux khmer, K. 726 (VIIIe siècle) : paada a b sans changement puis avicīnarake jātāḥ pitṛbhis saha vandhu[bhiḥ] « naissent dans l’enfer Avīci avec leurs ancêtres
+et leurs parents » => Sircar 196, n. 2 variante dans  Padmapurāṇa, le Bhaviṣyapurāṇa, le Brahmapurāṇa et la Bṛhaspatisaṃhitā
+
+                    -->
                 </div>
                 <div type="notes">
                     <note>2. CII, Vol. III, pp. 104, 108,137. In some cases, the first foot is found as:
@@ -2704,6 +2775,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <l>Saṣṭiṁ varṣa°, etc. See No. 137, note. </l>
                     <l>Taṭākānām, etc. See No. 137, note.</l>
                       <l>Vāpī-kūpa°, etc. See No. 137, note. </l>
+                    <l>Ārāmāṇāṁ sahasreṇa, etc. See No. 137, note. </l>
+                    <l>Aśvamedha-sahasreṇa, etc See No. 137, note. </l>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. XXII, p. 166, text lines 33-34. For Taṭākānāṁ, cf. Ep. Ind.,
@@ -2909,6 +2982,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 </div>
                 <div type="variation">
                     <l>Vāri-hīneṣv=araṇyeṣu, etc. See No. 150, note.</l>
+                    <l>A-pānīyeṣv=araṇyeṣu, etc. See No. 150, note. </l>
+                    <l>Bhūṣv=aṭavīṣv=atoyāsu, etc. See No. 150, note. </l>
                 </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XXII, p. 76, text line 63; p. 85. Sometimes we have °śāyinaḥ
@@ -3133,7 +3208,21 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmṛti, IV, 235.</note>
                 </div>
             </div>
-            </div>   
+            <!-- 
+            Stance à ajouter ? 
+            Kunthea thèse p. 162 
+            ’inscritption K. 885 (968 apr. J.-C.)  Cœdès, IC V : 151
+            ye haranti naraḥ pāpaḥ 
+            raurave yāntuṃ yāntanām
+            śasantānaiva gacchaṃntu 
+            yāvad candvārkkapaṅkajaḥ
+            « Les hommes malsains qui prendraient (ces biens) obtiendront des souffrances en enfer (et y) iront avec leurs proches aussi longtemps que le soleil, la lune et le lotus. »
+            Critique grammaticale : Cette stance comporte des fautes grammaticales : si le verbe haranti est au pluriel, le
+sujet naraḥ est au singulier ; l’infinitif yāntuṃ est peut-être confondu avec la forme
+impérative yāntu ; l’impératif gacchaṃntu est maladroit et devrait être corrigé en gacchantu.
+En outre, il y a des fautes d’orthographe : candva au lieu de candra « la lune », śasantāna au
+lieu de sasantāna « avec des proches » et yāntanām au lieu de yātanām « torture, punition »
+            -->
         </body>
     </text>
 </TEI>
