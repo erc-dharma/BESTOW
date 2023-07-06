@@ -354,7 +354,7 @@
             </lg>
                 </div>
                 <div type="notes">
-                    <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27.</note>
+                    <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27.</note><!-- not yet checked -->
                 </div>
             </div>
             <div xml:id="Sircar1965_st002">
@@ -367,7 +367,7 @@
                     </lg>
                 </div>
                 <div type="notes">
-                    <note>4. Ep. Carn., Vol. I, revised ed., p. 35; Ind.Ant., Vol. IV, pp. 333-34. See
+                    <note>4. Ep. Carn., Vol. I, revised ed., p. 35<!-- Ep. Carn., Vol. I, revised ed., p. 35 = DHARMA ID: INSEC01011 -->; Ind.Ant., Vol. IV, pp. 333-34<!-- not yet checked -->. See
                 below, Nos. 37-38.</note>
                 </div>
             </div>
@@ -396,7 +396,7 @@
                     </div>
                 </div>
             <div xml:id="Sircar1965_st0004">               
-                <div type="text"><!-- Stanza text -->
+                <div type="text">
                 <lg met="anuṣṭubh">
                 <l n="a">Ādityo varuṇo viṣṇur</l>
                 <l n="b">brahmā somo hutāśanaḥ</l>
@@ -404,13 +404,13 @@
                 <l n="d">pratinandanti bhūmidam</l>
                 </lg>
                 </div>
+                 <div type="variation">
+                     <l>Pitaraḥ, etc. See No. 4, note.</l>
+                </div>
                 <div type="translation">
                     <p>Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis and the Lord rejoice the land-giver.</p>
                     <p>Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis et le Bienheureux accueillent avec joie celui qui donne des terres.</p>
-                </div>
-                <div type="variation">
-                     <l>Pitaraḥ, etc. See No. 4, note.</l>
-                </div>
+                </div>           
                 <div type="occurences">
                     <p>
                         <list>
@@ -510,9 +510,16 @@
                         <l n="d">yad dattvā vasudhāṁ nṛpa</l>
                     </lg>
                 </div>
+                <div type="occurences">
+                    <p>
+                        <list>
+                            <item><title>Mahābhārata</title> XIII, 62, 73</item>
+                        </list>
+                    </p>
+                </div>
                 <div type="notes">
                      <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
-                bhavati rājendra yo dadāti vasundharām (ibid„ Vol. XXV, p. 278, text lines 12-13).
+                bhavati rājendra yo dadāti vasundharām (Ep.Ind. Vol. XXV, p. 278, text lines 12-13).
                 Sometimes we have the stanza as Agniṣṭoma-prabhṛtibhir=iṣṭvā yajñaiḥ sa-dakṣiṇaiḥ|
                 na tat=phalam=avāpnoti bhūmi-dānād=yad=aśnute || (Ind. Ant., Vol. XIV, p. 319, text
                 lines 108-09) while the Mahābhārata (XIII, 62, 73) shows this reading with ca
@@ -3131,7 +3138,7 @@ Prend sur lui le crime.
                      <l>Yathā sva-putraṁ, etc. See No. 156. </l>
                 </div>
                 <div type="notes">
-                    <note>6. Ep. Ind., Vol. XXV, p. 2I8, verse 40. Cf. Mahābhārata, XIII, 62, 26 : Yathā
+                    <note>6. Ep. Ind., Vol. XXV, p. 218, verse 40. Cf. Mahābhārata, XIII, 62, 26 : Yathā
                 sva-putraṁ jananī kṣīreṇa bharate sadā| anugṛhṇāti dātāraṁ tathā sarvarasair=mahī ||
                 Ballāla (op. cit., p. 320) quotes the same verse with slight variations and
                 attributes it to the Mahābhārata.</note></div></div>
@@ -3327,7 +3334,7 @@ changera la destination de cette bonne œuvre ! » (Cœdès, IC I : 151, 155).
 
 Kunthea p173 JAVA inscription Po Nagar du roi Vikrāntavarman II, qui est datée de 776 śaka R.C. Majumdar, 1985, book III : 73, 74.
 rudrakṣetram idaṃ khyātaṃ pālayanto yatīśvare
-svargaṃ yāntu harantas te patantu narakādhame ||
+svargaṃ yāntu  harantas te patantu narakādhame ||
 « Those who protect this famous Rudrakṣetra (field of Rudra) for the lord of the
 ascetics (c’est-à-dire Śiva) would go to heaven; those who destroy would fall into
 damned hell.» La traduction du participe présent harantas par « (ceux qui) tuent (destroy) » ne paraît
