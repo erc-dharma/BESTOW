@@ -369,6 +369,7 @@
                 <div type="notes">
                     <note>4. Ep. Carn., Vol. I, revised ed., p. 35<!-- Ep. Carn., Vol. I, revised ed., p. 35 = DHARMA ID: INSEC01011 -->; Ind.Ant., Vol. IV, pp. 333-34<!-- not yet checked -->. See
                 below, Nos. 37-38.</note>
+                    <!-- DHARMA_INSEC09Dv15 Ep Carn 09 Dv n15 varaition in b hṛdayaṁ Yamaś ca instead of hṛdayaṁ manaś ca + variation d dharmaś ca jānāti -->
                 </div>
             </div>
                 <div xml:id="Sircar1965_st003">
@@ -537,15 +538,35 @@
                            <l n="d">svayaṁ-dattāpahāriṇam</l>
                        </lg>
                    </div>
+                   <div type="occurences">
+                       <div type="inscriptions">
+                           <p>
+                               <list>
+                                   <item>See <bibl><ptr target="bib=Rice1905_03"/><citedRange unit="page">93</citedRange></bibl>, DHARMA ID : INSEC09Dv015</item>
+                                   <item>See <bibl><ptr target="bib=Rice1905_01"/><citedRange unit="page">259</citedRange></bibl>, DHARMA ID : INSEC10003</item>
+                               </list>
+                           </p>
+                       </div>
+                   </div>
                    <div type="notes">
                        <note>4. Ep. Carn., Vol. IX, Dv. No. 15; Vol. X, Goribidnur No. 3; cf. Vol. XIV, Gu. No.
                 126.</note>
+                       <!-- The text in Ep. Carn vol IX Dv n 15 is as follows :
+                           title : 15 At Dêvanahaḷḷi (Dêvanahaḷḷi hobli), on copper plates from Archaka-Narasimhâchâr of the Gôpâlasvâmi temple.
+                       ahô Râghava râjêndra saptạ-kalpânujîvy ahaṃ |
+                       na śṛiṇômi na paśyâmi svayaṃ dattâpahâriṇaṃ ǁ
+                       Ep Carn Vol. X, Goribidnur No. 3
+                       title : 3 On copper plates in possession of Yajña-Nârâyaṇa-Šâstri at Gôrîbidnûr
+                       ahô Râghava-râjêndra sapta-kalpânujîvinaḥ |
+                       na šṛiṇômi na pašyâmi svayaṁ dattâpahâriṇaḥ ǁ
+                       Vol. XIV, Gu. No NOT CHECKED 
+                       -->
                    </div>
                </div>       
                 <div xml:id="Sircar1965_st0008">
                     <div type="text">
                         <lg met="anuṣṭubh">
-                            <l n="a">A-karasya kar-ādānaṁ</l>
+                            <l n="a">A-karasya karādānaṁ</l>
                             <l n="b">go-koṭi-vadha ucyate</l>
                             <l n="c">sa-karasya kara-cchedī</l>
                             <l n="d">prāpnoti paramaṁ padam</l>
@@ -561,6 +582,7 @@
                 VII, Sk. No. 323). For slight variations, see ibid., Vol. XII. Tp. No. 28. Ibid.,
                 Vol. XII, Ck. No. 42 has : Akareṣu karaṁ kṛtvā bhīṣayitvā ca
                     go-vrajam | sva-vaṁśaḥ kāla-sūtre ca kramaśo bhuvi pātyate ||</note>
+                        <!-- Ep Carn checked DHARMA_INSEC05Bl074 but not the volume XII  -->
                     </div>
                 </div>      
                 <div xml:id="Sircar1965_st0009">
@@ -590,7 +612,7 @@
                         </lg>
                     </div>
                     <div type="notes">
-                        <note>2. Ep. Ind., Vol. XIX, p. 45, text lines 31-32. See No. 71 below.</note>
+                        <note>2. Ep. Ind., Vol. XIX, p. 45, text lines 31-32. See No. 71 below.</note><!-- EI 19 p45 checked and added in my table -->
                     </div>
                 </div>          
            <div xml:id="Sircar1965_st0011">
@@ -598,7 +620,7 @@
                    <lg met="anuṣṭubh"> 
                        <l n="a">Anya-gotra-samutpannam</l>
                        <l n="b">api cānya-samudbhavam</l>
-                       <l n="c">mahāpātaka-yuktaś cha</l>
+                       <l n="c">mahāpātaka-yuktaś ca</l>
                        <l n="d">yo dānaṁ parisaṁvaret</l>
                    </lg>
                </div>
@@ -665,7 +687,7 @@
                         <lg met="anuṣṭubh">
                             <l n="a">api gaṅgādi-tīrtheṣu</l>
                             <l n="b">hantur gām athavā dvijam</l>
-                            <l n="c" enjamb="yes">niṣkṛtiḥ syān na devasva</l>
+                            <l n="c">niṣkṛtiḥ syān na devasva</l>
                             <l n="d">-brahmasva-haraṇe nṛṇām</l>
                         </lg>
                     </div>
@@ -705,20 +727,20 @@
                         </lg>
                     </div>
                     <div type="notes">
-                        <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note>
+                        <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note><!-- Checked and added in my table-->
                     </div>
                 </div>
             <div xml:id="Sircar1965_st0018">
                 <div type="text">
                 <lg met="anuṣṭubh">
-                    <l n="a">asārepi ca saṁsāre</l>
+                    <l n="a">asāre 'pi ca saṁsāre</l>
                     <l n="b">jīvitasya phala-dvayam</l>
                     <l n="c">pālanaṁ para-kīrtīnāṁ</l>
                     <l n="d">svayaṁ–kartṛtvam eva ca</l>
                 </lg>
                 </div>
                 <div type="notes">
-                     <note>3. Ep. Ind., Vol. XIX, p. 45, text lines 30-31.</note>
+                     <note>3. Ep. Ind., Vol. XIX, p. 45, text lines 30-31.</note><!-- checked and added in my table -->
                 </div>
             </div>         
             <div xml:id="Sircar1965_st0019">
@@ -745,7 +767,7 @@
                            </lg>
                    </div>
                     <div type="variation">
-                        <l>nandanti tasya pitaraḥ, etc. See No. 20, note. </l>
+                        <l>nandanti tasya pitaraḥ, etc. See No. 20, note. </l> <!-- EI28_44_B -->
                         <l>Ānandanti ca, etc. See No. 20, note.</l>
                     </div>                       
                   <div type="notes">
@@ -804,7 +826,7 @@
                    </div>
                    <div type="variation">
                         <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>
-                       <l>manu-prabhṛtibhir mānyaiḥ, etc. Sec No. 23, note. </l>
+                       <l>manu-prabhṛtibhir mānyaiḥ, etc. Sec No. 23, note. </l> <!-- checked in EI 28.13 -->
                        <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l>
                          <l>Yānti kālena, etc. See No. 23, note. </l>
                          <l>Yas=tu pālayate, etc. See No. 23, note. </l>
@@ -904,7 +926,7 @@
                 sarva-kāmān=dadāti saḥ in the second half (ibid., Vol. XXIV, p. 303, text lines
                 23-24). For Bhūmi-dāna-samaṁ at the beginning and dānena yat=phalaṁ proktaṁ pālanena
                 tato=dhikam in the second half, see Ep. Ind., Vol. XIX, p. 42, text lines
-                25-26.</note>
+                25-26.<!-- EI XIX p.42 checked and added in my table --></note>
                 </div>
                <!-- Traduction Brocquet : issu de l'édition de TABLETTES DE YŪVAMAHĀRĀJA-VIṢṆUGOPAVARMAN A URUVUPALLI
                    Hormis le don de terre, d’autre don
@@ -1798,7 +1820,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     </lg>
                 </div>
                 <div type="notes">
-                    <note>3. Ep. Ind., Vol. XXVIII, p. 75.</note>
+                    <note>3. Ep. Ind., Vol. XXVIII, p. 75.</note> <!-- checked and added in my table  -->
                 </div>
             </div>
             <div xml:id="Sircar1965_st0084">
@@ -1898,6 +1920,12 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 Nos. 64, 100; TN. No. 63). For similar variations, see Ind. Ant., Vol. XII. p. 121;
                 Vol. XVI, p. 256; Ep. Ind., Vol. XVIII. p. 299, text lines 40-42; Vol. XX, p. 134,
                 text line 19-; Vol. XXI, p. 25, text lines 39-40. See Nos. 87 and 90.</note>
+                    <!-- ID : DHARMA_INSEC09Dv15
+                        Ep Carn 09 Dv n15 
+                    mad-vaṁśa-jāḥ para-mahīpati-vaṁśa-jā vā
+                    ye bhūmipās satatam ujjvala-dharma-cittāḥ |
+                    mad-dharmam eva satataṁ paripālayanti
+                    tat-pāda-padma-yugalaṁ śirasā namāmi ǁ-->
                 </div>
             </div>
             <div xml:id="Sircar1965_st0090">
@@ -2374,7 +2402,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <lg met="anuṣṭubh">
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
                         <l n="b">var-āśvā vara-vāraṇāḥ</l>
-                        <l n="c">bhūmi-dānasya puṣpāṇi</l>
+                        <l n="c">dāānasya puṣpāṇi</l>
                         <l n="d">phalaṁ svargaḥ purandara</l>
                     </lg>
                 </div>
