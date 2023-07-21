@@ -687,7 +687,7 @@
                         <lg met="anuṣṭubh">
                             <l n="a">api gaṅgādi-tīrtheṣu</l>
                             <l n="b">hantur gām athavā dvijam</l>
-                            <l n="c">niṣkṛtiḥ syān na devasva</l>
+                            <l n="c" enjamb="yes">niṣkṛtiḥ syān na devasva</l>
                             <l n="d">-brahmasva-haraṇe nṛṇām</l>
                         </lg>
                     </div>
@@ -769,7 +769,11 @@
                     <div type="variation">
                         <l>nandanti tasya pitaraḥ, etc. See No. 20, note. </l> <!-- EI28_44_B -->
                         <l>Ānandanti ca, etc. See No. 20, note.</l>
-                    </div>                       
+                    </div> 
+                  <div type="translation">
+                      <p rend="stanza">The Fathers are applauding and the Grand-Fathers are hopping up and down [when they can say] ‘A giver of land is born within our lineage, sure, he will deliver us!'</p>
+                      <p rend="stanza">Les pères applaudissent, les ancêtres trépignent de joie [quand ils peuvent dire:] ‘Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur!’</p>
+                  </div>
                   <div type="notes">
                         <note>5. CII, Vol. III. p. 119. Sometimes we have nandanti tasya pitaraḥ or nṛtyanti
                 pitaras=tasya (Ep. Ind.,Vol. XXIX, p. 194, text line 35; Vol. XXV, p. 218, verse 38)
@@ -831,6 +835,10 @@
                          <l>Yānti kālena, etc. See No. 23, note. </l>
                          <l>Yas=tu pālayate, etc. See No. 23, note. </l>
                    </div>
+                   <div type="translation">
+                       <p rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong</p>
+                       <p rend="stanza">Des centaines de rois à commencer par Sagara ont fait don de terre. Le bénéfice (du don de terre) revient toujours à celui qui en est alors le propriétaire.</p>
+                   </div>
                     <div type="notes">
                        <note>2. <seg>CII</seg>, Vol. III. pp. 96, 104, 108, 115, 119, 122, 127,
                 133, etc., where this stanza is found together with Ṣaṣṭiṁ varṣa-sahasrāṇi, etc.
@@ -853,7 +861,9 @@
                 analogous stanzas : Yas=tu pālayate bhūmiṁ bhūmipālas=tath=etaraḥ | sa dātuḥ
                 phalam=āpnoti samaṁ dīrghaṁ ca jīvati || Yānti kālena rājāno mahī punar=avasthitā |
                 tad=stāṁ yo yadā bhuṅkte sa tadā phalam=aśnute l| (Ep. Ind., Vol.XXXVI, pp. 18,
-                46).</note>
+                46).</note> <!-- I added this verse in my table :  Yānti kālena rājāno mahī punar=avasthitā |
+                tad=stāṁ yo yadā bhuṅkte sa tadā phalam=aśnute l| (Ep. Ind., Vol.XXXVI, pp. 18,
+                46). -->
                    </div>
                </div>      
             <div xml:id="Sircar1965_st0024">
@@ -879,7 +889,7 @@
                     </lg>
                 </div>
                 <div type="notes">
-                    <note>4. Ep. Ind., Vol. XXV, p. 60‚ text lines 53-54.</note>
+                    <note>4. Ep. Ind., Vol. XXV, p. 60‚ text lines 53-54.</note><!-- checked and added in my table -->
                 </div>
             </div>          
            <div xml:id="Sircar1965_st0026">
@@ -948,6 +958,10 @@ Il n’y en eut point et n’y en aura point -->
                     <l>Dātā ca preraka°, etc. See No. 29, note.</l>
                     <l>Upadeśī ca dātā ca, etc. See No. 29, note.</l>
                 </div>
+                <div type="translation">
+                    <p rend="stanza">The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.</p>
+                    <p rend="stanza">Celui qui reçoit un don de terre et celui qui l’offre, tous deux sont des hommes aux actes méritoires qui sans aucun doute iront au ciel.</p>
+                </div>
                 <div type="notes">
                      <note>1. Ep. Ind., Vol. III, p. 343, text lines 30-31; p. 348, text lines 24-25.
                 Sometimes we have yas=tu for yaś=ca (ibid., Vol. XI, p. 312) and niyatau (ibid.,
@@ -971,7 +985,7 @@ Il n’y en eut point et n’y en aura point -->
                 <lg met="vasantatilakā">
                 <l n="a">bhūmi-pradā divi lalanti patanti hanta</l>
                 <l n="b">hṛtvā mahīṁ nṛpatayo narake nṛśaṁsā</l>
-                <l n="c">etad dvayaṁ parikalayya calāñ cha lakṣmīm</l>
+                <l n="c">etad dvayaṁ parikalayya calāñ ca lakṣmīm</l>
                 <l n="d">āyus tathā kurutha yad bhavatām abhīṣṭam</l>
                 </lg>
                 </div>
@@ -2402,7 +2416,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <lg met="anuṣṭubh">
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
                         <l n="b">var-āśvā vara-vāraṇāḥ</l>
-                        <l n="c">dāānasya puṣpāṇi</l>
+                        <l n="c">bhūmi-dānasya puṣpāṇi</l>
                         <l n="d">phalaṁ svargaḥ purandara</l>
                     </lg>
                 </div>
