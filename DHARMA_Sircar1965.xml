@@ -542,8 +542,8 @@
                        <div type="inscriptions">
                            <p>
                                <list>
-                                   <item>See <bibl><ptr target="bib=Rice1905_03"/><citedRange unit="page">93</citedRange></bibl>, DHARMA ID : INSEC09Dv015</item>
-                                   <item>See <bibl><ptr target="bib=Rice1905_01"/><citedRange unit="page">259</citedRange></bibl>, DHARMA ID : INSEC10003</item>
+                                   <item>See <bibl><ptr target="bib:Rice1905_03"/><citedRange unit="page">93</citedRange></bibl>, DHARMA ID : INSEC09Dv015</item>
+                                   <item>See <bibl><ptr target="bib:Rice1905_01"/><citedRange unit="page">259</citedRange></bibl>, DHARMA ID : INSEC10003</item>
                                </list>
                            </p>
                        </div>
@@ -950,7 +950,7 @@ Il n’y en eut point et n’y en aura point -->
                     <lg met="anuṣṭubh">
                 <l n="a">bhūmiṁ yaḥ pratigṛhṇāti</l>
                 <l n="b">yaś ca bhūmiṁ prayacchati</l>
-                <l n="c">ubhau tau puṇya-karmāṇau</l>
+                <l n="c">Ubhau tau puṇya-karmāṇau</l>
                 <l n="d">niyataṁ svarga-gāminau</l>
                     </lg>
                 </div>
@@ -1181,10 +1181,10 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
            <div xml:id="Sircar1965_st0043">
                <div type="text">
                    <lg met="indravajrā"> 
-                       <l n="a">dattāni yān īha purā narendrair</l>
+                       <l n="a">dattāni yānīha purā narendrair</l>
                        <l n="b">dānāni dharm-ārtha-yaśaskarāṇi</l>
-                       <l n="c">nirmālaya-vānta-pratimāni tāni</l>
-                       <l n="d">ko māma sādhuḥ punar ādadīta</l>
+                       <l n="c">nirmālya-vānta-pratimāni tāni</l><!-- nirmālaya in Sircar, certainly a typo-->
+                       <l n="d">ko nāma sādhuḥ punar ādadīta</l><!-- Sircar : māma sādhuḥ , I follow the reading found in EI32_14_1 -->
                    </lg>
                </div>
                <div type="variation">
@@ -1743,6 +1743,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                </div>
                <div type="variation">
                     <l>Santarpayati dātāram, etc. See No. 78, note. </l>
+               </div>
+              <!-- <div type="translation">
+                   <p rend="stanza">A man who gives land to a miserable, to someone become poor, to someone emaciated by his way of life, to someone who is dying, by this conduct, he becomes happy and obtains all his desires.</p>-->
                </div>
                <div type="notes">
                       <note>7. Ep. Ind., Vol. XXXI, pp. 65-66, text lines 31-32. Sometimes we have bhṛtyāya
@@ -2415,7 +2418,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
-                        <l n="b">var-āśvā vara-vāraṇāḥ</l>
+                        <l n="b">varāśvā vara-vāraṇāḥ</l>
                         <l n="c">bhūmi-dānasya puṣpāṇi</l>
                         <l n="d">phalaṁ svargaḥ purandara</l>
                     </lg>
@@ -2582,7 +2585,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <lg met="anuṣṭubh">
                         <l n="a">sauvarṇā yatra prāsādā</l>
                         <l n="b">vasor dhārāś ca kāmadāḥ</l>
-                        <l n="c">gandarvāpsaraso yatra</l><!-- gandharv? -->
+                        <l n="c">gandharvāpsaraso yatra</l><!-- gandarva in Sircar . it is certainly a typo -->
                         <l n="d">tatra gacchanti bhūmidāḥ</l>
                     </lg>
                 </div>
@@ -2591,7 +2594,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 sauvarṇā° and tiṣṭhati dānadaḥ (ibid., p. 70, text lines 20-21). Ep. Carn., Vol.
                 XII, Sl. No. 95 ascribes the authorship of the stanza to Bṛhaspati, while Hemādri
                 (op. cit., p. 481) and Ballāla (op. cit., p. 316) assign it to the Mahābhārata (cf.
-                XIII, 62) and the Dāna-Bṛhaspati respectively.</note>
+                XIII, 62) and the Dāna-Bṛhaspati respectively.</note><!-- Found also in Lakṣmīdhara KKT 10.10 (Brick) and he ascribes it to dānabṛhaspatiḥ, caution for Brick this verse is found in Hemādri p.498 and not p.481 -->
                 </div>
             </div> 
             <div xml:id="Sircar1965_st0128">
@@ -2644,7 +2647,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
             <div type="text">
                 <lg met="anuṣṭubh">
                     <l n="a">sva-dattāṁ para-dattāṁ vā</l>
-                    <l n="b">yatnād-rakṣa yudhiṣṭhira</l>
+                    <l n="b">yatnād rakṣa yudhiṣṭhira</l>
                     <l n="c">mahīṁ mahīmatāṁ śreṣṭha</l>
                     <l n="d">dānāc chreyo 'nupālanam</l>
                 </lg>
@@ -2653,6 +2656,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                  <l>pūrva–dattāṁ dvijātibhyo, etc. See No. 131, note.</l>
                 <l>pūrva–dattāṁ narendraiś=ca, etc. See No. 131, note.</l>
                 <l>Prāg-dattāṁ bhūmiṁ viprebhyo, etc. See 131, note. </l>
+            </div>
+             <div type="translation">
+                <p>O Yudhiṣṭhira, you must carefully protect land that has been previously given to the brahmins, the preservation is even better than giving a land.</p>
             </div>
             <div type="notes">
                  <note>1. CII, pp. 119, 122, 127, 133, 194, 198, 296. The word mahīmatāṁ is altered in
