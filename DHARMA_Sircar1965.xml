@@ -57,293 +57,6 @@
     </teiHeader>
     <text  xml:space="preserve">
         <body>
-            <!-- <p rend="Style2"><hi rend="Font_Style32"><seg rend="subscript" style="position:-4">INDIAN EPIGRAPHY</seg></hi></p>
-<p rend="Style3"><hi rend="Font_Style37">BY</hi></p>
-<p rend="Style4"><hi rend="Font_Style35">D. C. SIRCAR</hi></p>
-<p rend="Style5"><hi rend="Font_Style33">Carmichael Professor of Ancient Indian History and Culture, </hi><hi rend="Font_Style34">University of Calcutta</hi></p>
-<l><hi rend="Font_Style35">MOTILAL BANARSIDASS </hi>DELHI ;; VARANASI :: PATNA</hi></l>
-<l>@ MOTlLAL BANARSIDASS</l>
-<p rend="Style8"><hi rend="Font_Style36">BUNGALOW ROAD, JAwAHAR NAGAR, DELHI-</seg></hi>7 </seg></hi><hi rend="Font_Style36">NEPALI KHAPRA, VARANASI </seg></hi>(u</seg></hi><hi rend="Font_Style36">.P.) </seg></hi><hi rend="Font_Style37">BANKIPORE. </seg></hi><hi rend="Font_Style36">PATNA <hi rend="Font_Style37">(BIHAR)</p>
-<p rend="Style5">FIRST EDITION</p>
-<l>1965</l>
-<p rend="Style11"><hi rend="Font_Style34">Price Rs. 60-00</seg></hi></p>
-<p rend="Style12">Published by Sundarlal Jain, Motilal Banarsidass, Bungalow Road Jawahar Nagar, Delhi-7, and Printed by Shan dial Jain, Shri Jainendra Press, Bungalow Road, Jawahar Nagar, Delhi-7.</p>-->
-
-            <!-- <div xml:id="Sircar">
-                <div type="edition"><lg></lg></div>
-                <div type="translation"><p></p></div>
-                <div type="occurences"></div>
-                <div type="attribution"></div>
-                <div type="notes"></div>
-                <div type="bibliography"></div>
-                
-            </div>
-            -->
-           <!-- <head>APPENDIX II</head>
-            <head><hi rend="bold">STANZAS ON BHŪMI-DĀNA QUOTED IN RAJA-ŚĀSANAS<hi
-                        rend="superscript">1</hi></hi></head>
-            <p>We have seen above how, while making grants of land, the donor often emphasized the
-                virtue of giving such gifts, especially to Brāhmaṇas, and the sacred nature of
-                rent-free holdings created by past rulers, by inserting one or more benedictory and
-                minatory verses in the deeds of grant. The stanzas generally extoll the donor of
-                gifts and affirm the merit accruing to those who respect the inviolability of grants
-                made by others and denounce the inequity of those who deprive donees of the gift
-                land, and declare the punishment which awaits those who resume such gifts. The
-                verses are sometimes also quoted in connection with the sale of land since there was
-                a tendency to represent a sale of land also as a gift by a sort of popular
-                    fiction.<hi rend="superscript">2</hi></p>
-            <p>The verses are sometimes quoted without any introduction<hi rend="superscript">3</hi> and often without any reference to the source, merely introducing them
-                by a passage like uktañ=ca, "It has also been</p>
-            <note>1. See JRAS, 1912, pp. 248 ff., p. 476; 1913, PP. 388-89; IHQ, Vol. III, p. 432;
-                Vol. VI, pp. 775 ff. ; S. Lévi, Le Nepal, III, pp. 122 ff.; P. V. Kane, History of
-                Dharmaśāstra, Vol. II, pp. 1271 ff G.H. Khare quotes, without references, a large
-                number of stanzas in his Marāṭhī work Saṁśodhakācā Mitra, pp. 20-37. But many of the
-                verses quoted by him have nothing to do with gift of land and are apparently not
-                quotations from ancient works. By way of illustration, we may refer to the stanza
-                Karma ṇā manasā vācā, etc. (p.24), quoted from the charters of Harṣavardhana (cf.
-                Ep. Ind., Vol. IV, p. 211, text lines 13-14) and the two verses <seg
-                    rend="color(FF0000)">Yasy=ānvaye bhūpatir = e</seg>a jātaḥ, etc. (p. 32), which
-                really form part of an endorsement at the end of the Mahada plates (cf. ibid., Vol.
-                XXVIII, p. 292, text lines 32-38), An early copper-plate grant quoting two of the
-                stanzas, Bahubhir= vasudhā dattā, etc.(No. 23, note) and Sva-dattāṁ para-da<seg
-                    rend="color(FF0000)">ttāṁ vā, </seg>etc. (No, 132), is the Gunapadeya plates (c.
-                third quarter of the 4th century) of the time of Pallava Skandavarman (Select
-                Inscriptions , p. 4<seg rend="color(FF0000)">4</seg>5). The inscription is in
-                Prakrit and the quotation has not been referred to any source. For such verses in an
-                early Śālaṅkāyana charter of about the same age see Ep. Ind.. Vol. XXXI, p. 6. </note>
-            <note>2. See Ep. Ind., Vol. XXVIII, p. 48, note 2; Mitākṣarā on Yājñavalkyasmṛti, II,
-                114; above, p. 111, note 1.</note>
-            <note>3. See, e. g,, Ep. Ind., Vol. XVIII, p. 257, text lines 149 ff.; p. 292, text
-                lines 25 ff.; Vol. XXIX, pp. 156, 189. Many of them were so well known that they are
-                sometimes quoted by the first foot only (cf. Ep. Cam., Vol. XI. Dg. No. 68).</note>
-            <p><pb n="171"/>said’’.<hi rend="superscript">1</hi> But they are very often assigned
-                to Vyāsa<hi rend="superscript">2</hi> and are sometimes attributed specifically to
-                the Mahābhārata.<seg rend="superscript">3 </seg> Some of the stanzas quoted in the
-                inscriptions are actually found in theMahābhārata (especially in the Dānadharma
-                    section<hi rend="superscript">4</hi> of the Anuśāsana-parvan) as well as in
-                the Purāṇas. In some cases, they are stated to be the sayings of Manu,<hi rend="superscript">5</hi> Brahman<hi rend="superscript">6</hi> or
-                    Bṛhaspati<hi rend="superscript">7</hi> and often of the sages.<hi rend="superscript">8</hi> They are represented in a few cases as quotations
-                from the Mānava-Dharmaśāstra<hi rend="superscript">9</hi> or Vaiṣṇava -
-                    Dharmaśāstra,<hi rend="superscript">10</hi> but often from the</p>
-            <note>1. See, e.g., CII, Vol. III. p. 289, text line 12. Other such passages are api c =
-                oktam, tathā c = oktam, api c = āpi ślokāḥ, bhavanti c = ā<seg rend="color(FF0000)"
-                    >tra dharm-ānuśaṁsinaḥ ślokāḥ, bhavanti c = ātra pu</seg><seg rend="italic"
-                    >ṇya-ślokāḥ (also</seg> pūrva-ślokāh), bhavanti c = ātra prāg-abhihitāḥ ślokāḥ,
-                bhavanti c = ātra bhūmi-dāna-sambandhāḥ ślokāḥ, etc. See Lévi, op. cit., p. 132;
-                IHQ, Vol. VI, pp. 775-76; Ep. Ind., Vol. XI, p. 145; Vol. XII. p. 3; Vol. XXIX, p.
-                8; etc.</note>
-            <note>2. Vyāsa is mentioned in a large number of early inscriptions such as those of the
-                Traikūṭakas, Maitrakas, Parivrājakas, Uccakalpiyas, Śarabhapurīyas, Pāṇḍuvaṁśīs,
-                Early Cālukyas, Gunjaras of Nāndīpurī, Vākāṭakas and others (Lévi, op. cit., pp.
-                130-31).</note>
-            <note>3. See, e.g., the inscriptions of Jayanātha and Sarvanātha of Uccakalpa (CII, Vol.
-                III, p. 119, text line 13; p. 122, text line 15; p. 127, text line 22).</note>
-            <note>4. The section is in the form of a dialogue between Bhīṣma and Yudhiṣṭhira, while
-                it contains smaller dialogues such as that between Bṛhaspati and Indra. A large
-                number of stanzas from this section are quoted by Hemādri in the Dānakhaṇḍa (of his
-                Caturvargacintāmaṇi), Banaras, Vol. II, pp. 477 ff. Some scholars think that the
-                stanzas quoted in inscriptions belonged to a recension of the Mahābhārata, which is
-                now lost (IHQ‚, Vol. III, p. 432). The Itihāsasamuccaya (cf. XIX, 38-39, 44, 52),
-                stated to have been composed in verses taken from the Mahābhārata, has some of these
-                stanzas (IHQ. Vol. VI. p. 777).</note>
-            <note>5. See, e. g„ Ind. Ant., Vol. VI, p. 29, text line 13; Ep. Ind., Vol. VI, p. 18,
-                text line 20; p. 97, text line 47 ( Man<seg rend="color(FF0000)">u-ādayo
-                    mah-arṣayaḥ</seg> ). For an explanation of Manu’s mention, see IHQ, Vol. VI, pp
-                777-78. Sometimes people were not quite confident and ascribed the stanzas to both
-                Manu and Vyāsa; cf. Manui-Vyāsa-gitau ślokau in Ep.lnd., Vol. XXVIII, p. 179, text
-                line 14. See No. 164.</note>
-            <note>6. Ep. Ind., Vol III. p. 146; Vol. VIII. p. 235, 240; etc. It is difficult
-                sometimes to say whether Brahman is the god of that name or the word means the
-                Brāhmaṇa class (i. e. the sages) or a Brāhmaṇa par excellence.</note>
-            <note>7. Ibid., Vol. III, p. 146; Vol. XXII. p. 95, text lines 12-13. In medieval
-                records, the grant is sometimes stated to have been made according to the
-                recommendations of Bṛhaspati (ibid., Vol. XXVIII, p. 245).</note>
-            <note>8. See, e‚ g., ibid., Vol. XXIV, p. 303, text line 23; Gauḍalekhamālā, p. 36. See
-                also Ep. Ind., Vol. II, p. 219, where some of the stanzas are represented as the
-                sayings of the sages Parāśara, Vatsa, Kutsa, Āṅgirasa, Gautama, Manu and
-                Yājñavalkya.</note>
-            <note>9. See, e. g,, Ep. Ind., Vol. III, p. 45; p. 268, text line 40. Out of the stanzas
-                quoted below, only No. 164 (Yo =<seg rend="italic color(FF0000)">’m</seg><seg
-                    rend="color(FF0000)">tam</seg>, etc) belongs to the Manusmṛti.</note>
-            <note>10. Cf. Ep. Ind., Vol. XVII, p. 304, text line 150.</note>
-            <p><pb n="172"/>Dharmaśāstras and rarely from the Smṛtis and the Purāṇas.<hi rend="superscript">1</hi>
-            </p>
-            <p>The subject of gifts of all kinds is dealt with more or less elaborately in the epics
-                and the Purāṇas<hi rend="superscript">2</hi> as well as in the Dharmaśāstras.<hi rend="superscript">3</hi></p>
-            <p>Since the Mahābhārata and the Purāṇas, both of which are regarded as Dharmaśāstra,
-                are ascribed to the authorship of the sage Vyāsa, it is interesting to note that
-                some of the imprecatory and benedictory stanzas generally quoted in the copper-plate
-                grants have been traced to the said sources and also that some of these charters
-                specifically mention Vyāsa as the author of the verses. Thus some records introduce
-                a few of the stanzas with the wordsVyāsa-gītā ṁś=c=ātra ślokān= udāharanti, <hi rend="superscript">4</hi> while others have uktaṁ ca bhagavatā paramar<hi
-                    rend="italic">ṣ</hi>iṇā Vedavyāsena.<hi rend="superscript">5</hi> The
-                Mahābhārata is particularly mentioned in another group of early charters in which we
-                haveuktaṁ ca Mahābhārate bhagavatā Vedavyāsena Vyāsena<hi rend="superscript">6</hi> or more fully</p>
-            <note>1. See, e. g., ibid., Vol. XXVIII, p. 263 (text line 34: dharmaśāstre); p. 282
-                (text line 24: dharmaśāstre<hi rend="italic">ṣu</hi>). For reference to Smṛti, cf.
-                ibid., Vol. XXXI, p. 248, text lines 35, 38, and to Purāṇa, see ibid., Vol. II, p.
-                360, text line 17; Vol. III, p. 68. Ep. Ca<seg rend="color(FF0000)">m., Vol.
-                </seg>XII. Si. No. 95 speaks of Itihāsa-Purā ṇa and quotes from Rāma, Āditya and
-                Bṛhaspati. A particular verse (No. 117‚ Sāmānyo = 'yaṁ. etc.), found in the Skanda
-                Puraṇa in a story associated with Rāma is sometimes attributed to him (Ep. Ind.,
-                Vol. XXXII, p. 55, text line 42; Skanda Purāṇa, Brahma–Khaṇḍa Dharmāraṇyakhaṇḍa, Ch.
-                34, verse 40). In a few cases, it is wrongly ascribed to Vālmīki, the author of the
-                Rāmāyaṇa (cf. Ep. Cam., Md. No. 113). Similarly, the stanza Bahubhir=vasudhā, etc. (
-                No. 23) is sometimes ascribed to Rāma (Ep. Cam., Vol. XII, Si. No. 95). Certain
-                medieval records speak of attainment of the fruits of making grants of land as
-                described in the Śiva Purāṇa (N. G. Majumdar, Ins. Beng., Vol. III, p. 137, text
-                lines 46-47).</note>
-            <note>2. Mahābhārata, III, 199; XIII, 57-81; Agni Purāṇa, Chapters 208-13, 271; Garuḍa
-                Purāṇa, Chapters 51, 98; Kūrma Purāṇa, II, Chapter 26; Liṅga Purāṇa, Chapters 28-44;
-                Matsya Purāṇa, Chapters 82-91, 223, 274-89; Padma Purāṇa, III, 24; VI, 33; Varāha
-                Purāṇa, Chapters 99-111; Bhavi<hi rend="italic">ṣya Purāṇa, </hi>IV (Uttara-parvan),
-                Chapters 148-202; cf. also Saura Purāṇa, Chapter 10; etc. For gifts of land, cf.
-                Mahābhārata, XIII, 62; Agni Purāṇa, 213; Kūrma Purāṇa, II, 26, 12-15; Matsya Purāṇa,
-                284; Padma Purāṇa, III, 24; VI, 33; Bhavi<hi rend="italic">ṣya Purāṇa, </hi>IV, 164;
-                Brahma Purāṇa, 155, 5-9; etc. See also Skanda Purāṇa, op. cit.. Chapter 34; Bhār.
-                Vid., Vol. VI, 1945, P- 237, note 4.</note>
-            <note>3. See, e.g., the Saṁhitās of Bṛhaspati, Saṁvarta, etc., quoted below. See also
-                the numerous quotations fiom various sources in the Dānakhaṇḍa in Hemādri's
-                Caturvargacintāmaṇi, Banaras, Vol. I, pp. 4. ff.; for grants of land, cf. Vol. II,
-                pp. 477 ff. Cf. Ballālasena’s Dānasāgara, Bib. Ind. ed., pp. 316-38.</note>
-            <note>4. CII, Vol. III, pp. 194, 198, 238, 247, 296. See also Ep. Ind., Vol. VI, p. 358
-                (Vyāsa-bhaṭṭāraka ); Vol. XXI, p. 81 (Vedavyāsa-mahātman); etc</note>
-            <note>5. CII, Vol. III. pp. 96, 104, 108, 115, 167, 179.</note>
-            <note>6. Ibid., pp. 119, 122, 127.</note>
-
-            <p><pb n="173"/>uktaṁ ca Mahābhārate śata-sāhasryām saṁhitāyāṁ param-ar<hi rend="italic"
-                    >ṣ</hi>inā Parāśara-sutena Vedavyāsena Vyāsena.<hi rend="superscript">1</hi>
-                As will be seen below, some of the stanzas are found in theMahābhārata and the
-                Purāṇas. The fact that all the stanzas specifically attributed to theMahābhārata
-                cannot be traced in the present texts of the work may be due to the confusion of the
-                scribes or to the loss of the version that contained the verses. The second
-                alternative is not improbable since some verses assigned to the Mahābhārata by
-                Hemādri in the thirteenth century cannot be traced in the available versions.</p>
-            <p>The few stanzas ascribed to Vyāsa or his Mahābhārata in the earlier records were
-                later quoted often along with various additional verses which were assigned to Vyāsa
-                or any of the other sources referred to above.<hi rend="superscript">2</hi> The
-                introduction of Bṛhaspati as the author of the verses is easily explained by the
-                fact that theMahābhārata puts some of the stanzas in Bṛhaspati’s advice to Indra<hi rend="superscript">3</hi> and that they are also found in the B<hi
-                    rend="italic">ṛhaspatisa</hi>ṁhitā. This double authorship ascribed to some of
-                the stanzas gradually led to further confusion. It seems that the word 'sage' as the
-                author of the stanzas, which was originally intended for Vyāsa or Bṛhaspati or both
-                of them, was later confused with a sage in general and therefore sometimes used in
-                the plural. This may have also been due to the fact that some of the verses are
-                found in works ascribed to various sages. Similarly, the expressionDharmaśāstra,
-                originally intended for theMahābhārata or the Purāṇas or a work of Bṛhaspati, was
-                later confused with theMānava-Dharmaśāstra and, as a result, the sage Manu was
-                confused with the author of the stanzas in question. It is not impossible that the
-                earlier inscriptions influenced the later compilations of the</p>
-            <note>1. Ibid„ p. 137. As has been noticed by scholars, the epithet śatasāhasrī saṁhitā
-                applied to the Mahābhārata refers to the large text such as we have it today.</note>
-            <note>2. In a few cases, the verses are separately ascribed to Vyāsa and to the old
-                sages (Ep. Ind., Vol. XXV, p. 60, line 51; p. 62, line 79; p. 63, line 86).</note>
-            <note>3. Cf. op. cit., XIII. 62, 51 ff. See also Ep. Carn?., Vol. XII, Si. No. 95 for a
-                number of stanzas ascribed to Bṛhaspati.</note>
-            <p><pb n="174"/>Purāṇas and Dharmaśāstras which themselves influenced the imprecatory
-                section of the medieval inscriptions.<hi rend="superscript">1</hi></p>
-            <p>While many records quote only one or a few of the stanzas, certain medieval charters
-                quote 20 or more verses.<hi rend="superscript">2</hi> The most frequently quoted
-                stanzas are the two in the Anuṣṭubh metre, viz.,Bahubhir=vasudhā bhuktā, etc. (No.
-                23) and Ṣa<hi rend="italic">ṣ</hi>tiṁvar<hi rend="italic">ṣ</hi>a-sahasrā<seg
-                    rend="italic">ṇi</seg>(No. 123), though they are often quoted with the addition
-                of one or more of the other verses. The two stanzas beginning withSva-dattāṁ
-                para-dattāṁ vā(Nos. 131-32) in the same metre are equally popular, though they are
-                not generally found together in the earlier epigraphs. Most of the other verses are
-                also in Anuṣṭubh. Among these, some are found in the records of different parts of
-                India, while some occur occasionally in those of a particular area. Certain royal
-                families (e. g. the Imperial Gaṅgas of Orissa) generally favoured a group of
-                stanzas, a few of which are not usually met with elsewhere. The stanzas such as Nos.
-                30(Bhūmipradā, etc.) and 99 (Niśamya doṣaṁ, etc.) and others like Nos. 80-81(K<hi
-                    rend="italic">ṣ</hi>udra-paśv-anṛte, etc.; Hanti jātān, etc.) are rarely quoted.
-                Sometimes verses quoted from works other than the Dharmaśāstras are also noticed.
-                Thus No. 88 (Madhu-Kaiṭabha°, etc.) is quoted from Murāri's Anargharāghava in an
-                inscription of 1521 A. D. There are many other stanzas of this nature, which do not
-                appear to be quotations, but were probably composed by the court poets of the
-                donors, who were responsible for drafting the documents.<hi rend="superscript">3</hi> This seems</p>
-            <note>1. Of the stanzas quoted below, Nos. 3-6, 78, 80-81, 93, 106, 119, and 155-59 have
-                been traced in the Mahābhārata, while Nos. 127 and 150 are assigned to the
-                Mahābhārataby Hemādri (cf. Nos. 93,96). Nos. 5, 20, 23, 29, 98, 106, 119, 123, 132
-                and 137 have been traced in the Padma Purāṇa. Nos. 20, 23, 43, 53, 90, 117, 123, 137
-                and 150 in the Skanda Purāṇa, and Nos. 103, 106, 131-32 and 150 in the
-                BhaviṣyaPurāṇa. Nos. 4-5, 13, 20, 23, 29, 34, 55, 64, 100, 106, 119, 121, 123, 126,
-                132, 137, 142 and 158 have been traced in the Bṛhaspatisaṁhitā, Nos. 5, 121 and 161
-                in the Saṁvartasaṁhitā and Nos. 4, 29, 124 and 164 respectively in the works of
-                Atri, Vṛddha-Hārīta, LaghuŚātātapa and Manu. No. 132 occurs in the BrahmaPurāṇa and
-                No. 98 in the Baudhāyana Dharmasūtra and Vasiṣṭhasmṛti.</note>
-            <note>2. Cf. Ep. Ind., Vol. XII, pp. 321 ff.; Vol. XXV, pp. 199 ff.</note>
-            <note>3. See, e. g., Ind. Ant., Vol. V, p. 207, text lines 13-14; Vol. VI. p. 12, text
-                line 14; p. 29, text lines 9-10; Vol. XIV, p. 73, text lines 112-13; Ep. Ind., Vol.
-                XIX, p. 45, text lines 32 ff.; p. 73, text lines 32-33, 38 ff.; Vol. XXII, p. 157,
-                text lines 46-48; p. 191, text lines 28-34; Ep. Carn.,Vol. XI, Eg. No. 28
-                (Upāyan-ārthaṁ, etc.); Vol. XII, Tp. No. 28 ( I Vaṣṭaṁ, etc.). Cf. below, Nos. 17,
-                30, 70, 86-87, 99, 108, 136, 138, 140, 153, 163, etc, a few of which are quoted in
-                many records.</note>
-            <p><pb n="175"/>to be supported by the fact that a few of the stanzas are sometimes
-                found outside the usual list of imprecatory and benedictory verses.<hi rend="superscript">1</hi></p>
-            <p>In some eases, stanzas which look like the composition of the court poets are mixed
-                up with the usual benedictory and minatory verses to create the impression that they
-                are also quotations from ancient authors.<hi rend="superscript">2</hi> A number of
-                pseudo-quotations of this kind have been omitted by us. They do not appear to be
-                quotations from the Dharmaśāstras, although some of them may be quoted from poetical
-                works. Stanzas not directly connected with gift have often been omitted.<hi rend="superscript">3</hi></p>
-            <p>There are cases where two consecutive stanzas have to be read together in order to
-                get the complete sense. We have kept them together, although the position of the
-                second verse in the couplet has also been indicated in its proper place in the
-                alphabetical order.<hi rend="superscript">4</hi> But there are a few instances
-                where more than two stanzas have to be read together for the sake of sense and we
-                have found it difficult to accommodate them in our scheme.<hi rend="superscript">5</hi></p>
-
-            <note>1. See, e.g., Calā vibhūtiḥ, etc. (No. 36). cf. No. 30.</note>
-            <note>2. Cf. the following stanza among those ascribed to Vyāsa (Ind. Ant., Vol. VI, p.
-                209) : Yātā yānti mahībhujaḥ kṣitim=imāṁ yāsyanti bhuktv=akhilāṁ no yātā na ca yāti
-                na yāsyati na ken=āpi sārdhaṁ dharā l yat=kiñcid= bhuvi tad=vināśi sakalaṁ kīrtiḥ
-                paraṁ sthāyinī matv = aivaṁ vasudhādhipāḥ para-kṛtā lopyā na sat-kīrtayaḥ || For
-                another stanza in a similar position, see Iha hi, etc., ibid., p. 207. Cf. Ep. Ind.,
-                Vol. XVII, p. 303, verse 19 (lines 144-46); Vol. XXII, p. 191. See also Chhabra,
-                Antiquities of Chamba State, II. p. 177 : Ye c= aitad=grāma-ratnaṁ, etc.</note>
-            <note>3. See Ind. Ant., Vol. XII. p. 186 :N=āyam=atyanta-saṁvāsaḥ kasyacit=kenacit=saha
-                | asti svena śarīreṇa kim=ut=ānyaiḥ pṛthag-janaiḥ|| Prāṇena dhāryate kāyaḥ sa ca
-                prāṇah samīranāt | samīraś=c=āti-capalaḥ kṛtam=apy=āyur=adbhutam ||
-                Sapta-lokaika-nāthasya Viṣṇor=api mahātmanaḥ| n=eyam niyata-vāsā Śrīḥ
-                kim=ut=ānya-sya kasyacit || See also Ep. Carn., Vol. XV, HN. No. 123.</note>
-            <note>4. See, e. g., Nos. 37-38.</note>
-            <note>5. The following verses are often found in the inscriptions of the
-                Kannaḍa-speaking area (cf. Ep.Carn„ Vol. III, Sr. No. 64; Vol. XI, Jl. No. 41; Vol.
-                XIV, Gu. No. 148, Nj. No. 295): <lg>
-                    <l>Indraḥ pṛicchati Caṇḍālīṁ kim=idaṁ pacyate śubhe | </l>
-                    <l>ś<seg rend="color(FF0000)">va-māṁsaṁ surayā siktaṁ kapālena cit-āgninā ||
-                        </seg></l>
-                    <l>kim=arthaṁ vada kalyāni carmaṇā pihitaṁ tvayā |</l>
-                    <l>Brahma-svaṁ Brāhmaṇa-ksetraṁ hārayanti haranti ye | </l>
-                    <l>teṣāṁ pāda-rajo-bhītyā carmaṇā pithitaṁ mayā ||</l>
-                </lg></note>
-
-            <p><pb n="176"/>The following stanzas, quoted from epigraphic records and arranged
-                alphabetically, may be divided primarily into two groups, viz. (1) those extolling
-                the merit accruing to gifts in general and particularly to gifts of land especially
-                those made in favour of the Brāhmaṇas, and (2) those denouncing the resumption of
-                gift land in the possession of Brāhmaṇas in particular. Some of the stanzas have
-                been quoted after removing the linguistic and metrical errors in their texts as
-                found in the inscriptions, while a few could not be quoted because their full texts
-                are either not decipherable owing to unsatisfactory preservation<hi rend="superscript">1</hi> or too erroneous to be reconstructed.<hi rend="superscript">2</hi> It is felt that some genuine quotations from the
-                Dharmaśāstras and medieval poems in epigraphic records may have escaped our
-                notice.</p>-->
-                        <!--
-            <note>We have kāka-māṁsaṁ surā-siktaṁ in op. cit., Vol. V‚ Arkalgud No. 9. For
-                Brahma-svaṁ, etc., sometimes we have Deva-Brāhmaṇa-vittāni balād=apaharanti ye
-                (ibid., Vol. III, sr. No. 137; Tn. No. 64).</note>
-            <note>1. See, e.g., Ep. Ind., Vol. XXII. pp. 156-57, verses 24-25, 32.</note>
-            <note>2. See, e. g., Ep. Carm., Vol. IX, Dv. No. 15 ( Śivaṁ, etc, and Indrāś=ca, etc. );
-                Vol. XI. Cd. No. 14 ( Deva-svaṁ, etc. ) ; Vol. XI. Cd. No. 82 (Catuḥ-sāgara°, etc.).
-                The following stanza quoted from the Atrisaṁhitā in Vol. XI, Cd. No. 82, does not
-                give a complete idea : 
-                    <l>Bhramanti suciraṁ kālaṁ kṣut-pipās-ādi-pīḍitāḥ l </l>
-                    <l>aghora-narakaṁ yānti yāvac=candra-divākaram ll </l>
-                
-                <p>The verse is not found in the work as incorporated in the Ūnaviṁśatiśaṁhitā,
-                    Calcutta.</p></note>
-            -->
             <div xml:id="Sircar1965_st001">
                 <div type="text">
                 <lg met="anuṣṭubh">
@@ -352,6 +65,9 @@
                 <l n="c">etāni na nivartante</l>
                 <l n="d">pūrva-rāja-kṛtāni ca</l>
             </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">It was given with ablutions; it has been enjoyed three times; it has been protected by noble men : these acts of the kings of olden days never cease.</p>
                 </div>
                 <div type="notes">
                     <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27.</note><!-- not yet checked -->
@@ -366,9 +82,12 @@
                         <l n="d">dharmasya jānanti narasya vṛttam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The sun and the moon, the wind and the fire, the sky, the earth, the waters, the heart and the spirit, and the day, and the night, and the two twilights, know man's deeds, [the act] of <foreign>dharma</foreign>.
+</p>
+                </div>
                 <div type="notes">
-                    <note>4. Ep. Carn., Vol. I, revised ed., p. 35<!-- Ep. Carn., Vol. I, revised ed., p. 35 = DHARMA ID: INSEC01011 -->; Ind.Ant., Vol. IV, pp. 333-34<!-- not yet checked -->. See
-                below, Nos. 37-38.</note>
+                    <note>4. Ep. Carn., Vol. I, revised ed., p. 35<!-- Ep. Carn., Vol. I, revised ed., p. 35 = DHARMA ID: INSEC01011 -->; Ind.Ant., Vol. IV, pp. 333-34<!-- not yet checked -->. See below, Nos. 37-38.</note>
                     <!-- DHARMA_INSEC09Dv15 Ep Carn 09 Dv n15 varaition in b hṛdayaṁ Yamaś ca instead of hṛdayaṁ manaś ca + variation d dharmaś ca jānāti -->
                 </div>
             </div>
@@ -381,15 +100,10 @@
                             <l n="d">brāhmaṇāyāhitāgnaye</l>
                         </lg>
                     </div>
-                    <div type="occurences">
-                        <p>
-                             <list>
-                            <item><title>Mahābhārata</title> XIII, 62, 46</item><!-- Sircar donc vérifier édition du Mbh cité critical or Pune?  -->
-                            <item>Ballāla’s <title>Dānasāgara</title> (under <title>Viṣṇudharmottara</title>) p.332</item><!-- vérifier Danasagara ajouter référence complète + vérifier édition Viṣṇudharmottara  -->
-                        </list>
-                        </p>
-                    </div>
-                    <div type="notes">
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Like the sun in the sky, they shine with energy, the men who offer earth for [sustaining] a fire established by a brahmin</p>
+                </div>
+                <div type="notes">
                         <note>5. Ep. Ind., Vol. XXV, p. 218, verse 39. The Mahābhārata (XIII, 62, 46) has it
                 with dīpyanti tejasā bhuvi in the first half and dadāti vasudhāṁ sphītāṁ ye
                 veda-viduṣi dvije in the second. Ballāla’s Dānasāgara (op. cit., p. 332) seems to
@@ -405,22 +119,12 @@
                 <l n="d">pratinandanti bhūmidam</l>
                 </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis and the Lord rejoice the land-giver.</p>
+                   <!-- <p rend="stanza">Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis et le Bienheureux accueillent avec joie celui qui donne des terres.</p>-->
+                </div>  
                  <div type="variation">
                      <l>Pitaraḥ, etc. See No. 4, note.</l>
-                </div>
-                <div type="translation">
-                    <p>Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis and the Lord rejoice the land-giver.</p>
-                    <p>Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis et le Bienheureux accueillent avec joie celui qui donne des terres.</p>
-                </div>           
-                <div type="occurences">
-                    <p>
-                        <list>
-                            <item><title>Mahābhārata</title>, XIII. 62, 48</item><!-- check edition -->
-                            <item><title>Atrisaṁhitā</title>, verse 330</item><!-- check edition -->
-                            <item><title>Bṛhaspatisaṁhitā</title>, 16</item><!-- check edition -->
-                            <item> Ballāla's <title>Dānasāgara</title>, p.316 (under <title>Dāna-Bṛhaspati</title>)</item><!-- check edition -->
-                        </list>
-                    </p>
                 </div>
                 <div type="notes">
                     <note>1. See, e. g., Ep. Ind., Vol. VIII, p. 142, text lines 33 f. Often abhinandanti is
@@ -433,8 +137,7 @@
                 A similar stanza is Pitaraḥ pitṛ-lokasthā deva-loke divaukasaḥ | santarpayanti
                 dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note><!-- ajouter cette stance ? Ep. Ind„ Vol XII, p. 97, lines 28-29 -->
                 </div>
-            </div>
-            
+            </div>   
             <div xml:id="Sircar1965_st0005">               
                 <div type="text">
                     <lg met="indravajrā">
@@ -444,55 +147,13 @@
                     <l n="d">yaḥ kāñcanaṁ gāṁ ca mahīṁ ca dadyāt</l>
                     </lg>
                 </div>
-                <div type="variation">  
-                        <p>                            <list>
-                                <item><foreign>pāda</foreign> c: <foreign>loka-trayaṁ tena bhaved dhi dattaṁ</foreign> in <bibl><ptr target="bib:Upadhyaya1939-1940_01"/><citedRange unit="line">51-52</citedRange><citedRange unit="page">63</citedRange></bibl></item>
-                                <item><foreign>pāda</foreign> c: <foreign>lokās trayas tena bhavanti dattā</foreign> in <title>Mahābhārata</title>, III, 199, 128, <title>Bṛhaspatisaṁhitā</title>, verse 31, and <title>Saṁvartasaṁhitā</title>, verse 74</item><!-- Need to check -->
-                                <item><foreign>pāda</foreign> c <foreign>teṣām anantaṁ phalam aśnuvīta</foreign> in <title>Padma Purāṇa</title>, VI, 33, 32</item><!-- Need to check -->
-                            </list>
-                            </p>
-                    </div>
-                <div type="translation" resp="part:amwb">
-               
+                <div type="translation" resp="part:amwb">      
                         <p rend="stanza">
                  Gold is Agni's first born son, Earth Viṣṇu's wife and cows Sun's daughters; the one who gives gold, cows and land, the worlds belongs to him by these three kinds of gifts.
                 </p>
-                        <p rend="stanza">
-                            L'Or est le premier fils né d'Agni, la Terre est l'épouse Viṣṇu et les vaches sont les filles du Soleil; celui qui donne de l'or, des vaches et des terres, par ces trois sortes de dons les mondes lui appartiennent.</p>
-                    </div>
-                <div type="occurences">
-                    <div type="inscriptions">
-                        <p>
-                            <list>
-                                <item><title>Mahābhārata</title>, III, 199, 128</item>
-                                <item><title>Bṛhaspatisaṁhitā</title>, verse 31</item>
-                                <item><title>Saṁvartasaṁhitā</title>, verse 74</item>
-                                <item><title>Padma Purāṇa</title>, VI, 33, 32</item>
-                                <item>Ballāla's <title>Ḍānasāgara</title>, p. 317 (under <title>Saṁvaṛta</title>)</item>
-                            </list>
-                            <list>
-                                <item> <bibl><ptr target="bib:Fleet1970_04"/><citedRange unit="line">17-19</citedRange><citedRange unit="page">194</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti -->
-                                <item><bibl><ptr target="bib:Fleet1970_02"/><citedRange unit="line">19-20</citedRange><citedRange unit="page">198</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti -->
-                                <item><bibl><ptr target="bib:Fleet1970_03"/><citedRange unit="line">30-32</citedRange><citedRange unit="page">296</citedRange></bibl></item><!-- Vyāsagītāṁś cātra ślokānudāharanti + preceded by Api ca rakṣāpālanayas tāvaat phalaṁ sugati durgati ko nāma svargam ucchrijya narakaṁ pratipadyate -->
-                            </list></p>
-                    </div>
-                    
-                 </div>
-                <div type="authorship">
-                    <p>
-                    <list>
-                        <item><title>Dharmaśāstra</title> according to <ref target="DHARMA_INSSomavamsin00003">Gopalpur Plates of Mahābhavagupta Janamejaya, Year 10</ref></item>
-                        <item>Saṁvarta according to Ballāla's <title>Ḍānasāgara</title> p.137</item><!-- Need to check -->
-                    </list>
-                    </p>
-                </div>
-                <div type="bibliography">
-                    <listBibl>
-
-                        <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="entry">5</citedRange><citedRange unit="page">177</citedRange></bibl>
-                    </listBibl>
-                    
-                </div>
+                       <!-- <p rend="stanza">
+                            L'Or est le premier fils né d'Agni, la Terre est l'épouse Viṣṇu et les vaches sont les filles du Soleil; celui qui donne de l'or, des vaches et des terres, par ces trois sortes de dons les mondes lui appartiennent.</p>-->
+                    </div>                    
                 <div type="notes">
                      <note>2. CII, Vol. III, pp. 194, 198, 296. Sometimes we have loka-trayaṁ tena bhaved=dhi
                 dattaṁ (Ep. Ind., Vol. XXV, p. 60‚ text lines 51-52). The same stanza occurs in the
@@ -511,12 +172,8 @@
                         <l n="d">yad dattvā vasudhāṁ nṛpa</l>
                     </lg>
                 </div>
-                <div type="occurences">
-                    <p>
-                        <list>
-                            <item><title>Mahābhārata</title> XIII, 62, 73</item>
-                        </list>
-                    </p>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Even after offering sacrifices such as the Agniṣṭoma etc, whose fees are substantial, one does not obtain the fruit (obtained) after giving earth.</p>
                 </div>
                 <div type="notes">
                      <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
@@ -527,8 +184,6 @@
                 sv-āpta- dakṣiṇaiḥ in the second foot.</note>
                 </div>
             </div>
-            
-            
                <div xml:id="Sircar1965_st0007">
                    <div type="text">
                        <lg met="anuṣṭubh">
@@ -538,16 +193,9 @@
                            <l n="d">svayaṁ-dattāpahāriṇam</l>
                        </lg>
                    </div>
-                   <div type="occurences">
-                       <div type="inscriptions">
-                           <p>
-                               <list>
-                                   <item>See <bibl><ptr target="bib:Rice1905_03"/><citedRange unit="page">93</citedRange></bibl>, DHARMA ID : INSEC09Dv015</item>
-                                   <item>See <bibl><ptr target="bib:Rice1905_01"/><citedRange unit="page">259</citedRange></bibl>, DHARMA ID : INSEC10003</item>
-                               </list>
-                           </p>
-                       </div>
-                   </div>
+                   <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Alas, o son of Raghu, the best of kings, during a life of seven <foreign>kalpa</foreign> I can’t see or hear the man who steals the gift for his own purpose.</p>
+                </div>
                    <div type="notes">
                        <note>4. Ep. Carn., Vol. IX, Dv. No. 15; Vol. X, Goribidnur No. 3; cf. Vol. XIV, Gu. No.
                 126.</note>
@@ -572,6 +220,9 @@
                             <l n="d">prāpnoti paramaṁ padam</l>
                         </lg>
                     </div>
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Taxing a tax-exempt land is equal to the slaughter of ten million cows, but exempting a taxable resource from taxes allows us to reach the ultimate goal.</p>
+                </div>
                     <div type="variation">
                         <l>Akara-kara-kāras=tu, etc. See No. 8‚ note.</l>
                         <l>Akareṣu, etc. See No. 8, note.</l>
@@ -594,6 +245,9 @@
                             <l n="d">bhūmi-dānāpahārakaḥ</l>
                         </lg>
                     </div>
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza">He who steals a land-gift will be born twelve times in darkness, ten times as a boar, a thousand times as a leper.</p>
+                </div>
                     <div type="variation">
                         <l>Andhakaḥ, etc. See No. 9, note.</l>
                     </div>
@@ -611,6 +265,9 @@
                             <l n="d">na lopyāḥ para-kīrtayaḥ</l>
                         </lg>
                     </div>
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Having considered that the fortune is as transient as a drop of water on a lotus petal, and having thought that all is an illustration, let the glorious acts made by others not be destroyed.</p>
+                </div>
                     <div type="notes">
                         <note>2. Ep. Ind., Vol. XIX, p. 45, text lines 31-32. See No. 71 below.</note><!-- EI 19 p45 checked and added in my table -->
                     </div>
@@ -624,6 +281,9 @@
                        <l n="d">yo dānaṁ parisaṁvaret</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Anyone who is enriched by a gift that comes from someone else, or even from another <foreign>gotra</foreign>, is tainted with the great sins:</p>
+                </div>
                <div type="notes">
                    <note>3. Ep. Carn., Vol. XIV, IIg. No. 143.</note>
                </div>
@@ -637,6 +297,9 @@
                             <l n="d">vajralepena tiṣṭhati</l>
                         </lg>
                     </div>
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Sin committed in a foreign field disappears in a sacred field. Sin committed in a sacred field remains as a sticking plaster.</p>
+                </div>
                     <div type="variation">
                         <l>Anityāni śarīrāṇi, etc. See No. 12, note. </l>
                      </div>
@@ -656,6 +319,9 @@
                          <l n="d">dahaty ā-saptamaṁ kulam</l>
                      </lg>
                  </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Amongst the sins committed in the past and in the future, [there are the cases when] the earth has been taken in an improper manner or taken in a good way has been stolen : [in both these cases] one burns during seven generations.</p>
+                </div>
                  <div type="notes">
                      <note>5. Ind. Ant., Vol. XVII, p. 12 (text lines 25-26) reads the second and third feet
                 as anyāyena tu hāritā and harato hārayataś=ca. The Bṛhaspatisaṁhitā (verse 36) has
@@ -673,6 +339,9 @@
                             <l n="d">sva-dattasyāpahārakaḥ</l>
                         </lg>
                     </div>
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The one who has stolen what was given to his relatives is the worst and the most malevolent : as a dog, he will eat the vomits of others instead his own. </p>
+                </div>
                     <div type="variation">
                         <l>Anyaiś ca charditaṁ, etc. See No. 14, note. </l>
                     </div>
@@ -691,6 +360,9 @@
                             <l n="d">-brahmasva-haraṇe nṛṇām</l>
                         </lg>
                     </div>
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                     <div type="variation">
                          <l>Śiva-putro, etc. See No. 15, note. </l>                
                         <l>Aṣṭāviṁśati, etc. See No. 15, note. </l>
@@ -713,6 +385,10 @@
                             <l n="d">svarga-loke mahīyate</l>
                         </lg>
                     </div>
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Whoever gives to a <foreign>vipra</foreign> even a small piece of land in his possession will rejoice in heaven for sixty thousand years.
+</p>
+                </div>
                     <div type="notes">
                          <note>1. Ind. Ant., Vol.XIV, p. 73.</note>
                     </div>
@@ -726,6 +402,9 @@
                             <l n="d">kalpa-koṭiṣu modate</l>
                         </lg>
                     </div>
+                    <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                     <div type="notes">
                         <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note><!-- Checked and added in my table-->
                     </div>
@@ -739,6 +418,9 @@
                     <l n="d">svayaṁ–kartṛtvam eva ca</l>
                 </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Even in the unfit saṁsāra, protecting the glorious deeds made by another or by ourselves gives the double fruit in this life.</p>
+                </div>
                 <div type="notes">
                      <note>3. Ep. Ind., Vol. XIX, p. 45, text lines 30-31.</note><!-- checked and added in my table -->
                 </div>
@@ -751,6 +433,9 @@
                         <l n="c">lakṣmyās taḍit-salila-budbuda-cañcalāyā </l>
                         <l n="d">dānaṁ phalaṁ para-yaśaḥ-paripālanañ ca</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXVIII, p. 277, text lines 22-25; cf. Vol. XXXVI, p. 46.</note>
@@ -766,14 +451,15 @@
             <l n="d">sa nas trātā bhaviṣyati</l>
                            </lg>
                    </div>
+                  <div type="translation" resp="part:amwb">
+                      <p rend="stanza">The Fathers are applauding and the Grand-Fathers are hopping up and down [when they can say] ‘A giver of land is born within our lineage, sure, he will deliver us!'</p>
+                     <!-- <p rend="stanza">Les pères applaudissent, les ancêtres trépignent de joie [quand ils peuvent dire:] ‘Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur!’</p> -->
+                  </div>
                     <div type="variation">
                         <l>nandanti tasya pitaraḥ, etc. See No. 20, note. </l> <!-- EI28_44_B -->
                         <l>Ānandanti ca, etc. See No. 20, note.</l>
                     </div> 
-                  <div type="translation">
-                      <p rend="stanza">The Fathers are applauding and the Grand-Fathers are hopping up and down [when they can say] ‘A giver of land is born within our lineage, sure, he will deliver us!'</p>
-                      <p rend="stanza">Les pères applaudissent, les ancêtres trépignent de joie [quand ils peuvent dire:] ‘Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur!’</p>
-                  </div>
+                  
                   <div type="notes">
                         <note>5. CII, Vol. III. p. 119. Sometimes we have nandanti tasya pitaraḥ or nṛtyanti
                 pitaras=tasya (Ep. Ind.,Vol. XXIX, p. 194, text line 35; Vol. XXV, p. 218, verse 38)
@@ -797,13 +483,15 @@
                           <l n="d">bhūmi-dānārdhikaṁ phalam</l>
                       </lg>
                   </div>
+                   <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The fruit of thousand horse-sacrifices, that of thousand Vājapeya sacrifices, and of thousand solemn sacrifices of the soma <foreign>pauṇḍarika</foreign> are worth half that of a gift of land.</p>
+                </div>
                   <div type="notes">
                        <note>6. Ep. Ind., Vol. XII, p. 324, text lines 26-27. The second half is also given as
                 kṛtvā yat=phalam-\-āpnoti bhūmi-dānat=tad=aśnute(Ep. Carn., Vol. X, Malur No.
                 57).</note>
                   </div>
-              </div>
-            
+              </div>        
             <div xml:id="Sircar1965_st0022">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -812,6 +500,9 @@
                         <l n="c">ābhiśraiṣṭhyaṁ yaśaḥ svargaṁ</l>
                         <l n="d">bhūmido labhate phalam</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The long life, sons, the wealth, the felicity, the happiness, an indestructible royalty, the supremacy, the glory and the sky, it is what is obtained by a land-giver.</p>
                 </div>
                 <div type="notes">
                      <note>1. Ind. Ant.,VoI. XII. p. 127.</note>
@@ -828,17 +519,17 @@
             <l n="d">tasya tasya tadā phalam</l>
                        </lg>
                    </div>
+                   <div type="translation" resp="part:amwb">
+                       <p rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong</p>
+                     <!--  <p rend="stanza">Des centaines de rois à commencer par Sagara ont fait don de terre. Le bénéfice (du don de terre) revient toujours à celui qui en est alors le propriétaire.</p> -->
+                   </div>
                    <div type="variation">
                         <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>
                        <l>manu-prabhṛtibhir mānyaiḥ, etc. Sec No. 23, note. </l> <!-- checked in EI 28.13 -->
                        <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l>
                          <l>Yānti kālena, etc. See No. 23, note. </l>
                          <l>Yas=tu pālayate, etc. See No. 23, note. </l>
-                   </div>
-                   <div type="translation">
-                       <p rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong</p>
-                       <p rend="stanza">Des centaines de rois à commencer par Sagara ont fait don de terre. Le bénéfice (du don de terre) revient toujours à celui qui en est alors le propriétaire.</p>
-                   </div>
+                   </div>              
                     <div type="notes">
                        <note>2. <seg>CII</seg>, Vol. III. pp. 96, 104, 108, 115, 119, 122, 127,
                 133, etc., where this stanza is found together with Ṣaṣṭiṁ varṣa-sahasrāṇi, etc.
@@ -875,6 +566,9 @@
                         <l n="d">dharmo lokadvaya-kṣamaḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">What can I say? Here is a summary : health is short and wealth instable, but <foreign>dharma</foreign> remains in the two worlds.</p>
+                </div>
                 <div type="notes">
                      <note>3. Ep. Ind., Vol. XXVIII, p. 216, text lines 25–26.</note>
                 </div>
@@ -887,6 +581,9 @@
                         <l n="c" enjamb="yes">agādhāpāra-saṁsāra</l>
                         <l n="d">-sāgarottāraṇaṁ bhavet</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXV, p. 60‚ text lines 53-54.</note><!-- checked and added in my table -->
@@ -901,6 +598,9 @@
                        <l n="d">sarva-kāmān dadāti saḥ</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza">In this world, there is no gift such as the gift of land. The land-giver obtains all his desires.</p>
+                </div>
                <div type="notes">
                    <note>5. Ep. Ind., Vol VIII. p. 303, text lines 23-24.</note>
                </div>
@@ -913,6 +613,9 @@
                         <l n="c">pālakaś cānumantā ca</l>
                         <l n="d">svargaṁ gacchati mānavaḥ</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The land-giver, the pure one who orders a land-gift and the one who will protect it, all these men go to heaven.</p>
                 </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. IV, p. 170, line 121.</note>
@@ -927,6 +630,9 @@
                         <l n="d">na bhūtaṁ na bhavisyati</l>
                     </lg>
                 </div> 
+                <div type="translation" resp="part:daba"><!-- stanza III INSVengiCalukya00065  -->
+                    <p rend="stanza">There has never been and will never be a gift superior to the gift of land, nor has there ever been or will ever be a sin [superior] to the seizing of the same.</p>
+                </div>
                 <div type="variation">
                     <l>Bhūmi-dāna-samaṁ dānaṁ na, etc. See No. 28, note. </l>
                 </div>
@@ -954,13 +660,13 @@ Il n’y en eut point et n’y en aura point -->
                 <l n="d">niyataṁ svarga-gāminau</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.</p>
+                <!--    <p rend="stanza">Celui qui reçoit un don de terre et celui qui l’offre, tous deux sont des hommes aux actes méritoires qui sans aucun doute iront au ciel.</p>-->
+                </div>
                 <div type="variation">
                     <l>Dātā ca preraka°, etc. See No. 29, note.</l>
                     <l>Upadeśī ca dātā ca, etc. See No. 29, note.</l>
-                </div>
-                <div type="translation">
-                    <p rend="stanza">The one who receives a land and the one who offers a land, both of them are men with meritorious deeds who are surely going to heaven.</p>
-                    <p rend="stanza">Celui qui reçoit un don de terre et celui qui l’offre, tous deux sont des hommes aux actes méritoires qui sans aucun doute iront au ciel.</p>
                 </div>
                 <div type="notes">
                      <note>1. Ep. Ind., Vol. III, p. 343, text lines 30-31; p. 348, text lines 24-25.
@@ -989,6 +695,9 @@ Il n’y en eut point et n’y en aura point -->
                 <l n="d">āyus tathā kurutha yad bhavatām abhīṣṭam</l>
                 </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. XXXI, p. 221, text lines 21-24. The stanza is sometimes quoted
                 separately from the Vyāsa-gīta group of verses (ibid. Vol. XXXIV, p. 114).</note>
@@ -1000,8 +709,12 @@ Il n’y en eut point et n’y en aura point -->
                         <l n="a">bhūmi-pradānān na paraṁ pradānaṁ </l>
                         <l n="b">dānād viśiṣṭaṁ paripālanañ ca</l>
                         <l n="c">sarve 'tisṛṣṭāṁ paripālya bhūmiṁ</l>
-                        <l n="d">nṛpā nṛg-ādyās=tridivaṁ prapannāḥ</l>
+                        <l n="d">nṛpā nṛgādyās tridivaṁ prapannāḥ</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">There is no better gift than the gift of earth and protection is better than the gift. After protecting the very well-created earth all the kings starting with Nṛga reached the triple heaven.
+</p>
                 </div>
                 <div type="notes">
                     <note>3. CII, Vol. III, p. 115. text lines 22-23.</note>
@@ -1016,6 +729,9 @@ Il n’y en eut point et n’y en aura point -->
                        <l n="d">daśa pūrvān daśāvarān</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note> 
                 4. Ep. Ind., Vol. VI, p. io2 text lines 33-34. Ibid Vol. XXV, p. 219, verse 52 has
@@ -1036,11 +752,13 @@ Il n’y en eut point et n’y en aura point -->
                     <l n="d">saikatāḥ setavo yathā</l>
                 </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>5. Ep. Carn., Vol. III. Sr. 12.</note>
                </div>
-           </div>       
-           
+           </div>                
             <!--
                  <pb n="182"/>-->
             <div xml:id="Sircar1965_st0034">
@@ -1051,6 +769,10 @@ Il n’y en eut point et n’y en aura point -->
                         <l n="c">agni-dagdhāṁ rohanti</l><!-- unmetrical  -->
                         <l n="d">brahma-dagdhaṁ na rohati</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Don’t think about the property of a brahmin, even if his vital breath is gone to his throat ! All the things burnt by fire grow up (again) but one thing burnt by a brahmin never grows again!
+</p>
                 </div>
                 <div type="notes">
                     <note>1. Ind. Ant., Vol. XIX, p. 310, text lines 30-32. The first half of the stanza is
@@ -1066,6 +788,9 @@ Il n’y en eut point et n’y en aura point -->
                         <l>dharma eko hi niścalaḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Unsteady is the Whealth, as well as are the breaths and the youth of the life; indeed within the moving to and fro <foreign>saṁsāra</foreign> the only firm thing is <foreign>dharma</foreign>.</p>
+                </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. XXII, p. 194, text lines 17-18.</note>
                 </div>
@@ -1078,6 +803,9 @@ Il n’y en eut point et n’y en aura point -->
                         <l>tathāpy avajñā para-loka-sādhane</l>
                         <l>nṛṇām aho vismayakāri ceṣṭitam</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXXII, p. 7o, text lines 9-11.</note>
@@ -1095,6 +823,9 @@ Il n’y en eut point et n’y en aura point -->
                         <l n="g">aho rātraṁ ca dānasya</l>
                         <l n="h">ete vai sākṣiṇaḥ smṛtāḥ</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                     <l>Tisraḥ sandhyā , etc. See No. 38.</l>
@@ -1117,18 +848,24 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">dattāṁ bhuvaṁ bhavatu vo matir eṣā goptum</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                      <note>5. Ep. Ind., Vol. IX, p. 173, text lines 12-14.</note>
                 </div>
             </div> 
             <div xml:id="Sircar1965_st0040">
-                <div>
+                <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">dāna-pālanayos tāvat</l>
                         <l n="b">phalaṁ sugati-durgatī</l>
                         <l n="c">ko nāma svargam utsṛjya</l>
                         <l n="d">narakaṁ pratipadyate</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                     <l>Dānaṁ vā, etc. See No. 40, note.</l>
@@ -1154,6 +891,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">pacyate raurave dhruvam</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                     <note>7. Ind. Ant., Vol. XII, p. 127.</note>
                </div>
@@ -1168,6 +908,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                    <l n="d">kulāni kurunandana</l>
                </lg>
                 </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="variation">
                     <l>Dātā daś=ānugṛhṇāti daśa, etc. See No. 42, note.</l>
                 </div>
@@ -1177,7 +920,6 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 Ant., Vol. XlV, p. 319, text lines 111-12).</note>
                </div>
            </div>
-
            <div xml:id="Sircar1965_st0043">
                <div type="text">
                    <lg met="indravajrā"> 
@@ -1187,6 +929,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">ko nāma sādhuḥ punar ādadīta</l><!-- Sircar : māma sādhuḥ , I follow the reading found in EI32_14_1 -->
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="variation">
                    <l>Yān=īha dāridya°, etc. See No. 43, note. </l>
                    <l>Yān=īha dattāni, etc. See No. 43, note. </l>
@@ -1215,6 +960,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">bhaved ātma–vadhāya ca</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                      <note>3. Ep. Carn., Vol. V, Belur No. 58.</note>
                 </div>
@@ -1228,6 +976,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">aputraś copajāyate</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="variation">
                    <l>Deva-śāsana-loptāro, etc. See No. 45, note. </l>
                    <l>Devasya, etc. See No. 45, note.</l>
@@ -1261,6 +1012,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">tam āhur brahma-ghātakam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>5. Ep.Ind., Vol. XIII, p. 173. Sometimes we have gavāṁ for gavāṁ and praṇaṣṭāṁ for
                 pranaṣḷaṁ (R. S. Panchamukhi, Karnatak Inscriptions, Vol. II, p. 102),</note>
@@ -1277,6 +1031,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">bhakṣayañ ca kula-kṣayam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>1. Ep. Carn., Vol. XII, Tin. No. 37.</note>
                 </div>
@@ -1289,6 +1046,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">brahma–svāni tu ye mohāt</l>
                         <l n="d">pacyate narake tu te</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>2. Ind. Ant., Vol. XII, p. 121.</note>
@@ -1307,6 +1067,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="h">loka-dvaya-hitaiṣiṇā</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="variation">
                    <l>Tasmād=dharmaḥ, etc. See No. 50.</l>
                    <l>Brāhmaṇebhyaḥ, etc. See No. 55, note. </l> 
@@ -1324,6 +1087,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">pratipede rasātalam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. VI, p. 344, verses 45-46.</note>
                 </div>
@@ -1338,6 +1104,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">dāna-mānārcanādibhiḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                      <note>5. Ep. Ind., Vol. XIX, p. 213, text lines 34-35.</note>
                 </div>
@@ -1351,6 +1120,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">vipra-dattā vasundharā</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XVI, p. 351, text lines 78-80; p. 318. Sometimes we have bhogyā
                 (ibid., p. 253). The same stanza occurs in the Skanda Purāṇa, op. cit., verse
@@ -1359,12 +1131,15 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
             </div>
             <div xml:id="Sircar1965_st0054">
                 <div type="text">
-                    <lg met="">
+                    <lg met="anuṣṭubh">
                         <l n="a">Ekaviṁsat–kulasyeva</l>
                         <l n="b">kaṣṭaṁ hi narake sthitam</l>
                         <l n="c">bhūmi-pradāna-mātreṇa</l>
                         <l n="d">tvac evāher vimucyate</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>7. Ep. Ind., Vol. XII, p. 324, line 33. The same stanza occurs again in lines
@@ -1381,6 +1156,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                                 <l n="d">yāvad—ā-bhūta-saṁplavam</l>
                             </lg>
                         </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="variation">
                      <l>gām ekāṁ ca, etc. See No. 55, note.</l>
                      <l>gām ekāṁ ratnikā°, etc. See No. 55, note.</l>
@@ -1419,6 +1197,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">dharma-saṁrakṣaṇe phalam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note> 1. Ep. Ind., Vol. VI, p. 97. Ep. Carn.,Vol. VIII. Tl. No. 5 has
                 dharmasaṁsthāpane.</note>
@@ -1433,6 +1214,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l>brahma-hatyā ca limpati</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note> 2. Ep. Ind., Vol. IV. p. 197, lines 31 -32.</note>
                 </div>
@@ -1446,6 +1230,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                       <l n="d">bhaved bhūmi-prapālanāt</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note> 3. Ind. Ant., Vol. VII, p. 121.</note>
                </div>
@@ -1458,6 +1245,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">vipra-haty ārṣi-hatyāva</l>
                         <l n="d" enjamb="yes">bhañjakas tayā lipyate</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note> 4. Ep. Ind.,Vol. XIII, p. 208, text lines 6-8.</note>
@@ -1476,6 +1266,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="h">brahma-bhūmyapahārakāḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="variation">
                      <l>Rājāno rāja-kulyāś=ca, etc. See No. 61. </l>
                 </div>
@@ -1493,6 +1286,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">tasyā hartā pācyate kāla-dūtaiḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note> 6. Chhabra, Antiquities of Chamba State, II, p. 179.</note>
                 </div>
@@ -1506,6 +1302,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">dānaṁ tad vimalaṁ proktaṁ</l>
                         <l n="d">kevalaṁ mokṣa-dāyinam</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                     <l>Yatra yogīśvaraḥ, etc. See No. 63, note. </l>
@@ -1525,6 +1324,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">sa baddho vāruṇaiḥ pāśais</l>
                         <l n="d">tiryag-yoniṁ ca gacchati</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                      <l>Hareta, etc. See No. 64, note.</l>
@@ -1550,6 +1352,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">sa yāti narakaṁ naraḥ</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>2. Ind. Ant., Vol. XII, p. 121.</note>
                </div>
@@ -1562,6 +1367,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">kulaṁ samūlaṁ dahati</l>
                         <l n="d">brahmasv-āraṇi-pāvakaḥ</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                     <l>Vanaṁ, etc. See No. 66, note. </l>
@@ -1581,6 +1389,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">yena dattā vasundharā</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXIII. p. 229, verse 17.</note>
                 </div>
@@ -1593,6 +1404,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">ete ca narakaṁ yānti</l>
                         <l n="d">yāvad indrāś caturdaśa</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                       <note>5. Ep. Ind., Vol. XI, p. 313. The second half is sometimes read as: narakān=na
@@ -1608,6 +1422,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">phalaṁ śākhāsu dṛśyate</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                      <note>6. Ep.Ind., Vol. XXXIII. p- 213, verse 9.</note>
                </div>
@@ -1621,6 +1438,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                          <l n="d" enjamb="yes">-carmakārātmajās tu te</l>
                      </lg>
                  </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                  <div type="notes">
                      <note>7. Ep. Carn., Vol. III, TN. No. 63; Sr. No. 64.</note>
                  </div>
@@ -1630,9 +1450,12 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <lg met="puṣpitāgrā">
                     <l n="a">Iti kamala-dalāmbu-bindu-lolāṁ</l>
                     <l n="b">śriyam anucintya manuṣya-jīvitaṁ ca</l>
-                    <l n="c">sakalam idam udāhṛtaṁ ca buddhvā </l>
+                    <l n="c">sakalam idam udāhṛtaṁ ca buddhvā</l>
                     <l n="d">na hi puruṣaiḥ para-kīrtayo vilopyāḥ</l>
                 </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                      <l>Taḍit-taraṅga-bahulām, etc. See No. 71, note.</l>
@@ -1660,6 +1483,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">sarvair ātma-hitaiṣibhiḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                      <note>1. Ep. Ind., Vol. XXXII, p. 54, text lines 55–56.</note>
                 </div>
@@ -1673,6 +1499,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">dharma-dāyaṁ karoti yaḥ</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>2. Ep. Ind., Vol. XXXII, p. 70, text lines 2I–22.</note>
                </div>
@@ -1686,6 +1515,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">sarva-karma-bahiṣkṛtaḥ</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>3. Ep. Ind., Vol. VI, p. 97, text lines 52-53. We have also dharma for karma (Ind.
                 Ant.,Vol. IV, p. 276),</note>
@@ -1699,6 +1531,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">karmanāṁ bhāginaḥ pretya</l>
                         <l n="d">bhūyo bhūyas tu tat phalam</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>4. Ep. Carn., Vol. VIII, Tl. No. 5.</note>
@@ -1714,6 +1549,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">na rājā hartum arhati</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                      <note>5. Ep. Ind., Vol. XXXIII. p. 213, verse 6.</note>
                 </div>
@@ -1726,6 +1564,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">sahasram aśvamedhānāṁ</l>
                         <l n="d">sva-hastaś caiva tat-samaḥ</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>6. Ind. Ant., Vol. XII, p. 186. The word sva-hasta here seems to mean the donor's
@@ -1741,6 +1582,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">sukhī bhavati kāmadaḥ</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="variation">
                     <l>Santarpayati dātāram, etc. See No. 78, note. </l>
                </div>
@@ -1756,7 +1600,6 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 mānavaḥ, for which Hemādri has kliśyamānāya c=ātyarthaṁ vṛtti-glānāya), Cf.
                 Mahābhārata, XIII. 59, 11.</note>
                </div>
-           </div>
           <!--  <l>Kṛta-Tretā-Dvāpareṣu, etc. See No. 97, note. </l> -->
             <div xml:id="Sircar1965_st0079">
                 <div type="text">
@@ -1767,13 +1610,15 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">vipadi dhakṣyati vo 'nusay-ānalaḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>8. Ep. Ind., Vol. XXV, p. 156, text lines 30-33.</note>
                 </div>
             </div>      
          <!--  
-            <pb n="188"/>-->
-            
+            <pb n="188"/>-->          
             <div xml:id="Sircar1965_st0080"><!-- Caution here Sircar attributes two numbers 80 and 81  -->
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1786,6 +1631,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="g">sarvaṁ bhūmyanṛte hanti</l> 
                         <l n="h">mā sma bhūmyanṛtaṁ vadet</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                      <l>Pañca paśv-anṛte hanti, etc. See Nos. 80-81, note. </l>
@@ -1818,6 +1666,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">sapta sapta ca sapta ca</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="variation">
                     <l>Ek–āhany=api, etc. See No. 82, note.</l>
                 </div>
@@ -1836,6 +1687,10 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">sa hi kalpān anekaśaḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The man lost by sin, with his intoxicated soul, who steals men out of greed, 
+will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
+                </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXVIII, p. 75.</note> <!-- checked and added in my table  -->
                 </div>
@@ -1849,21 +1704,27 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">kaḥ pumāñ jarayiṣyati</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XII, p. 325, line 37. The second half has been given in Ep.
                 Carn., Vol. XII, Tp. No. 18 as : deva-svaṁ triṣu lokeṣu na jīrṇam=iti
                 viśrutam.</note>
                 </div>
             </div>
-                     <div xml:id="Sircar1965_st0085">
-                         <div type="text">
+             <div xml:id="Sircar1965_st0085">
+                <div type="text">
                         <lg met="anuṣṭubh">
             <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
             <l n="b">para-datteti pārthivāḥ</l>
             <l n="c">sva-dānāt phalam ānantyam</l>
             <l n="d">para-dattānupālane</l>
                         </lg>
-                       </div>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                      <div type="notes">
                          <note>5. Ep. Ind., Vol. III, p. 343, text lines 25-26; p. 348, text lines 18–20; p. 353,
                 text lines 44-45. Sometimes mā bhūta°, para-dān-ānu° and °pālanam, te para-datt=eti
@@ -1881,6 +1742,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">bhūpair ā-candra-tārakam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XXVIII, p. 311, text lines 10-11; p. 257. This stanza is
                 generally found in the grants of the Imperial Gaṅgas of orissa. Sometimes we have
@@ -1888,7 +1752,6 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 </div>
             </div>      
            <!--  <pb n="189"/>-->
-
             <div xml:id="Sircar1965_st0087">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1897,6 +1760,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">mac-chiro-mukuṭa-nyastaṁ</l>
                         <l n="d">tasya rājñaḥ pada-dvayam</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XXXI, p. 191. See Nos. 89 and 90.</note>
@@ -1911,6 +1777,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">ciram enām upabhuñjate narendrāḥ || 88<hi rend="superscript">2</hi>  </l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>2. Mys. Arch. Rep., 1912, paragraph 108. The stanza is quoted from Murāri's
                 Anargharāghava as already indicated above.</note>
@@ -1924,6 +1793,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">ye pālayanti mam dharmam imaṁ samastaṁ </l><!-- error !!mam!! a long a?  -->
                         <l n="d">teṣāṁ mayā viracito 'ñjalir eṣa mūrdhni</l><!-- here metrical error need a long i  !!mūrdhni!! -->
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                       <note>3 Ep. Ind., Vol. XXVIII, p. 312, text lines 17-18. A modified form of the last
@@ -1954,6 +1826,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">yo mat-kīrtir lumpati</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="variation">
                      <l>mama vaṁśe, etc. Sec No. 90, note. </l>
                     <l>mayi rājñi vyatikrānte, etc. See No. 90, note. </l>
@@ -1981,6 +1856,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">na dṛiṣṭā niṣkṛtiḥ kvacit</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>5 Ep. Ind., Vol. XXVIII, p. 320, text line 13.</note>
                 </div>
@@ -1993,6 +1871,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">āneṣa dharma-bhaiṣajyam</l>
                         <l n="d">etad dhalāhalaṁ viṣam</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                      <note>6 Ep. Ind., vol. XI, p. 101, text line 32; Vol. XII, p. 328, text lines 48-50;
@@ -2009,6 +1890,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">nopasarpanti bhūmidam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XXV, p. 218, verse 42. Cf. Mahābhārata, XIII, 62, 27 :
                 mṛtyor vai kiṅkaro daṇdas=tamo vahniḥ sudāruṇaḥ, etc.Ballāla (Dānasāgara, op. cit..
@@ -2024,6 +1908,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">tapyate mṛtyu-śāsanāt</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                      <note>2. Ind. Ant., Vol. XIV, p. 319, text lines 113-14.</note>
                 </div>
@@ -2037,6 +1924,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">āpam anyad vidhīyate</l>
                   </lg>
               </div>
+              <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
               <div type="notes">
                    <note>3. Ep. Ind., Vol. XVII, p. 303, verse 20.</note>
               </div>
@@ -2047,9 +1937,12 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                       <l n="a">nāsti bhūmi-samaṁ dānaṁ</l>
                       <l n="b">nāsti rājñaḥ samo guruḥ</l>
                       <l n="c">nāsti satya-samo dharmo</l>
-                      <l n="d">nāsti dāna-samo nidhiḥ || 96<hi rend="superscript">4</hi> </l>
+                      <l n="d">nāsti dāna-samo nidhiḥ</l>
                   </lg>
               </div>
+              <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
               <div type="notes">
                    <note>4. Ind. Ant., Vol. XIV, p. 319, text lines 107-08. Ballāla (Dānasāgara, op. cit.,
                 p. 320) quotes the stanza with bhūmi° for rājñaḥ and vidhiḥ for nidhiḥ and
@@ -2064,6 +1957,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">yathā tu munayaḥ prāhur</l>
                         <l n="d">dānam ekaṁ Kalau yuge</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. II, p. 219. The stanza is sometimes found as : KṛtaTretā-Dvāpareṣu tapo='tyarthaṁ praśasyate | munayo='tra
@@ -2080,6 +1976,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">brahma-svaṁ putra-pautrikam</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza">They said that the poison  is not poison, the property of a brahmin is also said to be a poison: the poison kills only one man while the (steal of) a property of a Brahmin kills sons and grandsons ! </p>
+                </div>
                <div type="variation">
                    <l>Aviṣaṁ viṣam=ity=āhu, etc. See No. 98, note. </l>
                    <l>Brahma-svaṁ putra-pautraghnaṁ, etc. See No. 98, note. </l>
@@ -2107,6 +2006,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">śreyo hi dānād anupālanaṁ tu</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>7. Ep. Ind., Vol. XXII, p. 191, text lines 37-39,</note>
                 </div>
@@ -2120,6 +2022,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">haranto hārayantaś ca</l>
                         <l n="d">hiṁsanty ā-saptamaṁ kulam</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                     <l>Anudakeṣv=araṇyeṣu, etc. See No. 150, note. </l>
@@ -2138,6 +2043,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">garīyas tena pālanam</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>2. Ind. Ant., Vol. XVII, p. 12, text line 25; Chhabra, Antiquities of Chamba
                 State, II, p. 177. Sometimes we have tapaḥ for yaśaḥ and palayet for pālanam.</note>
@@ -2153,6 +2061,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">pitṛṇāṃ ekaviṁśatiḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XII, p. 234, lines 33-34.</note>
                 </div>
@@ -2166,6 +2077,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">kṣipyate pūya-śoṇite</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="variation">
                     <l>Pūrva-dattāṁ tu, etc. See No. 103, note.</l>
                </div>
@@ -2185,6 +2099,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">bhūmi-dānaṁ prapālayet</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>5. Ind. Ant., Vol. XII, p. 121, text lines 42-43.</note>
                </div>
@@ -2197,6 +2114,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">brāhmaṇānāṁ hate kṣetre</l>
                         <l n="d">hanti traipuruṣaṁ kulam</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes"> 
                     <note>6. Ind. Ant., Vol. XIV, p. 319, text lines 115-16. For slight variations, see
@@ -2211,6 +2131,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">yāvat-sūrya-kṛt-ālokas</l>
                         <l n="d">tāvat svarge mahīyate</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>7. Cf. Ep. Ind., Vol. XXVIII, p. 328. Mahābhārata, XIII. 62, 31 has it with mahīṁ
@@ -2231,6 +2154,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">phalān niṣ phalatāṁ vrajet</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>8. Ep. Ind., Vol. XII, p. 324, lines 34-35.</note>
                </div>
@@ -2259,6 +2185,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">punar bhogī bhaviṣyasi</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. XXXIII, p. 213, verse 8.</note>
                 </div>
@@ -2273,6 +2202,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">tat sarvaṁ niṣphalaṁ bhavet</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>3. Ind. Ant., Vol. XII, p. 252.</note>
                </div>
@@ -2285,6 +2217,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">pūyante te tu satataṁ</l>
                         <l n="d">prayacchanto vasundharām</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>4. CII, Vol. III, p. 119, text lines 16-17; p. 122, text lines 17-18; p. 128, text
@@ -2300,6 +2235,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">brahma-loke mahīyate</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>5. Ep. Carn., Vol. XV, Arkalgud No. 106.</note>
                </div>
@@ -2313,6 +2251,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">narake ca vaset punaḥ</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>6. Ep. Ind., Vol. VIII, p. 235, text lines 29-30.</note>
                </div>
@@ -2325,6 +2266,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">tasmād bhūmi-pradānena</l>
                         <l n="d">naro bhavati sarvadaḥ</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>7. Ind. Ant., Vol. XII, p. 121.</note>
@@ -2339,6 +2283,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">svargo grāma-pradāyinaḥ</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>8. Ep. Ind., Vol. IV, p. 201, lines 25-27. Ballāla's Dānasāgara (op. cit, p. 317)
                 reads yojanāni in the first half and dattā svalp=āpi rājendra sarvakāma-pradāyinī in
@@ -2354,6 +2301,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">dānāc chreyo 'nupālanam</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>9. Ep. Ind., Vol. XXXII, p. 67, text lines 22-23. Sometimes we have tasya for
                 dīrgha in the first half and the second half as: evaṁ tu
@@ -2370,6 +2320,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <l n="c">sarvān etān bhāvinaḥ pārthivendrān</l>
                     <l n="d">bhūyo bhūyo yācate rāmacandraḥ</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                     <l>sāmānyo 'yaṁ dāna-dharmaḥ, etc. See No. 117, note. </l>
@@ -2410,6 +2363,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">kāle kāle mahātmabhiḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                      <note>2. Ind. Ant., Vol. XII, p. 186. See No. 117.</note>
                 </div>
@@ -2422,6 +2378,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">bhūmi-dānasya puṣpāṇi</l>
                         <l n="d">phalaṁ svargaḥ purandara</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">A conch, a throne, an umbrella, the best horses and elephants are the flowers of land-donation, its fruit is the sky, o destroyer of strongholds!</p>
                 </div>
                 <div type="variation">
                     <l>Siṁhāsanaṁ tathā chatraṁ, etc. See No 119, note. </l>
@@ -2457,6 +2416,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">narake kālam akṣayam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                      <note>1. Ind. Ant., Vol. XII. p. 121.</note>
                 </div>
@@ -2486,6 +2448,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">sañcitaṁ jayate naraḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes"> 
                     <note>3. Ep. Ind., Vol. XII, p. 324, text lines 32.</note>
                 </div>
@@ -2498,6 +2463,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                    <l n="c">ācchettā cānumantā ca</l>
                    <l n="d">tāny eva narake vaset</l></lg>
            </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="variation">
                    <l>A-saṅkheyāni varṣāṇi, etc. See No. 123, note. </l>
                    <!-- Kunthea thèse p160
@@ -2539,6 +2507,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">vyatīpāteṣv anantakam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes"> <note>5. Ep.Ind„ Vol. XXXII, p. 70, text lines 12-13. This is Laghu-Śātātapasmṛti, verse
                 150. Hemādri assigns it to Yājñavalkya (op. cit., p. 75).</note></div>
             </div>
@@ -2551,6 +2522,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">śatrur eva hi śatruḥ syād</l>
                         <l n="d">dharmaḥ śatrur na kasyacit</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XXVIII. p. 312, text line 16; p. 258 (manīṣibhiḥ for mahīp
@@ -2565,6 +2539,10 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">ardhāṅgulena sīmāyā</l>
                         <l n="d">haraṇena praṇaśyati</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                     <div type="variation">
                         <l>satyaṁ c=aiva, etc. See No. 126, note. </l>
                         <l>sapta-janm-āntareṇ=aiva, etc. See No. 126, note. </l>
@@ -2579,7 +2557,6 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 (verse 41) with ardh-āṅgulasya.</note>
                     </div>
                 </div>
-            </div>
             <div xml:id="Sircar1965_st0127">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -2588,6 +2565,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">gandharvāpsaraso yatra</l><!-- gandarva in Sircar . it is certainly a typo -->
                         <l n="d">tatra gacchanti bhūmidāḥ</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The land-givers go where there are golden palaces and wish-fulfilling streams of whealth, in the abode of Apsaras and Gandharvas.</p>
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXXII. p. 123, text line 35. We have also Prāsādā yatra
@@ -2605,6 +2585,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="c">para-dattāpahāreṇa</l>
                         <l n="d">sva-dattaṁ niṣphalaṁ bhavet</l>
                     </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                     <l>Kharo dvādaśa, etc. See No 128, note.</l>
@@ -2625,6 +2608,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">varṣāṇām ayut-āyutam</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol.XXV, p. 219, verse 49.</note>
                 </div>
@@ -2638,6 +2624,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="d">rudra-loke pratiṣṭhitāḥ</l>
                    </lg>
                </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>6. Ind. Ant., Vol. XII. pp. 257-58.</note>
                </div>
@@ -2652,13 +2641,13 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <l n="d">dānāc chreyo 'nupālanam</l>
                 </lg>
             </div>
+            <div type="translation" resp="part:amwb">
+                    <p rend="stanza">O Yudhiṣṭhira, you must carefully protect land that has been previously given to the brahmins, the preservation is even better than giving a land.</p>
+                </div>
             <div type="variation">
                  <l>pūrva–dattāṁ dvijātibhyo, etc. See No. 131, note.</l>
                 <l>pūrva–dattāṁ narendraiś=ca, etc. See No. 131, note.</l>
                 <l>Prāg-dattāṁ bhūmiṁ viprebhyo, etc. See 131, note. </l>
-            </div>
-             <div type="translation">
-                <p>O Yudhiṣṭhira, you must carefully protect land that has been previously given to the brahmins, the preservation is even better than giving a land.</p>
             </div>
             <div type="notes">
                  <note>1. CII, pp. 119, 122, 127, 133, 194, 198, 296. The word mahīmatāṁ is altered in
@@ -2683,70 +2672,12 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="d">pitṛbhiḥ saha pacyate</l>
                     </lg>
                 </div>
-
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The one who would steal land given by himself or another becomes a worm in excrement and is cooked with his ancestors.</p>
+                </div>
                 <div type="variation">
                      <l>sarva-sasya–samṛddhāṁ, etc. See No. 132, note. </l>
                     <l>Aṅgam=ekam, etc. See No. 132, note. </l>
-                    <!-- Kunthea thèse p.159-160
-                        inscription de Kumāragupta Ier (c. 414‒455 apr. Agrawala, 1983 : 37
-J.-C.)
-                        svadattām paradattāṃ vā [yo hareta vasundharām [|]
-                        sa viṣṭhāyāṃ kṛmir bhūtvā pitṛ]bhiḥ saha pacyate|| 
-                    + 
-                         ṣaṣṭiṃ varṣa-sahasrāni(ṇi) svarge modati [bhū]midaḥ [|]
-                        [ākṣeptā cānumantā ca tāny eva narake vaset ||]
-                    + 
-                         [pū]rvvadattāṃ dvijātibhyo yatnād rakṣa yudhiṣṭhira |
-                         mahīṃ [mahī matāñchreṣṭha-dānācchreyo nupālanam ||]
-                         Traduction 
-                         « Il a été dit … par le Bhagavan Dvaipāyana que “celui qui prendrait la terre donnée
-par soi-même ou donnée par autrui, naisse en tant que ver et soit plongé dans les
-excréments de chien avec ses parents ; que le donateur de terre profitera du paradis
-pendant soixante mille ans alors que celui qui attaquera [la fondation] ou qui
-approuvera [l’attaque] doit passer les mêmes [années] en enfer.” »
-
-
-                    Une autre variante :
-                    inscription du roi Ravivarman (485‒519 apr. J.-C.) Sukthankar, 1983 : 267
-                    svadattāṃ paradattāṃ vā yo hareta vasundharām
-                    ṣaṣṭiṃ varṣasahasrāṇi narake pacyate tu saḥ ||
-                    « Que celui qui prendrait la terre donnée par soi-même ou donnée par autrui, sera cuit
-en enfer pendant une période de soixante mille ans. »
-                    
-                    Autre vairante : 
-                    inscription de Dhruvasena Ier de Valabhī (fin du IIIe siècle) Buhler, 1875: 105, 107.
-                    yaś vacchindyādācchidyamānaṃ vānumodeta sa pañcabhiḥ mahāpātakaiḥ
-sopapātakaiśca saṃyuktaḥ syādatra ca vyāsaśoktaḥ śloko bhavanti ||
-                    svadattāṃ paradattāṃ vā yo hareta vasundharāṃ
-gavāṃ śatasahasrasya hantuḥ prāpnoti kilviṣaṃ
-
-He who takes it away, or permits it to be taken away, shall be guilty of the five mortal sins and of the minor sins. And with reference to this (matter here) is also a verse
-proclaimed by Vyāsa: He who resumes land given by himself or by others, taken upon
-himself the guilt of the slayer of a hundred thousand kine. »
-+
-AUtre variante :  K. 55, composée entièrement en
-sanskrit, datée de 667 apr. J.-C Barth, 1885 : 56, 59
-svadattāṃ paradattāṃ vā yo hareta vasundharām
-śvaviṣṭhāyāṃ krimir bhūtvā pitṛbhis saha pacyate |
-« Celui qui s’aviserait de ravir la terre donnée par lui-même ou par un autre, expie (ce
-forfait) changé en ver (et plongé), lui et ses ancêtres, dans des excréments de
-chien. »
-
-+ inscription en vieux khmer, K. 726 (VIIIe siècle) : paada a b sans changement puis avicīnarake jātāḥ pitṛbhis saha vandhu[bhiḥ] « naissent dans l’enfer Avīci avec leurs ancêtres
-et leurs parents » => Sircar 196, n. 2 variante dans  Padmapurāṇa, le Bhaviṣyapurāṇa, le Brahmapurāṇa et la Bṛhaspatisaṃhitā
-
-                    -->
-                <!-- Variation de la stance dans Brocquet dans TABLETTES DE YŪVAMAHĀRĀJA-VIṢṆUGOPAVARMAN A URUVUPALLI : 
-sva-dattā[ṃ*] para-dattā[ṃ*] vā
-yo hareta vasundharām /
-gavāṃ śatasahasrasya
-hantuḥ pibati duṣkṛtam //2//
-                    
-Donnée par soi ou donnée par autrui,
-Quiconque s’approprie une terre
-Du meurtrier de cent mille vaches
-Prend sur lui le crime. 
-             -->
                 </div>
                 <div type="notes">
                     <note>2. CII, Vol. III, pp. 104, 108,137. In some cases, the first foot is found as:
@@ -2802,6 +2733,9 @@ Prend sur lui le crime.
                         <l n="d">datta-bhūmiṁ parityajet</l>
                     </lg>
                 </div>
+               <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="variation">
                      <l>sva-dattā duhitā, etc. See No 133, note. </l>
                     <l>sva-dattā medinī, etc. See No. 133, note. </l>
@@ -2827,6 +2761,9 @@ Prend sur lui le crime.
                         <l n="d">yasmān nāvartate punaḥ</l>
                     </lg>
                 </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>2. Ep. Carn., Vol. XII, Si. No. 95 assigning the stanza to Āditya.</note>
                 </div>
@@ -2839,6 +2776,9 @@ Prend sur lui le crime.
                         <l n="c">dānaṁ vā pālanaṁ veti</l>
                         <l n="d">danāc chreyo 'nupālanam</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>3. See, e.g., Ep. Ind , Vol. vI. p. 19, text lines 22-23; Ind. Ant., Vol. VI, p.
@@ -2855,6 +2795,9 @@ Prend sur lui le crime.
                         <l n="d">satatam avañ jagatām abhūd upāsyaḥ</l>
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. VI, p. 4, verse 50.</note>
                 </div>
@@ -2866,6 +2809,9 @@ Prend sur lui le crime.
                         <l n="b">vājapeya-śatena ca</l>
                         <l n="c">gavāṁ koṭi-pradānena</l>
                         <l n="d">bhūmi-hartā na śudhyati</l></lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Neither thousands of tank consecrations, neither hundreds of Vājapeya sacrifices, nor millions of cow-gifts could purify a land-stealer.</p>
                 </div>
                 <div type="variation">
                     <l>Saṣṭiṁ varṣa°, etc. See No. 137, note. </l>
@@ -2901,6 +2847,9 @@ Prend sur lui le crime.
                        <l n="d">nṛpāḥ kariṣyante buddhvā yad abhirucitaṁ kiṁ pravacanaiḥ</l>
                    </lg>
                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>1. Ep. Ind., Vol. IV, p. 250, lines 59-60.</note>
                </div>
@@ -2914,6 +2863,9 @@ Prend sur lui le crime.
                        <l n="d">yādṛg bhavati rakṣatām</l>
                    </lg>
                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>2. Ind. Ant., Vol.XX, p. 310, text lines 28-29. for grāsa-hartā for bhūmi-hartā,
                 see Ep. Ind., Vol. XXXII. p. 76, text line 46.</note>
@@ -2925,6 +2877,9 @@ Prend sur lui le crime.
                         <l n="ab">tapati na tapanaḥ prakharo marud api no vāti śāsane tīvraḥ</l>
                         <l n="cd">brahmasva-steya-pātakam atiśaya-bhīmaṁ samā-locya</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXII, p. 166, verse 21.</note>
@@ -2939,6 +2894,9 @@ Prend sur lui le crime.
                         <l n="d">kīrti-dharmaṁ na lopayet</l>
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>4. Ep.Ind., Vol. XII, p. 325, lines 38-40.</note>
                 </div>
@@ -2951,6 +2909,9 @@ Prend sur lui le crime.
                         <l n="c">ā-saptamaṁ phalanty ete</l>
                         <l n="d">doha-vāha-nivedanaiḥ</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. XI, pp. 312-13, text lines 46-47. The first half is found in the
@@ -2967,6 +2928,9 @@ Prend sur lui le crime.
                        <l n="d">sa ghoraṁ narakaṁ vrajet</l>
                    </lg>
                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="variation">
                    <l>Vāk–dattaṁ ca, etc. See No. 143, note.</l>
                </div>
@@ -2987,6 +2951,9 @@ Prend sur lui le crime.
                         <l n="d">na martyo jāyate punaḥ</l>
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>7. Ep. Ind., Vol. I, p. 56, text lines 57-58.</note>
                 </div>
@@ -3003,6 +2970,9 @@ Prend sur lui le crime.
                         <l n="f">dīrgham āyus tathaiva ca</l><!-- Aller voir DHARMA_INSBengalCharters00063 line 21 : une variante du début du vers -->
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">       
                     <note>1. Ep. Ind., Vol. XXV, p. 219, verse 46.</note>
                 </div>
@@ -3015,6 +2985,9 @@ Prend sur lui le crime.
                         <l n="c">prāṇās tṛṇāgra–jala-bindu–samā narāṇāṁ</l>
                         <l n="d">dharmaḥ sakhā param aho para–loka–yāne</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes"> 
                     <note>2. Ind. Ant., Vol. VI. p. 56; Ep. Ind., Vol.XXVI, p. 56, text lines 13-14.
@@ -3031,6 +3004,9 @@ Prend sur lui le crime.
                        <l n="d">aho mohena mā hara</l>
                    </lg>
                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>3. Ep. Ind., Vol. XXVIII, p. 328. Sometimes we have mā hara for mohena (ibid.,
                 Vol. XII, p. 325).</note>
@@ -3045,6 +3021,9 @@ Prend sur lui le crime.
                         <l n="d">dharmābhirādhana-parair anumoditavyā</l>
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXIX, p. 43, text lines 49-51. Sometimes we have °modaniyā for
                 °moditavyā.</note>
@@ -3058,6 +3037,9 @@ Prend sur lui le crime.
                         <l n="c">yā gatiḥ sā bhaved bhūmiṁ</l>
                         <l n="d">harataḥ śāsanāṅkitām</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                     <l>Toya-hīneṣv=araṇyeṣu, etc. See No. 149, note.</l>
@@ -3076,6 +3058,9 @@ Prend sur lui le crime.
                         <l>kṛṣṇāhayo 'bhijāyante</l> 
                         <l>pūrva-dāyaṁ haranti ye</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza">Those who steal ancient gifts are reborn as black serpents dwelling in hollow tress in the dried up forests of the Vindhya mountains.</p>
                 </div>
                 <div type="variation">
                     <l>Vāri-hīneṣv=araṇyeṣu, etc. See No. 150, note.</l>
@@ -3116,6 +3101,9 @@ Prend sur lui le crime.
                         <l>śukla-pakṣa ivaṁśumān</l>
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza">The man who, even in mind, approves a deed endowed with Dharma, he increases according to which has been given (yaṭheṣṭena) as the moon during the bright fortnight.</p>
+                </div>
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XXXI, pp. 92-93.</note>
                 </div>
@@ -3128,6 +3116,9 @@ Prend sur lui le crime.
                         <l n="c">tayoḥ pālayitā śreṣṭha</l>
                         <l n="d">Iti prāhur manīṣiṇaḥ</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. VI. p. 343, verse 44.</note>
@@ -3142,6 +3133,9 @@ Prend sur lui le crime.
                         <l n="d">dānād vadanti paripālanam eva sādhu</l><!-- sā!!dhu!! last should be long -->
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. III, p. 367, lines 20-21.</note>
                 </div>
@@ -3154,6 +3148,9 @@ Prend sur lui le crime.
                         <l n="c">kṣiti-hartaikaviṁśati</l>
                         <l n="d" enjamb="yes">-kulena narakaṁ vrajet</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XII, p. 325, line 38.</note>
@@ -3168,6 +3165,9 @@ Prend sur lui le crime.
                         <l n="d">sasye sasye vivardhate</l>
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. XXV, p. 278, lines 47-48. The stanza occurs in the Mahābhārata,
                 XIII. 62, 33.</note>
@@ -3181,6 +3181,9 @@ Prend sur lui le crime.
                         <l n="c">evaṁ sārva-guṇair bhūmir</l>
                         <l n="d">dātāram anupuṣyati</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="variation">
                      <l>Yathā sva-putraṁ, etc. See No. 156. </l>
@@ -3199,6 +3202,9 @@ Prend sur lui le crime.
                         <l n="d">bhūmi-dāna-samārjitāḥ</l>
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes"> 
                     <note>7. Ep. Ind., Vol. XXIV, p. 303, text lines 26-27. The stanza is found in the
                 Mahābhārata, XIII. 62, 47 (with śasyāni rohanti prakirṇāni and tathā kāmāḥ
@@ -3215,6 +3221,9 @@ Prend sur lui le crime.
                        <l n="d">śasye śasye prarohati</l>
                    </lg>
                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>1. Ep. Ind., Vol. XII. p. 327, text lines 37–38. The verse is found in the
                 Mahābhārata, XIII, 62, 84 (with tathā for evaṁ and vivardhate for prarohati);
@@ -3231,6 +3240,9 @@ Prend sur lui le crime.
                         <l>naro lobha–samanvitaḥ</l>
                         <l>api gocarma-mātreṇa</l>
                         <l>bhūmi-dānena śudhyati</l></lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a gocarman (literally a cow’s skin, here it is a unit of measurement).</p>
                 </div>
                 <div type="notes">
                     <note>
@@ -3251,6 +3263,9 @@ Prend sur lui le crime.
                         <l n="d">rudra-loke ca tiṣṭhati</l>
                     </lg>
                 </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                 <div type="notes"> 
                     <note>3. Ep. Ind., Vol. XXVIII, p. 50, note 7. For slight variations, see Ep. Carn.,
                 Vol. XI, Cd. No. 82.</note>
@@ -3258,7 +3273,7 @@ Prend sur lui le crime.
             </div>
            <div xml:id="Sircar1965_st0161">
                <div type="text">
-                   <lg met="">
+                   <lg met="anuṣṭubh">
                        <l n="a">yāvanti sasya-mūlāni</l>
                        <l n="b">go-romāṇi ca saṁkhyayā</l>
                        <l n="c">naras tāvanti varṣāṇi</l>
@@ -3272,22 +3287,27 @@ Prend sur lui le crime.
            </div>
            <div xml:id="Sircar1965_st0162">
                <div type="text">
-                   <lg met=""> 
+                   <lg met="anuṣṭubh"> 
                        <l n="a">yāvat sūrya-saśāṅkau ca</l>
                        <l n="b">yāvad bhūdhara-sāgarān</l>
                        <l n="c">tāvat putra-prapautrako</l>
                        <l n="d">grāmaḥ pālyaḥ nṛpottamaiḥ</l>
                    </lg>
                </div>
+                <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
                <div type="notes">
                    <note>5. Ind. Ant., Vol. XII, p. 121.</note>
                </div>
            </div>
             <div xml:id="Sircar1965_st0163">
                 <div type="text">
-                    <lg met="">
-                        <l n="ab">ye brāhmaṇānām ayathā haranti pradeśa–mātrām api bhūtadhātrīm</l>
-                        <l n="cd">pūrīṣa–kūpe pitṛbhiḥ sametās te kalpa–koṭir api yāpayanti</l>
+                    <lg met="indravajrā">
+                        <l n="a">ye brāhmaṇānām ayathā haranti</l>
+                        <l n="b">pradeśa–mātrām api bhūtadhātrīm</l>
+                        <l n="c">pūrīṣa–kūpe pitṛbhiḥ sametās</l>
+                        <l n="d">te kalpa–koṭir api yāpayanti</l>
                     </lg>
                 </div>
                 <div type="notes">
@@ -3296,12 +3316,15 @@ Prend sur lui le crime.
             </div>
             <div xml:id="Sircar1965_st0164">
                 <div type="text">
-                    <lg met="">
+                    <lg met="anuṣṭubh">
                         <l n="a">yo 'rcitaṁ pratigṛhṇāti</l>
                         <l n="b">dadāty arcitam eva vā</l>
                         <l n="c">tāv ubhau gacchataḥ svargaṁ</l>
                         <l n="d">narakaṁ tu viparyaye</l>
                     </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
                 </div>
                 <div type="notes">
                     <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmṛti, IV, 235.</note>
