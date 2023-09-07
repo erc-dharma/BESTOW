@@ -50,6 +50,7 @@
         </encodingDesc>
         <revisionDesc>
             <listChange>
+                <change when="2023-09-07" who="part:amwb">Testing a way to present the variations of one stanza</change>
                 <change when="2023-05-19" who="part:amwb">Start of the structuration of Sircar's list and gradual addition of xml-IDs to stanzas</change>
                 <change who="part:axja" when="2023-05-09">conversion of the OCR</change>
             </listChange>
@@ -2740,7 +2741,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     </lg>
                 </div>
                 <div type="occurences">
-                    <p>Sircar's reference : <bibl><ptr target="bib:Narasimhaswami1955-1956_01"/></bibl> which corresponds to <bibl><ptr target="DHARMA_INSVengiCalukya00013"/></bibl>
+                    <p>Sircar's reference : <bibl><ptr target="bib:Narasimhaswami1955-1956_01"/></bibl> which corresponds to <ref target="DHARMA_INSVengiCalukya00013">Koṇeki grant of Viṣṇuvardhana II</ref>
                      </p>
                     <p>Occurences found in the DHARMA database:
                         <list>
