@@ -865,11 +865,18 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Bliss and misfortune are both the fruit of the gift and the protection. What's the point? After having left the sky, one falls again in the hell. </p>
                 </div>
                 <div type="variation">
                     <l>Dānaṁ vā, etc. See No. 40, note.</l>
                      <l>Rakṣā, etc. See No. 40, note.</l>
+                    <lg met="anuṣṭubh">
+                        <l n="a">dāna-pālanayos madhye</l>
+                        <l n="b">dānāc chreyo 'nupālanam</l>
+                        <l n="c">dānāt svargam āpnoti</l>
+                        <l n="d">pālanāt acyutaṁ padam</l>
+                    </lg>
+                    <p>Between gift and preservation, preservation is better than gift : by gift one obtains Heaven but by preservation one never falls again.</p>
                 </div>
                 <div type="notes">
                      <note>6. Ep. Ind., Vol. XXXI, pp. 221-22, text lines 24-25. We have Rakṣā for Dāna at
@@ -2261,7 +2268,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
             <div xml:id="Sircar1965_st0114">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                        <l n="a">ratnānna-pāna-goṣṭh-ādyaṁ</l>
+                        <l n="a">ratnānna-pāna-goṣṭhādyaṁ</l>
                         <l n="b">sarvaṁ bhūmau prajāyate</l>
                         <l n="c">tasmād bhūmi-pradānena</l>
                         <l n="d">naro bhavati sarvadaḥ</l>
@@ -2723,7 +2730,111 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 du Cambodge, Vol. v, p. 76.</note>
                 </div>
             </div>
-                        <!-- <pb n="197"/> -->
+            <div xml:id="Sircar1965_st0132_01">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">gavāṁ śata-sahasrasya</l>
+                        <l n="d">hantuḥ pibati kilbiṣam</l>
+                    </lg>
+                </div>
+                <div type="occurences">
+                    <p>Sircar's reference : <bibl><ptr target="bib:Narasimhaswami1955-1956_01"/></bibl> which corresponds to <bibl><ptr target="DHARMA_INSVengiCalukya00013"/></bibl>
+                     </p>
+                    <p>Occurences found in the DHARMA database:
+                        <list>
+                            <item><ref target="DHARMA_INSVengiCalukya00013.xml">Koṇeki grant of Viṣṇuvardhana II</ref></item>
+                            <item><ref target="DHARMA_INSVengiCalukya00017.xml">Tenali plates of Vijayāditya I</ref></item>
+                            <item><ref target="DHARMA_INSVengiCalukya00059">Uccāṭi grant of Jayasiṁha I</ref></item>
+                            <item><ref target="DHARMA_INSVengiCalukya00050">Cendalūr Plates of Maṅgi Yuvarāja</ref></item>
+                        </list>
+                    </p>
+                </div>
+                <div type="translation" resp="part:daba">
+                    <p rend="stanza">He who would seize land, whether given by himself or by another, imbibes the sin of the slayer of a hundred thousand cows.</p>
+                </div>
+            </div>
+            <div xml:id="Sircar1965_st0132_02">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">gavāṁ śata-sahasrasya</l>
+                        <l n="d">hantur pibati duṣkṛtam</l>
+                    </lg>
+                </div>
+                <div type="occurences">
+                    <p>Sircar's reference : CII vol III pp. 238, 247</p>
+                    <p>Occurences found in the DHARMA database:
+                    <list>
+                        <item><ref target="DHARMA_INSPallava00006">Uruvupalli grant, time of Siṃhavarman, year 11</ref></item>
+                    </list></p>
+                </div>
+            </div>
+           <div xml:id="Sircar1965_st0132_03">
+                <div type="text">
+                    <lg met="">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
+                        <l n="d">viṣṭhāyāṁ jāyate kṛmiḥ</l>
+                    </lg>
+                </div>
+               <div type="occurences">
+                   <p>Sircar's reference : CII, Vol. III, p. 289 + INSTelugu00091 + INSVengiCalukya00054</p>
+                   <p>Occurences found in the DHARMA database : 
+                       <list>
+                           <item><ref target="DHARMA_INSTelugu00091.xml">Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</ref></item>
+                           <item><ref target="DHARMA_INSVengiCalukya00054.xml">Mḻopaṟṟu grant probably of Maṅgi Yuvarāja</ref></item>
+                       </list>
+                       
+                   </p>
+               </div>
+               
+           </div>
+
+        <!--  <div xml:id="Sircar1965_st0132_04">
+                <div type="text">
+                    <lg met="">
+                        <l n="a"></l>
+                        <l n="b"></l>
+                        <l n="c"></l>
+                        <l n="d"></l>
+                    </lg>
+                </div>
+                </div>
+           <div xml:id="Sircar1965_st0132_05">
+                <div type="text">
+                    <lg met="">
+                        <l n="a"></l>
+                        <l n="b"></l>
+                        <l n="c"></l>
+                        <l n="d"></l>
+                    </lg>
+                </div>
+             </div>
+          <div xml:id="Sircar1965_st0132_06">
+                <div type="text">
+                    <lg met="">
+                        <l n="a"></l>
+                        <l n="b"></l>
+                        <l n="c"></l>
+                        <l n="d"></l>
+                    </lg>
+                </div>
+           </div>
+          <div xml:id="Sircar1965_st0132_07">
+                <div type="text">
+                    <lg met="">
+                        <l n="a"></l>
+                        <l n="b"></l>
+                        <l n="c"></l>
+                        <l n="d"></l>
+                    </lg>
+                </div>
+            </div>
+                         <pb n="197"/> -->
           <div xml:id="Sircar1965_st0133">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -2808,7 +2919,8 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                         <l n="a">taḍāgānāṁ sahasreṇa</l>
                         <l n="b">vājapeya-śatena ca</l>
                         <l n="c">gavāṁ koṭi-pradānena</l>
-                        <l n="d">bhūmi-hartā na śudhyati</l></lg>
+                        <l n="d">bhūmi-hartā na śudhyati</l>
+                    </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
                     <p rend="stanza">Neither thousands of tank consecrations, neither hundreds of Vājapeya sacrifices, nor millions of cow-gifts could purify a land-stealer.</p>
@@ -3264,7 +3376,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">[The donor] will sejourn in the world of Rudra during thousands of yugas, as long as the given land remains undivided and very propitious.</p><!-- <p>Celui qui donne une terre, aussi longtemps qu'elle demeure indivisée et sous de bons auspices, séjourne dans le monde de Rudra pour des millers de <foreign>yuga</foreign>.</p> -->
                 </div>
                 <div type="notes"> 
                     <note>3. Ep. Ind., Vol. XXVIII, p. 50, note 7. For slight variations, see Ep. Carn.,
