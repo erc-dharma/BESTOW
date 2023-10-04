@@ -813,21 +813,36 @@ Il n’y en eut point et n’y en aura point -->
                 </div>
             </div>
             <div xml:id="Sircar1965_st0037"><!-- Caution ! Sircar attributes the numbers 37 and 38 to these couple of stanzas but as it is impossible to form an understanble sentence with only one of them, I consider the two as a semantic whole -->
-                <div>
+                <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">candrārkau ca tathā bhūmir</l>
                         <l n="b">nabhas tāpanam anilaḥ</l>
                         <l n="c">tārakāś cānalaś caiva</l>
                         <l n="d">dharmarājas tathaiva ca</l>
-                        <l n="e">tisraḥ sandhyās trayo vedās</l>
-                        <l n="f">trayo devās trayo 'gnayaḥ</l>
-                        <l n="g">aho rātraṁ ca dānasya</l>
-                        <l n="h">ete vai sākṣiṇaḥ smṛtāḥ</l>
-                    </lg>
+                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Thus, the Moon and the Sun, the Earth, the enligthening Sky, the Wind, the Stars as well the Fire, along with the king of <foreign>dharma</foreign>, the three twilights, the three Vedas, the triad Gods, the three fires, ah ! during the night, all of these are known as the witnesses of the gift! </p>
+                    <p rend="stanza">Thus, the Moon and the Sun, the Earth, the enligthening Sky, the Wind, the Stars as well the Fire, along with the king of <foreign>dharma</foreign>,</p>
                 </div>
+                <div type="variation">
+                    <l>Tisraḥ sandhyā , etc. See No. 38.</l>
+                </div>
+                <div type="notes">
+                     <note>4. Ind. Ant., Vol. XII, p. 121. See above No. 2.</note>
+                </div>
+            </div>
+            <div xml:id="Sircar1965_st0038">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                         <l n="a">tisraḥ sandhyās trayo vedās</l>
+                        <l n="b">trayo devās trayo 'gnayaḥ</l>
+                        <l n="c">aho rātraṁ ca dānasya</l>
+                        <l n="d">ete vai sākṣiṇaḥ smṛtāḥ</l>
+                    </lg>
+                </div>
+               <div type="translation">
+                   <p rend="stanza">the three twilights, the three Vedas, the triad Gods, the three fires, ah ! during the night, all of these are known as the witnesses of the gift! </p>
+               </div>
                 <div type="variation">
                     <l>Tisraḥ sandhyā , etc. See No. 38.</l>
                 </div>
@@ -1069,14 +1084,10 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                        <l n="b">dharmāt kīrtiś ca śāśvatī</l>
                        <l n="c">dharmāt tṛpyanti pitaro</l>
                        <l n="d">dharmāt tuṣyanti devatāḥ</l>
-                       <l n="e">tasmād dharmaḥ prayatnena</l>
-                       <l n="f">rakṣaṇīyo mahīkṣitā</l>
-                       <l n="g">sva–kṛto 'nya–kṛto vāpi</l>
-                       <l n="h">loka-dvaya-hitaiṣiṇā</l>
                    </lg>
                </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Through <foreign>dharma</foreign> grow kingship, glory and earth; thanks to <foreign>dharma</foreign>, the Fathers become satisfied; thanks to <foreign>dharma</foreign>, Gods are pleased; therefore <foreign>dharma</foreign> done by oneself or by another should be protected with effort by the earth-ruler who wishes the two worlds.</p>
+                    <p rend="stanza">Through <foreign>dharma</foreign> grow kingship, glory and earth; thanks to <foreign>dharma</foreign>, the Fathers become satisfied; thanks to <foreign>dharma</foreign>, Gods are pleased.</p>
                 </div>
                <div type="variation">
                    <l>Tasmād=dharmaḥ, etc. See No. 50.</l>
@@ -1086,6 +1097,26 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                    <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note>
                </div>
            </div>
+            <div xml:id="Sircar1965_st0050"><!-- Caution linked to st0049 -->
+                <div type="text">
+                       <lg met="anuṣṭubh"> 
+                       <l n="a">tasmād dharmaḥ prayatnena</l>
+                       <l n="b">rakṣaṇīyo mahīkṣitā</l>
+                       <l n="c">sva–kṛto 'nya–kṛto vāpi</l>
+                       <l n="d">loka-dvaya-hitaiṣiṇā</l>
+                       </lg>
+                </div>
+                <div type="translation">
+                    <p rend="stanza">Therefore <foreign>dharma</foreign> done by oneself or by another should be protected with effort by the earth-ruler who wishes the two worlds.</p>
+                </div>
+                <div type="variation">
+                   <l>Tasmād=dharmaḥ, etc. See No. 50.</l>
+                   <l>Brāhmaṇebhyaḥ, etc. See No. 55, note. </l> 
+               </div>
+               <div type="notes">
+                   <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note>
+               </div>
+            </div>
             <div xml:id="Sircar1965_st0051">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1268,13 +1299,29 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="b">krandatām aśru bindavaḥ</l>
                         <l n="c">viprāṇāṁ hata-vṛttīnāṁ</l>
                         <l n="d">vadānyānāṁ kuṭumbinām</l>
-                        <l n="e">rājāno rāja-kulyāś ca</l>
-                        <l n="f">tāvato 'bdān-niraṅkuśāḥ</l>
-                        <l n="g">kumbhīpākeṣu pacyante</l>
-                        <l n="h">brahma-bhūmyapahārakāḥ</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
+                <div type="variation">
+                     <l>Rājāno rāja-kulyāś=ca, etc. See No. 61. </l>
+                </div>
+                <div type="notes">
+                    <note> 5. Ep. Ind., Vol. XXV, p.219, verses 53-54. For slight variations, see Ep.
+                Carn.,Vol. XI, Dg. No. 28.</note>
+                </div>
+            </div>
+            <div xml:id="Sircar1965_st0061"><!-- Linked to st0060 -->
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">rājāno rāja-kulyāś ca</l>
+                        <l n="b">tāvato 'bdān-niraṅkuśāḥ</l>
+                        <l n="c">kumbhīpākeṣu pacyante</l>
+                        <l n="d">brahma-bhūmyapahārakāḥ</l>
+                    </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
                     <p rend="stanza"></p>
                 </div>
                 <div type="variation">
@@ -1634,13 +1681,43 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <l n="b">daśa hanti gav-ānṛte</l>
                         <l n="c">śatam aśvānṛte hanti</l>
                         <l n="d">sahasraṁ puruṣānṛte</l>
-                        <l n="e">hanti jātān ajātāṁś ca</l>
-                        <l n="f">suvarṇasyānṛte prabhoḥ</l>
-                        <l n="g">sarvaṁ bhūmyanṛte hanti</l> 
-                        <l n="h">mā sma bhūmyanṛtaṁ vadet</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
+                    <p rend="stanza"></p>
+                </div>
+                <div type="variation">
+                     <l>Pañca paśv-anṛte hanti, etc. See Nos. 80-81, note. </l>
+                    <l>Śāstreṣu, etc. See No. 15, note. </l>
+            <l>Śatam=aśv-ānṛte hanti, etc. Sec Nos. 80-81, note. </l>
+                    <l>hanti jātān=ajatāṁś=ca, etc. See No. 81.</l>
+                </div>
+                <div type="notes">
+                      <note>1. Mys. Arch. Rep., 1910, paragraphs 47-50. The second stanza is sometimes found
+                as : Hanti jātān=ajātāṁś=ca bhūmy=arthe yo='nṛtaṁ vadet | sa baddho vāruṇaiḥ
+                pāśais=tiryag=yonyāṁ tu jāyate ||(Ep. Ind., vol. XIX, p. 213, text lines 33-34). Cf.
+                Mahābhārata, Udyoga-parvan, Calcutta ed., Chapter 35, verses 33-34; Kumbakonam ed.,
+                Chapter 35, verses 44-45, where the first foot of the first stanza and the second
+                foot of the second read respectively as Pañca paśv-anṛte hanti and
+                hirany=ārthe='nṛtaṁ vadan, while the second stanza ends with vadeḥ instead of vadet.
+                For the first verse, cf. Rāmāyaṇa, IV, 34. 9: Śatam=aśv-ānṛte hanti sahasraṁ tu
+                gav-ānṛte |ātmānaṁ svajanaṁ hanti puruṣaḥ puruṣ-ānṛte || See also Bṛhaspatisaṁhitā,
+                verse 43 ff. : Pañca kany-ānṛte hanti daśa hanti gav-ānrte | śatam=aśv-ānṛte hanti
+                sahasraṁ puruṣ-ānṛite || hanti jātān=ajātāṁś=ca hirany-ārthe='nṛtaṁ vadet | sarvaṁ
+                bhūmy-anṛte hanti māsma bhūmy=anṛtaṁ vadīḥ|| Sometimes we have janiṣyān for
+                ajātān.</note>
+                </div>
+            </div>
+            <div xml:id="Sircar1965_st0081"><!-- Linked to st0080 -->
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">hanti jātān ajātāṁś ca</l>
+                        <l n="b">suvarṇasyānṛte prabhoḥ</l>
+                        <l n="c">sarvaṁ bhūmyanṛte hanti</l> 
+                        <l n="d">mā sma bhūmyanṛtaṁ vadet</l>
+                    </lg>
+                </div>
+                 <div type="translation" resp="part:amwb">
                     <p rend="stanza"></p>
                 </div>
                 <div type="variation">
