@@ -137,6 +137,7 @@
                 Ballāla's Dānasāgara (op. cit„ p. 316) attributes the stanza to the Dāna-Bṛhaspati.
                 A similar stanza is Pitaraḥ pitṛ-lokasthā deva-loke divaukasaḥ | santarpayanti
                 dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note><!-- ajouter cette stance ? Ep. Ind„ Vol XII, p. 97, lines 28-29 -->
+                    <!-- Gretil : Mahābhārata 13,061.045 ādityo varuṇo viṣṇur brahmā somo hutāśanaḥ | śūlapāṇiś ca bhagavān pratinandanti bhūmidam -->
                 </div>
             </div>   
             <div xml:id="Sircar1965_st0005">               
@@ -413,7 +414,7 @@
             <div xml:id="Sircar1965_st0018">
                 <div type="text">
                 <lg met="anuṣṭubh">
-                    <l n="a">asāre 'pi ca saṁsāre</l>Ò
+                    <l n="a">asāre 'pi ca saṁsāre</l>
                     <l n="b">jīvitasya phala-dvayam</l>
                     <l n="c">pālanaṁ para-kīrtīnāṁ</l>
                     <l n="d">svayaṁ–kartṛtvam eva ca</l>
@@ -532,7 +533,7 @@
                          <l>Yas=tu pālayate, etc. See No. 23, note. </l>
                    </div>              
                     <div type="notes">
-                       <note>2. <seg>CII</seg>, Vol. III. pp. 96, 104, 108, 115, 119, 122, 127,
+                       <note>2. CII, Vol. III. pp. 96, 104, 108, 115, 119, 122, 127,
                 133, etc., where this stanza is found together with Ṣaṣṭiṁ varṣa-sahasrāṇi, etc.
                 (No. 123), which is also noticed in some cases without this one (cf. ibid., pp. 238,
                 247). Sometimes dattā (ibid., p.296) appears instead of bhuktā and
@@ -584,7 +585,8 @@
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Among the best sacrificial vessels, among the best holy places, among the best occasions, may the earth-gift be a way out of the infinite and deep ocean of rebirth !
+</p>
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXV, p. 60‚ text lines 53-54.</note><!-- checked and added in my table -->
@@ -705,7 +707,9 @@ Having observed this double and balancing fortune, may you work for the longevit
                 </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. XXXI, p. 221, text lines 21-24. The stanza is sometimes quoted
-                separately from the Vyāsa-gīta group of verses (ibid. Vol. XXXIV, p. 114).</note>
+                separately from the Vyāsa-gīta group of verses (ibid. Vol. XXXIV, p. 114).</note><!-- See https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00034.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00035.html + 
+https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00037.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00038.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00039.html +
+https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00040.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00042.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00043.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00031.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00041.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00044.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00051.html-->
                 </div>
             </div>
             <div xml:id="Sircar1965_st0031">
@@ -758,8 +762,8 @@ Having observed this double and balancing fortune, may you work for the longevit
                     <l n="d">saikatāḥ setavo yathā</l>
                 </lg>
                </div>
-               <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+               <div type="translation">
+                    <p rend="stanza">The Vehicles and forces maintained with the wealth misappropriated from the brahmins break down at the time of battle like bunds made of sand.</p><!-- Translation coming from the GarudaP -->
                 </div>
                <div type="notes">
                    <note>5. Ep. Carn., Vol. III. Sr. 12.</note>
@@ -804,14 +808,14 @@ Having observed this double and balancing fortune, may you work for the longevit
             <div xml:id="Sircar1965_st0036">
                 <div type="text">
                     <lg met="vaṁśastha">
-                        <l>calā vibhūṭiḥ kṣaṇa-bhaṅgi yauvanaṁ</l>
+                        <l>calā vibhūtiḥ kṣaṇa-bhaṅgi yauvanaṁ</l>
                         <l>kṛtānta-dantāntara-varti jīvitam</l>
                         <l>tathāpy avajñā para-loka-sādhane</l>
                         <l>nṛṇām aho vismayakāri ceṣṭitam</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Prosperity is unsteady, youth is shattered in an instant, life is a step away from death, yet this counts for little when it comes to achievement in the next world. Alas! that which works miracles for men requires effort!</p>
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXXII, p. 7o, text lines 9-11.</note>
@@ -870,7 +874,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The purāṇas whose wisdom is undoubtful, tell that what is born from the protection is really superior to the gift, it is the best dharmic act among the dharmic ones! Hence, may that the earth be given to a twice born knowing the śruti and born in a very pious lineage and may your unique thought be to protect it !
+</p>
                 </div>
                 <div type="notes">
                      <note>5. Ep. Ind., Vol. IX, p. 173, text lines 12-14.</note>
@@ -907,7 +912,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     padam and we have madhye for tāvat in the first foot (Ep. Ind., Vol. XVI,
                 p. 351). Sometimes we have Dānaṁ vāpālanaṁ v=ātra and dānā c=chreyo='nupālanam in the first and second feet (Ep. Carn., Vol. II,
                 Nos., 253, 327; Vol. III, My. Nos. 7, 32). The third foot sometimes reads
-                dānād=lndratvam=āpnoti(Ep. Ind., Vol. XIV, p. 104, text lines 103-105).</note>
+                dānād=lndratvam=āpnoti(Ep. Ind., Vol. XIV, p. 104, text lines 103-105).</note><!-- See https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00034.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00035.html + 
+https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00037.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00038.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00039.html +
+https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00040.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00042.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00043.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00031.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00041.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00044.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00051.html -->
                 </div>
             </div>
            <div xml:id="Sircar1965_st0041">
@@ -920,7 +927,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                    </lg>
                </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">He lives very high in the sky, the man who makes a gift as well as the one who authorizes it, He firmly cooks in the Raurava the one who steals a land or the one who contributes to this theft </p>
                 </div>
                <div type="notes">
                     <note>7. Ind. Ant., Vol. XII, p. 127.</note>
@@ -2556,7 +2563,8 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                    <l n="a">saṣṭiṁ varṣa–sahasrāṇi</l>
                    <l n="b">svarge modati bhūmidaḥ</l>
                    <l n="c">Ācchettā cānumantā ca</l>
-                   <l n="d">tāny eva narake vaset</l></lg>
+                   <l n="d">tāny eva narake vaset</l>
+               </lg>
            </div>
                <div type="translation" resp="part:amwb">
                     <p rend="stanza"></p>
@@ -3451,7 +3459,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 in the second foot and etad° at the beginning of the second half (Vogel, Antiquities
                 of Chamba State, I. p. 163). The Mahābhārata (XIII, 62, 19) has it with puruṣaḥ
                 pāpaṁ kurute vṛtti-karśitaḥ. Ballāla's Dānasāgara (op. cit., p. 316) attributes it
-                to the Dāna-Bṛhaspati.
+                to the Dāna-Bṛhaspati.<!-- According to Kane 1941 vol2.2 p.858-859: Vas. Dh. S. 29.16, Bṛhaspati 7, Viṣṇudharmottara, Matsyapurāṇa (quoted by Aparārka p369 370) + Note 2021 : Bhaviṣyapurāṇa 4.164,18 -->
                     </note>
                 </div>
             </div>       
@@ -3546,6 +3554,14 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                         <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of Sircar1965_st0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
             </div>
             </div>
+            <!-- New stanza INSSomavamsin00021
+            <lg met="anuṣṭubh">
+                 <l n="">nirvvaśo nirddhano rogī</l> l'homme qui serait malade diminué sans volonté
+                 <l n="">kṣīṇāyuḥ śatrubhir jjitaḥ</l> dont l'espérance de vie est réduite, vaincu par ses ennemis
+                 <l n="">bhaved yaḥ kurute vādhāṃ</l> qu'il fasse une objection aux vipra dans une plaque de cuivre 
+                 <l n="">viprāṇāṁ tāmra-śāsane</l> 
+             </lg>
+            -->
             <!-- 
             Stance à ajouter ? 
             Kunthea thèse p. 162 
