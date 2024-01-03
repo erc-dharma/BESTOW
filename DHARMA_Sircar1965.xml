@@ -163,6 +163,8 @@
                 74, with lokās=trayas=tena bhavanti dattā°, while the Padma Purāṇa, VI, 33, 32, has
                 the quarter as teṣām=anantaṁ phalam=aśnuvīta. Ballāla's Ḍānasāgara (op. cit„ p. 317)
                 attributes it to Saṁvaṛta.</note>
+<!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 5  p 1271 
+                    padampurāṇa VI 33 32 vasiṣtṭha 28.16 bṛhaspati 30 -->
                 </div>     
             </div>
             <div xml:id="Sircar1965_st0006">
@@ -557,6 +559,12 @@
                 46).</note> <!-- I added this verse in my table :  Yānti kālena rājāno mahī punar=avasthitā |
                 tad=stāṁ yo yadā bhuṅkte sa tadā phalam=aśnute l| (Ep. Ind., Vol.XXXVI, pp. 18,
                 46). -->
+                        <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 1  p 1271 
+                        he gives the follozing references : BhaviṣyaPurāṇa IV.164.22 PadmaPurāṇa, VI,
+                33, 26-27 EIXX p 159 EI XV p133  EI vol I p88 EI vol II p20 VIII p 162 IA vol 19 p 16-18  Gupta inscription 21 p 93 n 23 p 108 Bṛhapsati 26 
+                 Ascribed to Vyasa in IA VI p363 (sake 500) and p9 Gupta Inscription 
+                 to Manu EI VI p18 
+                        -->
                    </div>
                </div>      
             <div xml:id="Sircar1965_st0024">
@@ -966,7 +974,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                </div>
                <div type="translation">
                     <p rend="stanza">The gifts which have been here granted by former princes producing virtue,
-wealth and fame are comparable to the remains of offerings to the gods.What good man could resume them? (translation EI24_12, p.217)</p>
+wealth and fame are comparable to the remains of offerings to the gods.What good man could resume them? (translation EI24_12, p.217)</p> <!-- Daniel's translation INSVengiCalukya00024 : What decent man would ever partake again of those donations given by kings in the past to generate merit (dharma), wealth (artha) and fame, which are [now] comparable to discarded garlands or vomit?  -->
                 </div>
                <div type="variation">
                    <l>Yān=īha dāridya°, etc. See No. 43, note. </l>
@@ -1536,7 +1544,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     stanza is rarely conveyed in the following verse : Taḍit-taraṅga-bahulāṁ śriyaṁ
                     mat vā ca mantyānām | na dharma-sthitayaḥ
                 sadbhir=yuktā loke vilopitum || (Select Inscriptions, p. 364, text lines 23-24). See
-                also No. 10 above.</note>
+                also No. 10 above.</note><!-- Kane1941 vol 2-2 p1275 note 29 : verse numbered 29 in the appendix sources E.I.VI.p.285 at p.294 (śake 789) , EI.VII.93 (1077A.D) EI X p. 89, I. H. Q. for 1932 vol. VIII. p. 805 (sam. 1079)  -->
                 </div>
             </div>                     
             <!--
@@ -1888,12 +1896,12 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     <lg met="vasantatilakā">
                         <l n="a">mad-vaṁśajāḥ para-mahīpati-vaṁśajā vā </l>
                         <l n="b">pāpād apeta-manaso bhuvi bhāvi-bhūpāḥ</l>
-                        <l n="c">ye pālayanti mam dharmam imaṁ samastaṁ </l><!-- error !!mam!! a long a?  -->
+                        <l n="c">ye pālayanti mama dharmam imaṁ samastaṁ </l>
                         <l n="d">teṣāṁ mayā viracito 'ñjalir eṣa mūrdhni</l><!-- here metrical error need a long i  !!mūrdhni!! -->
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">To the future kings on earth born in my lineage or born from another royal lineage, whose minds are deprived of sin and who protect this entire dharma of mine, I offer my respectful reverence.</p> <!-- Daniel's translation [Hereby I offer my respectful obeisance (añjali) to [all] future] kings [on earth, [whether] born in my lineage or a different royal lineage], who [with minds averted from sin] observe [this ruling (dharma) of mine in its integrity.] -->
                 </div>
                 <div type="notes">
                       <note>3 Ep. Ind., Vol. XXVIII, p. 312, text lines 17-18. A modified form of the last
@@ -2435,12 +2443,12 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                     <l>Dattvā bhūmiṁ, etc. See No. 117, note. </l>
                 </div>
                 <div type="notes"> 
-                    <note>1. Ep. Ind., Vol. III, p. 343, text lines 55-57; etc. Sometimes the first half
+                    <note>1. Ep. Ind., Vol. III, p. 343, text lines 55-57<!-- checked -->; etc. Sometimes the first half
                 becomes the second and we have Rāmabhadraḥ (or the name of the donor—ibid., Vol.
-                XXVIII,p. 283, text line 35) for Rāmacandraḥ, krameṇa (ibid., Vol. XXIX, p. 9, text
+                XXVIII,p. 283, text line 35<!-- checked -->) for Rāmacandraḥ, krameṇa (ibid., Vol. XXIX, p. 9, text
                 line 55) for bhavadbhiḥ, and dattvā bhūmiṁ (ibid., Vol. XXXII, p. 76, text line 36)
-                for sarvān—etan. we have also prārthayaty=<seg>eṣa Rāma(i in
-                    the last quarter (ibid., Vol. VI, p. 62, verse 34). In some </seg>cases, we have
+                for sarvān—etan. we have also prārthayaty eṣa Rāma(i in
+                    the last quarter (ibid., Vol. VI, p. 62, verse 34). In some cases, we have
                 the first half as : Bho rājānaḥ prārthayaty=eṣa Rāmo bhūyo bhūyo prarthanīyā
                 narendrāḥ followed by sāmānyo='yaṁ, etc. (ibid., Vol. XXXI, p. 288, text line 27) or
                 as: Sarvān=eva prārthayaty=eṣa Rāmo bhūyo bhūyo bhāvinaḥ pārthivendrān, and
@@ -2577,7 +2585,8 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
 ..................................... ..................................... ||
 « Celui qui donne de la terre se réjouit (dans le ciel) pendant soixante mille ans
 ........ »
-                   
+                 INSVengiCalukya00021 variation pāda a   kalpakoṭisahasrāṇi 
+                 
                    -->
                </div>
                <div type="notes">
@@ -2598,7 +2607,10 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 v=ānumantā ca tam=eva and the omission of the first half) ; Viṣnudharmottara quoted
                 by Hemādri, op. cit., p. 486, and by Aparārka, op. cit., p. 369. It is attributed to
                 the KūrmaPurāṇa in Divākara’s Dānacandrikā and to Bṛhaspati in Nīlakaṇṭha's
-                Dānamayūkha(IHQ, Vol. VI, p. 776).</note>
+                Dānamayūkha(IHQ, Vol. VI, p. 776).</note> <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 2  p 1272 
+                quoted by Viśvarūpa on yā I,316  by Aparārka from viṣṇudharmottara p369 IA VI p9  EI XI p221 (490 ad) EI X p53 (456 AD) JBBRAS X p365 (dated 532 śqke) 
+                for other early references EI vol XIX p 16 EI X p51 and 53 EI vol 21 p 16=18 
+                the latter hqlf is bṛhaspati v 29 -->
                </div>         
            </div>
             <div xml:id="Sircar1965_st0124">
@@ -2765,6 +2777,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 half in some cases reads Pūrva-dattāṁ narendraiś=ca yatnād=rakṣa Śatakrato (ibid.,
                 Vol. XI, p. 313). The stanza occurs in the BhaviṣyaPurāṇa, IV, 164, 38 (with rakṣe
                 and mahibhṛtām).</note> 
+<!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 6  p 1272 -->
             </div>
         </div>                 
          <div xml:id="Sircar1965_st0132">
@@ -2825,6 +2838,8 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 Dānacandrikā and Dānamayūkha,to Bṛhaspati in Govindārianda’s Dānakriyākaumudi and to
                 the Mahābhārata in the Dānakhaṇḍa (IHQ., Vol. VI. p. 777). Gf. Coedés, Inscriptions
                 du Cambodge, Vol. v, p. 76.</note>
+<!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 4 p 1272 
+                    Aparārka p 370 from āditya purāṇa  gupta inscriptions n 23 qnd n 26 p 119  IA VI p363 EI VI p45 EI XIII p 270 qnd 233 Padmapurāna VI 33 26-30-->
                 </div>
             </div>
             <div xml:id="Sircar1965_st0132_01">
@@ -2845,7 +2860,9 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                             <item><ref target="DHARMA_INSVengiCalukya00017.xml">Tenali plates of Vijayāditya I</ref></item>
                             <item><ref target="DHARMA_INSVengiCalukya00059">Uccāṭi grant of Jayasiṁha I</ref></item>
                             <item><ref target="DHARMA_INSVengiCalukya00050">Cendalūr Plates of Maṅgi Yuvarāja</ref></item>
-                        </list>
+                        </list>             
+<!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 3  p 1272
+                        IA VI p 9 EI vol 8 p146 and p 162 EI XI p 111-->
                     </p>
                 </div>
                 <div type="translation" resp="part:daba">
@@ -2992,6 +3009,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>3. See, e.g., Ep. Ind , Vol. vI. p. 19, text lines 22-23; Ind. Ant., Vol. VI, p.
                 87, text lines 34-35 (anyasya for anyārtha°). we have also kleśam for duḥkham (Ep.
                 Ind., Vol. XVI. p. 85, verse 92).</note>
+<!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 7  p 1272 -->
                 </div>
             </div>
             <div xml:id="Sircar1965_st0136">
@@ -3042,7 +3060,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 and °pradānena bhūmi-hartā viśudhyati); PadmaPurāṇa,VI, 33, 37 (with
                 Vāpi-kūpa-sahasreṇa); Bṛhaspatisaṁhitā, verse 39 (with Vāpi-kūpa-sahasreṇa
                 aśvamedha°); Parāśarasaṁhitā, XII, 51 (with
-                Vāpī-kūpa-taṭāk-ādyair=vājapeya-śatair=api).</note>
+                Vāpī-kūpa-taṭāk-ādyair=vājapeya-śatair=api).</note><!-- Parāśara XII.51 according to Kane 1941 vol2°_2 p863 -->
                 </div>
             </div>
             <!--            
@@ -3539,9 +3557,9 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmṛti, IV, 235.</note>
                 </div>
             </div>
-            <div xml:id="">
+            <div xml:id="best_165">
                 <div type="text">
-                    <lg met="">
+                    <lg met="anuṣṭubh">
                         <l n="a">kharo dvādaśa janmāni</l>
                         <l n="b">Aṣṭa janmāni śūkaraḥ</l>
                         <l n="c">śvā tu saptati-janmāni</l>
@@ -3553,15 +3571,103 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                   <div type="notes"> 
                         <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of Sircar1965_st0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
             </div>
+            <div xml:id="best_166">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">brāhmaṇo jāyamāno vai</l>
+                        <l n="b">pr̥thivyām adhijāyate</l>
+                        <l n="c">Īśvaraḥ sarvva-bhūtānāṁ</l>
+                        <l n="d">brahma-kośasya guptaye</l>
+                    </lg>
+                </div>
+                <div type="translation" resp="part:daba">
+                    <p rend="stanza">It is the Lord of All Beings who, in order to preserve Brahmanic wealth, takes birth on earth as a Brahmin being born.</p>
+                </div>
+                <div type="notes">
+                    <p>This stanza is inserted within a group of well-known benedictory and imprecatory stanzas in <title>Ciṁbuluru plates of Vijayāditya III</title> (DHARMA_INSVengiCalukya00062)</p>
+                </div>
             </div>
-            <!-- New stanza INSSomavamsin00021
-            <lg met="anuṣṭubh">
-                 <l n="">nirvvaśo nirddhano rogī</l> l'homme qui serait malade diminué sans volonté
-                 <l n="">kṣīṇāyuḥ śatrubhir jjitaḥ</l> dont l'espérance de vie est réduite, vaincu par ses ennemis
-                 <l n="">bhaved yaḥ kurute vādhāṃ</l> qu'il fasse une objection aux vipra dans une plaque de cuivre 
-                 <l n="">viprāṇāṁ tāmra-śāsane</l> 
-             </lg>
-            -->
+            <div xml:id="best_167">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                 <l n="a">nirvvaśo nirddhano rogī</l> 
+                 <l n="b">kṣīṇāyuḥ śatrubhir jjitaḥ</l>
+                 <l n="c">bhaved yaḥ kurute vādhāṃ</l>
+                 <l n="d">viprāṇāṁ tāmra-śāsane</l>                     
+                    </lg>
+                </div>
+                <div type="translation">
+                    <p rend="stanza">A man who objects to the <foreign>vipra</foreign> in a copper plate, would be sick, diminished without will, whose life expectancy is reduced, defeated by his enemies !</p>
+                </div>
+                <div type="notes">
+                    <p>See DHARMA_INSSomavamsin00021</p>
+                </div>
+            </div>
+            <div xml:id="best_168">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                       <l n="a">tasya svaṁ harate yas tu</l>
+                       <l n="b">tasya pāpa-phalaṁ śr̥ṇu</l>
+                       <l n="c">brahma-hatyā-sahasrebhyaḥ</l>
+                       <l n="d">go-hatyābhyo viśiṣyate</l>  
+                    </lg>
+                </div>
+                <div type="translation" resp="part:daba">
+                    <p rend="stanza">Hear the fruit of the sin of that man who seizes His property: it exceeds thousands of Brahmin-murders and cow-slaughters.</p>
+                </div>
+                <div type="notes">
+                    <p>See <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062)</p>
+                </div>
+            </div>
+            <div xml:id="best_169">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a" met="na-vipulā" real="+-++---+">dehi dehīti vādato</l>
+                        <l n="b">dehi dehīti yo vadeT</l>
+                        <l n="c">na sa vakṣyiti dehīti</l>
+                        <l n="d">dehī dehāntaraṁ gataḥ</l>                    
+                    </lg>
+                </div>
+                <div type="translation" resp="part:daba">
+                    <p rend="stanza">He who would would say “<supplied reason="subaudible">No, you</supplied> give <supplied reason="subaudible">me</supplied>, me” to one who says “Give <supplied reason="subaudible">me</supplied>, give” <supplied reason="explanation">i.e. to a Brahmin</supplied>—that embodied being will not <supplied reason="subaudible">be able to</supplied> say “Give” when he takes birth in another body.</p>
+                </div>
+                <div type="notes">
+                    <p>The stanza is rather corrupted and reconstructed by Daniel Balogh in his edition of the plate (see <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062), in particular the note ).</p>
+                </div>
+            </div>
+            <div xml:id="best_170">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">Ādhi-vyādhi-parītāyev</l>
+                        <l n="b">ādya śvo vā vināśine</l>
+                        <l n="c">ko hi nāma śarīrāya</l>
+                        <l n="d">dharmāpetaḥ samācareT</l>
+                    </lg>
+                </div>
+                <div type="translation" resp="part:daba">
+                    <p rend="stanza">Who indeed would act in breach of moral duty (dharma) for the sake of the body, which seems to be full of pain and malady, and which will decay today or tomorrow?</p>
+                </div>
+                <div type="notes">
+                    <p>See <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062)</p>
+                </div>
+            </div>
+            <div xml:id="best_171">
+                <div type="text">
+                    <lg met="upajāti">
+                        <l n="a">Asyāsumanto haraṇaṁ haranti</l>
+                        <l n="b">ye te narendrād iha yātanārhāḥ</l>
+                        <l n="c">yamād amutrāpi ca pālayanti</l>
+                        <l n="d">ye yāntu te dhāma śivaṁ śivasya</l>                    
+                    </lg>
+                </div>
+                <div type="translation" source="bib:Bhattacharya2009_01">
+                    <p rend="stanza">Men who take away the offerings for him, should be punished here by the king and in the other world by Yama; but those who protect them, may they go to the auspicious abode of Śiva.</p>
+                </div>
+                <div type="notes">
+                    <p>See <title>South and North doorjambs of East door of the Southern tower of the first row of Prasat Lolei (K. 327), 815 Śaka</title> (INSCIK00327)</p>
+                </div>
+            </div>
+            </div>
             <!-- 
             Stance à ajouter ? 
             Kunthea thèse p. 162 
