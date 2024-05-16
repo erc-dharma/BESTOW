@@ -17,7 +17,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_Sircar1965</idno>
+                <idno type="filename">DHARMA_best</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -31,7 +31,7 @@
                 <date from="2023" to="2025">2023-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <bibl><ptr target="bib:Sircar1965_03"/></bibl>
+                <bibl><ptr target="bib:best_03"/></bibl>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -58,7 +58,7 @@
     </teiHeader>
     <text  xml:space="preserve">
         <body>
-            <div xml:id="Sircar1965_st001">
+            <div xml:id="best_st001">
                 <div type="text">
                 <lg met="anuṣṭubh">
                 <l n="a">Adbhir dattaṁ tribhir bhuktaṁ</l>
@@ -74,7 +74,7 @@
                     <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27.</note><!-- not yet checked -->
                 </div>
             </div>
-            <div xml:id="Sircar1965_st002">
+            <div xml:id="best_st002">
                 <div type="text">
                     <lg met="upajāti">
                         <l n="a">Āditya-candrāv anilo 'nalaś ca</l>
@@ -92,7 +92,7 @@
                     <!-- DHARMA_INSEC09Dv15 Ep Carn 09 Dv n15 varaition in b hṛdayaṁ Yamaś ca instead of hṛdayaṁ manaś ca + variation d dharmaś ca jānāti -->
                 </div>
             </div>
-                <div xml:id="Sircar1965_st003">
+                <div xml:id="best_st003">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Ādityā iva dīpyante</l>
@@ -111,13 +111,13 @@
                 attribute the stanza to the Viṣṇudharmottara.</note>
                     </div>
                 </div>
-            <div xml:id="Sircar1965_st0004">               
+            <div xml:id="best_st0004">               
                 <div type="text">
                 <lg met="anuṣṭubh">
                 <l n="a">Ādityo varuṇo viṣṇur</l>
                 <l n="b">brahmā somo hutāśanaḥ</l>
                 <l n="c">śūlapāṇiś ca bhagavān</l>
-                <l n="d">pratinandanti bhūmidam</l>
+                <l n="d">pratinandanti bhūmidaM</l>
                 </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
@@ -140,7 +140,7 @@
                     <!-- Gretil : Mahābhārata 13,061.045 ādityo varuṇo viṣṇur brahmā somo hutāśanaḥ | śūlapāṇiś ca bhagavān pratinandanti bhūmidam -->
                 </div>
             </div>   
-            <div xml:id="Sircar1965_st0005">               
+            <div xml:id="best_st0005">               
                 <div type="text">
                     <lg met="indravajrā">
                     <l n="a">Agner apatyaṁ prathamaṁ suvarṇaṁ</l>
@@ -167,7 +167,7 @@
                     padampurāṇa VI 33 32 vasiṣtṭha 28.16 bṛhaspati 30 -->
                 </div>     
             </div>
-            <div xml:id="Sircar1965_st0006">
+            <div xml:id="best_st0006">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Agniṣṭomādibhir yajñair</l>
@@ -177,7 +177,7 @@
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Even after offering sacrifices such as the Agniṣṭoma etc, whose fees are substantial, one does not obtain the fruit (obtained) after giving earth.</p>
+                    <p rend="stanza">O king, even after offering sacrifices such as the Agniṣṭoma etc, whose fees are substantial, one does not obtain the fruit (obtained) after giving earth.</p>
                 </div>
                 <div type="notes">
                      <note>3. Ep.Ind., Vol. XXV, p. 218, verse 41. The second half is sometimes read as yaṣṭā
@@ -185,10 +185,27 @@
                 Sometimes we have the stanza as Agniṣṭoma-prabhṛtibhir=iṣṭvā yajñaiḥ sa-dakṣiṇaiḥ|
                 na tat=phalam=avāpnoti bhūmi-dānād=yad=aśnute || (Ind. Ant., Vol. XIV, p. 319, text
                 lines 108-09) while the Mahābhārata (XIII, 62, 73) shows this reading with ca
-                sv-āpta- dakṣiṇaiḥ in the second foot.</note>
+                sv-āpta- dakṣiṇaiḥ in the second foot.</note><!-- Ind. Ant., Vol. XIV, p. 319, text encoded + its variation noted just below  -->
+                </div>
+                
+            <div xml:id="best_st0006_01">
+                <div type="text">
+                     <lg met="anuṣṭubh">
+                        <l n="a">Agniṣṭoma-prabhṛtibhir</l>
+                        <l n="b">iṣṭvā yajñaiḥ sa-dakṣiṇaiḥ</l>
+                        <l n="c">na tat phalam avāpnoti</l>
+                        <l n="d">bhūmi-dānād yad aśnute</l>
+                    </lg>
+                </div>
+                <div type="translation">
+                    <p rend="stanza">Even after offering sacrifices such as the Agniṣṭoma etc, with substantial fees, one does not obtain the fruit (obtained) after giving earth.</p>
+                </div>
+                <div type="bibliography">
+                    <bibl><ptr target="bib:Fleet1885_02"/><citedRange unit="page">319</citedRange><citedRange unit="line">108-109</citedRange></bibl>
                 </div>
             </div>
-               <div xml:id="Sircar1965_st0007">
+            </div>
+               <div xml:id="best_st0007">
                    <div type="text">
                        <lg met="anuṣṭubh">
                            <l n="a">Aho rāghava rājendra</l>
@@ -215,7 +232,7 @@
                        -->
                    </div>
                </div>       
-                <div xml:id="Sircar1965_st0008">
+                <div xml:id="best_st0008">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">A-karasya karādānaṁ</l>
@@ -240,7 +257,7 @@
                         <!-- Ep Carn checked DHARMA_INSEC05Bl074 but not the volume XII  -->
                     </div>
                 </div>      
-                <div xml:id="Sircar1965_st0009">
+                <div xml:id="best_st0009">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Andho dvādaśa janmāni</l> 
@@ -260,7 +277,7 @@
                 sapta janmāni in the first foot and svayaṁ datt-āpahārakāḥ in the last.</note>
                     </div>
                 </div>           
-                <div xml:id="Sircar1965_st0010">
+                <div xml:id="best_st0010">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">anucintya śriyaṁ jīvyaṁ</l> 
@@ -276,7 +293,7 @@
                         <note>2. Ep. Ind., Vol. XIX, p. 45, text lines 31-32. See No. 71 below.</note><!-- EI 19 p45 checked and added in my table -->
                     </div>
                 </div>          
-           <div xml:id="Sircar1965_st0011">
+           <div xml:id="best_st0011">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">Anya-gotra-samutpannam</l>
@@ -292,7 +309,7 @@
                    <note>3. Ep. Carn., Vol. XIV, IIg. No. 143.</note>
                </div>
            </div>    
-                <div xml:id="Sircar1965_st0012">
+                <div xml:id="best_st0012">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Anya-kṣetre kṛtaṁ pāpaṁ</l>
@@ -314,7 +331,7 @@
                 mṛtyuḥ kartavyo dharma-saṁgrahaḥ||(A. R. Ep. 1946-47, No. B 208).</note>
                     </div>
                 </div>
-             <div xml:id="Sircar1965_st0013">
+             <div xml:id="best_st0013">
                  <div type="text">
                      <lg met="anuṣṭubh">
                          <l n="a">Anyāyena hṛtā bhūmir</l>
@@ -334,7 +351,7 @@
                 below. No. 100.</note>
                  </div>
              </div>
-                <div xml:id="Sircar1965_st0014">
+                <div xml:id="best_st0014">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">anyeṣāṁ charditaṁ bhuṅkte</l> 
@@ -355,7 +372,7 @@
                 || (Ind. Ant., Vol. IV, p. 334).</note>
                     </div>
                 </div>         
-                <div xml:id="Sircar1965_st0015">
+                <div xml:id="best_st0015">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">api gaṅgādi-tīrtheṣu</l>
@@ -380,7 +397,7 @@
                     </div>
                 </div>  
             <!--<pb n="179"/> -->     
-                <div xml:id="Sircar1965_st0016">
+                <div xml:id="best_st0016">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Api hasta-mitāṁ bhūmiṁ</l>
@@ -397,7 +414,7 @@
                          <note>1. Ind. Ant., Vol.XIV, p. 73.</note>
                     </div>
                 </div>
-                <div xml:id="Sircar1965_st0017">
+                <div xml:id="best_st0017">
                     <div>
                         <lg met="anuṣṭubh">
                             <l n="a">Ārya-saṅghāya dattāṁ yo</l>
@@ -413,7 +430,7 @@
                         <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note><!-- Checked and added in my table-->
                     </div>
                 </div>
-            <div xml:id="Sircar1965_st0018">
+            <div xml:id="best_st0018">
                 <div type="text">
                 <lg met="anuṣṭubh">
                     <l n="a">asāre 'pi ca saṁsāre</l>
@@ -429,7 +446,7 @@
                      <note>3. Ep. Ind., Vol. XIX, p. 45, text lines 30-31.</note><!-- checked and added in my table -->
                 </div>
             </div>         
-            <div xml:id="Sircar1965_st0019">
+            <div xml:id="best_st0019">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">Asmat-kula-kramam udāram udāharadbhir</l>
@@ -446,7 +463,7 @@
                 </div>
             </div>
            
-              <div xml:id="Sircar1965_st0020">
+              <div xml:id="best_st0020">
                    <div type="text">
                        <lg met="anuṣṭubh">
             <l n="a">Āsphoṭayanti pitaraḥ</l>
@@ -478,7 +495,7 @@
                 Anandasrama Press, p. 370) assign it to Bṛhaspati and the Viṣṇudharmottara respectively.</note>
                   </div>
               </div>
-              <div xml:id="Sircar1965_st0021">
+              <div xml:id="best_st0021">
                   <div type="text">
                       <lg met="anuṣṭubh">
                           <l n="a">aśvamedha-sahasrāṇi</l>
@@ -496,7 +513,7 @@
                 57).</note>
                   </div>
               </div>        
-            <div xml:id="Sircar1965_st0022">
+            <div xml:id="best_st0022">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">āyuḥ putrā dhanaṁ saukhyaṁ</l>
@@ -514,7 +531,7 @@
             </div>         
           <!-- <pb n="180"/>
             -->
-               <div xml:id="Sircar1965_st0023">
+               <div xml:id="best_st0023">
                    <div type="text">
                        <lg met="anuṣṭubh">      
             <l n="a">bahubhir vasudhā bhuktā</l>
@@ -567,7 +584,7 @@
                         -->
                    </div>
                </div>      
-            <div xml:id="Sircar1965_st0024">
+            <div xml:id="best_st0024">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">bahun ātra kim uktena</l> 
@@ -583,7 +600,7 @@
                      <note>3. Ep. Ind., Vol. XXVIII, p. 216, text lines 25–26.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0025">
+            <div xml:id="best_st0025">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">bhūmi-dānaṁ su-pātreṣu</l>
@@ -600,7 +617,7 @@
                     <note>4. Ep. Ind., Vol. XXV, p. 60‚ text lines 53-54.</note><!-- checked and added in my table -->
                 </div>
             </div>          
-           <div xml:id="Sircar1965_st0026">
+           <div xml:id="best_st0026">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">bhūmi-dāna-samaṁ dānam</l>
@@ -616,7 +633,7 @@
                    <note>5. Ep. Ind., Vol VIII. p. 303, text lines 23-24.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0027">
+            <div xml:id="best_st0027">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">bhūmi-dānasya yaḥ kartā</l> 
@@ -632,7 +649,7 @@
                     <note>6. Ep. Ind., Vol. IV, p. 170, line 121.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0028">
+            <div xml:id="best_st0028">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">bhūmi-dānāt paraṁ dānaṁ</l>
@@ -662,7 +679,7 @@ Hormis le crime de s’en emparer,
 Il n’y en eut point et n’y en aura point -->
             </div>
             <!--<pb n="181"/>-->                    
-            <div xml:id="Sircar1965_st0029">
+            <div xml:id="best_st0029">
                 <div type="text">
                     <lg met="anuṣṭubh">
                 <l n="a">bhūmiṁ yaḥ pratigṛhṇāti</l>
@@ -697,12 +714,12 @@ Il n’y en eut point et n’y en aura point -->
                 </div>
             
             </div>                   
-            <div xml:id="Sircar1965_st0030">
+            <div xml:id="best_st0030">
                 <div type="text">
                 <lg met="vasantatilakā">
                 <l n="a">bhūmi-pradā divi lalanti patanti hanta</l>
                 <l n="b">hṛtvā mahīṁ nṛpatayo narake nṛśaṁsā</l>
-                <l n="c">etad dvayaṁ parikalayya calāñ ca lakṣmīm</l>
+                <l n="c">Etad dvayaṁ parikalayya calāñ ca lakṣmīm</l>
                 <l n="d">āyus tathā kurutha yad bhavatām abhīṣṭam</l>
                 </lg>
                 </div>
@@ -720,7 +737,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
 https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00040.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00042.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00043.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00031.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00041.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00044.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00051.html-->
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0031">
+            <div xml:id="best_st0031">
                 <div type="text">
                     <lg met="indravajrā">
                         <l n="a">bhūmi-pradānān na paraṁ pradānaṁ </l>
@@ -738,7 +755,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                     <note>3. CII, Vol. III, p. 115. text lines 22-23.</note> <!-- it corresponds to DHARMA_INSSiddham00081 -->
                 </div>
             </div>   
-           <div xml:id="Sircar1965_st0032">
+           <div xml:id="best_st0032">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">brahma-svaṁ praṇayād bhuktvā</l>
@@ -761,7 +778,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
            </div>
            <!-- 
            -->
-           <div xml:id="Sircar1965_st0033">
+           <div xml:id="best_st0033">
                <div type="text">
                 <lg met="anuṣṭubh"> 
                     <l n="a">brahma-sva-paripuṣṭāni</l>
@@ -779,7 +796,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
            </div>                
             <!--
                  <pb n="182"/>-->
-            <div xml:id="Sircar1965_st0034">
+            <div xml:id="best_st0034">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">brahma-sve mā matiṁ kuryāḥ</l> 
@@ -797,7 +814,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                 found in the Bṛhāspatisaṁhitā, verse 45 (with ratiṁ for matiṁ).</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0035">
+            <div xml:id="best_st0035">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l>calā lakṣmīś calāḥ prāṇāś</l>
@@ -813,7 +830,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                     <note>2. Ep. Ind., Vol. XXII, p. 194, text lines 17-18.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0036">
+            <div xml:id="best_st0036">
                 <div type="text">
                     <lg met="vaṁśastha">
                         <l>calā vibhūtiḥ kṣaṇa-bhaṅgi yauvanaṁ</l>
@@ -829,7 +846,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                     <note>3. Ep. Ind., Vol. XXXII, p. 7o, text lines 9-11.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0037"><!-- Caution ! Sircar attributes the numbers 37 and 38 to these couple of stanzas but as it is impossible to form an understanble sentence with only one of them, I consider the two as a semantic whole -->
+            <div xml:id="best_st0037"><!-- Caution ! Sircar attributes the numbers 37 and 38 to these couple of stanzas but as it is impossible to form an understanble sentence with only one of them, I consider the two as a semantic whole -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">candrārkau ca tathā bhūmir</l>
@@ -848,7 +865,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                      <note>4. Ind. Ant., Vol. XII, p. 121. See above No. 2.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0038">
+            <div xml:id="best_st0038">
                 <div type="text">
                     <lg met="anuṣṭubh">
                          <l n="a">tisraḥ sandhyās trayo vedās</l>
@@ -867,7 +884,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                      <note>4. Ind. Ant., Vol. XII, p. 121. See above No. 2.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0039">
+            <div xml:id="best_st0039">
                 <div type="text">
                     <lg met="vasantatilakā"><!-- some metrical problems : 
                     dānād viśi!!ṣṭaṃ!! paripālanajaṃ purāṇā 
@@ -889,7 +906,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                      <note>5. Ep. Ind., Vol. IX, p. 173, text lines 12-14.</note>
                 </div>
             </div> 
-            <div xml:id="Sircar1965_st0040">
+            <div xml:id="best_st0040">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">dāna-pālanayos tāvat</l>
@@ -904,28 +921,39 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <div type="variation">
                     <l>Dānaṁ vā, etc. See No. 40, note.</l>
                      <l>Rakṣā, etc. See No. 40, note.</l>
+                                    </div>
+                <div type="notes">
+                     <note>6. Ep. Ind., Vol. XXXI, pp. 221-22, text lines 24-25. We have Rakṣā for Dāna at
+                the beginning in Ep. Ind., Vol. XXIII, p. 121, line 20; cf. ibid., Vol. XXXIV, p.
+                114 (where the stanza has been quoted seperately from the Vyāsa-gita group of
+                verses). The second half is sometimes quoted as dānāt svargam avāpnoti pālanād acyutaṁ(śāṅkaram in Ep. Carn., Vol. VIII, Tl. No. 73)
+                    padam and we have madhye for tāvat in the first foot (Ep. Ind., Vol. XVI,
+                p. 351). Sometimes we have Dānaṁ vāpālanaṁ vātra and dānā cchreyo 'nupālanam in the first and second feet (Ep. Carn., Vol. II,
+                Nos., 253, 327; Vol. III, My. Nos. 7, 32). The third foot sometimes reads
+                dānād indratvam āpnoti(Ep. Ind., Vol. XIV, p. 104, text lines 103-105).</note><!-- See https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00034.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00035.html + 
+https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00037.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00038.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00039.html +
+https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00040.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00042.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00043.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00031.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00041.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00044.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00051.html -->
+                </div>
+            </div>
+            <div xml:id="best_st0040_01">
+                <div type="text">
                     <lg met="anuṣṭubh"><!-- found in EI16_12 and int Margherita's CP Perunāvalūrc ceppēṭu -->
                         <l n="a">dāna-pālanayos madhye</l>
                         <l n="b">dānāc chreyo 'nupālanam</l>
                         <l n="c">dānāt svargam āpnoti</l>
                         <l n="d">pālanād acyutaṁ padam</l>
                     </lg>
+                </div>
+                <div type="translation">
                     <p>Between gift and preservation, preservation is better than gift : by gift one obtains Heaven but by preservation one never falls again.</p>
                 </div>
                 <div type="notes">
-                     <note>6. Ep. Ind., Vol. XXXI, pp. 221-22, text lines 24-25. We have Rakṣā for Dāna at
-                the beginning in Ep. Ind., Vol. XXIII, p. 121, line 20; cf. ibid., Vol. XXXIV, p.
-                114 (where the stanza has been quoted seperately from the Vyāsa-gita group of
-                verses). The second half is sometimes quoted as dānāt=svargam=avāpnoti pālanād=acyutaṁ(śāṅkaram in Ep. Carn., Vol. VIII, Tl. No. 73)
-                    padam and we have madhye for tāvat in the first foot (Ep. Ind., Vol. XVI,
-                p. 351). Sometimes we have Dānaṁ vāpālanaṁ v=ātra and dānā c=chreyo='nupālanam in the first and second feet (Ep. Carn., Vol. II,
-                Nos., 253, 327; Vol. III, My. Nos. 7, 32). The third foot sometimes reads
-                dānād=lndratvam=āpnoti(Ep. Ind., Vol. XIV, p. 104, text lines 103-105).</note><!-- See https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00034.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00035.html + 
-https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00037.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00038.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00039.html +
-https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00040.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00042.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00043.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00031.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00041.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00044.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00051.html -->
+                    <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">182</citedRange><citedRange unit="note">6</citedRange></bibl> mentions this stanza as a variation of best_0040. The bibliographic references given are Ep. Carn., Vol. VIII, Tl. No. 73; Ep. Carn., Vol. II,
+                Nos., 253, 327; Vol. III, My. Nos. 7, 32;Ep. Ind., Vol. XIV, p. 104, text lines 103-105 </p>
+<!-- need to check these references  -->                
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0041">
+           <div xml:id="best_st0041">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">dātā caivānumantā ca</l> 
@@ -942,28 +970,44 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                </div>
            </div>      
           <!-- <pb n="183"/> -->  
-           <div xml:id="Sircar1965_st0042">
+           <div xml:id="best_st0042">
                <div type="text">
                <lg met="anuṣṭubh">
                    <l n="a">dātā daśānugṛhṇāti</l>
                    <l n="b">yo hared daśa hanti ca</l>
                    <l n="c">atītānāgatān īha</l>
-                   <l n="d">kulāni kurunandana</l>
+                   <l n="d">kulāni kulanandana</l>
                </lg>
                 </div>
-               <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+               <div type="translation" resp="bib:KrishnaSastri1923-1924_01">
+                    <p rend="stanza">Oh! Gladdener of your race! He that makes a gift on this earth blesses (his) ten generations past and future; and he that takes away (that which has been given) destroys ten generations past and future. </p>
                 </div>
-                <div type="variation">
-                    <l>Dātā daś=ānugṛhṇāti daśa, etc. See No. 42, note.</l>
-                </div>
+               <div type="bibliography">
+                   <bibl><ptr target="bib:KrishnaSastri1923-1924_01"/><citedRange unit="page">303</citedRange><citedRange unit="line">146-147</citedRange></bibl>
+               </div>
                <div type="notes">
                    <note>1. Ep. Ind., vol. XVII, p. 3o3, verse 2I. Sometimes we have : Dātā daś=anugṛhṇāti
                 daśa hanti tathā kṣipan I pūrva-dattāṁ haran=hhūmiṁ narakāy=opagachcati 11 (Ind.
                 Ant., Vol. XlV, p. 319, text lines 111-12).</note>
                </div>
            </div>
-           <div xml:id="Sircar1965_st0043">
+            <div xml:id="best_st0042_01">
+                <div type="text">
+                   <lg met="anuṣṭubh">
+                   <l n="a">dātā daśānugṛhṇāti</l>
+                   <l n="b">daśa hanti tathākṣipan</l>
+                   <l n="c">pūrva-dattāṁ haran bhūmiṁ</l>
+                   <l n="d">narakāyopagacchati</l>
+               </lg>
+                </div>
+                <div type="translation">
+                    <p rend="stanza">The man who gives (land) is blessed for ten (generations), the one withdrawing it destroys ten generations. Resuming a land already given drives someone to hells.</p>
+                </div>
+                <div type="bibliography">
+                    <bibl><ptr target="bib:Fleet1885_02"/><citedRange unit="page">319</citedRange><citedRange unit="line">111-112</citedRange></bibl>
+                </div>
+            </div>
+           <div xml:id="best_st0043">
                <div type="text">
                    <lg met="indravajrā"> 
                        <l n="a">dattāni yānīha purā narendrair</l>
@@ -995,23 +1039,23 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 foot and audāryato vipra-niveditāni in the third.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0044">
+            <div xml:id="best_st0044">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">deva-dravya-vināśena</l> 
-                        <l n="b">brahma–sva–harṇena ca</l>
+                        <l n="b">brahma–sva–haraṇena ca</l>
                         <l n="c">tad dhanaṁ kula–nāśāya</l>
                         <l n="d">bhaved ātma–vadhāya ca</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">If the property of divinity is destroyed and if the property of Brahmins is stolen, this property will cause the ruin of the family and the destruction of the soul.</p>
                 </div>
                 <div type="notes">
                      <note>3. Ep. Carn., Vol. V, Belur No. 58.</note>
                 </div>
             </div>  
-           <div xml:id="Sircar1965_st0045">
+           <div xml:id="best_st0045">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">deva-dravyopabhoktā ca</l> 
@@ -1021,7 +1065,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                    </lg>
                </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Whoever takes advantage of the divinity's goods, whoever interferes in ritual activities or whoever blasphemes, will be reborn without a son.</p>
                 </div>
                <div type="variation">
                    <l>Deva-śāsana-loptāro, etc. See No. 45, note. </l>
@@ -1043,11 +1087,27 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 yo='numantā sa pāpa-kṛt | .........brahma-haty-āyutaṁ śatam || (ibid.,
                 Channarayapatna No. 259). See also Yaṁ vināśayituṁ, etc., in Vol. XII, Ck. No. 42.
                 Cf. Yath-oktaiḥ pañcabhir=ghorair=mahāpātaka-vahnibhiḥ| nirdagdhā narakaṁ yānti
-                brahmadey-āpahārinah || (R. S. Panchamukhi, Karnatak inscriptions, Vol. II, p.
+                brahmadey-āpahārinah || <!-- See INSSiddham01025 Akki-Ālūr (Kir̥ukuppuṭūra) Grant of Kr̥ṣṇavarman II, Year 15 --> (R. S. Panchamukhi, Karnatak inscriptions, Vol. II, p.
                 3)</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0046">
+            <div xml:id="best_st0045_01"><!-- I attributes this number to this verse because it is mentioned as a variation of best_st0045 by Sircar, but I'm really not sure that it coud be seen as a variation since there are no words in common with it?? So it will be necessary to establish some criteria to attibute to one stanza the status of variation -->
+                <div type="text">
+                    <lg met="">
+                        <l n="a">yathoktaiḥ pañcabhir ghoraiḥ</l>
+                        <l n="b">mahāpātaka-vahnibhiḥ</l>
+                        <l n="c">nirdagdhā narakaṁ yānti</l>
+                        <l n="d">brahmadeyāpahāriṇaḥ</l>
+                    </lg>
+                </div>
+                <div type="translation">
+                    <p rend="stanza">Those who steal a <foreign>brahmadeya</foreign> go to hell and suffer the five terrible fires of the great sins mentioned above.</p>
+                </div>
+                <div type="bibliography">
+                    <p>This stanza is quoted in <ref target="DHARMA_INSSiddham01025">Akki-Ālūr (Kir̥ukuppuṭūra) Grant of Kr̥ṣṇavarman II, Year 15</ref>, lines 18-19.</p>
+                </div>
+            </div>
+            <div xml:id="best_st0046">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">deva-dvija-gatāṁ bhūmiṁ</l>
@@ -1066,7 +1126,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
             </div>           
             <!--  -->
             <!-- <pb n="184"/> -->
-            <div xml:id="Sircar1965_st0047">
+            <div xml:id="best_st0047">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">deva-svatvaṁ yavāṁśaṁ ca</l> 
@@ -1082,7 +1142,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     <note>1. Ep. Carn., Vol. XII, Tin. No. 37.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0048">
+            <div xml:id="best_st0048">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">deva-svāni harantīha</l>
@@ -1098,7 +1158,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     <note>2. Ind. Ant., Vol. XII, p. 121.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0049"><!-- Caution here Sircar attributes two numbers 49 and 50  -->
+           <div xml:id="best_st0049"><!-- Caution here Sircar attributes two numbers 49 and 50  -->
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">dharmād vivardhate rājyaṁ</l>
@@ -1118,7 +1178,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                    <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0050"><!-- Caution linked to st0049 -->
+            <div xml:id="best_st0050"><!-- Caution linked to st0049 -->
                 <div type="text">
                        <lg met="anuṣṭubh"> 
                        <l n="a">tasmād dharmaḥ prayatnena</l>
@@ -1138,7 +1198,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                    <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note>
                </div>
             </div>
-            <div xml:id="Sircar1965_st0051">
+            <div xml:id="best_st0051">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">dharmāt paijavano rājā</l>
@@ -1155,7 +1215,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 </div>
             </div>
             <!--  -->
-            <div xml:id="Sircar1965_st0052">
+            <div xml:id="best_st0052">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">dvijāś ca nāvamantavyās</l>
@@ -1171,7 +1231,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                      <note>5. Ep. Ind., Vol. XIX, p. 213, text lines 34-35.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0053">
+            <div xml:id="best_st0053">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Ekaiva bhaginī loke</l>
@@ -1189,7 +1249,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 39.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0054">
+            <div xml:id="best_st0054">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Ekaviṁsat–kulasyeva</l>
@@ -1199,7 +1259,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Like a snakeskin, a simple gift of land frees us from a fault that would be worth a stay in hell for twenty-one generations.</p>
                 </div>
                 <div type="notes">
                     <note>7. Ep. Ind., Vol. XII, p. 324, line 33. The same stanza occurs again in lines
@@ -1207,21 +1267,21 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 </div>
             </div>
            
-            <div xml:id="Sircar1965_st0055">
+            <div xml:id="best_st0055">
                         <div type="text">
                             <lg met="anuṣṭubh">
                                 <l n="a">gām ekāṁ svarṇam ekaṁ vā</l>
                                 <l n="b">bhūmer apy ardham aṅgulam</l>
                                 <l n="c">haran narakam āyāti</l>
-                                <l n="d">yāvad—ā-bhūta-saṁplavam</l>
+                                <l n="d">yāvad—ā-bhūta-saṁplavaM</l>
                             </lg>
                         </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The one who steals a single cow, one piece of gold or a half aṅgula of land will stay in hells up to the dissolution of the created things.</p>
+                    <p rend="stanza">The one who steals a single cow, one piece of gold or a half <foreign>aṅgula</foreign> of land will stay in hells up to the dissolution of the created things.</p>
                 </div>
                 <div type="variation">
                      <l>gām ekāṁ ca, etc. See No. 55, note.</l>
-                     <l>gām ekāṁ ratnikā°, etc. See No. 55, note.</l>
+                     <l>gām ekāṁ ratnikā°, etc. See No. 55, note.</l><!-- already encoded see DHARMA_INSIA14_CLIX -->
                     <l>gām ekāṁ svarṇa-raktmi, etc. See No. 55, note. </l>
                     <l>hiraṇyam ekam, etc. See No. 55, note. </l>
                      <l>Kanyām=ekām, etc. See No. 55, note.</l>
@@ -1248,7 +1308,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                         </div>
             </div>                      
             <!-- <pb n="185"/>-->   
-            <div xml:id="Sircar1965_st0056">
+            <div xml:id="best_st0056">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">gaṇyante pāṁsavo bhūmer</l>
@@ -1258,14 +1318,14 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The specks of dust from earth are countable, so are the raindrops, but the fruits of dharma protection are immeasurable, even for the creator.   </p>
                 </div>
                 <div type="notes">
                     <note> 1. Ep. Ind., Vol. VI, p. 97. Ep. Carn.,Vol. VIII. Tl. No. 5 has
                 dharmasaṁsthāpane.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0057">
+            <div xml:id="best_st0057">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l>gāvo bhūmiṁ tathā bhāryāṁ</l>
@@ -1281,7 +1341,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     <note> 2. Ep. Ind., Vol. IV. p. 197, lines 31 -32.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0058">
+           <div xml:id="best_st0058">
                <div type="text">
                    <lg met="anuṣṭubh">
                       <l n="a">gayā-godāvarī-gaṅgā</l>
@@ -1297,7 +1357,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                    <note> 3. Ind. Ant., Vol. VII, p. 121.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0059">
+            <div xml:id="best_st0059">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">go-hatyā brahma-hatyā ca</l>
@@ -1313,7 +1373,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     <note> 4. Ep. Ind.,Vol. XIII, p. 208, text lines 6-8.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0060"><!-- Caution here Sircar attributes two numbers 60 and 61 -->
+            <div xml:id="best_st0060"><!-- Caution here Sircar attributes two numbers 60 and 61 -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">gṛṇhanti yāvataḥ pāṁsūn</l>
@@ -1333,7 +1393,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 Carn.,Vol. XI, Dg. No. 28.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0061"><!-- Linked to st0060 -->
+            <div xml:id="best_st0061"><!-- Linked to st0060 -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">rājāno rāja-kulyāś ca</l>
@@ -1353,7 +1413,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 Carn.,Vol. XI, Dg. No. 28.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0062">
+            <div xml:id="best_st0062">
                 <div type="text">
                     <lg met="śālinī">
                         <l n="a">haṁsair yutaṁ yānam āruhya divyaṁ</l><!-- caution unmetrical a short for a long : haṁsair !!yu!!taṁ yānam āruhya divyaṁ -->
@@ -1370,7 +1430,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 </div>
             </div>
             <!--  -->
-            <div xml:id="Sircar1965_st0063">
+            <div xml:id="best_st0063">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">harasya prīṇan-ārthaṁ tu</l>
@@ -1392,7 +1452,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 </div>
             </div>
          <!--   <pb n="186"/>-->
-            <div xml:id="Sircar1965_st0064">
+            <div xml:id="best_st0064">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">harate hārayed yas tu</l>
@@ -1419,7 +1479,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 75.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0065">
+           <div xml:id="best_st0065">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">hartā devasya yo bhūmiṁ</l>
@@ -1435,7 +1495,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                    <note>2. Ind. Ant., Vol. XII, p. 121.</note>
                </div>
            </div> 
-            <div xml:id="Sircar1965_st0066">
+            <div xml:id="best_st0066">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">hinasti viṣam attāraṁ</l>
@@ -1456,7 +1516,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 and 133).</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0067">
+            <div xml:id="best_st0067">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">hiraṇya-maṇi-muktāni</l>
@@ -1472,7 +1532,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     <note>4. Ep. Ind., Vol. XXIII. p. 229, verse 17.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0068">
+            <div xml:id="best_st0068">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">hṛṇa-hartā bhūmi-hartā</l>
@@ -1489,7 +1549,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 nivartante yāvad=ā-bhūta-saṁplavam (ibid., Vol. XIII, p. 281).</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0069">
+           <div xml:id="best_st0069">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">Iha-loka-kṛtaṁ karma</l>
@@ -1505,7 +1565,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                      <note>6. Ep.Ind., Vol. XXXIII. p- 213, verse 9.</note>
                </div>
            </div>
-             <div xml:id="Sircar1965_st0070">
+             <div xml:id="best_st0070">
                  <div type="text">
                      <lg met="anuṣṭubh">
                          <l n="a">Imaṁ dharmaṁ ca ye ghnanti</l>
@@ -1521,7 +1581,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                      <note>7. Ep. Carn., Vol. III, TN. No. 63; Sr. No. 64.</note>
                  </div>
              </div>
-            <div xml:id="Sircar1965_st0071">
+            <div xml:id="best_st0071">
                 <div type="text">
                 <lg met="puṣpitāgrā">
                     <l n="a">Iti kamala-dalāmbu-bindu-lolāṁ</l>
@@ -1550,7 +1610,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
             <!--
             <pb n="187"/>
            -->       
-            <div xml:id="Sircar1965_st0072">
+            <div xml:id="best_st0072">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">jñātvaivaṁ mat-pradatto 'yaṁ</l>
@@ -1566,7 +1626,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                      <note>1. Ep. Ind., Vol. XXXII, p. 54, text lines 55–56.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0073">
+           <div xml:id="best_st0073">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">kalpa-koṭi-sahasrāṇi</l>
@@ -1582,7 +1642,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                    <note>2. Ep. Ind., Vol. XXXII, p. 70, text lines 2I–22.</note>
                </div>
            </div>          
-           <div xml:id="Sircar1965_st0074">
+           <div xml:id="best_st0074">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">karmaṇā manasā vācā</l>
@@ -1599,7 +1659,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 Ant.,Vol. IV, p. 276),</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0075">
+            <div xml:id="best_st0075">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">kartuḥ kārayitur hetor</l>
@@ -1616,7 +1676,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 </div>
             </div>
            <!--  -->
-            <div xml:id="Sircar1965_st0076">
+            <div xml:id="best_st0076">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">khila-bhagnā tu yā bhūmir</l>
@@ -1632,7 +1692,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                      <note>5. Ep. Ind., Vol. XXXIII. p. 213, verse 6.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0077">
+            <div xml:id="best_st0077">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">koṭis tu vājapeyānāṁ</l>
@@ -1649,7 +1709,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 signature in approval of a grant.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0078">
+           <div xml:id="best_st0078">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">kṛśāya kṛśa-vṛttāya</l>
@@ -1677,7 +1737,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 Mahābhārata, XIII. 59, 11.</note>
                </div>
           <!--  <l>Kṛta-Tretā-Dvāpareṣu, etc. See No. 97, note. </l> -->
-            <div xml:id="Sircar1965_st0079">
+            <div xml:id="best_st0079">
                 <div type="text">
                     <lg met=""> <!-- Drutavilambitam is a sama-vṛtta. It contains 4 pādas, each of which has the pattern LLLGLLGLLGLG -->
                         <l n="a">kṣitir iyaṁ kulaṭ eva bahu-priyā</l>
@@ -1695,7 +1755,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
             </div>      
          <!--  
             <pb n="188"/>-->          
-            <div xml:id="Sircar1965_st0080"><!-- Caution here Sircar attributes two numbers 80 and 81  -->
+            <div xml:id="best_st0080"><!-- Caution here Sircar attributes two numbers 80 and 81  -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">kṣudra-paśvanṛte pañca</l>
@@ -1729,7 +1789,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 ajātān.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0081"><!-- Linked to st0080 -->
+            <div xml:id="best_st0081"><!-- Linked to st0080 -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">hanti jātān ajātāṁś ca</l>
@@ -1763,7 +1823,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 ajātān.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0082">
+            <div xml:id="best_st0082">
                 <div type="text">
                     <lg met="anuṣṭubh">            
                         <l n="a">kulāni tārayet kartā</l>
@@ -1784,7 +1844,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 tāraya purvakulāni sapta sapta ca sapta ca || (A.R. Ep., 1946-47, No. B 205).</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0083">
+            <div xml:id="best_st0083">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">lobhād gṛhṇāti mandātmā</l>
@@ -1801,7 +1861,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     <note>3. Ep. Ind., Vol. XXVIII, p. 75.</note> <!-- checked and added in my table  -->
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0084">
+            <div xml:id="best_st0084">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">loha-cūrṇāśma-cūrṇaṁ ca</l>
@@ -1819,7 +1879,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 viśrutam.</note>
                 </div>
             </div>
-             <div xml:id="Sircar1965_st0085">
+             <div xml:id="best_st0085">
                 <div type="text">
                         <lg met="anuṣṭubh">
             <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
@@ -1839,7 +1899,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 tasmāc=chreyo='nupālanam (ibid., Vol. XXXIV. p. 49, text lines 16-18) .</note>
                      </div>
                      </div>            
-            <div xml:id="Sircar1965_st0086">
+            <div xml:id="best_st0086">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mad-dāna-phala-siddhy-arthaṁ</l>
@@ -1858,7 +1918,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 </div>
             </div>      
            <!--  <pb n="189"/>-->
-            <div xml:id="Sircar1965_st0087">
+            <div xml:id="best_st0087">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mad-dattaṁ sad-dvijātibhyo</l>
@@ -1874,7 +1934,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     <note>1. Ep. Ind., Vol. XXXI, p. 191. See Nos. 89 and 90.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0088">
+            <div xml:id="best_st0088">
                 <div type="text">
                     <lg met=""><!-- vasantamālikā with errors  -->
                         <l n="a">madhu-kaiṭabha-dānavendra-medaḥ</l>
@@ -1891,7 +1951,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 Anargharāghava as already indicated above.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0089">
+            <div xml:id="best_st0089">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">mad-vaṁśajāḥ para-mahīpati-vaṁśajā vā </l>
@@ -1923,7 +1983,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     tat-pāda-padma-yugalaṁ śirasā namāmi ǁ-->
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0090">
+            <div xml:id="best_st0090">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mad-vaṁśe para-vaṁśe vā</l>
@@ -1933,7 +1993,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Whatever king born in my lineage or in antoher lineage I attached to this act </p>
                 </div>
                 <div type="variation">
                      <l>mama vaṁśe, etc. Sec No. 90, note. </l>
@@ -1953,7 +2013,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 89.</note>
                 </div>
             </div>   
-            <div xml:id="Sircar1965_st0091">
+            <div xml:id="best_st0091">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mahatām api pāpānāṁ</l>
@@ -1969,7 +2029,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     <note>5 Ep. Ind., Vol. XXVIII, p. 320, text line 13.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0092">
+            <div xml:id="best_st0092">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mā pārthiva kadācit tvaṁ</l>
@@ -1987,7 +2047,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 </div>
             </div>
            <!--  <pb n="190"/>-->
-            <div xml:id="Sircar1965_st0093">
+            <div xml:id="best_st0093">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mṛtyor hi kiṅkarā daṇḍā</l>
@@ -2005,39 +2065,39 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 p. 320) attributes the stanza to the Mahābhārata.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0094">
+            <div xml:id="best_st0094">
                 <div type="text">
-                    <lg met="anuṣṭubh">
+                    <lg met="anuṣṭubh"><!--  here I modified the text acccording to the original : Sircar corrected vāharet by vāparet + tau ca dvau by tau baddhau + tapyete by tapyate , see the encoded text INSIA14_CLIX -->
                         <l n="a">na dadāti pratiśrutaṁ</l> 
-                        <l n="b">dattaṁ vāparet tu yaḥ</l>
-                        <l n="c">tau baddhau vāruṇaiḥ pāśais</l>
-                        <l n="d">tapyate mṛtyu-śāsanāt</l>
+                        <l n="b">dattaṁ vāharet tu yaḥ</l>
+                        <l n="c">tau ca dvau vāruṇaiḥ pāśais</l>
+                        <l n="d">tapyete mṛtyu-śāsanāt</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The one who does not give what has been promised or the one who steals what has been given, both are tormented by Varuṇa's nooses on Mṛtyu's orders.</p>
                 </div>
                 <div type="notes">
                      <note>2. Ind. Ant., Vol. XIV, p. 319, text lines 113-14.</note>
                 </div>
             </div>
-          <div xml:id="Sircar1965_st0095">
+          <div xml:id="best_st0095">
               <div type="text">
                   <lg met="anuṣṭubh">  
                         <l n="a">na hi bhūmi-pradānād vai</l>
-                        <l n="b">dānam anyad viśiṣyate | </l>
+                        <l n="b">dānam anyad viśiṣyate</l>
                         <l n="c">na cāpi bhūmi-haraṇāt</l>
-                       <l n="d">āpam anyad vidhīyate</l>
+                       <l n="d">pāpam anyad vidhīyate</l>
                   </lg>
               </div>
-              <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+              <div type="translation" resp="bib:KrishnaSastri1923-1924_01">
+                    <p rend="stanza">No gift is greater than the gift of land; nor is there a greater sin enjoined (on man) than (that of) resuming land (already given).</p>
                 </div>
               <div type="notes">
                    <note>3. Ep. Ind., Vol. XVII, p. 303, verse 20.</note>
               </div>
           </div>        
-          <div xml:id="Sircar1965_st0096">
+          <div xml:id="best_st0096">
               <div type="text">
                   <lg met="anuṣṭubh">  
                       <l n="a">nāsti bhūmi-samaṁ dānaṁ</l>
@@ -2047,7 +2107,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                   </lg>
               </div>
               <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">There is nothing like a gift of land; no master like a king; no dharma like truth; no treasure like a gift.</p>
                 </div>
               <div type="notes">
                    <note>4. Ind. Ant., Vol. XIV, p. 319, text lines 107-08. Ballāla (Dānasāgara, op. cit.,
@@ -2055,17 +2115,17 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 attributes it to the Mahābhārata.</note>
               </div>
           </div>
-            <div xml:id="Sircar1965_st0097">
+            <div xml:id="best_st0097">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">na tathā saphalā vidyā</l>
                         <l n="b">na tathā saphalaṁ dhanam</l>
                         <l n="c">yathā tu munayaḥ prāhur</l>
-                        <l n="d">dānam ekaṁ Kalau yuge</l>
+                        <l n="d">dānam ekaṁ kalau yuge</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">There is no knowledge without reward, no wealth without profit, so the sages say that there is only one gift in Kali Yuga.</p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. II, p. 219. The stanza is sometimes found as : KṛtaTretā-Dvāpareṣu tapo='tyarthaṁ praśasyate | munayo='tra
@@ -2073,7 +2133,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 21-22).</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0098">
+           <div xml:id="best_st0098">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">na viṣaṁ viṣam ity āhur</l>
@@ -2103,7 +2163,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 viṣaṁ, etc,</note>
                </div>
            </div>    
-            <div xml:id="Sircar1965_st0099">
+            <div xml:id="best_st0099">
                 <div type="text">
                     <lg met="upendravajrā">
                         <l n="a">niśamya doṣaṁ haraṇe mahāntaṁ </l>
@@ -2120,7 +2180,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 </div>
             </div>  <!--    
             <pb n="191"/> -->
-            <div xml:id="Sircar1965_st0100">
+            <div xml:id="best_st0100">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">nyāyenopārjitā bhūmir</l>
@@ -2140,7 +2200,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 Purāṇa, VI, 33, 34. See above. No. 13.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0101">
+           <div xml:id="best_st0101">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">pālanāt paramo dharmaḥ</l>
@@ -2158,7 +2218,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                </div>
            </div>
            
-            <div xml:id="Sircar1965_st0102">
+            <div xml:id="best_st0102">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">pāpaṁ nirmoka-vat tyaktvā</l>
@@ -2174,7 +2234,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     <note>3. Ep. Ind., Vol. XII, p. 234, lines 33-34.</note>
                 </div>
             </div>         
-           <div xml:id="Sircar1965_st0103">
+           <div xml:id="best_st0103">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">para-dattāṁ tu yo bhūmim</l>
@@ -2196,7 +2256,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 ed., p. 41 ).</note>
                </div>
            </div>
-           <div xml:id="Sircar1965_st0104">
+           <div xml:id="best_st0104">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">paratra saṁvalaṁ divyaṁ</l>
@@ -2212,24 +2272,24 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                    <note>5. Ind. Ant., Vol. XII, p. 121, text lines 42-43.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0105">
+            <div xml:id="best_st0105">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                        <l n="a">patanty aśrūṇi rudatārṁ</l>
+                        <l n="a">patanty aśrūṇi rudatāṁ</l>
                         <l n="b">dīnānām avasīdatām</l>
                         <l n="c">brāhmaṇānāṁ hate kṣetre</l>
                         <l n="d">hanti traipuruṣaṁ kulam</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The tears of the unfortunate weeping and succumbing fall: when land is taken from Brahmins, it kills a family over three generations.</p>
                 </div>
                 <div type="notes"> 
-                    <note>6. Ind. Ant., Vol. XIV, p. 319, text lines 115-16. For slight variations, see
-                Ep.Ind., Vol. VII, p. 97, text lines 33-34.</note>
+                    <note>6. Ind. Ant., Vol. XIV, p. 319, text lines 115-16 <!-- text encoded INSIA14_CLIX -->. For slight variations, see
+                Ep.Ind., Vol. VII, p. 97, text lines 33-34 <!-- EI 7 p 97 does not match with this?  -->.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0106">
+            <div xml:id="best_st0106">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">phāla-kṛṣṭāṁ mahīṁ dadyāt</l>
@@ -2252,7 +2312,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 with slight variations and attributes it to Bṛhaspati.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0107">
+           <div xml:id="best_st0107">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">phalasya kathito dharmaḥ</l>
@@ -2270,7 +2330,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
            </div>          
           <!--             
             <pb n="192"/>-->
-            <div xml:id="Sircar1965_st0108">
+            <div xml:id="best_st0108">
                 <div type="text">
                     <lg met="indravajrā">
                         <l n="a">prajā-hitārthaṁ sthitayaḥ praṇītā</l>
@@ -2286,7 +2346,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                     <note>1. Ep. Ind., Vol.XII, p. 214, verse 35.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0109">
+            <div xml:id="best_st0109">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">prāpsyase vipulān bhogān</l>
@@ -2303,7 +2363,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 </div>
             </div>
            <!-- <l>Prāsādā yatra, etc. See No. 127, note.</l> -->
-           <div xml:id="Sircar1965_st0110">
+           <div xml:id="best_st0110">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">prasṛtyāsampradānena</l>
@@ -2319,7 +2379,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                    <note>3. Ind. Ant., Vol. XII, p. 252.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0111">
+            <div xml:id="best_st0111">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">prāyeṇa hi narendrāṇāṁ</l>
@@ -2333,10 +2393,10 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 </div>
                 <div type="notes">
                     <note>4. CII, Vol. III, p. 119, text lines 16-17; p. 122, text lines 17-18; p. 128, text
-                lines 24-25. Sometimes we have n='āśubhā (ibid., p. 117).</note>
+                lines 24-25. Sometimes we have n='āśubhā (ibid., p. 117).</note><!-- M. Willis The Archaeology of Hindu ritual p.87 : occurrence de cette stance dans Uccakalpa plates dated 533-534  fleet CII 3 1888 p. 137 line 19 -->
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0112">
+           <div xml:id="best_st0112">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">pṛthivyā dīyamānāyā</l>
@@ -2352,7 +2412,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                    <note>5. Ep. Carn., Vol. XV, Arkalgud No. 106.</note>
                </div>
            </div>       
-           <div xml:id="Sircar1965_st0113">
+           <div xml:id="best_st0113">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">purvaiḥ pūrvataraiś caiva</l>
@@ -2368,7 +2428,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                    <note>6. Ep. Ind., Vol. VIII, p. 235, text lines 29-30.</note>
                </div>
            </div>   
-            <div xml:id="Sircar1965_st0114">
+            <div xml:id="best_st0114">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">ratnānna-pāna-goṣṭhādyaṁ</l>
@@ -2384,7 +2444,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                     <note>7. Ind. Ant., Vol. XII, p. 121.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0115">
+           <div xml:id="best_st0115">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">ṣaḍaśīti-sahasrāṇāṁ</l>
@@ -2402,7 +2462,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 the second and attributes the stanza to the Dāna-Bṛhaspati.</note>
                </div>
            </div>
-           <div xml:id="Sircar1965_st0116">
+           <div xml:id="best_st0116">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">sadyo-dānaṁ nirāyāsaṁ</l>
@@ -2422,10 +2482,10 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                </div>
            </div>          
            <!-- <pb n="193"/> -->
-            <div xml:id="Sircar1965_st0117">
+            <div xml:id="best_st0117">
                 <div type="text">
                     <lg met="śālinī">
-                    <l n="a">sāmānyo 'yaṁ dharma-setur nṛpāṇāṁ </l>
+                    <l n="a">sāmānyo 'yaṁ dharma-setur nṛpāṇāṁ</l>
                     <l n="b">kāle kāle pālanīyo bhavadbhiḥ</l>
                     <l n="c">sarvān etān bhāvinaḥ pārthivendrān</l>
                     <l n="d">bhūyo bhūyo yācate rāmacandraḥ</l>
@@ -2460,11 +2520,11 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 stanza reads Sarvān=ev=āgāminaḥ pārthivendrān=bhūyo bhūyo yācate rājasiṁhaḥ|
                 sāmānyo='yam dharma-setur=narāṇāṁ, etc. (Chatterjee and Chakravarti, India and Java,
                 p. 46). The Skanda Purāṇa, op cit., verse 40, has it as : Dattvā bhūmiṁ bhāvinaḥ
-                pārthiveśān=bhūyo bhūyo yācate Rāmacandraḥ | sāmānyo='yam dharma-set<seg>ur=nṛpāṇāṁ sve sve kāle pālanīyo bhavadbhih ||</seg> See
+                pārthiveśān=bhūyo bhūyo yācate Rāmacandraḥ | sāmānyo='yam dharma-setur=nṛpāṇāṁ sve sve kāle pālanīyo bhavadbhih || See
                 No. 118.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0118">
+            <div xml:id="best_st0118">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sāmānyo 'yaṁ dharma-setuḥ</l>
@@ -2474,13 +2534,13 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">This bridge of Dharma is common to all the kings on earth, so that it should always be protected by the noble lords.</p>
                 </div>
                 <div type="notes">
                      <note>2. Ind. Ant., Vol. XII, p. 186. See No. 117.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0119">
+            <div xml:id="best_st0119">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
@@ -2517,7 +2577,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 </div>
             </div>    
           <!--  <pb n="194"/> -->
-            <div xml:id="Sircar1965_st0120">
+            <div xml:id="best_st0120">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sarvaṁ ca bhūmi-haraṇād</l>
@@ -2533,7 +2593,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                      <note>1. Ind. Ant., Vol. XII. p. 121.</note>
                 </div>
             </div>       
-            <div xml:id="Sircar1965_st0121">
+            <div xml:id="best_st0121">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sarveṣām eva dānānām</l>
@@ -2549,7 +2609,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 Dānasāgara (op. cit„ p. 317) attributes it to Saṁvarta.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0122">
+            <div xml:id="best_st0122">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sarveṣāṁ tu pradānānāṁ</l>
@@ -2565,7 +2625,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                     <note>3. Ep. Ind., Vol. XII, p. 324, text lines 32.</note>
                 </div>
             </div>                     
-           <div xml:id="Sircar1965_st0123">
+           <div xml:id="best_st0123">
                <div type="text"> 
                <lg met="anuṣṭubh">
                    <l n="a">saṣṭiṁ varṣa–sahasrāṇi</l>
@@ -2613,7 +2673,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 the latter hqlf is bṛhaspati v 29 -->
                </div>         
            </div>
-            <div xml:id="Sircar1965_st0124">
+            <div xml:id="best_st0124">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">śatam indu-kṣaye dānaṁ</l>
@@ -2629,7 +2689,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 150. Hemādri assigns it to Yājñavalkya (op. cit., p. 75).</note></div>
             </div>
            <!-- <pb n="195"/> -->
-            <div xml:id="Sircar1965_st0125">
+            <div xml:id="best_st0125">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">śatruṇ āpi kṛto dharmaḥ</l>
@@ -2646,7 +2706,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 ate).</note>
                 </div>
             </div>    
-            <div xml:id="Sircar1965_st0126">
+            <div xml:id="best_st0126">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">satyaṁ yajña-hutaṁ caiva</l>
@@ -2672,7 +2732,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 (verse 41) with ardh-āṅgulasya.</note>
                     </div>
                 </div>
-            <div xml:id="Sircar1965_st0127">
+            <div xml:id="best_st0127">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sauvarṇā yatra prāsādā</l>
@@ -2692,7 +2752,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 XIII, 62) and the Dāna-Bṛhaspati respectively.</note><!-- Found also in Lakṣmīdhara KKT 10.10 (Brick) and he ascribes it to dānabṛhaspatiḥ, caution for Brick this verse is found in Hemādri p.498 and not p.481 -->
                 </div>
             </div> 
-            <div xml:id="Sircar1965_st0128">
+            <div xml:id="best_st0128">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattād dvi-guṇaṁ puṇyaṁ</l>
@@ -2715,7 +2775,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 Manur=avravīt || in Ep. Carn, Vol. XII, Gb. No. 34.</note>
                 </div>
             </div>   
-            <div xml:id="Sircar1965_st0129">
+            <div xml:id="best_st0129">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -2731,7 +2791,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>5. Ep. Ind., Vol.XXV, p. 219, verse 49.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0130">
+           <div xml:id="best_st0130">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -2748,7 +2808,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                </div>
            </div>
            <!-- <pb n="196"/>-->                       
-        <div xml:id="Sircar1965_st0131">
+        <div xml:id="best_st0131">
             <div type="text">
                 <lg met="anuṣṭubh">
                     <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -2780,12 +2840,12 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
 <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 6  p 1272 -->
             </div>
         </div>                 
-         <div xml:id="Sircar1965_st0132">
+         <div xml:id="best_st0132_00">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
-                        <l n="c">sa viṣṭhāyāṁ kṛmir bhutvā</l>
+                        <l n="c">sa viṣṭhāyāṁ kṛmir bhūtvā</l>
                         <l n="d">pitṛbhiḥ saha pacyate</l>
                     </lg>
                 </div>
@@ -2842,7 +2902,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     Aparārka p 370 from āditya purāṇa  gupta inscriptions n 23 qnd n 26 p 119  IA VI p363 EI VI p45 EI XIII p 270 qnd 233 Padmapurāna VI 33 26-30-->
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0132_01">
+            <div xml:id="best_st0132_01">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -2869,7 +2929,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p rend="stanza">He who would seize land, whether given by himself or by another, imbibes the sin of the slayer of a hundred thousand cows.</p>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0132_02">
+            <div xml:id="best_st0132_02">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -2886,9 +2946,9 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     </list></p>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0132_03">
+           <div xml:id="best_st0132_03">
                 <div type="text">
-                    <lg met="">
+                    <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
                         <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
@@ -2908,7 +2968,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                
            </div>
 
-        <!--  <div xml:id="Sircar1965_st0132_04">
+        <!--  <div xml:id="best_st0132_04">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -2918,7 +2978,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     </lg>
                 </div>
                 </div>
-           <div xml:id="Sircar1965_st0132_05">
+           <div xml:id="best_st0132_05">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -2928,7 +2988,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     </lg>
                 </div>
              </div>
-          <div xml:id="Sircar1965_st0132_06">
+          <div xml:id="best_st0132_06">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -2938,7 +2998,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     </lg>
                 </div>
            </div>
-          <div xml:id="Sircar1965_st0132_07">
+          <div xml:id="best_st0132_07">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -2949,7 +3009,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 </div>
             </div>
                          <pb n="197"/> -->
-          <div xml:id="Sircar1965_st0133">
+          <div xml:id="best_st0133">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattā putrikā dhātrī</l>
@@ -2977,7 +3037,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 vasundharā (ibid., Vol.X, Govibinur No. 3).</note>
                 </div>
            </div>       
-           <div xml:id="Sircar1965_st0134">
+           <div xml:id="best_st0134">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">svalpām api mahīṁ yas tu</l>
@@ -2993,7 +3053,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>2. Ep. Carn., Vol. XII, Si. No. 95 assigning the stanza to Āditya.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0135">
+            <div xml:id="best_st0135">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">svaṁ dātuṁ sumahac chakyaṁ</l>
@@ -3005,14 +3065,17 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                  <div type="translation" resp="part:amwb">
                     <p rend="stanza"></p>
                 </div>
+                <div type="bibliography">
+                    <p>This stanza is found in <ref target="DHARMA_INSSiddham01036.xml">Bannahaḷḷi Grant of Kr̥ṣṇavarman II, Year 7</ref>, lines 22-23. See <bibl><ptr target="bib:Kielhorn1900-1901_02"/><citedRange unit="entry">B</citedRange><citedRange unit="page">16-20</citedRange></bibl></p><!-- It is EI 6 p. 19 from Sircar's note.  -->
+                </div>
                 <div type="notes">
                     <note>3. See, e.g., Ep. Ind , Vol. vI. p. 19, text lines 22-23; Ind. Ant., Vol. VI, p.
                 87, text lines 34-35 (anyasya for anyārtha°). we have also kleśam for duḥkham (Ep.
                 Ind., Vol. XVI. p. 85, verse 92).</note>
-<!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 7  p 1272 -->
+<!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 7  p 1272 + INSEC03Md113 ? Penukoṇḍa copper-plate inscription of Mādhava (Sircar1942_1_n70_p_456)-->
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0136">
+            <div xml:id="best_st0136">
                 <div type="text">
                     <lg met="puṣpitāgrā">
                         <l n="a">sva-sukṛta-paripālanāt prabhūṇāṁ</l>
@@ -3028,7 +3091,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>4. Ep. Ind., Vol. VI, p. 4, verse 50.</note>
                 </div>
             </div>                      
-            <div xml:id="Sircar1965_st0137">
+            <div xml:id="best_st0137">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">taḍāgānāṁ sahasreṇa</l>
@@ -3065,7 +3128,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
             </div>
             <!--            
             <pb n="198"/>-->
-           <div xml:id="Sircar1965_st0138">
+           <div xml:id="best_st0138">
                <div type="text">
                    <lg met="śikhariṇī">
                        <l n="a">taḍit-tulyā lakṣmīs tanur api ca dīp-ānala-samā </l>
@@ -3081,7 +3144,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                    <note>1. Ep. Ind., Vol. IV, p. 250, lines 59-60.</note>
                </div>
            </div>
-           <div xml:id="Sircar1965_st0139">
+           <div xml:id="best_st0139">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">tādṛk-puṇyaṁ na dadatāṁ</l>
@@ -3098,7 +3161,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 see Ep. Ind., Vol. XXXII. p. 76, text line 46.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0140">
+            <div xml:id="best_st0140">
                 <div type="text">
                     <lg met=""><!-- not found  https://sanskritmetres.appspot.com/identify  -->
                         <l n="ab">tapati na tapanaḥ prakharo marud api no vāti śāsane tīvraḥ</l>
@@ -3112,7 +3175,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>3. Ep. Ind., Vol. XXII, p. 166, verse 21.</note>
                 </div>
             </div>          
-            <div xml:id="Sircar1965_st0141">
+            <div xml:id="best_st0141">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">tṛṇāgra-jala-binduś ca</l>
@@ -3128,7 +3191,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>4. Ep.Ind., Vol. XII, p. 325, lines 38-40.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0142">
+            <div xml:id="best_st0142">
                 <div>
                     <lg met="anuṣṭubh">
                         <l n="a">triṇyāhur ati-dānāni</l>
@@ -3146,7 +3209,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 18.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0143">
+           <div xml:id="best_st0143">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">vācā dattaṁ mano-dattaṁ</l>
@@ -3169,7 +3232,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 45.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0144">
+            <div xml:id="best_st0144">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">vahniṁ vahni–sutaṁ cāmbu</l>
@@ -3186,7 +3249,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 </div>
             </div>       
           <!--  <pb n="199"/>-->
-            <div xml:id="Sircar1965_st0145">
+            <div xml:id="best_st0145">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">vāridas tṛptim āpnoti</l>
@@ -3204,7 +3267,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>1. Ep. Ind., Vol. XXV, p. 219, verse 46.</note>
                 </div>
             </div>    
-            <div xml:id="Sircar1965_st0146">
+            <div xml:id="best_st0146">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">vātābhra-vibhramam idaṁ vasudhādhipatyam</l>
@@ -3222,11 +3285,11 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 34).</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0147">
+           <div xml:id="best_st0147">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">veda-vāk–smṛtayo jihvā</l>
-                       <l n="b">vadanti ṛṣi-devatāḥ |</l>
+                       <l n="b">vadanti ṛṣi-devatāḥ</l>
                        <l n="c">bhūmi-hartā tathānye ca</l>
                        <l n="d">aho mohena mā hara</l>
                    </lg>
@@ -3239,7 +3302,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 Vol. XII, p. 325).</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0148">
+            <div xml:id="best_st0148">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">vidyud-vilāsa-taralām avagamya samyag</l>
@@ -3256,7 +3319,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 °moditavyā.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0149">
+            <div xml:id="best_st0149">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">vighnatāṁ bhartṛ-go-vipra</l>
@@ -3277,13 +3340,13 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 Vighnatāṁ.</note>
                 </div>
             </div>                       
-            <div xml:id="Sircar1965_st0150">
+            <div xml:id="best_st0150">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                        <l>vindhyāṭavīṣv a-toyāsu</l> 
-                        <l>śuṣka-koṭara-vāsinaḥ</l>
-                        <l>kṛṣṇāhayo 'bhijāyante</l> 
-                        <l>pūrva-dāyaṁ haranti ye</l>
+                        <l n="a">vindhyāṭavīṣv a-toyāsu</l> 
+                        <l n="b">śuṣka-koṭara-vāsinaḥ</l>
+                        <l n="c">kṛṣṇāhayo 'bhijāyante</l> 
+                        <l n="d">pūrva-dāyaṁ haranti ye</l>
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
@@ -3298,7 +3361,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XXII, p. 76, text line 63; p. 85. Sometimes we have °śāyinaḥ
-                    for°vāsinaḥ (ibid., Vol. XXV, p. 219, verse 50),
+                    for°vāsinaḥ (ibid., Vol. XXV, p. 219, verse 50)<!-- also in DHARMA_INSIA14_CLIX see text encoded -->,
                 hi jāyante for °bhijāyante (ibid., p. 137) and maru-sarpā hi or kṛṣṇasarpā° or
                 mah-āhayo or kṛṣṇasarpāḥ prajāyante or kṛṣṇasarpāś=ca jāyante or kṛṣṇāhayo°(Ep.
                 Ind., Vol. XX, p. 128, text line 22; Vol. XXIV, p. 295, text line 31; Vol. XXV, p.
@@ -3313,19 +3376,19 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 Hemādri, op. cit., p. 483 (with °sarpās=tu jāyante ye haranti vasundharām); Bhaviṣya
                 Purāṇa, IV, 164, 39 (with Toya-hīneṣu=araṇyeṣu in the first and narā
                 brahma-sva-hāriṇaḥ in the last quarter); Skanda Purāṇa, op. cit., verse 3 (with
-                kṛṣṇasarpāḥ prajāyante datta-dāy-āpahārakāḥ).</note>
+                kṛṣṇasarpāḥ prajāyante datta-dāy-āpahārakāḥ)<!-- also in DHARMA_INSIA14_CLIX see text encoded -->.</note>
                 </div>
             </div>
             <!--
             <pb n="200"/>
             -->
-            <div xml:id="Sircar1965_st0151">
+            <div xml:id="best_st0151">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                        <l>yaḥ kriyāṁ dharma-saṁyutāṁ</l> 
-                        <l>manasāpy abhinandati</l>
-                        <l>vardhate sa yatheṣṭena</l>
-                        <l>śukla-pakṣa ivaṁśumān</l>
+                        <l n="a">yaḥ kriyāṁ dharma-saṁyutāṁ</l> 
+                        <l n="b">manasāpy abhinandati</l>
+                        <l n="c">vardhate sa yatheṣṭena</l>
+                        <l n="d">śukla-pakṣa ivaṁśumān</l>
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
@@ -3335,7 +3398,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>1. Ep. Ind., Vol. XXXI, pp. 92-93.</note>
                 </div>
             </div>     
-            <div xml:id="Sircar1965_st0152">
+            <div xml:id="best_st0152">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yaḥ svayaṁ kurute dharmaṁ</l>
@@ -3351,7 +3414,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>2. Ep. Ind., Vol. VI. p. 343, verse 44.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0153">
+            <div xml:id="best_st0153">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">yair vāñchitaṁ śiśiradīdhiti-śubhra-kīrter</l>
@@ -3367,7 +3430,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>3. Ep. Ind., Vol. III, p. 367, lines 20-21.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0154">
+            <div xml:id="best_st0154">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yajño 'nṛtena kṣarati</l>
@@ -3383,7 +3446,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>4. Ep. Ind., Vol. XII, p. 325, line 38.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0155">
+            <div xml:id="best_st0155">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yathā candramaso vṛddhir</l>
@@ -3400,7 +3463,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 XIII. 62, 33.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0156">
+            <div xml:id="best_st0156">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yathā janitrī puṣṇāti</l>
@@ -3420,7 +3483,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 sva-putraṁ jananī kṣīreṇa bharate sadā| anugṛhṇāti dātāraṁ tathā sarvarasair=mahī ||
                 Ballāla (op. cit., p. 320) quotes the same verse with slight variations and
                 attributes it to the Mahābhārata.</note></div></div>
-            <div xml:id="Sircar1965_st0157">
+            <div xml:id="best_st0157">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yathā nirohanty uptāni</l>
@@ -3439,9 +3502,9 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 </div>
             </div>         
        <!--     <pb n="201"/>-->
-           <div xml:id="Sircar1965_st0158">
+           <div xml:id="best_st0158">
                <div type="text">
-                   <lg met=""> 
+                   <lg met="anuṣṭubh"> 
                        <l n="a">yathāpsu patitaḥ śakra</l>
                        <l n="b">taila-bindur visarpati</l>
                        <l n="c">evaṁ bhūmi-kṛtaṁ dānaṁ</l>
@@ -3460,13 +3523,13 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 with janma-prabhṛti mānavaḥ).</note>
                </div>
            </div>          
-            <div xml:id="Sircar1965_st0159">
+            <div xml:id="best_st0159">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                        <l>yat kiñcit kurute pāpaṁ</l> 
-                        <l>naro lobha–samanvitaḥ</l>
-                        <l>api gocarma-mātreṇa</l>
-                        <l>bhūmi-dānena śudhyati</l></lg>
+                        <l n="a">yat kiñcit kurute pāpaṁ</l> 
+                        <l n="b">naro lobha–samanvitaḥ</l>
+                        <l n="c">api gocarma-mātreṇa</l>
+                        <l n="d">bhūmi-dānena śudhyati</l></lg>
                 </div>
                  <div type="translation" resp="part:amwb">
                     <p rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a gocarman (literally a cow’s skin, here it is a unit of measurement).</p>
@@ -3481,7 +3544,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     </note>
                 </div>
             </div>       
-            <div xml:id="Sircar1965_st0160">
+            <div xml:id="best_st0160">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yāvad dattā bhaved bhumiḥ</l>
@@ -3498,7 +3561,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 Vol. XI, Cd. No. 82.</note>
                 </div>
             </div>
-           <div xml:id="Sircar1965_st0161">
+           <div xml:id="best_st0161">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">yāvanti sasya-mūlāni</l>
@@ -3512,7 +3575,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 73.</note>
                </div>
            </div>
-           <div xml:id="Sircar1965_st0162">
+           <div xml:id="best_st0162">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">yāvat sūrya-saśāṅkau ca</l>
@@ -3528,7 +3591,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                    <note>5. Ind. Ant., Vol. XII, p. 121.</note>
                </div>
            </div>
-            <div xml:id="Sircar1965_st0163">
+            <div xml:id="best_st0163">
                 <div type="text">
                     <lg met="indravajrā">
                         <l n="a">ye brāhmaṇānām ayathā haranti</l>
@@ -3541,7 +3604,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>6. Ep. Ind., Vol. XXII, p. 156, text lines 40-41.</note>
                 </div>
             </div>
-            <div xml:id="Sircar1965_st0164">
+            <div xml:id="best_st0164">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yo 'rcitaṁ pratigṛhṇāti</l>
@@ -3557,7 +3620,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmṛti, IV, 235.</note>
                 </div>
             </div>
-            <div xml:id="best_165">
+            <div xml:id="best_0165">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">kharo dvādaśa janmāni</l>
@@ -3565,13 +3628,14 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                         <l n="c">śvā tu saptati-janmāni</l>
                         <l n="d">Ity evaṁ manur abravīt</l>
                     </lg>
+                 </div>
                  <div type="translation">
                         <p rend="stanza">Manu said: "He will be born twelve times as an ass, eight times as a hog, seventy times as a dog".</p>
                  </div>
                   <div type="notes"> 
-                        <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of Sircar1965_st0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
+                        <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of best_st0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
             </div>
-            <div xml:id="best_166">
+            <div xml:id="best_0166">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">brāhmaṇo jāyamāno vai</l>
@@ -3587,7 +3651,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p>This stanza is inserted within a group of well-known benedictory and imprecatory stanzas in <title>Ciṁbuluru plates of Vijayāditya III</title> (DHARMA_INSVengiCalukya00062)</p>
                 </div>
             </div>
-            <div xml:id="best_167">
+            <div xml:id="best_0167">
                 <div type="text">
                     <lg met="anuṣṭubh">
                  <l n="a">nirvvaśo nirddhano rogī</l> 
@@ -3603,7 +3667,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p>See DHARMA_INSSomavamsin00021</p>
                 </div>
             </div>
-            <div xml:id="best_168">
+            <div xml:id="best_0168">
                 <div type="text">
                     <lg met="anuṣṭubh">
                        <l n="a">tasya svaṁ harate yas tu</l>
@@ -3619,7 +3683,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p>See <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062)</p>
                 </div>
             </div>
-            <div xml:id="best_169">
+            <div xml:id="best_0169">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a" met="na-vipulā" real="+-++---+">dehi dehīti vādato</l>
@@ -3635,7 +3699,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p>The stanza is rather corrupted and reconstructed by Daniel Balogh in his edition of the plate (see <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062), in particular the note ).</p>
                 </div>
             </div>
-            <div xml:id="best_170">
+            <div xml:id="best_0170">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Ādhi-vyādhi-parītāyev</l>
@@ -3651,7 +3715,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p>See <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062)</p>
                 </div>
             </div>
-            <div xml:id="best_171">
+            <div xml:id="best_0171">
                 <div type="text">
                     <lg met="upajāti">
                         <l n="a">Asyāsumanto haraṇaṁ haranti</l>
@@ -3667,8 +3731,23 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p>See <title>South and North doorjambs of East door of the Southern tower of the first row of Prasat Lolei (K. 327), 815 Śaka</title> (INSCIK00327)</p>
                 </div>
             </div>
+            <div xml:id="best_0172">
+                <div type="text">
+                     <lg met="vasantatilakā">
+                 <l n="a">rakṣān naraḥ parakṛtau vidadhīta vidvān </l>
+                 <l n="b">pādā hi dharmma yaśasaḥ paramasya labdhāḥ</l>
+                 <l n="c">dhātraiva sriṣṭam akhilam bhuvanaṁ tathāpi</l>
+                 <l n="d">rakṣantri puṇyaratayaḥ pṛthivīn narendrāḥ</l>
+             </lg>
+                </div>
+                <div type="translation" resp="bib:KrishnaSastri1923-1924_01">
+                    <p rend="stanza">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātṛ, still kings desirous of merits protect the earth.</p>
+                </div>
             </div>
             <!-- 
+                Stance à ajouter EI6_11 le vers se trouve enserré dans des stances impéractoires
+                jayati sthitisaṁhāra-sṛṣṭikāraṇakāraṇaṁ harir dditija kāntāsya kuśeśayahimagamaḥ  l33 
+                translation Fleet Victorious to the god Hari, the cause of continuance and destruction and creation, who is a very winter to the water-lilies that are the faces of the wives of the demons
             Stance à ajouter ? 
             Kunthea thèse p. 162 
             ’inscritption K. 885 (968 apr. J.-C.)  Cœdès, IC V : 151
@@ -3751,7 +3830,7 @@ pas correcte. Nous proposons de le rendre par « (ceux qui) prennent (des biens 
             -->
             <!-- 
             Stances mises de côté par Sircar et donc à aller voir 
-            Sircar1965 note 1 et 2 p176 
+            best note 1 et 2 p176 
 1. See, e.g., Ep. Ind., Vol. XXII. pp. 156-57, verses 24-25, 32.
 2. See, e. g., Ep. Carm., Vol. IX, Dv. No. 15 ( Śivaṁ, etc, and Indrāś=ca, etc. ); Vol. XI. Cd. No. 14 ( Deva-svaṁ, etc. ) ; Vol. XI. Cd. No. 82 (Catuḥ-sāgara°, etc.). The following stanza quoted from the Atrisaṁhitā in Vol. XI,  Cd. No. 82, does not give a complete idea :
 Bhramanti suciraṁ kālaṁ kṣut-pipās-ādi-pīḍitāḥ  l 
