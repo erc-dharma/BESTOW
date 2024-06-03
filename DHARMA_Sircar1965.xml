@@ -377,19 +377,19 @@
                         <lg met="anuṣṭubh">
                             <l n="a">Api gaṅgādi-tīrtheṣu</l>
                             <l n="b">hantur gām athavā dvijam</l>
-                            <l n="c" enjamb="yes">niṣkr̥tiḥ syān na devasva</l>
-                            <l n="d">-brahmasva-haraṇe nr̥ṇām</l>
+                            <l n="c" enjamb="yes">niṣkr̥tiḥ syān na deva-sva</l>
+                            <l n="d">-brahma-sva-haraṇe nr̥ṇām</l>
                         </lg>
                     </div>
-                    <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <div type="translation" resp="bib:Barnett1915-1916_05">
+                    <p rend="stanza">The slayer of a cow or of a Brahman may perchance find atonement in the Ganges and other holy places; but in the case of appropriation of the possessions of gods and Brahmans there can be no atonement for men.</p>
                 </div>
                     <div type="variation">
                          <l>Śiva-putro, etc. See No. 15, note. </l>                
                         <l>Aṣṭāviṁśati, etc. See No. 15, note. </l>
                     </div>
                     <div type="notes">
-                         <note>7. Ep. Carn., Vol XIII, p. 22. Cf. Śāstreṣu pāpīnāṁ dr̥ṣṭaṁ prāyaścittaṁ dvijottama | na dr̥ṭṣaṁ bhūmi-hartr̥ṇām prāyaścittaṁ *dvija
+                         <note>7. Ep. Ind., Vol XIII, p. 22. Cf. Śāstreṣu pāpīnāṁ dr̥ṣṭaṁ prāyaścittaṁ dvijottama | na dr̥ṭṣaṁ bhūmi-hartr̥ṇām prāyaścittaṁ *dvija
                     kvacit || Śivaputro jano dātā pālakah punya-bhāk=param l lopakr̥c=ca
                 makāpāpī vicārya=aivam prapālayet || (Khare, op. cit., p. 34); Aṣṭāviṁśati-kotyo yā
                 narakāṇāṁ su-dāruṇāh | kramena tāsu pacyante
@@ -1089,7 +1089,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 3)</note>
                </div>
            </div>
-            <div xml:id="best_st0045_01"><!-- I attributes this number to this verse because it is mentioned as a variation of best_st0045 by Sircar, but I'm really not sure that it coud be seen as a variation since there are no words in common with it?? So it will be necessary to establish some criteria to attibute to one stanza the status of variation -->
+            <div xml:id="best_st0045_01"><!-- I attributes this number to this verse because it is mentioned as a variation of best_st0045 by Sircar, but I'm really not sure that it coud be seen as a variation since there are no words in common with it?? So it will be necessary to establish some criteria to attribute to one stanza the status of variation -->
                 <div type="text">
                     <lg met="">
                         <l n="a">yathoktaiḥ pañcabhir ghoraiḥ</l>
@@ -1099,7 +1099,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     </lg>
                 </div>
                 <div type="translation">
-                    <p rend="stanza">Those who steal a <foreign>brahmadeya</foreign> go to hell and suffer the five terrible fires of the great sins mentioned above.</p>
+                    <p rend="stanza">Those who steal a gift given to Brahmin (<foreign>brahmadeya</foreign>) go to hell and suffer the five terrible fires of the great sins mentioned above.</p>
                 </div>
                 <div type="bibliography">
                     <p>This stanza is quoted in <ref target="DHARMA_INSSiddham01025">Akki-Ālūr (Kir̥ukuppuṭūra) Grant of Kr̥ṣṇavarman II, Year 15</ref>, lines 18-19.</p>
@@ -1239,7 +1239,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The land given to brahmin (vipra) should not be enjoyed nor taken for taxes ; it is in this world the unique prosperous thing for all the kings.  </p>
+                    <p rend="stanza">The land given to brahmin (<foreign>vipra</foreign>) should not be enjoyed nor taken for taxes ; it is in this world the unique prosperous thing for all the kings.  </p>
                 </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XVI, p. 351, text lines 78-80; p. 318. Sometimes we have bhogyā
@@ -1329,27 +1329,28 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                         <l n="a">gāvo bhūmiṁ tathā bhāryāṁ</l>
                         <l n="b">ākramya hara mā naya</l>
                         <l n="c">śrāvayanti hi rājānaṁ</l>
-                        <l n="d">brahma-hatyā ca limpati</l>
+                        <l n="d">brahma-hatyā ca limpati</l><!-- lipyati in EI4_25 -->
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">After approaching cows, land or a wife, after stealing one of his possessions and not returning it, once discovered, he is tainted with the murder of a Brahmin by the king.he is smeared by the sin of a brahmin's murder</p><!-- the text is quite problematic and Kielhorn mentions the fact that he was unable to find this verse elsewhere and to give a correct text -->
                 </div>
                 <div type="notes">
                     <note> 2. Ep. Ind., Vol. IV. p. 197, lines 31 -32.</note>
+                    <note>See <bibl><ptr target="bib:Kielhorn1896-1897_02"/><citedRange unit="page">197</citedRange><citedRange unit="line">31-32</citedRange></bibl></note>
                 </div>
             </div>
            <div xml:id="best_st0058">
                <div type="text">
                    <lg met="anuṣṭubh">
                       <l n="a">gayā-godāvarī-gaṅgā</l>
-                      <l n="b" enjamb="yes">-prayāg-ādiṣu dānataḥ</l>
+                      <l n="b" enjamb="yes">-prayāgādiṣu dānataḥ</l>
                       <l n="c">yat phalaṁ tat phalaṁ sarvaṁ</l>
                       <l n="d">bhaved bhūmi-prapālanāt</l>
                    </lg>
                </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The fruit that returns to the giver in sacred places such as Gayā, Godāvarī, the Ganges, Prayāga etc. is identical in every way to the protection of the earth.</p>
                 </div>
                <div type="notes">
                    <note> 3. Ind. Ant., Vol. VII, p. 121.</note>
@@ -1360,15 +1361,16 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     <lg met="anuṣṭubh">
                         <l n="a">go-hatyā brahma-hatyā ca</l>
                         <l n="b">bāla-hatyā tathaiva ca</l>
-                        <l n="c">vipra-haty ārṣi-hatyāva</l>
+                        <l n="c">vipra-hatyārṣi-hatyāva</l>
                         <l n="d" enjamb="yes">bhañjakas tayā lipyate</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Whoever destroys (this) is endued by this act with the murder of a cow and the murder of a Brahmin, as well as the murder of a child, the murder of a vipra and the murder of a sage</p>
                 </div>
                 <div type="notes">
                     <note> 4. Ep. Ind.,Vol. XIII, p. 208, text lines 6-8.</note>
+                    
                 </div>
             </div>
             <div xml:id="best_st0060"><!-- Caution here Sircar attributes two numbers 60 and 61 -->
@@ -1936,7 +1938,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                         <l n="a">madhu-kaiṭabha-dānavendra-medaḥ</l>
                         <l n="b">-plava-visrā-miśram eva medinīyam | </l> <!-- -plava-visrā-!!mi!!śram eva medinī!!yam!!-->
                         <l n="c">adhivāsya yadi svakair yaśobhiś</l>
-                        <l n="d">ciram enām upabhuñjate narendrāḥ || 88<hi rend="superscript">2</hi>  </l>
+                        <l n="d">ciram enām upabhuñjate narendrāḥ</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
@@ -1989,7 +1991,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Whatever king born in my lineage or in antoher lineage I attached to this act </p>
+                    <p rend="stanza">Whatever king born in my lineage or in antoher lineage I attached to this act.</p>
                 </div>
                 <div type="variation">
                      <l>mama vaṁśe, etc. Sec No. 90, note. </l>
@@ -2005,7 +2007,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 cf. ibid., Vol. XXII, p. 194), For Mayi rājñi vyatikrānte in the first foot and
                 śāsanaṁ na vyatikramet in the last, see Ind. Ant., Vol. XII, p. 155. The Skanda
                 Purāṇa, op. cit., verse 41, has it as : Asmin=vaṁśe kṣitau ko='pi rājā yadi
-                bhaviṣyati | tasy=āhaṁ karalagno='smi mad-dattaṁ yad ipālyate || See Nos. 87 and
+                bhaviṣyati | tasy=āhaṁ karalagno='smi mad-dattaṁ yad ipālyate ||<!-- this stanza is very close to the one quoted in EI13_18c  --> See Nos. 87 and
                 89.</note>
                 </div>
             </div>   
@@ -2014,12 +2016,12 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                     <lg met="anuṣṭubh">
                         <l n="a">mahatām api pāpānāṁ</l>
                         <l n="b">dr̥ṣṭā śāstreṣu niṣkr̥tiḥ</l>
-                        <l n="c">brahmadeyāpahart r̥nāṁ</l>
+                        <l n="c">brahmadeyāpahartr̥nāṁ</l>
                         <l n="d">na dr̥iṣṭā niṣkr̥tiḥ kvacit</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Even for the greatest sins, there is forgiveness in the treatises, but for those who have stolen a gift made to the Brahmins, there is no forgiveness.</p>
                 </div>
                 <div type="notes">
                     <note>5 Ep. Ind., Vol. XXVIII, p. 320, text line 13.</note>
