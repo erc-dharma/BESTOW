@@ -1009,7 +1009,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                <div type="text">
                    <lg met="indravajrā"> 
                        <l n="a">dattāni yānīha purā narendrair</l>
-                       <l n="b">dānāni dharmārtha-yaśaskarāṇi</l>
+                       <l n="b">dānāni dharmārtha-yaśas-karāṇi</l>
                        <l n="c">nirmālya-vānta-pratimāni tāni</l><!-- nirmālaya in Sircar, certainly a typo-->
                        <l n="d">ko nāma sādhuḥ punar ādadīta</l><!-- Sircar : māma sādhuḥ , I follow the reading found in EI32_14_1 see also EI24_12 verse 36 -->
                    </lg>
@@ -1353,7 +1353,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                     <p rend="stanza">The fruit that returns to the giver in sacred places such as Gayā, Godāvarī, the Ganges, Prayāga etc. is identical in every way to the protection of the earth.</p>
                 </div>
                <div type="notes">
-                   <note> 3. Ind. Ant., Vol. VII, p. 121.</note>
+                   <note> 3. Ind. Ant., Vol. VII, p. 121.</note><!-- I didn't find the verse indicated in the vol. VII p.121, is it a typo?  -->
                </div>
            </div>
             <div xml:id="best_st0059">
@@ -1912,7 +1912,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XXVIII, p. 311, text lines 10-11; p. 257. This stanza is
                 generally found in the grants of the Imperial Gaṅgas of orissa. Sometimes we have
-                bhūmeḥ for bhūpaiḥ.</note>
+                bhūmeḥ for bhūpaiḥ.</note><!-- See also EI31_19 p. 128 line 206-207 -->
                 </div>
             </div>      
            <!--  <pb n="189"/>-->
@@ -2008,7 +2008,7 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 śāsanaṁ na vyatikramet in the last, see Ind. Ant., Vol. XII, p. 155. The Skanda
                 Purāṇa, op. cit., verse 41, has it as : Asmin=vaṁśe kṣitau ko='pi rājā yadi
                 bhaviṣyati | tasy=āhaṁ karalagno='smi mad-dattaṁ yad ipālyate ||<!-- this stanza is very close to the one quoted in EI13_18c  --> See Nos. 87 and
-                89.</note>
+                89.</note><!-- Maybe create a new reference for this stanza since it is quite different from number 90 and seems to be quoted in this form more than once -->
                 </div>
             </div>   
             <div xml:id="best_st0091">
@@ -2513,7 +2513,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 rakṣaṇīyaḥ for pālanīyaḥ in the second half (Ep. Carn., Vol. III, Md. No. 113). For
                 setur=narāṇām, sve sve kāle for kāle kāle, and bhūmi-pālān for pārthivendrān, see
                 Chhabra, Antiquities of Chamba State, II, p. 178. For Sāmānyo='yaṁ dāna-dharmaḥ, sve
-                sve kāle, see Ind. Ant., Vol. VI, pp. 195, 202. Ep. Carn., Vol. V, Arsikere No. 90,
+                sve kāle, see Ind. Ant., Vol. VI, pp. 195<!-- text encoded see INSIA6_194-195 -->, 202. Ep. Carn., Vol. V, Arsikere No. 90,
                 gives etān=adyo for sarvān=tān. In the Kalasan (Java) inscription of Śaka 700, the
                 stanza reads Sarvān=ev=āgāminaḥ pārthivendrān=bhūyo bhūyo yācate rājasiṁhaḥ|
                 sāmānyo='yam dharma-setur=narāṇāṁ, etc. (Chatterjee and Chakravarti, India and Java,
@@ -2701,7 +2701,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 </div>
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XXVIII. p. 312, text line 16; p. 258 (manīṣibhiḥ for mahīp
-                ate).</note>
+                ate).</note><!-- see also EI31_19 lines 210-211 p.128 -->
                 </div>
             </div>    
             <div xml:id="best_st0126">
@@ -2958,7 +2958,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
                         <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
-                        <l n="d">viṣṭhāyāṁ jāyate kr̥miḥ</l>
+                        <l n="d">viṣṭhāyāṁ jāyate kr̥miḥ</l><!-- INSEI4_25 narake pacyate dhruvam -->
                     </lg>
                 </div>
                <div type="occurences">
@@ -3772,10 +3772,22 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
     </text>
 </TEI>           
     <!-- 
-                Stance à ajouter EI6_11 le vers se trouve enserré dans des stances impéractoires
+        Stance à ajouter : EI4_25 
+stance placée juste avant la date elle clôt la parite notification puis date puis on a un groupe de 3 stances identifiées (donc celle-ci n'a pas été retenue par Sircar) => mes arguments pour l'inclure structure très proche d'autres stances, cas intéressants d'inclusion d'une coloration religieux rudraloka qui est en adéquation avec l'obédience du don
+<lg met="anuṣṭubh">
+    <l n="a">kaścid enam pālāyati</l>
+    <l n="b">so rudra-loke devagaṇā</l>
+    <l n="c">koṭī-śata-sahasreṇa</l>
+    <l n="d">svarggina sukhaṁ modati</l>
+</lg>
+Traduction source="bib:Kielhorn1896-1897_02"
+<p n="24-25" rend="stanza">Whoever obeys it enjoys hapiness of the inhabitants of heaven with the hundred-thousand billions hosts in Rudra's world.</p>
+
+     Stance à ajouter EI6_11 le vers se trouve enserré dans des stances impéractoires
                 jayati sthitisaṁhāra-sr̥ṣṭikāraṇakāraṇaṁ harir dditija kāntāsya kuśeśayahimagamaḥ  l33 
                 translation Fleet Victorious to the god Hari, the cause of continuance and destruction and creation, who is a very winter to the water-lilies that are the faces of the wives of the demons
-            Stance à ajouter ? 
+            
+     Stance à ajouter ? 
             Kunthea thèse p. 162 
             ’inscritption K. 885 (968 apr. J.-C.)  Cœdès, IC V : 151
             ye haranti naraḥ pāpaḥ 
