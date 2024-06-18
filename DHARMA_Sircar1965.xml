@@ -139,7 +139,23 @@
                 dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note><!-- ajouter cette stance ? Ep. Ind„ Vol XII, p. 97, lines 28-29 cette référence n'est pas bonne il n'y a pas de texte aux pages citées mais des tableaux... -->
                     <!-- Gretil : Mahābhārata 13,061.045 ādityo varuṇo viṣṇur brahmā somo hutāśanaḥ | śūlapāṇiś ca bhagavān pratinandanti bhūmidam -->
                 </div>
-            </div>   
+            </div>
+            <div xml:id="best_st0004_01">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                <l n="a">yamo 'tha varuṇo vāyuḥ</l>
+                <l n="b">śakraḥ śukro br̥haspatiḥ</l>
+                <l n="c">candrādityagrahāḥ sarve</l>
+                <l n="d">Abhinandanti bhūmidaM</l>
+                </lg>
+                </div>
+                <div type="translation" resp="bib:Griffiths2015_02">
+                    <p rend="stanza">Yama, Varuṇa, Vāyu, Śakra, Śukra, Br̥haspati, Candra, Āditya and the Grahas: they all rejoice in one who gives land!</p>
+                </div>                
+                <div type="notes">
+                    <p>This stanza is quoted in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref> (see <bibl><ptr target="bib:Griffiths2015_02"/></bibl></p>
+                </div>
+            </div>
             <div xml:id="best_st0005">               
                 <div type="text">
                     <lg met="indravajrā">
@@ -361,7 +377,7 @@
                         </lg>
                     </div>
                     <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The one who has stolen what was given to his relatives is the worst and the most malevolent : as a dog, he will eat the vomits of others instead his own. </p>
+                    <p rend="stanza">The one who has stolen what was given to his relatives is the worst and the most malevolent: as a dog, he will eat the vomits of others instead his own. </p>
                 </div>
                     <div type="variation">
                         <l>Anyaiś ca charditaṁ, etc. See No. 14, note. </l>
@@ -1089,7 +1105,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 3)</note>
                </div>
            </div>
-            <div xml:id="best_st0045_01"><!-- I attributes this number to this verse because it is mentioned as a variation of best_st0045 by Sircar, but I'm really not sure that it coud be seen as a variation since there are no words in common with it?? So it will be necessary to establish some criteria to attribute to one stanza the status of variation -->
+            <div xml:id="best_st0045_01"><!-- I attribute this number to this verse because it is mentioned as a variation of best_st0045 by Sircar, but I'm really not sure that it could be seen as a variation since there are no words in common with it?? So it will be necessary to establish some criteria to attribute to one stanza the status of variation -->
                 <div type="text">
                     <lg met="">
                         <l n="a">yathoktaiḥ pañcabhir ghoraiḥ</l>
@@ -3764,7 +3780,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p rend="stanza">The ancestors who reside in the Pitr̥loka and the gods who dwell in the Devaloka, fully satisfy the land-giver, O thou who art the best among born beings.</p>
                 </div>
                 <div type="notes">
-                    <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is Epigraphia Indica, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas cd are found in the <title>Purshottampuri Plates of Ramachandra, Saka 1232</title>, lines125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl><!-- The text is encoded see INSEI25_21 --></p>
+                    <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is Epigraphia Indica, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas cd are found in the <title>Purshottampuri Plates of Ramachandra, Saka 1232</title>, lines125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).<!-- The text is encoded see INSEI25_21 --></p>
                 </div>
             </div>
 
