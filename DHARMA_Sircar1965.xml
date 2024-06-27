@@ -89,6 +89,13 @@
                 </div>
                 <div type="notes">
                     <note>4. Ep. Carn., Vol. I, revised ed., p. 35<!-- Ep. Carn., Vol. I, revised ed., p. 35 = DHARMA ID: INSEC01011 -->; Ind.Ant., Vol. IV, pp. 333-34<!-- not yet checked -->. See below, Nos. 37-38.</note>
+                    <note><!-- my own note -->This verse is found in the follwing testimonies: 
+                    <p>
+                        <list>
+                        <item><ref target="DHARMA_INSEC03Sr157.xml">Copper Plate at Melukoṭe</ref></item>
+                    </list>
+                    </p>
+                    </note>
                     <!-- DHARMA_INSEC09Dv15 Ep Carn 09 Dv n15 varaition in b hr̥dayaṁ Yamaś ca instead of hr̥dayaṁ manaś ca + variation d dharmaś ca jānāti -->
                 </div>
             </div>
@@ -1362,7 +1369,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 </div>
                 <div type="notes">
                     <note> 2. Ep. Ind., Vol. IV. p. 197, lines 31 -32.</note>
-                    <note>See <bibl><ptr target="bib:Kielhorn1896-1897_02"/><citedRange unit="page">197</citedRange><citedRange unit="line">31-32</citedRange></bibl></note>
+                    <note>See <bibl><ptr target="bib:Kielhorn1896-1897_02"/><citedRange unit="page">197</citedRange><citedRange unit="line">31-32</citedRange></bibl> (<ref target="DHARMA_INSEI4_25.xml">Chikkulla plates of Vikramendravarman</ref>).</note>
                 </div>
             </div>
            <div xml:id="best_st0058">
@@ -2192,7 +2199,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                            <l n="c">na viṣaṁ viṣam ity āhur</l>
                            <l n="d">brahma-svaṁ viṣam ucyate</l>
                        </lg>
-                       According to <bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).  </note>
+                       According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).  </note>
                </div>
            </div>    
             <div xml:id="best_st0099">
@@ -2947,8 +2954,8 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                            <l n="c">śva-viṣṭhāyāṁ kr̥mir bhūtvā</l>
                            <l n="d">pitr̥bhiḥ saha majjati</l>
                        </lg>
-                        <p>If a man uses sesame for any purpose other than eating, anointing, and giving as a gift, reborn as a worm, he will plunge into a pile of a dog sheet together with his ancestors. (translation <bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">249</citedRange></bibl>)</p>
-                       According to <bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).</note>
+                        <p>If a man uses sesame for any purpose other than eating, anointing, and giving as a gift, reborn as a worm, he will plunge into a pile of a dog sheet together with his ancestors. (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">249</citedRange></bibl>)</p>
+                       According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).</note>
                 </div>
             </div>
             <div xml:id="best_st0132_01">
@@ -3010,6 +3017,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                        <list>
                            <item><ref target="DHARMA_INSTelugu00091.xml">Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</ref></item>
                            <item><ref target="DHARMA_INSVengiCalukya00054.xml">Mḻopaṟṟu grant probably of Maṅgi Yuvarāja</ref></item>
+                           <item><ref target="DHARMA_INSChauhan00001.xml">Bargarh copper plate of Maharaja Narayan Singh of Sambalpur</ref></item>
                        </list>
                        
                    </p>
@@ -3599,8 +3607,8 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                            <l n="c">api gocarma-mātreṇa</l>
                            <l n="d">bhūmi-dānena śudhyati</l>
                        </lg>
-                        <p>Whatever sin a man may have committed under the pressure of his occupation, he is cleansed from all that by giving a piece of land even small as a "cow's hide". (translation <bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">461</citedRange></bibl>)</p>
-                       According to <bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.
+                        <p>Whatever sin a man may have committed under the pressure of his occupation, he is cleansed from all that by giving a piece of land even small as a "cow's hide". (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">461</citedRange></bibl>)</p>
+                       According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.
                      </note>
                 </div>
             </div>       
@@ -3820,6 +3828,40 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is Epigraphia Indica, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas cd are found in the <title>Purshottampuri Plates of Ramachandra, Saka 1232</title>, lines125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).<!-- The text is encoded see INSEI25_21 --></p>
                 </div>
             </div>
+            <!-- A ajouter avec une traduction et voir si on les sépare ou on les cite ensemble source DHARMA_INSEC03Sr064.xml Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)
+            <lg met="anuṣṭubh">
+                    <l n="a">Indraḥ pṛicchati caṇḍālīṃ</l> (celle-ci citée aussi dans DHARMA_INSEC03Sr157)
+                    <l n="b">kim idaṃ pacyate śubhe <g type="danda">.</g></l>
+                    <l n="c">śva-māṃsaṃ surayā siktaṃ</l> 
+                    <l n="d">kapālena citāgninā <g type="ddanda">.</g></l>
+                </lg>
+                <lg met="anuṣṭubh">
+                    <l n="a">kim artthaṃ vada kalyāṇi</l> 
+                    <l n="b">carmmaṇā pihitaṃ tvayā <g type="danda">.</g></l>
+                    <l n="c">brahma-svaṃ brāhmaṇa-kṣetraṃ</l> 
+                    <l n="d">hārayanti haranti ye <g type="danda">.</g></l>
+                    <l n="e">teṣāṃ pāda-rajo-bhītyā</l> 
+                    <l n="f">carmmaṇā pihitaṃ mayā <g type="ddanda">.</g></l
+            -->
+            <!-- A ajouter ? dans une inscription trois vers nouveaux dont un utilisant la notion de traitre drohi (+ aussi un 4eme vers aavec Indra) DHARMA_INSEC03Sr157
+            <lg met="" n="10">
+                    <l n="a">balād dattāṃ balād bhuktāṃ</l> 
+                    <l n="b">bālād yānvāpi lekhitān <g type="danda">.</g></l>
+                    <l n="c">pūrvāparakṛitān āryā</l> 
+                    <l n="d">akṛitān manur abravīt <g type="ddanda">.</g></l>
+                </lg>
+                <lg met="" n="11">
+                    <l n="a">kalau kārtayugaṃ dharmmaṃ </l>
+                    <l n="b">yo naraḥ karttum ichati <g type="danda">.</g></l>
+                    <l n="c">svāmi-drohīti taṃ matvā</l> 
+                    <l n="d">taṃ naraṃ bādhate kaliḥ <g type="ddanda">.</g></l>
+                </lg>
+                <lg met="" n="12">
+                    <l n="a">rākṣasāḥ kalim āśritya</l> 
+                    <l n="b">jāyante brahma-yoniṣu <g type="danda">.</g></l>
+                    <l n="c">brāhmaṇān eva bādhante</l> 
+                    <l n="d">tatrāpi śrotriyān kṛiśān <g type="ddanda">.</g></l>
+                </lg>-->
 
         </body>
     </text>
