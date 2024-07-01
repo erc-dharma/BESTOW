@@ -933,7 +933,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The purāṇas whose wisdom is undoubtful, tell that what is born from the protection is really superior to the gift, it is the best dharmic act among the dharmic ones! Hence, may that the earth be given to a twice born knowing the śruti and born in a very pious lineage and may your unique thought be to protect it !
+                    <p rend="stanza">The purāṇas whose wisdom is undoubtful, tell that what is born from the protection is really superior to the gift, it is the best dharmic act among the dharmic ones! Hence, may that the earth be given to a twice born knowing the <foreign>śruti</foreign> and born in a very pious lineage and may your unique thought be to protect it !
 </p>
                 </div>
                 <div type="notes">
@@ -1514,6 +1514,7 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 the stanza with hārayed°, sa vadhyo and °yonisu. Cf. Mahābhārata, XIII, 62,
                 75.</note>
                 </div>
+                
             </div>
            <div xml:id="best_st0065">
                <div type="text">
@@ -1768,6 +1769,15 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 (with mriyamāṇāya vr̥tti-glānāya for kr̥śa-vr̥ttāya vr̥tti-kṣīnāya and sattrī bhavati
                 mānavaḥ, for which Hemādri has kliśyamānāya c=ātyarthaṁ vr̥tti-glānāya), Cf.
                 Mahābhārata, XIII. 59, 11.</note>
+               </div>
+               <div type="occurences">
+                   <p>A variation of this verse is found in the <title>Mahābhārata</title> 13.61.26 (GRETIL) </p>
+                   <lg met="anuṣṭubh">
+                       <l n="a">kr̥śāya mriyamāṇāya</l>
+                       <l n="b">vṛttimlānāya sīdate</l>
+                       <l n="c">bhūmiṁ vr̥ttikarīṁ dattvā</l>
+                       <l n="d">satrī bhavati mānavaḥ</l>
+                   </lg>
                </div>
            </div>    
           <!--  <l>Kr̥ta-Tretā-Dvāpareṣu, etc. See No. 97, note. </l> -->
@@ -2114,6 +2124,16 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 <div type="notes">
                      <note>2. Ind. Ant., Vol. XIV, p. 319, text lines 113-14.</note>
                 </div>
+                <div type="occurences">
+                    <p>The variation of this verse is found in the <title>Mahābhārata</title> 13.61.72 (GRETIL)</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">na dadāti pratiśrutya</l>
+                        <l n="b">dattvā vā harate tu yaḥ</l>
+                        <l n="c">sa baddho vāruṇaiḥ pāśais </l>
+                        <l n="d">tapyate mṛtyu-śāsanāt</l>
+                    </lg>
+                    <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">186</citedRange></bibl> quotes this verse as a variation of the stanza best_st0064. </p>
+                </div>
             </div>
           <div xml:id="best_st0095">
               <div type="text">
@@ -2301,6 +2321,15 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 and, with slight variations, in Govindānanda's Dānakriyākaumudī (Bibliotheca Indica
                 ed., p. 41 ).</note>
                </div>
+               <div type="occurences">
+                   <p>A variation (not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl> can be read in the <title>Mahābhārata</title> 14.96.15*4.1107-1108 (GRETIL): </p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">āśrutya bhūmidānaṃ tu</l>
+                        <l n="b">dattvā yo vā haret punaḥ</l>
+                        <l n="c">sa baddho vāruṇaiḥ pāśaiḥ</l>
+                        <l n="d">kṣipyate pūya-śoṇite</l>
+                    </lg>
+               </div>
            </div>
            <div xml:id="best_st0104">
                <div type="text">
@@ -2356,6 +2385,15 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 Br̥haspatisaṁhitā, verse 6 (with Phālākr̥ṣṭāṁ mahīṁ dattvā sa-bījāṁ śasya-śālinīm |
                 yāvat=sūrya-karā lokā°). Ballāla (Dānasāgara, op. cit., p. 323) quotes the stanza
                 with slight variations and attributes it to Br̥haspati.</note>
+                </div>
+                <div type="occurences">
+                    <p>A variation of this stanza quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> is found in the <title>Mahābhārata</title> 13.61.28 (GRETIL): </p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">hāla-kr̥ṣṭāṁ mahīṁ dattvā</l>
+                        <l n="b">sabījāṃ saphalām api</l>
+                        <l n="c">udīrṇaṃ vāpi śaraṇaṃ</l>
+                        <l n="d">tathā bhavati kāmadaḥ</l>
+                    </lg>
                 </div>
             </div>
            <div xml:id="best_st0107">
@@ -2621,6 +2659,21 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 dhar-āśvā vara-vāraṇāḥ and puṣpāni—op. cit., pp. 483-84). Ballāla's Dānasāgara (op.
                 cit., p. 316) attributes the stanza to the Dāna-Br̥haspati.</note>
                 </div>
+                <div type="occurences">
+                    <p>A variation of this stanza quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> is found in the <title>Mahābhārata</title> 13.61.86-87 (GRETIL):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
+                        <l n="b">varāśvā varavāraṇāḥ</l>
+                        <l n="c">bhūmipradānāt puṣpāṇi</l>
+                        <l n="d">hiraṇyanicayās tathā</l>
+                    </lg>
+                    <lg met="anuṣṭubh">
+                        <l n="a">Ājñā sadāpratihatā</l>
+                        <l n="b">jayaśabdo bhavaty atha</l>
+                        <l n="c">bhūmi-dānasya puṣpāṇi</l>
+                        <l n="d">phalaṁ svargaḥ puraṃdara</l>
+                    </lg>
+                </div>
             </div>    
           <!--  <pb n="194"/> -->
             <div xml:id="best_st0120">
@@ -2797,6 +2850,9 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                 (op. cit., p. 481) and Ballāla (op. cit., p. 316) assign it to the Mahābhārata (cf.
                 XIII, 62) and the Dāna-Br̥haspati respectively.</note><!-- Found also in Lakṣmīdhara KKT 10.10 (Brick) and he ascribes it to dānabr̥haspatiḥ, caution for Brick this verse is found in Hemādri p.498 and not p.481 -->
                 </div>
+                <div type="occurences">
+                    <p>This verse can be read without variations in the <title>Mahābhārata</title> 13.61.47*341_01-02 (GRETIL).</p>
+                </div>
             </div> 
             <div xml:id="best_st0128">
                 <div type="text">
@@ -2953,8 +3009,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 the Mahābhārata in the Dānakhaṇḍa (IHQ., Vol. VI. p. 777). Gf. Coedés, Inscriptions
                 du Cambodge, Vol. v, p. 76.</note>
 <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 4 p 1272 
-                    Aparārka p 370 from āditya purāṇa  gupta inscriptions n 23 qnd n 26 p 119  IA VI p363 EI VI p45 EI XIII p 270 qnd 233 Padmapurāna VI 33 26-30-->
-                    
+                    Aparārka p 370 from āditya purāṇa  gupta inscriptions n 23 qnd n 26 p 119  IA VI p363 EI VI p45 EI XIII p 270 qnd 233 Padmapurāna VI 33 26-30-->                   
                 </div>
              <div type="occurences">
                  <p><!-- my own note --><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Baudhāyana Dharmasūtra</title>, II.2.26 :</p>
@@ -2966,6 +3021,20 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                        </lg>
                         <p>If a man uses sesame for any purpose other than eating, anointing, and giving as a gift, reborn as a worm, he will plunge into a pile of a dog sheet together with his ancestors. (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">249</citedRange></bibl>)</p>
                       <p> According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).</p>
+                 <p>The stanza found in the <title>Baudhāyana Dharmasūtra</title> can also be read with minor variations in the <title>Mahābhārata</title> 14.96.15*004_2381-2382: </p>
+                 <lg met="anuṣṭubh">
+                     <l n="a">bhojanābhyañjanād dānād</l>
+                     <l n="b">yo 'nyat tu kurute tilaiḥ</l>
+                     <l n="c">kr̥mir bhūtvā śvaviṣṭhāyāṃ</l>
+                     <l n="d">pitr̥bhiḥ saha majjati</l>
+                 </lg>
+                 <p>A variation of this stanza is found in the <title>Mahābhārata</title> 14.96.15*004_1109-1110 (GRETIL):</p>
+                 <lg met="anuṣṭubh">
+                     <l n="a">svadattāṁ paradattāṁ vā</l>
+                     <l n="b">yo hareta vasuṃdharām</l>
+                     <l n="c">na tasya narakād ghorād</l>
+                     <l n="d">vidyate niṣkṛtiḥ kva cit</l>
+                 </lg>
              </div>
             </div>
             <div xml:id="best_st0132_01">
@@ -3261,7 +3330,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
             <div xml:id="best_st0142">
                 <div>
                     <lg met="anuṣṭubh">
-                        <l n="a">triṇyāhur ati-dānāni</l>
+                        <l n="a">triṇy āhur ati-dānāni</l>
                         <l n="b">gāvaḥ pr̥thvī sarasvatī</l>
                         <l n="c">ā-saptamaṁ phalanty ete</l>
                         <l n="d">doha-vāha-nivedanaiḥ</l>
@@ -3274,6 +3343,18 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <note>5. Ep. Ind., Vol. XI, pp. 312-13, text lines 46-47. The first half is found in the
                 Vasiṣṭhasmr̥ti, 29, 19, and Br̥haspatisaṁhitā, verse 18; cf. PadmaPurāṇa, VI, 33,
                 18.</note>
+                </div>
+                <div type="occurences"><!-- my own note -->
+                  <p><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 29.19 :
+</p>                       <lg met="anuṣṭubh">
+                           <l n="a">triṇy āhur ati-dānāni</l>
+                           <l n="b">gāvaḥ pr̥thvī sarasvatī</l>
+                           <l n="c">Atidānaṁ hi dānānāṁ</l>
+                           <l n="d">vidyādānaṁ tato 'dhikaM</l>
+                       </lg>
+                        <p>Three, they say, are super-gifts: cows, land and knowledge. The gift of knowledge is superior to all gifts and surpasses even those super-gifts. (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">461</citedRange></bibl>)</p>
+                       <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.
+                     </p>
                 </div>
             </div>
            <div xml:id="best_st0143">
@@ -3523,12 +3604,20 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">As the growth of the moon increases day by day, so the gift of the earth prospers harvest after harvest.</p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. XXV, p. 278, lines 47-48. The stanza occurs in the Mahābhārata,
                 XIII. 62, 33.</note>
                 </div>
+                <div type="occurences">
+                    <p>As indicated by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">5</citedRange><citedRange unit="page">200</citedRange></bibl>, this stanza can be read in the <title>Mahābhārata</title> 13.61.30 (GRETIL) without variation. It can also be read with slight variations in the <title>Mahābhārata</title> 13.134.57*015_3329-3330 (GRETIL):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">yathā candramaso vr̥ddhir</l>
+                        <l n="b">ahany ahani dṛśyate</l>
+                        <l n="c">tathā bhūmi-kr̥taṁ dānaṁ</l>
+                        <l n="d">sasye sasye vivardhate</l>
+                    </lg>                </div>
             </div>
             <div xml:id="best_st0156">
                 <div type="text">
@@ -3542,7 +3631,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                  <div type="translation" resp="part:amwb">
                     <p rend="stanza">As a mother makes her son grow by her milk, O kings, so the earth by all its qualities will make its donor prosper.</p>
                 </div>
-                <div type="variation">
+              <div type="variation">
                      <l>Yathā sva-putraṁ, etc. See No. 156. </l>
                 </div>
                 <div type="notes">
@@ -3550,6 +3639,9 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 sva-putraṁ jananī kṣīreṇa bharate sadā| anugr̥hṇāti dātāraṁ tathā sarvarasair=mahī ||
                 Ballāla (op. cit., p. 320) quotes the same verse with slight variations and
                 attributes it to the Mahābhārata.</note></div>
+            </div>
+            <div type="occurences">
+                <p>14,096.015d@004_1097</p>
             </div>
             <div xml:id="best_st0157">
                 <div type="text">
