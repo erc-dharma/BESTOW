@@ -89,14 +89,15 @@
                 </div>
                 <div type="notes">
                     <note>4. Ep. Carn., Vol. I, revised ed., p. 35<!-- Ep. Carn., Vol. I, revised ed., p. 35 = DHARMA ID: INSEC01011 -->; Ind.Ant., Vol. IV, pp. 333-34<!-- not yet checked -->. See below, Nos. 37-38.</note>
-                    <note><!-- my own note -->This verse is found in the follwing testimonies: 
-                    <p>
+                               </div>
+                <div type="occurences">
+                         <p><!-- my own note -->This verse is found in the following testimonies: 
                         <list>
                         <item><ref target="DHARMA_INSEC03Sr157.xml">Copper Plate at Melukoṭe</ref></item>
                     </list>
                     </p>
-                    </note>
                     <!-- DHARMA_INSEC09Dv15 Ep Carn 09 Dv n15 varaition in b hr̥dayaṁ Yamaś ca instead of hr̥dayaṁ manaś ca + variation d dharmaś ca jānāti -->
+
                 </div>
             </div>
                 <div xml:id="best_st003">
@@ -188,16 +189,19 @@
                 attributes it to Saṁvar̥ta.</note>
 <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 5  p 1271 
                     padampurāṇa VI 33 32 vasiṣtṭha 28.16 br̥haspati 30 -->
-                    <note><!-- my own note --><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 28.16 :
-                       <lg met="indravajrā">
+                                    </div>  
+                <div type="occurences">
+                    <p><!-- my own note --><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 28.16 :
+</p>                       <lg met="indravajrā">
                     <l n="a">Agner apatyaṁ prathamaṁ suvarṇaṁ</l>
                     <l n="b">bhūr vaiṣṇavī sūrya-sutāś ca gāvaḥ</l>
                     <l n="c">tāsāmanantaṁ phalam aśruvīta</l>
                     <l n="d">yaḥ kāñcanaṁ gāṁ ca mahīṁ ca dadyāt</l>
                     </lg>
-                        <p>Gold is the firstborn of Fire; land is the daughter of Viṣṇu; and cows are the children of Sun. A man who gives gift of gold, land or cows obtains an eternal reward. (translation <bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">459</citedRange></bibl>)</p>
-                       According to <bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.</note>
-                </div>     
+                        <p>Gold is the firstborn of Fire; land is the daughter of Viṣṇu; and cows are the children of Sun. A man who gives gift of gold, land or cows obtains an eternal reward. (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">459</citedRange></bibl>)</p>
+                      <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.</p>
+
+                </div>
             </div>
             <div xml:id="best_st0006">
                 <div type="text">
@@ -2191,15 +2195,18 @@ will roast in the dreadful hell for countless <foreign>kalpa</foreign>s</p>
                 Vasiṣṭhasmr̥ti, 17, 86; Padma Purāṇa,VI, 33,45. The Baudhāyana Dharmasūtra (I, 11,
                 16) has the stanza as: Brahma-svaṁ putra-pautra-ghnaṁ viṣam ekākinaṁ haret | na
                 viṣaṁ, etc,</note><!-- From Sircar -->
-                   <note><!-- My own note -->
-As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of this verse can be read in the <title>Baudhāyana Dharmasūtra</title>, I.11.16 :
+                   
+               </div>
+               <div type="occurences">
+                   <p><!-- My own note -->
+As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of this verse can be read in the <title>Baudhāyana Dharmasūtra</title>, I.11.16 :</p>
                        <lg met="anuṣṭubh">
                            <l n="a">brahma-svaṁ putra-pautra-ghnaṁ</l>
                            <l n="b">viṣam ekākinaṁ haret</l>
                            <l n="c">na viṣaṁ viṣam ity āhur</l>
                            <l n="d">brahma-svaṁ viṣam ucyate</l>
                        </lg>
-                       According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).  </note>
+                      <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).  </p>
                </div>
            </div>    
             <div xml:id="best_st0099">
@@ -2947,7 +2954,10 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 du Cambodge, Vol. v, p. 76.</note>
 <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 4 p 1272 
                     Aparārka p 370 from āditya purāṇa  gupta inscriptions n 23 qnd n 26 p 119  IA VI p363 EI VI p45 EI XIII p 270 qnd 233 Padmapurāna VI 33 26-30-->
-                    <note><!-- my own note --><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Baudhāyana Dharmasūtra</title>, II.2.26 :
+                    
+                </div>
+             <div type="occurences">
+                 <p><!-- my own note --><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Baudhāyana Dharmasūtra</title>, II.2.26 :</p>
                        <lg met="anuṣṭubh">
                            <l n="a">bhojanābhyañjanād dānād</l>
                            <l n="b">yad anyat kurute tilaiḥ</l>
@@ -2955,8 +2965,8 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                            <l n="d">pitr̥bhiḥ saha majjati</l>
                        </lg>
                         <p>If a man uses sesame for any purpose other than eating, anointing, and giving as a gift, reborn as a worm, he will plunge into a pile of a dog sheet together with his ancestors. (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">249</citedRange></bibl>)</p>
-                       According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).</note>
-                </div>
+                      <p> According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).</p>
+             </div>
             </div>
             <div xml:id="best_st0132_01">
                 <div type="text">
@@ -3334,7 +3344,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     </lg>
                 </div>
                  <div type="translation">
-                    <p rend="stanza">This sovereignty of the earth totters like the wind and the cloude; the enjoyment of realm is sweet but for an instant; the breath of man is like a drop of water on the tip of a blade of grass. Only religious merit is the friend on the journey to the other world. (translation EI24_12 p.217)</p>
+                    <p rend="stanza">This sovereignty of the earth totters like the wind and the clouds; the enjoyment of realm is sweet but for an instant; the breath of man is like a drop of water on the tip of a blade of grass. Only religious merit is the friend on the journey to the other world. (translation EI24_12 p.217)</p>
                 </div>
                 <div type="notes"> 
                     <note>2. Ind. Ant., Vol. VI. p. 56; Ep. Ind., Vol.XXVI, p. 56, text lines 13-14.
@@ -3600,16 +3610,19 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 pāpaṁ kurute vr̥tti-karśitaḥ. Ballāla's Dānasāgara (op. cit., p. 316) attributes it
                 to the Dāna-Br̥haspati.<!-- According to Kane 1941 vol2.2 p.858-859: Vas. Dh. S. 29.16, Br̥haspati 7, Viṣṇudharmottara, Matsyapurāṇa (quoted by Aparārka p369 370) + Note 2021 : Bhaviṣyapurāṇa 4.164,18 -->
                     </note>
-                     <note><!-- my own note --><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 29.16 :
-                       <lg met="anuṣṭubh">
+                                     </div>
+                <div type="occurences">
+                    <p><!-- my own note --><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 29.16 :
+</p>                       <lg met="anuṣṭubh">
                            <l n="a">yat kiñcit kurute pāpaṁ</l>
                            <l n="b">puruṣo vṛtti-karṣitaḥ</l>
                            <l n="c">api gocarma-mātreṇa</l>
                            <l n="d">bhūmi-dānena śudhyati</l>
                        </lg>
                         <p>Whatever sin a man may have committed under the pressure of his occupation, he is cleansed from all that by giving a piece of land even small as a "cow's hide". (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">461</citedRange></bibl>)</p>
-                       According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.
-                     </note>
+                       <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.
+                     </p>
+
                 </div>
             </div>       
             <div xml:id="best_st0160">
@@ -3862,6 +3875,17 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <l n="c">brāhmaṇān eva bādhante</l> 
                     <l n="d">tatrāpi śrotriyān kṛiśān <g type="ddanda">.</g></l>
                 </lg>-->
+<!-- Dans coprus SV : une stance qui se trouve deux fois SV22 et SV24 en fin de CP en plus des autres stances : 
+            SV22 <lg n="14" met="rathoddhatā">
+               <l n="a">sambe<lb
+n="42" break="no"/>do jalaja-parṇṇaja-la<supplied reason="omitted">ṁ</supplied>bhā</l> 
+               <l n="b">jīvitaṁ maraṇa-santata-sasthaṁ<supplied reason="omitted">.</supplied></l>
+               <l n="c">bhoga-muktīratināṁ<lb 
+n="43"/>pravilokyāḥ</l> 
+               <l n="d">kīrttayo nr̥patibhir na vilopyā</l>
+            </lg> 
+            meaning close to best_0141 best_046 -->
+
 
         </body>
     </text>
