@@ -847,6 +847,9 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                     <note>1. Ind. Ant., Vol. XIX, p. 310, text lines 30-32. The first half of the stanza is
                 found in the Br̥hāspatisaṁhitā, verse 45 (with ratiṁ for matiṁ).</note>
                 </div>
+                <div type="occurences">
+                   <p>See the verse IX, lines 30-32 of <ref target="DHARMA_INSVengiCalukya00001.xml">Sātārā plates of Viṣṇuvardhana I</ref>.</p>
+               </div>
             </div>
             <div xml:id="best_st0035">
                 <div type="text">
@@ -939,6 +942,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <div type="notes">
                      <note>5. Ep. Ind., Vol. IX, p. 173, text lines 12-14.</note>
                 </div>
+               <div>
+                   <p>this verse is found in <ref target="DHARMA_INSDk00012.xml">Kauvatal Plates of Sudevarāja, Year 7</ref>, verse 1, lines 2v1-2v4; in <ref target="DHARMA_INSDk00014.xml">Sāraṅgarh Plates of Sudevarāja (incomplete)</ref>, verse 1; in <ref target="DHARMA_INSDk00015.xml"> Ṭhākurdīya Plates of Pravararāja, Year 3</ref>, verse 1; in <ref target="DHARMA_INSDk00016.xml">Malhār Plates of Pravararāja, Year 3</ref>, verse 1; in <ref target="DHARMA_INSDk00005.xml">Malhār Plates of Jayarāja, Year 5</ref>, verse 1; in <ref target="DHARMA_INSDk00007.xml">Malhār Plates of Jayarāja, Year 9</ref>, verse 1; in <ref target="DHARMA_INSDk00010.xml">Sirpur Plates of Sudevarāja, Year 7</ref>, verse 1; in <ref target="DHARMA_INSDk00011.xml">Āraṅg Plates of Sudevarāja, Year 7</ref>, verse 1; </p>
+               </div>
             </div> 
             <div xml:id="best_st0040">
                 <div type="text">
@@ -984,7 +990,12 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                 <div type="notes">
                     <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">182</citedRange><citedRange unit="note">6</citedRange></bibl> mentions this stanza as a variation of best_0040. The bibliographic references given are Ep. Carn., Vol. VIII, Tl. No. 73; Ep. Carn., Vol. II,
                 Nos., 253, 327; Vol. III, My. Nos. 7, 32;Ep. Ind., Vol. XIV, p. 104, text lines 103-105 </p>
-<!-- need to check these references  -->                
+<!-- need to check these references  --> 
+                    <!-- I found the verse here : Bhrgu-Samhita (a text of the Vaikhanasa-tradition) gretil + sansknet (bhrgus_u.htm)                    
+                    dānapālanayormadhye dānācchreyo 'nupālanam  // BhS_35.169 //<BR>
+dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
+                    
+                    -->
                 </div>
             </div>
            <div xml:id="best_st0041">
@@ -1052,7 +1063,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                </div>
                <div type="translation">
                     <p rend="stanza">The gifts which have been here granted by former princes producing virtue,
-wealth and fame are comparable to the remains of offerings to the gods.What good man could resume them? (translation EI24_12, p.217)</p> <!-- Daniel's translation INSVengiCalukya00024 : What decent man would ever partake again of those donations given by kings in the past to generate merit (dharma), wealth (artha) and fame, which are [now] comparable to discarded garlands or vomit?  -->
+wealth and fame are comparable to the remains of offerings to the gods. What good man could resume them? (translation EI24_12, p.217)</p> <!-- Daniel's translation INSVengiCalukya00024 : What decent man would ever partake again of those donations given by kings in the past to generate merit (dharma), wealth (artha) and fame, which are [now] comparable to discarded garlands or vomit?  -->
                 </div>
                <div type="variation">
                    <l>Yān=īha dāridya°, etc. See No. 43, note. </l>
@@ -1072,6 +1083,9 @@ wealth and fame are comparable to the remains of offerings to the gods.What good
                 Skanda Purāṇa, op. cit., verse 36, with Yān=īha dattāni punar=dhanāni in the first
                 foot and audāryato vipra-niveditāni in the third.</note>
                </div>
+               <div type="occurences">
+                    <p>This verse can be read with slight variations in <ref target="DHARMA_INSVengiCalukya00057.xml">Peddāpurappāḍu plates (set 2) of Viṣṇuvardhana II</ref> (verse IV, lines 23-24).</p><!-- in this inscription it is directly folowed by an jain hommage namo'rhate -->
+                </div>
            </div>
             <div xml:id="best_st0044">
                 <div type="text">
@@ -2875,6 +2889,9 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 dvi-gunaṁ (ibid., Vol. XXXI. p. 261, text lines 147). This is followed by the stanza
                 : Kharo dvādaśa janmāni aṣṭa janmāni śūkaraḥ|śvā tu saptati-janmāni ity=evaṁ
                 Manur=avravīt || in Ep. Carn, Vol. XII, Gb. No. 34.</note>
+                    <!-- I found two padas of this verse here : Bhrgu-Samhita<BR>
+(a text of the Vaikhanasa-tradition) gretil sansknet bhrgs_u.htm
+                    svadattāddviguṇaṃ puṇyaṃ paradattānupālanam  // BhS_35.170 //<BR>-->
                 </div>
             </div>   
             <div xml:id="best_st0129">
@@ -2948,7 +2965,31 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 Vol. XI, p. 313). The stanza occurs in the BhaviṣyaPurāṇa, IV, 164, 38 (with rakṣe
                 and mahibhr̥tām).</note> 
 <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 6  p 1272 -->
-            </div>
+<!-- Stanza found in Revākhāṇḍa of the Vāyupurāṇa (RKV) availalble on GRETIL website rkv_133.31 -->
+                <!-- Stanza found in Visnudharmah : Text based on the edition by R. Gruenendahl: Visnudharmah - Precepts for the worship of Visnu. Wiesbaden : Harrassowitz, 3 vols., 1983-1989 file name : vdhapadu.htm Gretil
+                pūrvadattāṃ dvijātibhyo__Vdha_060.033<BR>
+yatnād rakṣa yudhiṣṭhira__Vdha_060.033<BR>
+mahīṃ mahībhṛtāṃ śreṣṭha__Vdha_060.033<BR>
+dānāc chreyo 'nupālanam__Vdha_060.033<BR>-->
+<!-- The verse is found in 
+śrī bhaviṣyamahāpurāṇam
+(khemarāja śrīkṛṣṇadāsa, mumbaī)
+punarmudraṇa – nāga prakāśaka, dillī, 1984) file name : bhavisyapurana.dn
+4.164.38
+svadattāṃ paradattāṃ vā yatnādrakṣedyudhiṣṭhira ||
+mahīṃ mahībhṛtāṃ śreṣṭha dānācchreyonupālanam|| 38 ||
+                -->
+                <!--
+                    Stanza also found here :Revakhanda of the Vayupurana (RKV)
+Based on the edition:
+¡rīkṛṣṇadās, Kṣemrāj (ed.): ¡rīskandamahāpurāṇam. Veṅkateśvara Steam Press, Bombay: 1910.
+and its reprint:
+Siṃha, Nāgaśaraṇa (ed.): ¡rīskandamahāpurāṇam. pañcama bhāga: śrī āvantyakhaṇḍam. Nag Publishers, Delhi: 1986.
+File name : vaaprevaakh.txt
+svadattā paradattā vā yatnādrakṣyā yudhiṣṭhira  /
+mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
+                -->
+                </div>
         </div>                 
          <div xml:id="best_st0132_00">
                 <div type="text">
@@ -3243,7 +3284,7 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <l>Saṣṭiṁ varṣa°, etc. See No. 137, note. </l>
                     <l>Taṭākānām, etc. See No. 137, note.</l>
                       <l>Vāpī-kūpa°, etc. See No. 137, note. </l>
-                    <l>Ārāmāṇāṁ sahasreṇa, etc. See No. 137, note. </l>
+                    <l>Ārāmāṇāṁ sahasreṇa, etc. See No. 137, note. </l><!-- I noticed that a part of the note 2 p 198 (st0139) actually refers to the stanza 0137 : EI 32 p 76 line 46 . It is a variation with grāsa hartā for bhūmi hartā -->
                     <l>Aśvamedha-sahasreṇa, etc See No. 137, note. </l>
                 </div>
                 <div type="notes">
@@ -3289,12 +3330,16 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                        <l n="d">yādr̥g bhavati rakṣatām</l>
                    </lg>
                </div>
-                <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                <div type="translation" resp="part:daba">
+                    <p rend="stanza">No such merit is generated for us kings when we give land, as that which occurs when we protect the foundation of another.</p>
                 </div>
                <div type="notes">
                    <note>2. Ind. Ant., Vol.XX, p. 310, text lines 28-29. for grāsa-hartā for bhūmi-hartā,
-                see Ep. Ind., Vol. XXXII. p. 76, text line 46.</note>
+                see Ep. Ind., Vol. XXXII. p. 76, text line 46.</note><!-- I don't find this stanza in the reference Ep. Ind., Vol. XXXII. p. 76, text line 46 but there are other interesting stanzas in it. Actually this bibliographic reference concerns the stanza 0137 -->
+                   <!--  Same problem with the reference Ind. Ant., Vol.XX, p. 310, text lines 28-29: there is no line 28 on the page 310 . Finally I found this reference in Ind. Ant XIX p 310 line 28-29 so there is a typo in Sircar's note ; the inscription in Ind. Ant. XIX  is INSVengiCalukya00001 -->
+               </div>
+               <div type="occurences">
+                   <p>See the verse VII, lines 28-29 of <ref target="DHARMA_INSVengiCalukya00001.xml">Sātārā plates of Viṣṇuvardhana I</ref>.</p>
                </div>
            </div>
             <div xml:id="best_st0140">
@@ -3470,14 +3515,15 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
             <div xml:id="best_st0149">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                        <l n="a">vighnatāṁ bhartr̥-go-vipra</l>
-                        <l n="b" enjamb="yes">-bāla-yoṣid-vipaścitām</l>
+                        <l n="a" enjamb="yes">vighnatāṁ bhartr̥-go-vipra</l>
+                        <l n="b">-bāla-yoṣid-vipaścitām</l>
                         <l n="c">yā gatiḥ sā bhaved bhūmiṁ</l>
                         <l n="d">harataḥ śāsanāṅkitām</l>
                     </lg>
                 </div>
-                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                 <div type="translation" resp="part:daba">
+                    <p rend="stanza">That one who takes away that which has been sanctioned (aṅkita) by (a royal) decree (śāsana) incurs the fate of one who murders his lord, cows, Brahmins, children, women or ascetics.
+</p>
                 </div>
                 <div type="variation">
                     <l>Toya-hīneṣv=araṇyeṣu, etc. See No. 149, note.</l>
@@ -3486,6 +3532,9 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                 <div type="notes">
                     <note>5. Ind. Ant., Vol. XVI, p. 134, text lines 17-18. Sometimes we have Nighnatāṁ for
                 Vighnatāṁ.</note>
+                </div>
+                <div type="occurences">
+                    <p>This verse occurs in <ref target="DHARMA_INSVengiCalukya00057.xml">Peddāpurappāḍu plates (set 2) of Viṣṇuvardhana II</ref> (verse III, lines 22-23).</p>
                 </div>
             </div>                       
             <div xml:id="best_st0150">
@@ -3933,6 +3982,18 @@ One's own gift becomes fruitless by harming the gift made by others.</p>
                     <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is Epigraphia Indica, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas cd are found in the <title>Purshottampuri Plates of Ramachandra, Saka 1232</title>, lines125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).<!-- The text is encoded see INSEI25_21 --></p>
                 </div>
             </div>
+            <!-- To add drom daba's corpus 
+                Paḷaṁkalūru grant of Amma II 
+                DHARMA_INSVengiCalukya00043.
+introduced by Anyenāpy uktaṁ||
+<lg met="āryāgīti">
+<l n="ab">dānaṁ bhuvo ’nupālanam ity ubhayan dharmma-sādhanaṁ proktam iha</l>
+<l n="cd">rāgād dadāti sarvvas tasmād anupālanam mahīyo dānāT</l>
+</lg>
+
+Donation and the preservation of land <supplied reason="subaudible">as granted</supplied> are both said in this world to be acts of religious duty <supplied reason="explanation"><foreign>dharma</foreign></supplied>. <supplied reason="subaudible">But</supplied> everyone donates out of affection, therefore preservation is greater than donation.
+
+            -->
             <!-- A ajouter avec une traduction et voir si on les sépare ou on les cite ensemble source DHARMA_INSEC03Sr064.xml Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)
             <lg met="anuṣṭubh">
                     <l n="a">Indraḥ pṛicchati caṇḍālīṃ</l> (celle-ci citée aussi dans DHARMA_INSEC03Sr157)
@@ -4092,5 +4153,9 @@ The verse is not found in the work as incorporated in the Ūnaviṁśati­śaṁ
             Pitaraḥ pitr̥-lokasthā deva-loke divaukasaḥ | santarpayanti
                 dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29)
             -->
-
+<!-- A noter :  Muktabodha Indological Research InstituteWeb publisher Muktabodha
+    śivadharmottara
+Manuscript : IFP/EFEO 72 from page 25 copied from Adyar Library Madras.  ms. no.: 75425
+p. 152(178) bhūmiratnāśvanāgānāṃ gohiraṇyādivāsasām |
+bhavetpūrvopadiṣṭānāṃ dānācchreyonupālanam || 12-109 || -->
 
