@@ -772,6 +772,9 @@ Having observed this double and balancing fortune, may you work for the longevit
 https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00037.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00038.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00039.html +
 https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00040.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00042.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00043.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00031.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00041.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00044.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00051.html-->
                 </div>
+                <div type="occurences">
+                    <p>This verse is quoted in the following inscriptions : <ref target="DHARMA_INSDk00031.xml">Sirpur Plates of Śivagupta, Year 6</ref>, <ref target="DHARMA_INSDk00034.xml">Sirpur Plates of Śivagupta, Year 11</ref>, <ref target="DHARMA_INSDk00035.xml">Sirpur Plates of Śivagupta, Year 19</ref>, <ref target="DHARMA_INSDk00037.xml">Sirpur Plates of Śivagupta, Year 37</ref>, <ref target="DHARMA_INSDk00038.xml">Sirpur Plates of Śivagupta, Year 38</ref>, <ref target="DHARMA_INSDk00039.xml">Sirpur Plates of Śivagupta, Year 46</ref>, <ref target="DHARMA_INSDk00040.xml">Sirpur Plates of Śivagupta, Year 48</ref>, <ref target="DHARMA_INSDk00041.xml">Sirpur Plates of Śivagupta, undated (presumably year 48 or later)</ref>, <ref target="DHARMA_INSDk00042.xml">Sirpur Plates of Śivagupta, Year 52</ref>, <ref target="DHARMA_INSDk00043.xml">Sirpur Plates of Śivagupta, Year 55</ref>, <ref target="DHARMA_INSDk00044.xml">Sirpur Plates of Śivagupta, undated (presumably year 55 or later)</ref>, <ref target="DHARMA_INSDk00051.xml">Sirpur Plates of Śivagupta, undated</ref></p>
+                </div>
             </div>
             <div xml:id="best_st0031">
                 <div type="text">
@@ -1223,7 +1226,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <l>Brāhmaṇebhyaḥ, etc. See No. 55, note. </l> 
                </div>
                <div type="notes">
-                   <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note>
+                   <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note><!-- Checked this is the right reference. I haven't encoded the inscription yet.Hultzsch EI6_35 p 335 date of the inscription : 1084 -->
                </div>
            </div>
             <div xml:id="best_st0050"><!-- Caution linked to st0049 -->
@@ -1243,7 +1246,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <l>Brāhmaṇebhyaḥ, etc. See No. 55, note. </l> 
                </div>
                <div type="notes">
-                   <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note>
+                   <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note><!-- Checked this is the right reference. I haven't encoded the inscription yet.Hultzsch EI6_35 p 335 date of the inscription : 1084 -->
                </div>
             </div>
             <div xml:id="best_st0051">
@@ -1256,10 +1259,10 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Thanks to <foreign>dharma</foreign>, the king Paijana enjoyed the earth for ever, and on the contrary, because of his <foreign>adharma</foreign>, Nahuṣa was precipitated into the underworld</p>
                 </div>
                 <div type="notes">
-                    <note>3. Ep. Ind., Vol. VI, p. 344, verses 45-46.</note>
+                    <note>3. Ep. Ind., Vol. VI, p. 344, verses 45-46.</note><!-- Checked this is the right reference. I haven't encoded the inscription yet.  Hultzsch EI6_35 p 335 date of the inscription : 1084 -->
                 </div>
             </div>
             <!--  -->
@@ -2687,6 +2690,7 @@ with crop, abides in heaven so long as the sun continues to give light to the wo
                         <l n="c">bhūmi-dānasya puṣpāṇi</l>
                         <l n="d">phalaṁ svargaḥ puraṃdara</l>
                     </lg>
+                    <p>A variation of this stanza is found in INSEI19_34</p>
                 </div>
             </div>    
           <!--  <pb n="194"/> -->
