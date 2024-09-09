@@ -127,51 +127,66 @@ n="28"/><lb
 n="29"/><lg met="anuṣṭubh" n="20"><!-- best_st0119 -->
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
                         <l n="b">gajāśvā va<lb 
-n="30"/><choice><sic>v</sic><corr>r</corr></choice>a-vāha<unclear>na</unclear>M</l>
+n="30" break="no"/><choice><sic>v</sic><corr>r</corr></choice>a-vāha<unclear>na</unclear>M<g type="danda">.</g></l>
                         <l n="c">bhūmi-dānasya cinhāṇi</l>
-                        <l n="d">phala<supplied reason="omitted">ṁ</supplied> svargam anuttamaṁ</l>
-                    </lg><lb 
-n="31"/><lb 
-n="32"/><lb 
-n="33"/><lb 
-n="34"/><lb 
-n="35"/><lb 
-n="36"/><lb 
-n="37"/><lb 
-n="38"/><lb 
-n="39"/><lb 
-n="40"/><lb 
-n="41"/><lb 
-n="42"/><lb 
-n="43"/><lb 
-n="44"/><lb 
-n="45"/><lb 
-n="46"/><lb 
-n="47"/><lb 
-n="48"/><lb 
-n="49"/><lb 
-n="50"/>
-    <pb n="1r"/>
-             <pb n="2v"/>
-             <pb n="2r"/>
+                        <l n="d">phala<supplied reason="omitted">ṁ</supplied> svargam anuttamaṁ<g type="ddanda">.</g></l>
+                    </lg>
+                  <lg met="anuṣṭubh" n="21"><!-- best_st0023 -->      
+            <l n="a"><choice><orig>v</orig><reg>b</reg></choice>a<surplus>ṁ</surplus>hubhir vvasudhā bhuktā</l>
+            <l n="b">rājabhiḥ sagarādi<lb 
+n="31" break="no"/>bhiḥ<g type="danda">.</g></l>
+            <l n="c">yasya yasya yadā bhūmis</l>
+            <l n="d">tasya tasya tadā phalaṁ<g type="ddanda">.</g></l>
+                       </lg>
+                   <lg met="anuṣṭubh" n="23"><!-- best_st0029 --> 
+                <l n="a">bhūmiṁ yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
+                <l n="b">yas tu bhūmiṁ prayacchati<g type="danda">.</g></l>
+                <l n="c"><lb 
+n="32"/>Ubhau tau puṇya-karmmāṇau</l>
+                <l n="d">niyatau <unclear>svargga</unclear>-gāminau<g type="ddanda">.</g></l>
+                    </lg>
+                  <lg met="anuṣṭubh" n="24"><!-- best_st0132 -->
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo <choice><sic>h</sic><corr>s</corr></choice>are<choice><sic>d</sic><corr>ta</corr></choice> vasundharāṁ<g type="danda">.</g></l>
+                        <l n="c">sa viṣṭhā<lb 
+n="33"/>yāṁ kr̥mir bhūtvā</l>
+                        <l n="d">pitr̥bhiḥ saha majjati<g type="ddanda">.</g></l>
+                    </lg>
+                  <lg met="anuṣṭubh" n="25"><!-- quoted in note for best_st0081 -->
+                      <l n="a">haṁti jātā tu yātāṁś ca</l>
+                      <l n="b">bhūmy arthe yo 'nr̥taṁ vadet<g type="danda">.</g></l>
+                      <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addho <lb 
+n="34"/>vāruṇaiḥ pāśais</l>
+                      <l n="d"><unclear>ti</unclear>ryag yonyāṁ tu jāyate<g type="ddanda">.</g></l>
+                  </lg>
+                  <lg met="anuṣṭubh" n="26"><!-- best_st0052 -->                        
+                      <l n="a">dvijāś ca <unclear>nāva</unclear>mantavyās</l>
+                        <l n="b">trailokya-miti-hetavaḥ<g type="danda">.</g></l>
+                        <l n="c"><lb 
+n="35"/>devavat pūjanīyāś ca</l>
+                        <l n="d">dāna-mānārcanādibhiḥ<g type="ddanda">.</g></l>
+                    </lg>
 
+<lb 
+n="36"/><lb 
+n="37"/>
                   </p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="33"><!-- update the value of @loc.-->
+                     <lem>jātā tu yātāṁś ca</lem>
+                     <note><bibl><ptr target="bib:HiraLal1927-1928_01"/><citedRange unit="note">11</citedRange><citedRange unit="page">213</citedRange></bibl> suggests the following correction:  <foreign>jātān ajātāṁś ca</foreign>.</note>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+    <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
-         </div>
-         <div type="commentary">
+         </div> 
+          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-         </div>
+         </div> 
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
