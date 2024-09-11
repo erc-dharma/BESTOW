@@ -585,7 +585,7 @@
                        <l>manu-prabhr̥tibhir mānyaiḥ, etc. Sec No. 23, note. </l> <!-- checked in EI 28.13 -->
                        <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l>
                          <l>Yānti kālena, etc. See No. 23, note. </l>
-                         <l>Yas=tu pālayate, etc. See No. 23, note. </l>
+                         <l>Yas=tu pālayate, etc. See No. 23, note. </l><!--  There is another variation in DHARMA_INSEIAD00167 ; this plate is interssting because it is one the the earliest plates of the Śālaṅkāya dynasty : the plate is in prakrit except for this final stanza which is inscribed alone on the fourth plate -->
                    </div>              
                     <div type="notes">
                        <note>2. CII, Vol. III. pp. 96, 104, 108, 115, 119, 122, 127,
@@ -3197,18 +3197,23 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                </div>
                
            </div>
-
-        <!--  <div xml:id="best_st0132_04">
+            <div xml:id="best_st0132_04">
                 <div type="text">
                     <lg met=""> 
-                        <l n="a"></l>
-                        <l n="b"></l>
-                        <l n="c"></l>
-                        <l n="d"></l>
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo nr̥po noddhared dharet</l>
+                        <l n="c">jātau jātau sa pibati</l>
+                        <l n="d">viṣaṁ hālahalam dhruvam</l>
                     </lg>
                 </div>
+                <div type="translation">
+                    <p>The king who does not rescue or sustain what is given by himself or given by another, surely (dhruvam) drinks the poison (named) hālahala from birth to birth. <supplied reason="explanation">translation given in DHARMA_INSEIAD00161</supplied></p>
                 </div>
-           <div xml:id="best_st0132_05">
+                <div type="notes">
+                    <p>This variation is not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, but it is found in one of the earliest records of the Śālaṅkāyana dynasty. This prakrit inscription contains two final stanzas in sanskrit (see <bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> and <ref target="DHARMA_INSEIAD00161.xml">Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year 14</ref> : in this inscription, a space precedes the sanskrit part of the inscription and the two stanzas are introduced by the word <foreign>bhavati cātra</foreign>). </p>
+                </div>
+                </div>
+           <!-- <div xml:id="best_st0132_05">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -4101,7 +4106,16 @@ n="43"/>pravilokyāḥ</l>
                <l n="d">kīrttayo nr̥patibhir na vilopyā</l>
             </lg> 
             meaning close to best_0141 best_046 -->
-
+<!--  Maybe add this stanza found in EI35_1_4 buddhist stone inscription
+            <lg n="1" met="anuṣṭubh">
+                 <l n="a">deya-dharmmam idaṁ kṛtvā</l>
+                  <l n="b">yat puṇyaṁ samupārjjitaṁ<g type="danda">.</g></l>
+                  <l n="c">tena puṇyeṇa loko 'yaṁ</l>
+                  <l n="d">nirvvāṇam adhigacchatu<g type="ddanda">.</g></l>
+             </lg>
+             <p>Having perfomed this gift of Dharma, whatever merit has been acquired by that merit may this world attain Nirvāṇa.  </p>
+            
+            -->
 
         </body>
     </text>
