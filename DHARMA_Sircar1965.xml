@@ -559,7 +559,7 @@
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The long life, sons, the wealth, the felicity, the happiness, an indestructible royalty, the supremacy, the glory and the sky, it is what is obtained by a land-giver.</p>
+                    <p rend="stanza">The long life, sons, the wealth, the felicity, the happiness, an indestructible royalty, the supremacy, the glory and the heaven, it is what is obtained by a land-giver.</p>
                 </div>
                 <div type="notes">
                      <note>1. Ind. Ant.,VoI. XII. p. 127.</note>
@@ -577,7 +577,7 @@
                        </lg>
                    </div>
                    <div type="translation" resp="part:amwb">
-                       <p rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong</p>
+                       <p rend="stanza">Land has been given by several kings beginning with Sagara. Whoever holds land at a given time, to him does the fruit belong.</p>
                      <!--  <p rend="stanza">Des centaines de rois à commencer par Sagara ont fait don de terre. Le bénéfice (du don de terre) revient toujours à celui qui en est alors le propriétaire.</p> -->
                    </div>
                    <div type="variation">
@@ -896,7 +896,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                      </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Thus, the Moon and the Sun, the Earth, the enligthening Sky, the Wind, the Stars as well the Fire, along with the king of <foreign>dharma</foreign>,</p>
+                    <p rend="stanza">Thus, the Moon and the Sun, the Earth, the enligthening Sky, the Wind, the Stars as well the Fire, along with the king of <foreign>dharma</foreign> (Yama),</p>
                 </div>
                 <div type="variation">
                     <l>Tisraḥ sandhyā , etc. See No. 38.</l>
@@ -2799,7 +2799,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                </lg>
            </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Whoever gives land will rejoice in heaven for sixty thousand years, but whoever challenges [a gift] or approves [the challenge] will spend the same length of time in hell.</p>
                 </div>
                <div type="variation">
                    <l>A-saṅkheyāni varṣāṇi, etc. See No. 123, note. </l>
@@ -3126,6 +3126,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                      <l n="c">na tasya narakād ghorād</l>
                      <l n="d">vidyate niṣkṛtiḥ kva cit</l>
                  </lg>
+                 <p>There is no expiation anywhere [to exit] from the terrible hell for the man who would steal land given by himself or another. </p>
              </div>
             </div>
             <div xml:id="best_st0132_01">
@@ -3138,7 +3139,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                 <div type="translation" resp="part:daba">
-                    <p rend="stanza">He who would seize land, whether given by himself or by another, imbibes the sin (kilbiṣa) of the slayer of a hundred thousand cows.</p>
+                    <p rend="stanza">He who would seize land, whether given by himself or by another, imbibes the sin (<foreign>kilbiṣa</foreign>) of the slayer of a hundred thousand cows.</p>
                 </div>
                 <div type="occurences">
                     <p>Sircar's reference : <bibl><ptr target="bib:Narasimhaswami1955-1956_01"/></bibl> which corresponds to <ref target="DHARMA_INSVengiCalukya00013">Koṇeki grant of Viṣṇuvardhana II</ref>
@@ -3166,7 +3167,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                 <div type="translation">
-                    <p>He who would seize land, whether given by himself or by another, imbibes the crime (duṣkr̥ta) of the slayer of a hundred thousand cows.</p>
+                    <p>He who would seize land, whether given by himself or by another, imbibes the crime (<foreign>duṣkr̥ta</foreign>) of the slayer of a hundred thousand cows.</p>
                 </div>
                 <div type="occurences">
                     <p>Sircar's reference : CII vol III pp. 238, 247</p>
@@ -3211,7 +3212,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                 <div type="translation">
-                    <p>The king who does not rescue or sustain what is given by himself or given by another, surely (dhruvam) drinks the poison (named) hālahala from birth to birth. <supplied reason="explanation">translation given in DHARMA_INSEIAD00161</supplied></p>
+                    <p>The king who does not rescue or sustain what is given by himself or given by another, surely (<foreign>dhruvam</foreign>) drinks the poison (named) Hālahala from birth to birth. <supplied reason="explanation">translation given in DHARMA_INSEIAD00161</supplied></p>
                 </div>
                 <div type="notes">
                     <p>This variation is not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, but it is found in one of the earliest records of the Śālaṅkāyana dynasty. This prakrit inscription contains two final stanzas in sanskrit (see <bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> and <ref target="DHARMA_INSEIAD00161.xml">Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year 14</ref> : in this inscription, a space precedes the sanskrit part of the inscription and the two stanzas are introduced by the word <foreign>bhavati cātra</foreign>). </p>
@@ -3324,8 +3325,8 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"> </p><!-- The protection of one's own good deeds is to be cherished, as it is the protection of the gods.
-Even Hari, the creator of the lotus-seated one, was always worshipped by the worlds -->
+                    <p rend="stanza"> The protection of one's own good deeds is to be cherished, as it is the protection of the gods.
+Even Hari, the creator of the lotus-seated one, was always worshipped by the worlds.</p><!--  -->
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. VI, p. 4, verse 50.</note>
@@ -3429,10 +3430,10 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Knowing that life is a water-buble or like a drop of water on the tip of a blade of grass, one should not destroyed one's fame and <foreign>dharma</foreign>. </p>
                 </div>
                 <div type="notes">
-                    <note>4. Ep.Ind., Vol. XII, p. 325, lines 38-40.</note>
+                    <note>4. Ep.Ind., Vol. XII, p. 325, lines 38-40.</note><!-- checked but not yet encoded ranabhanja grant  EI12_36-a.tif -->
                 </div>
             </div>
             <div xml:id="best_st0142">
@@ -3445,7 +3446,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Three gift are said to be supreme: cows, land and speech. Their fruits last for seven generations through milking, carrying and teaching.</p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. XI, pp. 312-13, text lines 46-47. The first half is found in the
@@ -3475,7 +3476,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    </lg>
                </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The gift made by speech, the one made by mind and the one made with the hand, the kuśa grass and water, one who steals these three kinds of gift would go to the terrible hell. </p>
                 </div>
                <div type="variation">
                    <l>Vāk–dattaṁ ca, etc. See No. 143, note.</l>
@@ -3483,7 +3484,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                <div type="notes">
                    <note>6. Chhabra, Antiquities of Chamba State, II, p. 178. Sometimes we have Vāk-dattaṁ
                 ca mano-dattaṁ mati-dattaṁ na diyate | ṣaṣṭi-varṣa-sahasrāṇi viṣṭhāyāṁ jāyate
-                kr̥miḥ||(Ep. Carn., Vol. IV, Hg. No. 98, text lines 31-33). For dhārā-dattaṁ instead
+                kr̥miḥ||<!-- If the gift is not given by speech, by mind and by intellect, the donor will be born as a wrom in excrements for sixty thousand years -->(Ep. Carn., Vol. IV, Hg. No. 98, text lines 31-33). For dhārā-dattaṁ instead
                 of mati-dattaṁ and other variations in the second half, see ibid., Vol. VII. Sh. No.
                 45.</note>
                </div>
@@ -3498,10 +3499,10 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">By offering fire, the son of fire and water, he is born five time<note>The word <foreign>pañca-kr̥tvaḥ</foreign>is an emendation made by Hultzsch. </note>, but by offering all the earth <foreign>rasā</foreign>, the mortal is not born again </p>
                 </div>
                 <div type="notes">
-                    <note>7. Ep. Ind., Vol. I, p. 56, text lines 57-58.</note>
+                    <note>7. Ep. Ind., Vol. I, p. 56, text lines 57-58.</note><!-- checked EI1_8.tif there is a problem in the text and Sircar gives the emendation suggested by Hultzsch the text runs as follows :  vahni vahni–sutaṁ cāmbu pañca-pūtāṁ prajāyate dattvā sarva-rasāṁ caicadha na martyo jāyate punaḥ -->
                 </div>
             </div>       
           <!--  <pb n="199"/>-->
@@ -3551,28 +3552,28 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    </lg>
                </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The sages and the gods say sentences composed from the memory of the words of the veda; You, land thieves and others, alas, that you do not steal out of folly ! </p>
                 </div>
                <div type="notes">
                    <note>3. Ep. Ind., Vol. XXVIII, p. 328. Sometimes we have mā hara for mohena (ibid.,
-                Vol. XII, p. 325).</note>
+                Vol. XII, p. 325).</note><!-- checeked EI28_50 is not totally encoded and it corresponds to DHARMA_INSSomavamsin00035 + EI12_36a checked but not yet encoded -->               
                </div>
            </div>
             <div xml:id="best_st0148">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">vidyud-vilāsa-taralām avagamya samyag</l>
-                        <l n="b">loka-r yaśasi sakta-manobhir uccaiḥ</l>
+                        <l n="b">loka-sthitir yaśasi sakta-manobhir uccaiḥ</l>
                         <l n="c">nityaṁ paropakr̥ti-mātra-ratair bhavadbhir</l>
                         <l n="d">dharmābhirādhana-parair anumoditavyā</l>
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Having understood that the the world stability is trembling like a lightning, with Your minds intensely attached to fame, rejoicing only and always in doing good for others, engaged in the propitiation of the dharma, You should approve [of this]. </p>
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXIX, p. 43, text lines 49-51. Sometimes we have °modaniyā for
-                °moditavyā.</note>
+                °moditavyā.</note><!-- checked see EI29_5_2 it is included between other stanzas under the autority of the Dharmasastra ; it is a sailodbhava grnts from banpur edited by sircar  -->
                 </div>
             </div>
             <div xml:id="best_st0149">
@@ -3585,7 +3586,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:daba">
-                    <p rend="stanza">That one who takes away that which has been sanctioned (aṅkita) by (a royal) decree (śāsana) incurs the fate of one who murders his lord, cows, Brahmins, children, women or ascetics.
+                    <p rend="stanza">That one who takes away that which has been sanctioned (<foreign>aṅkita</foreign>) by (a royal) decree (<foreign>śāsana</foreign>) incurs the fate of one who murders his lord, cows, Brahmins, children, women or ascetics.
 </p>
                 </div>
                 <div type="variation">
@@ -3594,7 +3595,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </div>
                 <div type="notes">
                     <note>5. Ind. Ant., Vol. XVI, p. 134, text lines 17-18. Sometimes we have Nighnatāṁ for
-                Vighnatāṁ.</note>
+                Vighnatāṁ.</note><!-- not yet checked  -->
                 </div>
                 <div type="occurences">
                     <p>This verse occurs in <ref target="DHARMA_INSVengiCalukya00057.xml">Peddāpurappāḍu plates (set 2) of Viṣṇuvardhana II</ref> (verse III, lines 22-23).</p>
@@ -3652,10 +3653,10 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The man who, even in mind, approves a deed endowed with Dharma, he increases according to which has been given (yaṭheṣṭena) as the moon during the bright fortnight.</p>
+                    <p rend="stanza">The man who, even in mind, approves a deed endowed with <foreign>dharma</foreign>, he increases according to which has been given (yaṭheṣṭena) as the moon during the bright fortnight.</p>
                 </div>
                 <div type="notes">
-                    <note>1. Ep. Ind., Vol. XXXI, pp. 92-93.</note>
+                    <note>1. Ep. Ind., Vol. XXXI, pp. 92-93.</note><!-- checked but not yet encoded EI31_15.tif -->
                 </div>
             </div>     
             <div xml:id="best_st0152">
@@ -3668,26 +3669,26 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Between the one who himself practises <foreign>dharma</foreign> and the one who protects the <foreign>dharma</foreign> done by others, the protector is the better of the two. Here is what say the sages.  </p>
                 </div>
                 <div type="notes">
-                    <note>2. Ep. Ind., Vol. VI. p. 343, verse 44.</note>
+                    <note>2. Ep. Ind., Vol. VI. p. 343, verse 44.</note><!-- checked see EI6_35.tif : this set is written in sanskrit  with telugu script  -->
                 </div>
             </div>
             <div xml:id="best_st0153">
                 <div type="text">
                     <lg met="vasantatilakā">
-                        <l n="a">yair vāñchitaṁ śiśiradīdhiti-śubhra-kīrter</l>
+                        <l n="a">yair vāñchitaṁ śiśira-dīdhiti-śubhra-kīrter</l>
                         <l n="b">yaiś cāmara-praṇayinī-parirambhanasya</l> <!-- parirambhana!!sya!! last should be long -->
                         <l n="c">te sādhavo na hi haranti pareṇa dattaṁ </l>
                         <l n="d">dānād vadanti paripālanam eva sādhu</l><!-- sā!!dhu!! last should be long -->
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Those wishing a brilliant fame like the moon ray, those desiring the embrace of the beloved insignia of royalty, those good men do not steal what is given by others: they say that protection is indeed better than gift, O   </p><!-- yair vāñchitaṁ śiśiradīdhiti-śubhra-kīrter yaiś cāmara-praṇayinī-parirambhanasya te sādhavo na hi haranti pareṇa dattaṁ dānād vadanti paripālanam eva sādhu   -->
                 </div>
                 <div type="notes">
-                    <note>3. Ep. Ind., Vol. III, p. 367, lines 20-21.</note>
+                    <note>3. Ep. Ind., Vol. III, p. 367, lines 20-21.</note><!-- there is a problem with this reference I do not find this page as EI 3 ends with the page 360  -->
                 </div>
             </div>
             <div xml:id="best_st0154">
@@ -3695,15 +3696,15 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <lg met="anuṣṭubh">
                         <l n="a">yajño 'nr̥tena kṣarati</l>
                         <l n="b">tapaḥ kṣarati vismayāt</l>
-                        <l n="c">kṣiti-hartaikaviṁśati</l>
-                        <l n="d" enjamb="yes">-kulena narakaṁ vrajet</l>
+                        <l n="c" enjamb="yes">kṣiti-hartaikaviṁśati</l>
+                        <l n="d">-kulena narakaṁ vrajet</l>
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Sacrifice is destroyed by untruth (<foreign>anr̥ta</foreign>), religious austerity is deprived of doubt, the land stealer go to hell for twenty one generations.</p>
                 </div>
                 <div type="notes">
-                    <note>4. Ep. Ind., Vol. XII, p. 325, line 38.</note>
+                    <note>4. Ep. Ind., Vol. XII, p. 325, line 38.</note><!-- checked but not yet encoded EI12_36-a.tif = baud grant of ranabhanjadeva the 54th year -->
                 </div>
             </div>
             <div xml:id="best_st0155">
@@ -3716,11 +3717,11 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">As the growth of the moon increases day by day, so the gift of the earth prospers harvest after harvest.</p>
+                    <p rend="stanza">As the growth of the moon increases day by day, so a land donation prospers harvest after harvest.</p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. XXV, p. 278, lines 47-48. The stanza occurs in the Mahābhārata,
-                XIII. 62, 33.</note>
+                XIII. 62, 33.</note><!--  chekceked see EI25_27.tif but not yet encoded year 1290 ; GRETIL Mbh 13,061.030 -->
                 </div>
                 <div type="occurences">
                     <p>As indicated by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">5</citedRange><citedRange unit="page">200</citedRange></bibl>, this stanza can be read in the <title>Mahābhārata</title> 13.61.30 (GRETIL) without variation. It can also be read with slight variations in the <title>Mahābhārata</title> 13.134.57*015_3329-3330 (GRETIL):</p>
@@ -3748,7 +3749,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                      <l>Yathā sva-putraṁ, etc. See No. 156. </l>
                 </div>
                 <div type="notes">
-                    <note>6. Ep. Ind., Vol. XXV, p. 218, verse 40. Cf. Mahābhārata, XIII, 62, 26 : Yathā
+                    <note>6. Ep. Ind., Vol. XXV, p. 218, verse 40 <!-- checked see EI25_21.tif not yet encoded -->. Cf. Mahābhārata, XIII, 62, 26 : Yathā
                 sva-putraṁ jananī kṣīreṇa bharate sadā| anugr̥hṇāti dātāraṁ tathā sarvarasair=mahī ||
                 Ballāla (op. cit., p. 320) quotes the same verse with slight variations and
                 attributes it to the Mahābhārata.</note></div>
@@ -3766,12 +3767,22 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Just as when seeds are sown and scattered on the ground they grow, in the same way desires grow when land is given as a gift.</p>
                 </div>
                 <div type="notes"> 
                     <note>7. Ep. Ind., Vol. XXIV, p. 303, text lines 26-27. The stanza is found in the
                 Mahābhārata, XIII. 62, 47 (with śasyāni rohanti prakirṇāni and tathā kāmāḥ
-                prarohanti).</note>
+                prarohanti).</note><!-- Checked it is a pallava charter EI24_43.tif mentionning 18 kinds of taxes and a corporal punishment  date 446 -->
+                </div>
+                <div type="occurences">
+                    <p>The verse is found in the <title>Mahābhārata</title> 13,061.044 (source Gretil):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">yathā bījāni rohanti</l>
+                        <l n="b">prakīrṇāni mahī-tale</l>
+                        <l n="c">tathā kāmāḥ prarohanti</l>
+                        <l n="d">bhūmi-dāna-samārjitāḥ</l>
+                    </lg>
+                    <p>Just as seeds grow when scattered on the land surface, in the same way esires grow when land is given as a gift.  </p>
                 </div>
             </div>         
        <!--     <pb n="201"/>-->
@@ -3785,15 +3796,15 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    </lg>
                </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Just as a drop of oil fallen in water spread, o Śakra, in the same way a gift performed on earth grow in every field of merit.  </p>
                 </div>
                <div type="notes">
                    <note>1. Ep. Ind., Vol. XII. p. 327, text lines 37–38. The verse is found in the
-                Mahābhārata, XIII, 62, 84 (with tathā for evaṁ and vivardhate for prarohati);
+                Mahābhārata, XIII, 62, 84 <!-- Mbh GRETIL 13,061.081 --> (with tathā for evaṁ and vivardhate for prarohati);
                 Br̥haspatisaṁhitā, verse 12 (with sadyas° for Śakra and prasarpati for visarpati).
                 Cf. Mahābhārata, XIII, 33. Ballāla’s Dānasāgara (op. cit., p. 316) attributes the
                 stanza to the Dāna-Br̥haspati at one place and to Vr̥ddha– Vasiṣṭha elsewhere (p. 322;
-                with janma-prabhr̥ti mānavaḥ).</note>
+                with janma-prabhr̥ti mānavaḥ).</note><!-- checked see EI12_36-b.tif ranabhanja grant   -->
                </div>
            </div>          
             <div xml:id="best_st0159">
@@ -3805,11 +3816,11 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <l n="d">bhūmi-dānena śudhyati</l></lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a gocarman (literally a cow’s skin, here it is a unit of measurement).</p>
+                    <p rend="stanza">A miserly man, whatever the sins he has committed, is purified by a gift of land, even measuring the size of a <foreign>gocarman</foreign> (literally a cow’s skin, here it is a unit of measurement).</p>
                 </div>
                 <div type="notes">
                     <note>
-                        2. Ep. Ind., Vol. XXIII, p. 161, verse 7. Sometimes we have janma-prabhr̥ti mānavaḥ
+                        2. Ep. Ind., Vol. XXIII, p. 161, verse 7<!-- checked it corresponds to EI23_24_BC84.tif  -->. Sometimes we have janma-prabhr̥ti mānavaḥ
                 in the second foot and etad° at the beginning of the second half (Vogel, Antiquities
                 of Chamba State, I. p. 163). The Mahābhārata (XIII, 62, 19) has it with puruṣaḥ
                 pāpaṁ kurute vr̥tti-karśitaḥ. Ballāla's Dānasāgara (op. cit., p. 316) attributes it
@@ -3857,11 +3868,11 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    </lg>
                </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The land giver stays in heaven as many years as there are roots on a seed and hairs on a cow('s coat).  </p>
                 </div>
                <div type="notes">
                    <note>4. Ep. Ind., Vol. XI, p. 312. The stanza is found in the Saṁvartasmr̥ti, verse
-                73.</note>
+                73.</note><!-- checked see  EI11_32.tif line 48-49 p 312 -->
                </div>
            </div>
            <div xml:id="best_st0162">
@@ -3874,7 +3885,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    </lg>
                </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">As long as the sun and moon exist, as long as the mountains and oceans exist, for that long, the best of kings should protect the village belonging to the sons and grandsons (of the donee).</p>
                 </div>
                <div type="notes">
                    <note>5. Ind. Ant., Vol. XII, p. 121.</note>
@@ -3890,13 +3901,10 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
-                </div>
-                <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">Those who steal even a small portion of the earth belonging to the Brahmins, they spend even ten millions of kalpas united with the ancestors in the pit of excrement, .</p>
                 </div>
                 <div type="notes">
-                    <note>6. Ep. Ind., Vol. XXII, p. 156, text lines 40-41.</note>
+                    <note>6. Ep. Ind., Vol. XXII, p. 156, text lines 40-41.</note><!-- checked EI22_25.tif 10th century West Bengal maybe two verses found in this inscription could be added into the present list  -->
                 </div>
             </div>
             <div xml:id="best_st0164">
@@ -3909,10 +3917,10 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p>
+                    <p rend="stanza">The one who accepts (a gift) with reverence or the one who gives with reverence, both of them go to heaven, but if the reverse, they go to hell.</p>
                 </div>
                 <div type="notes">
-                    <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmr̥ti, IV, 235.</note>
+                    <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmr̥ti, IV, 235.</note><!-- checked see EI2_29.tif introduced by atrātha paurāṇikāḥ ślokaḥ  Olivelle's translation Manu IV.235  -->
                 </div>
             </div>
             <div xml:id="best_0165">
