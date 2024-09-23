@@ -1684,7 +1684,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>This stanza can be read in the <ref target="DHARMA_INSEI32_4.xml">Grant from Chinchani of the time of Indra III śaka 848</ref>.</p>
                 </div>
                 <div type="notes">
-                     <note>1. Ep. Ind., Vol. XXXII, p. 54, text lines 55–56.</note>
+                     <note>1. Ep. Ind., Vol. XXXII, p. 54, text lines 55–56.</note><!-- checked see EI32_4_1.tif lines 55-56 verse 32 -->
                 </div>
             </div>
            <div xml:id="best_st0073">
@@ -1700,7 +1700,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">Those who donate <foreign>dharma</foreign> will reside in the world of Brahma for hundreds and thousands of years.</p>
                 </div>
                <div type="notes">
-                   <note>2. Ep. Ind., Vol. XXXII, p. 70, text lines 2I–22.</note>
+                   <note>2. Ep. Ind., Vol. XXXII, p. 70, text lines 21–22.</note><!-- checked but not yet encoded EI32_5_2.tif  -->
                </div>
            </div>          
            <div xml:id="best_st0074">
@@ -1717,7 +1717,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
                <div type="notes">
                    <note>3. Ep. Ind., Vol. VI, p. 97, text lines 52-53. We have also dharma for karma (Ind.
-                Ant.,Vol. IV, p. 276),</note>
+                Ant.,Vol. IV, p. 276),</note><!-- checked see EI6_10-4  -->
                </div>
            </div>
             <div xml:id="best_st0075">
@@ -1797,7 +1797,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <l>Santarpayati dātāram, etc. See No. 78, note. </l>
                </div>
                              <div type="notes">
-                      <note>7. Ep. Ind., Vol. XXXI, pp. 65-66, text lines 31-32. Sometimes we have bhr̥tyāya
+                      <note>7. Ep. Ind., Vol. XXXI, pp. 65-66, text lines 31-32 <!-- checked see EI31_9.tif authorship mahabharata of vyasa 132 krmi 123 78 23 131 -->. Sometimes we have bhr̥tyāya
                 for vr̥ttāya and chatrī for sukhī and the following
                 half verse preceding the stanza : Santarpayati dātāram bhūmeḥ prabhavatāṁ vara
                 (ibid., Vol. XXV, pp. 218-19). The stanza is found in the Mahābhārata. XIII, 62, 29
@@ -1816,8 +1816,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                        <l n="d">satrī bhavati mānavaḥ</l>
                    </lg>
                </div>
-           </div>    
-          <!--  <l>Kr̥ta-Tretā-Dvāpareṣu, etc. See No. 97, note. </l> -->
+           </div>
             <div xml:id="best_st0079">
                 <div type="text">
                     <lg met=""> <!-- Drutavilambitam is a sama-vr̥tta. It contains 4 pādas, each of which has the pattern LLLGLLGLLGLG -->
@@ -1992,7 +1991,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">For the success of the fruits of my gift and for the benefit of the fruits of its protection, this dharma that I am carrying out must be protected by the kings as long as the moon and stars last. </p>
+                    <p rend="stanza">For the success of the fruits of my gift and for the benefit of the fruits of its protection, this <foreign>dharma</foreign> that I am carrying out must be protected by the kings as long as the moon and stars last. </p>
                 </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XXVIII, p. 311, text lines 10-11; p. 257. This stanza is
@@ -2026,12 +2025,12 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         <l n="d">ciram enām upabhuñjate narendrāḥ</l>
                     </lg>
                 </div>
-                <div type="translation" resp="part:amwb">
-                    <p rend="stanza"><!-- this earth will be like a mixture of marrow and blood floating from the best of the demons, Madhu and Kaitabha if after staying there for a long time, the best of the kings seize it for their own glories check with Törzok 2006  --></p>
+                <div type="translation">
+                    <p rend="stanza">This earth is a prey to be enjoyed, but one that still stinks with the overflowing fat of the two demons, Madhu and Kaitaba. Kings can profit from this earth for a long time only if they parfume it with their own glory. (Törzsök, J. 2006. Rāma beyond price by Murāri. Clay Sanskrit Library )</p>
                 </div>
                 <div type="notes">
                     <note>2. Mys. Arch. Rep., 1912, paragraph 108. The stanza is quoted from Murāri's
-                Anargharāghava as already indicated above.</note>
+                Anargharāghava as already indicated above.</note><!--  the authorship of this advice in Murāri is the sage Vasishta  -->
                 </div>
             </div>
             <div xml:id="best_st0089">
@@ -2044,7 +2043,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">To the future kings on earth born in my lineage or born from another royal lineage, whose minds are deprived of sin and who protect this entire dharma of mine, I offer my respectful reverence.</p> <!-- Daniel's translation [Hereby I offer my respectful obeisance (añjali) to [all] future] kings [on earth, [whether] born in my lineage or a different royal lineage], who [with minds averted from sin] observe [this ruling (dharma) of mine in its integrity.] -->
+                    <p rend="stanza">To the future kings on earth born in my lineage or born from another royal lineage, whose minds are deprived of sin and who protect this entire <foreign>dharma</foreign> of mine, I offer my respectful reverence.</p> <!-- Daniel's translation [Hereby I offer my respectful obeisance (añjali) to [all] future] kings [on earth, [whether] born in my lineage or a different royal lineage], who [with minds averted from sin] observe [this ruling (dharma) of mine in its integrity.] -->
                 </div>
                 <div type="notes">
                       <note>3 Ep. Ind., Vol. XXVIII, p. 312, text lines 17-18 <!-- EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEST) best_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90 -->. A modified form of the last
@@ -2127,7 +2126,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">Even for the greatest sins, there is forgiveness in the treatises, but for those who have stolen a gift made to the Brahmins, there is no forgiveness.</p>
                 </div>
                 <div type="notes">
-                    <note>5 Ep. Ind., Vol. XXVIII, p. 320, text line 13.</note>
+                    <note>5 Ep. Ind., Vol. XXVIII, p. 320, text line 13.</note><!-- checked see EI28_49 verse 12-13 are imprecatory date 1254 -->
                 </div>
             </div>
             <div xml:id="best_st0092">
@@ -2140,7 +2139,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">You must never, ever covet a land-gift offered to a Brahmin, even in thought, as this would be a poison similar to venom whose remedy is dharma. </p>
+                    <p rend="stanza">You must never, ever covet a land-gift offered to a Brahmin, even in thought, as this would be a poison similar to venom whose remedy is <foreign>dharma</foreign>. </p>
                 </div>
                 <div type="notes">
                      <note>6 Ep. Ind., vol. XI, p. 101, text line 32 <!-- EI11_8 checked it is in the charter of Śatrubhañja; not yet encoded; it is followed by 98 -->; Vol. XII, p. 328, text lines 48-50 <!-- EI12_36-b checked it is again a vers found in a bhanja charter  baudh grant of Raṇabhañjadeva the 26th year ; it is followed by 98 -->;
@@ -2163,7 +2162,16 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XXV, p. 218, verse 42. Cf. Mahābhārata, XIII, 62, 27 :
                 mr̥tyor vai kiṅkaro daṇdas=tamo vahniḥ sudāruṇaḥ, etc.Ballāla (Dānasāgara, op. cit..
-                p. 320) attributes the stanza to the Mahābhārata.</note>
+                p. 320) attributes the stanza to the Mahābhārata.</note><!-- checked see EI25_21_RAMA.tif -->
+                </div>
+                <div type="occurences">
+                    <p>Mahābhārata 13,061.024 (from GRETIL):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">mṛtyor vai kiṃkaro daṇḍas</l>
+                         <l n="b">tāpo vahneḥ sudāruṇaḥ</l>
+                         <l n="c">ghorāś ca vāruṇāḥ pāśā</l>
+                         <l n="d">nopasarpanti bhūmidam</l>
+                    </lg>
                 </div>
             </div>
             <div xml:id="best_st0094">
@@ -2179,7 +2187,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">The one who does not give what has been promised or the one who steals what has been given, both are tormented by Vāruṇa's nooses on Mr̥tyu's orders.</p>
                 </div>
                 <div type="notes">
-                     <note>2. Ind. Ant., Vol. XIV, p. 319, text lines 113-14.</note>
+                     <note>2. Ind. Ant., Vol. XIV, p. 319, text lines 113-14.</note><!-- DHARMA_INSIA14_CLIX -->
                 </div>
                 <div type="occurences">
                     <p>The variation of this verse is found in the <title>Mahābhārata</title> 13.61.72 (GRETIL)</p>
@@ -2205,7 +2213,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">No gift is greater than the gift of land; nor is there a greater sin enjoined (on man) than (that of) resuming land (already given).</p>
                 </div>
               <div type="notes">
-                   <note>3. Ep. Ind., Vol. XVII, p. 303, verse 20.</note>
+                   <note>3. Ep. Ind., Vol. XVII, p. 303, verse 20.</note><!-- EI17_16-4.tif  -->
               </div>
           </div>        
           <div xml:id="best_st0096">
@@ -2218,7 +2226,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                   </lg>
               </div>
               <div type="translation" resp="part:amwb">
-                    <p rend="stanza">There is nothing like a gift of land; no master like a king; no dharma like truth; no treasure like a gift.</p>
+                    <p rend="stanza">There is nothing like a gift of land; no master like a king; no <foreign>dharma</foreign> like truth; no treasure like a gift.</p>
                 </div>
               <div type="notes">
                    <note>4. Ind. Ant., Vol. XIV, p. 319, text lines 107-08. Ballāla (Dānasāgara, op. cit.,
@@ -2238,10 +2246,13 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <div type="translation" resp="part:amwb">
                     <p rend="stanza">There is no knowledge without reward, no wealth without profit, so the sages say that there is only one gift in Kali Yuga.</p>
                 </div>
+                <div type="variation">
+                    <p>Kr̥ta-Tretā-Dvāpareṣu, etc. See No. 97, note.</p>
+                </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. II, p. 219. The stanza is sometimes found as : Kr̥taTretā-Dvāpareṣu tapo='tyarthaṁ praśasyate | munayo='tra
                 praśaṁsanti dānam=ekaṁ Kalau yuge|| (ibid., Vol.XXXII, p. 75, text lines
-                21-22).</note>
+                21-22).</note><!-- EI2_XV.tif -->
                 </div>
             </div>
            <div xml:id="best_st0098">
@@ -2263,7 +2274,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <l>Deva-svaṁ tu viṣaṁ ghoram, etc. See No. 98, note.</l> <!-- EI6_11  -->
                </div>
                <div type="notes">
-                   <note>6. Ep. Ind., Vol. XXII, p. 167, text lines 35-36. In some cases, the first half
+                   <note>6. Ep. Ind., Vol. XXII, p. 167, text lines 35-36<!-- EI22_26 -->. In some cases, the first half
                 reads : Deva-svaṁ hi viṣaṁ ghoraṁ kālakūṭa-sama-prabham (ibid., vol. IV, p. 345).
                 Sometimes we have Brahma-svaṁ tu viṣaṁ ghoraṁ na viṣaṁ viṣam=ucyate | viṣaṁ
                 tv=ekā°(ibid., Vol. XV, p. 252) and deva-svaṁ for brahma-svaṁ or for Na viṣaṁ
@@ -2439,7 +2450,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p rend="stanza">He who gives land furrowed by the plough together with seed and abounding with crop, abides in heaven so long as the sun continues to give light to the world. (EI24, p.217)</p>
                 </div>
                 <div type="notes">
-                    <note>7. Cf. Ep. Ind., Vol. XXVIII, p. 328. Mahābhārata, XIII. 62, 31 has it with mahīṁ
+                    <note>7. Cf. Ep. Ind., Vol. XXVIII, p. 328<!-- checked EI28_50= SV35 -->. Mahābhārata, XIII. 62, 31 has it with mahīṁ
                 dattvā sa-bījāṁ sa-phalām=api | udīrṇaṁ v=āpi śaraṇaṁ yathā bhavati kāmadaḥ|| while
                 Hemādri (op. cit., p. 480) reads udyānaṁ śaraṇaṁ v=āpi tathā. The stanza also occurs
                 in the PadmaPurāṇa, VI, 33, 6; Bhaviṣya Purāṇa, Uttara-parvan, Ch. 164, 16;
@@ -2485,10 +2496,10 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     </lg>
                 </div>
                 <div type="translation">
-                    <p rend="stanza">For the good of the people the laws have been established. The wise one should keep them in justice. The reprobate who from avarice or delusion shall usurp, will promptly incur a painful hell down below. (translation EI24, p.217)</p>
+                    <p rend="stanza">The rules have been established for the welfare of the people and the wise should observe them in regard to duties (dharma). The evil-minded one who seizes through greed or foolishness, blind he will immediately go to the bad and suffering hell. </p><!-- For the good of the people the laws have been established. The wise one should keep them in justice. The reprobate who from avarice or delusion shall usurp, will promptly incur a painful hell down below. (translation EI12_24, p.217) -->
                 </div>
                 <div type="notes"> 
-                    <note>1. Ep. Ind., Vol.XII, p. 214, verse 35.</note>
+                    <note>1. Ep. Ind., Vol.XII, p. 214, verse 35.<!-- checked EI12_24 --></note>
                 </div>
             </div>
             <div xml:id="best_st0109">
@@ -2521,7 +2532,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p rend="stanza">The gift made without generosity and the gift made by stealing another gift render sterile all that has been given since birth. </p><!-- I'm not very confident with this translation; I 'm wondering what meaning should be given to the word pras.rti (handful as a measure, streaming, flowing, the palm of the hollowed hand) Fleet's translation : by giving with stint and by confiscating that which has been given the whole of that which has been given from birth upwards becomes fruitless -->
                 </div>
                <div type="notes">
-                   <note>3. Ind. Ant., Vol. XII, p. 252.</note><!-- checked but not encoded https://archive.org/details/TheIndianAntiquaryVolXII/page/n289/mode/2up inscripton of Govinda 5 dated saka 855 (933-934 AD) -->
+                   <note>3. Ind. Ant., Vol. XII, p. 252.</note><!-- checked but not encoded IAXII_133 https://archive.org/details/TheIndianAntiquaryVolXII/page/n289/mode/2up inscripton of Govinda 5 dated saka 855 (933-934 AD) -->
                </div>
            </div>
             <div xml:id="best_st0111">
@@ -2570,7 +2581,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p rend="stanza">Whoever steals a piece of land given by the elders or by others before them, stuck forever in sin, will dwell again and again in hell. </p>
                 </div>
                <div type="notes">
-                   <note>6. Ep. Ind., Vol. VIII, p. 235, text lines 29-30.</note><!-- checked but not yet encoded ; Chendalur plates of kumaravishnu II by Hultzsch = Hultzsch1905-1906_09 , found in the Ongule taluka of the Nellore district ; 5 CP ; edict from kancipuran in the second year of the reign of the pallava maharaja kumaravisnu II son of buddhavarman and grandson of kumaravisnu I greatgrandson of Skandavarman ; api cātra brahmagītāḥ ślokāḥ 28+132-00+113+23  -->
+                   <note>6. Ep. Ind., Vol. VIII, p. 235, text lines 29-30.</note><!-- checked but not yet encoded EI8_23 ; Chendalur plates of kumaravishnu II by Hultzsch = Hultzsch1905-1906_09 , found in the Ongule taluka of the Nellore district ; 5 CP ; edict from kancipuran in the second year of the reign of the pallava maharaja kumaravisnu II son of buddhavarman and grandson of kumaravisnu I greatgrandson of Skandavarman ; api cātra brahmagītāḥ ślokāḥ 28+132-00+113+23  -->
                </div>
            </div>   
             <div xml:id="best_st0114">
@@ -2583,10 +2594,10 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Jewels, food, drink, cattle and so on, everything comes from the earth ; therefore by making a gift of land, one becomes the giver of all of these. </p>
+                    <p rend="stanza">Jewels, food, drink, cattle and so on, everything comes from the earth ; therefore by making a gift of land, a man becomes the giver of all of these. </p>
                 </div>
                 <div type="notes">
-                    <note>7. Ind. Ant., Vol. XII, p. 121.</note><!-- checked but not yet encoded yadava inscriptions quoted for other stanzas  -->
+                    <note>7. Ind. Ant., Vol. XII, p. 121.</note><!-- checked but not yet encoded yadava inscriptions quoted for other stanzas ; https://archive.org/details/TheIndianAntiquaryVolXII/page/n133/mode/2up  -->
                 </div>
             </div>
            <div xml:id="best_st0115">
@@ -2604,7 +2615,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                <div type="notes">
                    <note>8. Ep. Ind., Vol. IV, p. 201, lines 25-27. Ballāla's Dānasāgara (op. cit, p. 317)
                 reads yojanāni in the first half and dattā svalp=āpi rājendra sarvakāma-pradāyinī in
-                the second and attributes the stanza to the Dāna-Br̥haspati.</note><!-- checked but not yet encoded EI_04_No_26.tif here pada c reads as follows : aho punyāya kātyaya  -->
+                the second and attributes the stanza to the Dāna-Br̥haspati.</note><!-- checked but not yet encoded EI4_26.tif here pada c reads as follows : aho punyāya kātyaya  -->
                </div>
            </div>
            <div xml:id="best_st0116">
@@ -2623,7 +2634,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                    <note>9. Ep. Ind., Vol. XXXII, p. 67, text lines 22-23. Sometimes we have tasya for
                 dīrgha in the first half and the second half as: evaṁ tu
                 munayaḥprāhur=dānāt=tat=pālanaṁ varam (Ind. .Ant., Vol. XVII. p. 122, text lines
-                51-52).</note>
+                51-52).</note><!-- checked EI32_5_1 not yet encoded  -->
                </div>
            </div>          
            <!-- <pb n="193"/> -->
@@ -2637,7 +2648,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Rāmacandra begs repeatedly to all these future kings: "this bridge of Dharma which is common to all the kings, you always must protect it!".</p>
+                    <p rend="stanza">Rāmacandra begs repeatedly to all these future kings: "this bridge of <foreign>dharma</foreign> which is common to all the kings, you always must protect it!".</p>
                 </div>
                 <div type="variation">
                     <l>sāmānyo 'yaṁ dāna-dharmaḥ, etc. See No. 117, note. </l>
@@ -2648,7 +2659,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <l>Dattvā bhūmiṁ, etc. See No. 117, note. </l>
                 </div>
                 <div type="notes"> 
-                    <note>1. Ep. Ind., Vol. III, p. 343, text lines 55-57<!-- checked -->; etc. Sometimes the first half
+                    <note>1. Ep. Ind., Vol. III, p. 343, text lines 55-57<!-- checked = SV5 or 6  -->; etc. Sometimes the first half
                 becomes the second and we have Rāmabhadraḥ (or the name of the donor—ibid., Vol.
                 XXVIII,p. 283, text line 35<!-- checked -->) for Rāmacandraḥ, krameṇa (ibid., Vol. XXIX, p. 9, text
                 line 55) for bhavadbhiḥ, and dattvā bhūmiṁ (ibid., Vol. XXXII, p. 76, text line 36)
@@ -2679,10 +2690,10 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">This bridge of Dharma is common to all the kings on earth, so that it should always be protected by the noble lords.</p>
+                    <p rend="stanza">This bridge of <foreign>dharma</foreign> is common to all the kings on earth, so that it should always be protected by the noble lords.</p>
                 </div>
                 <div type="notes">
-                     <note>2. Ind. Ant., Vol. XII, p. 186. See No. 117.</note>
+                     <note>2. Ind. Ant., Vol. XII, p. 186. See No. 117.</note><!-- IAXII_186 https://archive.org/details/TheIndianAntiquaryVolXII/page/n207/mode/2up -->
                 </div>
             </div>
             <div xml:id="best_st0119">
@@ -2702,7 +2713,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <l>Dhavalāny=ātapatrāṇi, etc. See No. 119, note.</l>
                 </div>
                 <div type="notes">
-                    <note>3. Ep. Ind., Vol. XXXII, p. 123, text lines 34-35. Sometimes we have Siṁhāsanaṁ
+                    <note>3. Ep. Ind., Vol. XXXII, p. 123, text lines 34-35 <!-- checked see EI32_14_1.tif -->. Sometimes we have Siṁhāsanaṁ
                 tathā chatraṁ in the first quarter (ibid., Vol. XXV, p. 218, verse 37),
                 gaj-āśva-varavāhanam in the second foot, cinhāni or puṣyāni (cf. ibid., p. 128, text
                 line 17; Vol. XXII, p. 166, text line 29) in the third foot, and phalaṁ
@@ -2751,7 +2762,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p rend="stanza">When you seize land, you seize everything, there's no doubt about it; consequently, the thief of land will dwell forever in hell. </p>
                 </div>
                 <div type="notes">
-                     <note>1. Ind. Ant., Vol. XII. p. 121.</note>
+                     <note>1. Ind. Ant., Vol. XII. p. 121.</note><!-- see stanza 114 same source -->
                 </div>
             </div>       
             <div xml:id="best_st0121">
@@ -2770,7 +2781,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <note>2. Ep. Ind., Vol. XI. pp. 312-13, text lines 47-48. For naika-janmātmakaṁ phalam
                 in the last foot, see ibid., Vol. XXI, p. 145, text line 55. The stanza is found in
                 the Saṁvartasmr̥ti, verse 78, and the Br̥haspatisaṁhitā, verse 33. Ballāla's
-                Dānasāgara (op. cit„ p. 317) attributes it to Saṁvarta.</note><!-- not yet checked -->
+                Dānasāgara (op. cit„ p. 317) attributes it to Saṁvarta.</note><!-- checked EI11_32.tif rajasthan  -->
                 </div>
             </div>
             <div xml:id="best_st0122">
@@ -2786,7 +2797,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p rend="stanza">Among all the gifts, the gift of land is extolled: a man overcomes sins accumulated over ten millions of <foreign>kalpa</foreign>s.</p>
                 </div>
                 <div type="notes"> 
-                    <note>3. Ep. Ind., Vol. XII, p. 324, text lines 32.</note><!-- not yet checked -->
+                    <note>3. Ep. Ind., Vol. XII, p. 324, text lines 32.</note><!-- checked EI12_36-a.tif ranabhanja orissa -->
                 </div>
             </div>                     
            <div xml:id="best_st0123">
@@ -2848,10 +2859,10 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The gift is [worth] a hundred if it is performed at the new moon, a thousand at the nightfall, a hundred thousand ath equinox and an infinite number during eclipses.</p>
+                    <p rend="stanza">The gift is [worth] a hundred if it is performed at the new moon, a thousand at the nightfall, a hundred thousand at the equinox and an infinite number during eclipses.</p>
                 </div>
                 <div type="notes"> <note>5. Ep.Ind Vol. XXXII, p. 70, text lines 12-13. This is Laghu-Śātātapasmr̥ti, verse
-                150. Hemādri assigns it to Yājñavalkya (op. cit., p. 75).</note></div><!-- not yet checked -->
+                150. Hemādri assigns it to Yājñavalkya (op. cit., p. 75).</note></div><!-- checked see EI32_5_2  -->
             </div>
            <!-- <pb n="195"/> -->
             <div xml:id="best_st0125">
@@ -2880,7 +2891,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Whatever the accumulation of dharma, the oblation poured out in sacrifice or the word of truth, all this is destroyed by the seizure of a boundary (sīmā) by even half of an inch.</p>
+                    <p rend="stanza">Whatever the accumulation of <foreign>dharma</foreign>, the oblation poured out in sacrifice or the word of truth, all this is destroyed by the seizure of a boundary (<foreign>sīmā</foreign>) by even half of an inch.</p>
                 </div>
                     <div type="variation">
                         <l>satyaṁ c=aiva, etc. See No. 126, note. </l>
@@ -2893,7 +2904,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 text lines 34-35), or Satyaṁ c=aiva hutaṁ c=aiva (ibid., Vol. XIII, pp. 312-13). For
                 yaḥ kaścid=dharma-sañcayaḥ in the second foot, see Ind. Ant., Vol. XVII, p. 122,
                 text lines 57-58. The second half of the stanza is found in the Br̥haspatisaṁhitā
-                (verse 41) with ardh-āṅgulasya.</note><!-- not yet checked  -->
+                (verse 41) with ardh-āṅgulasya.</note><!--  checked see EI29_26_2.tif  -->
                     </div>
                 </div>
             <div xml:id="best_st0127">
@@ -2909,7 +2920,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p rend="stanza">The land-givers go where there are golden palaces and wish-fulfilling streams of whealth, in the abode of Apsaras and Gandharvas.</p>
                 </div>
                 <div type="notes">
-                    <note>3. Ep. Ind., Vol. XXXII. p. 123, text line 35. We have also Prāsādā yatra
+                    <note>3. Ep. Ind., Vol. XXXII. p. 123, text line 35 <!-- checked see EI32_14_1.tif -->. We have also Prāsādā yatra
                 sauvarṇā° and tiṣṭhati dānadaḥ (ibid., p. 70, text lines 20-21). Ep. Carn., Vol.
                 XII, Sl. No. 95 ascribes the authorship of the stanza to Br̥haspati, while Hemādri
                 (op. cit., p. 481) and Ballāla (op. cit., p. 316) assign it to the Mahābhārata (cf.
@@ -2935,8 +2946,8 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <l>Kharo dvādaśa, etc. See No 128, note.</l>
                 </div>
                 <div type="notes">
-                    <note>4. Ep. Ind., vol. XVI. text lines 75-77; p. 318. Sometimes we have adhikaṁ for
-                dvi-gunaṁ (ibid., Vol. XXXI. p. 261, text lines 147). This is followed by the stanza
+                    <note>4. Ep. Ind., vol. XVI. text lines 75-77 ; p. 318 <!-- it seems to be EI16_23.tif but the stanza is not in this inscription mistake? typo?    -->. Sometimes we have adhikaṁ for
+                dvi-gunaṁ (ibid., Vol. XXXI. p. 261, text lines 147 <!-- here ok see EI31_34.tif  orissa 1198-1199-->). This is followed by the stanza
                 : Kharo dvādaśa janmāni aṣṭa janmāni śūkaraḥ|śvā tu saptati-janmāni ity=evaṁ
                 Manur=avravīt || in Ep. Carn, Vol. XII, Gb. No. 34.</note>
                     <!-- I found two padas of this verse here : Bhrgu-Samhita<BR>
@@ -2954,10 +2965,10 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Whoever steals land given by himself or by another to a vipra or a god will be born in an injurious condition for millions and millions of years</p>
+                    <p rend="stanza">Whoever steals land given by himself or by another to a <foreign>vipra</foreign> or a god will be born in an injurious condition for millions and millions of years</p>
                 </div>
                 <div type="notes">
-                    <note>5. Ep. Ind., Vol.XXV, p. 219, verse 49.</note>
+                    <note>5. Ep. Ind., Vol.XXV, p. 219, verse 49.</note><!-- EI25_21.tif  -->
                     <note>I found this verse with minor variations in the <title>Bhāgavatapurāṇa</title> (11.27.54) :
                     <lg met="anuṣṭubh">
                         <l n="a">yaḥ sva-dattāṁ parair dattāṁ</l>
@@ -2981,7 +2992,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p rend="stanza">The men who protect a land given by himself or by another, will stay happy in the world of Rudra during thousand millions of years. </p>
                 </div>
                <div type="notes">
-                   <note>6. Ind. Ant., Vol. XII. pp. 257-58.</note>
+                   <note>6. Ind. Ant., Vol. XII. pp. 257-58.</note><!-- see https://archive.org/details/TheIndianAntiquaryVolXII/page/n289/mode/2up -->
                </div>
            </div>
            <!-- <pb n="196"/>-->                       
@@ -3414,10 +3425,10 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza"></p><!-- The fierce sun does not shine, nor does the fierce wind blow in his command, having seen the extremely terrible sin of stealing the wealth of a brahmin -->
+                    <p rend="stanza">The very hot sun does not shine nor does the fierce wind blow </p><!-- The fierce sun does not shine, nor does the fierce wind blow in his command, having seen the extremely terrible sin of stealing the wealth of a brahmin -->
                 </div>
                 <div type="notes">
-                    <note>3. Ep. Ind., Vol. XXII, p. 166, verse 21.</note>
+                    <note>3. Ep. Ind., Vol. XXII, p. 166, verse 21.</note><!-- see EI22_26.tif -->
                 </div>
             </div>          
             <div xml:id="best_st0141">
@@ -3446,12 +3457,12 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Three gift are said to be supreme: cows, land and speech. Their fruits last for seven generations through milking, carrying and teaching.</p>
+                    <p rend="stanza">Three gifts are said to be supreme: cows, land and speech. Their fruits last for seven generations through milking, carrying and teaching.</p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. XI, pp. 312-13, text lines 46-47. The first half is found in the
                 Vasiṣṭhasmr̥ti, 29, 19, and Br̥haspatisaṁhitā, verse 18; cf. PadmaPurāṇa, VI, 33,
-                18.</note>
+                18.</note><!-- see EI11_32.tif -->
                 </div>
                 <div type="occurences"><!-- my own note -->
                   <p><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 29.19 :
@@ -3499,7 +3510,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">By offering fire, the son of fire and water, he is born five time<note>The word <foreign>pañca-kr̥tvaḥ</foreign>is an emendation made by Hultzsch. </note>, but by offering all the earth <foreign>rasā</foreign>, the mortal is not born again </p>
+                    <p rend="stanza">By offering fire, the son of fire and water, he is born five times<note>The word <foreign>pañca-kr̥tvaḥ</foreign>is an emendation made by Hultzsch. </note>, but by offering all the earth <foreign>rasā</foreign>, the mortal is not born again. </p>
                 </div>
                 <div type="notes">
                     <note>7. Ep. Ind., Vol. I, p. 56, text lines 57-58.</note><!-- checked EI1_8.tif there is a problem in the text and Sircar gives the emendation suggested by Hultzsch the text runs as follows :  vahni vahni–sutaṁ cāmbu pañca-pūtāṁ prajāyate dattvā sarva-rasāṁ caicadha na martyo jāyate punaḥ -->
@@ -3521,7 +3532,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">The one who gives water obtains satisfaction, the one who gives food an eternal bliss, the one who offers sesame seeds is fulfilled with the wished descendance, like the one who gives a lamp, o best of the Kurus, the one who gives land obtains all including a long life.</p>
                 </div>
                 <div type="notes">       
-                    <note>1. Ep. Ind., Vol. XXV, p. 219, verse 46.</note>
+                    <note>1. Ep. Ind., Vol. XXV, p. 219, verse 46.</note><!-- EI25_21_RAMA.tif -->
                 </div>
             </div>    
             <div xml:id="best_st0146">
@@ -3569,7 +3580,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Having understood that the the world stability is trembling like a lightning, with Your minds intensely attached to fame, rejoicing only and always in doing good for others, engaged in the propitiation of the dharma, You should approve [of this]. </p>
+                    <p rend="stanza">Having understood that the the world stability is trembling like a lightning, with Your minds intensely attached to fame, rejoicing only and always in doing good for others, engaged in the propitiation of the <foreign>dharma</foreign>, You should approve [of this]. </p>
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXIX, p. 43, text lines 49-51. Sometimes we have °modaniyā for
@@ -3653,7 +3664,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The man who, even in mind, approves a deed endowed with <foreign>dharma</foreign>, he increases according to which has been given (yaṭheṣṭena) as the moon during the bright fortnight.</p>
+                    <p rend="stanza">The man who, even in mind, approves a deed endowed with <foreign>dharma</foreign>, he increases [his own merit] according to which has been given (<foreign>yaṭheṣṭena</foreign>) as the moon during the bright fortnight.</p>
                 </div>
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XXXI, pp. 92-93.</note><!-- checked but not yet encoded EI31_15.tif -->
@@ -3685,7 +3696,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Those wishing a brilliant fame like the moon ray, those desiring the embrace of the beloved insignia of royalty, those good men do not steal what is given by others: they say that protection is indeed better than gift, O   </p><!-- yair vāñchitaṁ śiśiradīdhiti-śubhra-kīrter yaiś cāmara-praṇayinī-parirambhanasya te sādhavo na hi haranti pareṇa dattaṁ dānād vadanti paripālanam eva sādhu   -->
+                    <p rend="stanza">Those wishing a brilliant fame like the moon ray, those desiring the embrace of the beloved insignia of royalty, those good men do not steal what is given by others: they say that protection is indeed better than gift.  </p><!-- yair vāñchitaṁ śiśiradīdhiti-śubhra-kīrter yaiś cāmara-praṇayinī-parirambhanasya te sādhavo na hi haranti pareṇa dattaṁ dānād vadanti paripālanam eva sādhu   -->
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. III, p. 367, lines 20-21.</note><!-- there is a problem with this reference I do not find this page as EI 3 ends with the page 360  -->
@@ -3755,7 +3766,14 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 attributes it to the Mahābhārata.</note></div>
             </div>
             <div type="occurences">
-                <p>14,096.015d@004_1097</p>
+               <p><title>Mahābhārata</title> 13,061.023 (from GRETIL):</p>
+                <lg met="anuṣṭubh">
+                    <l n="a">yathā janitrī kṣīreṇa</l>
+                     <l n="b">svaputraṃ bharate sadā</l>
+                     <l n="c">anugṛhṇāti dātāraṃ</l>
+                     <l n="d">tathā sarvarasair mahī</l>
+                </lg>
+                <p>see also 14,096.015d@004_1097</p>
             </div>
             <div xml:id="best_st0157">
                 <div type="text">
@@ -3799,7 +3817,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">Just as a drop of oil fallen in water spread, o Śakra, in the same way a gift performed on earth grow in every field of merit.  </p>
                 </div>
                <div type="notes">
-                   <note>1. Ep. Ind., Vol. XII. p. 327, text lines 37–38. The verse is found in the
+                   <note>1. Ep. Ind., Vol. XII. p. 327, text lines 37–38 <!-- EI12_36-b.tif -->. The verse is found in the
                 Mahābhārata, XIII, 62, 84 <!-- Mbh GRETIL 13,061.081 --> (with tathā for evaṁ and vivardhate for prarohati);
                 Br̥haspatisaṁhitā, verse 12 (with sadyas° for Śakra and prasarpati for visarpati).
                 Cf. Mahābhārata, XIII, 33. Ballāla’s Dānasāgara (op. cit., p. 316) attributes the
@@ -3920,7 +3938,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">The one who accepts (a gift) with reverence or the one who gives with reverence, both of them go to heaven, but if the reverse, they go to hell.</p>
                 </div>
                 <div type="notes">
-                    <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmr̥ti, IV, 235.</note><!-- checked see EI2_29.tif introduced by atrātha paurāṇikāḥ ślokaḥ  Olivelle's translation Manu IV.235  -->
+                    <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmr̥ti, IV, 235.</note><!-- checked see EI2_29.tif (date 1105) introduced by atrātha paurāṇikāḥ ślokaḥ  Olivelle's translation Manu IV.235  -->
                 </div>
             </div>
             <div xml:id="best_0165">
@@ -4119,9 +4137,9 @@ n="43"/>pravilokyāḥ</l>
                <l n="d">kīrttayo nr̥patibhir na vilopyā</l>
             </lg> 
             meaning close to best_0141 best_046 -->
-<!--  Maybe add this stanza found in EI35_1_4 buddhist stone inscription
+<!--  Maybe add this stanza found in EI35_1_4 buddhist stone inscription p11-13
             <lg n="1" met="anuṣṭubh">
-                 <l n="a">deya-dharmmam idaṁ kṛtvā</l>
+                 <l n="a">deya-dharmmam idaṁ kṛtvā</l>  
                   <l n="b">yat puṇyaṁ samupārjjitaṁ<g type="danda">.</g></l>
                   <l n="c">tena puṇyeṇa loko 'yaṁ</l>
                   <l n="d">nirvvāṇam adhigacchatu<g type="ddanda">.</g></l>
