@@ -110,10 +110,10 @@
                         </lg>
                     </div>
                     <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Like the sun in the sky, they shine with energy, the men who offer earth for [sustaining] a fire established by a brahmin</p>
+                    <p rend="stanza">Like the sun in the sky, they shine with energy, the men who offer earth for [sustaining] a fire established by a brahmin.</p>
                 </div>
                 <div type="notes">
-                        <note>5. Ep. Ind., Vol. XXV, p. 218, verse 39. The Mahābhārata (XIII, 62, 46) has it
+                        <note>5. Ep. Ind., Vol. XXV, p. 218, verse 39<!-- EI25_21 -->. The Mahābhārata (XIII, 62, 46) has it
                 with dīpyanti tejasā bhuvi in the first half and dadāti vasudhāṁ sphītāṁ ye
                 veda-viduṣi dvije in the second. Ballāla’s Dānasāgara (op. cit., p. 332) seems to
                 attribute the stanza to the Viṣṇudharmottara.</note>
@@ -158,7 +158,7 @@
                 </lg>
                 </div>
                 <div type="translation" resp="bib:Griffiths2015_02">
-                    <p rend="stanza">Yama, Varuṇa, Vāyu, Śakra, Śukra, Br̥haspati, Candra, Āditya and the Grahas: they all rejoice in one who gives land!</p>
+                    <p rend="stanza">Yama, Vāruṇa, Vāyu, Śakra, Śukra, Br̥haspati, Candra, Āditya and the Grahas: they all rejoice in one who gives land!</p>
                 </div>                
                 <div type="notes">
                     <p>This stanza is quoted in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref> (see <bibl><ptr target="bib:Griffiths2015_02"/></bibl></p>
@@ -460,10 +460,10 @@
                         </lg>
                     </div>
                     <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The man who protect the support given to a noble <foreign>saṅgha</foreign>, having obtained the heaven, rejoices [there] with a divine soul for millions <foreign>kalpa</foreign>s.   </p>
+                    <p rend="stanza">The man who protects the support given to a noble <foreign>saṅgha</foreign>, having obtained the heaven, rejoices [there] with a divine soul for millions <foreign>kalpa</foreign>s.   </p>
                 </div>
                     <div type="notes">
-                        <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note><!-- Checked and added in my table-->
+                        <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note><!-- Checked EI28_13 and added in my table-->
                     </div>
                 </div>
             <div xml:id="best_st0018">
@@ -476,10 +476,10 @@
                 </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Even in the unfit saṁsāra, protecting the glorious deeds made by another or by ourselves gives the double fruit in this life.</p>
+                    <p rend="stanza">Even in the unfit <foreign>saṁsāra</foreign>, protecting the glorious deeds made by another or by ourselves gives the double fruit in this life.</p>
                 </div>
                 <div type="notes">
-                     <note>3. Ep. Ind., Vol. XIX, p. 45, text lines 30-31.</note><!-- checked and added in my table -->
+                     <note>3. Ep. Ind., Vol. XIX, p. 45, text lines 30-31.</note><!-- checked EI19_5 and added in my table -->
                 </div>
             </div>         
             <div xml:id="best_st0019">
@@ -495,7 +495,7 @@
                     <p rend="stanza">This gift should be approved by those who proclaim the excellent order of our family and by others; fortune is as shaky as a drop of glistening water, so giving is the fruit that protects glory in the hereafter.  </p>
                 </div>
                 <div type="notes">
-                    <note>4. Ep. Ind., Vol. XXVIII, p. 277, text lines 22-25; cf. Vol. XXXVI, p. 46.</note><!-- not yet checked -->
+                    <note>4. Ep. Ind., Vol. XXVIII, p. 277, text lines 22-25; cf. Vol. XXXVI, p. 46.</note><!-- see EI28_44.tif -->
                 </div>
             </div>
            
@@ -546,7 +546,7 @@
                   <div type="notes">
                        <note>6. Ep. Ind., Vol. XII, p. 324, text lines 26-27. The second half is also given as
                 kr̥tvā yat=phalam-\-āpnoti bhūmi-dānat=tad=aśnute(Ep. Carn., Vol. X, Malur No.
-                57).</note>
+                57).</note><!-- see EI12_36-a.tif -->
                   </div>
               </div>        
             <div xml:id="best_st0022">
@@ -633,7 +633,7 @@
                     <p rend="stanza">What can I say? Here is a summary : health is short and wealth instable, but <foreign>dharma</foreign> remains in the two worlds.</p>
                 </div>
                 <div type="notes">
-                     <note>3. Ep. Ind., Vol. XXVIII, p. 216, text lines 25–26.</note>
+                     <note>3. Ep. Ind., Vol. XXVIII, p. 216, text lines 25–26.</note><!-- see EI28_36 -->
                 </div>
             </div>
             <div xml:id="best_st0025">
@@ -650,7 +650,7 @@
 </p>
                 </div>
                 <div type="notes">
-                    <note>4. Ep. Ind., Vol. XXV, p. 60‚ text lines 53-54.</note><!-- checked and added in my table -->
+                    <note>4. Ep. Ind., Vol. XXV, p. 60‚ text lines 53-54.</note><!-- checked see EI25_10 (date 1049) and added in my table -->
                 </div>
             </div>          
            <div xml:id="best_st0026">
@@ -864,7 +864,7 @@ https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DH
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Unsteady is the Whealth, as well as are the breaths and the youth of the life; indeed within the moving to and fro <foreign>saṁsāra</foreign> the only firm thing is <foreign>dharma</foreign>.</p>
+                    <p rend="stanza">Unsteady is the Whealth, as well as are the breaths and the youth of the life; indeed within the moving to and from <foreign>saṁsāra</foreign> the only firm thing is <foreign>dharma</foreign>.</p>
                 </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. XXII, p. 194, text lines 17-18.</note>
@@ -939,7 +939,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The purāṇas whose wisdom is undoubtful, tell that what is born from the protection is really superior to the gift, it is the best dharmic act among the dharmic ones! Hence, may that the earth be given to a twice born knowing the <foreign>śruti</foreign> and born in a very pious lineage and may your unique thought be to protect it !
+                    <p rend="stanza">The <title>purāṇa</title>s whose wisdom is undoubtful, tell that what is born from the protection is really superior to the gift, it is the best dharmic act among the dharmic ones! Hence, may that the earth be given to a twice born knowing the <foreign>śruti</foreign> and born in a very pious lineage and may your unique thought be to protect it !
 </p>
                 </div>
                 <div type="notes">
@@ -1011,7 +1011,7 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                    </lg>
                </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza">He lives very high in the sky, the man who makes a gift as well as the one who authorizes it, He firmly cooks in the Raurava the one who steals a land or the one who contributes to this theft </p>
+                    <p rend="stanza">He lives very high in the sky, the man who makes a gift as well as the one who authorizes it, He firmly cooks in the Raurava the one who steals a land or the one who contributes to this theft. </p>
                 </div>
                <div type="notes">
                     <note>7. Ind. Ant., Vol. XII, p. 127.</note>
@@ -1023,7 +1023,7 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                <lg met="anuṣṭubh">
                    <l n="a">dātā daśānugr̥hṇāti</l>
                    <l n="b">yo hared daśa hanti ca</l>
-                   <l n="c">atītānāgatān īha</l>
+                   <l n="c">Atītānāgatān īha</l>
                    <l n="d">kulāni kulanandana</l>
                </lg>
                 </div>
@@ -1423,7 +1423,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Whoever destroys (this) is endued by this act with the murder of a cow and the murder of a Brahmin, as well as the murder of a child, the murder of a vipra and the murder of a sage.</p>
+                    <p rend="stanza">Whoever destroys (this) is endued by this act with the murder of a cow and the murder of a Brahmin, as well as the murder of a child, the murder of a <foreign>vipra</foreign> and the murder of a sage.</p>
                 </div>
                 <div type="notes">
                     <note> 4. Ep. Ind.,Vol. XIII, p. 208, text lines 6-8.</note>
@@ -1480,7 +1480,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Riding in a divine chariot pulled by swans, the earth giver travels to the world of the gods, while the one who seizes it is cooked by the messengers of time in a heated jar full of boiling oil.</p>
+                    <p rend="stanza">Riding in a divine chariot pulled by swans, the earth giver travels to the world of the gods, while the one who seizes it is cooked by the messengers of Kāla in a heated jar full of boiling oil.</p>
                 </div>
                 <div type="notes">
                     <note> 6. Chhabra, Antiquities of Chamba State, II, p. 179.</note>
@@ -2139,7 +2139,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">You must never, ever covet a land-gift offered to a Brahmin, even in thought, as this would be a poison similar to venom whose remedy is <foreign>dharma</foreign>. </p>
+                    <p rend="stanza">You must never, o Pārthiva, ever covet a land-gift offered to a Brahmin, even in thought, as this would be a poison similar to venom whose remedy is <foreign>dharma</foreign>. </p>
                 </div>
                 <div type="notes">
                      <note>6 Ep. Ind., vol. XI, p. 101, text line 32 <!-- EI11_8 checked it is in the charter of Śatrubhañja; not yet encoded; it is followed by 98 -->; Vol. XII, p. 328, text lines 48-50 <!-- EI12_36-b checked it is again a vers found in a bhanja charter  baudh grant of Raṇabhañjadeva the 26th year ; it is followed by 98 -->;
@@ -2496,7 +2496,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     </lg>
                 </div>
                 <div type="translation">
-                    <p rend="stanza">The rules have been established for the welfare of the people and the wise should observe them in regard to duties (dharma). The evil-minded one who seizes through greed or foolishness, blind he will immediately go to the bad and suffering hell. </p><!-- For the good of the people the laws have been established. The wise one should keep them in justice. The reprobate who from avarice or delusion shall usurp, will promptly incur a painful hell down below. (translation EI12_24, p.217) -->
+                    <p rend="stanza">The rules have been established for the welfare of the people and the wise should observe them in regard to duties (<foreign>dharma</foreign>). The evil-minded one who seizes through greed or foolishness, blind he will immediately go to the bad and suffering hell. </p><!-- For the good of the people the laws have been established. The wise one should keep them in justice. The reprobate who from avarice or delusion shall usurp, will promptly incur a painful hell down below. (translation EI12_24, p.217) -->
                 </div>
                 <div type="notes"> 
                     <note>1. Ep. Ind., Vol.XII, p. 214, verse 35.<!-- checked EI12_24 --></note>
@@ -3353,7 +3353,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Neither thousands of tank consecrations, neither hundreds of Vājapeya sacrifices, nor millions of cow-gifts could purify a land-stealer.</p>
+                    <p rend="stanza">Neither thousands of tank consecrations, neither hundreds of Vājapeya sacrifices, nor millions of cow-gifts could purify a land-thief.</p>
                 </div>
                 <div type="variation">
                     <l>Saṣṭiṁ varṣa°, etc. See No. 137, note. </l>
@@ -3712,7 +3712,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Sacrifice is destroyed by untruth (<foreign>anr̥ta</foreign>), religious austerity is deprived of doubt, the land stealer go to hell for twenty one generations.</p>
+                    <p rend="stanza">Sacrifice is destroyed by untruth (<foreign>anr̥ta</foreign>), religious austerity is deprived of doubt, the land thief goes to hell for twenty one generations.</p>
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XII, p. 325, line 38.</note><!-- checked but not yet encoded EI12_36-a.tif = baud grant of ranabhanjadeva the 54th year -->

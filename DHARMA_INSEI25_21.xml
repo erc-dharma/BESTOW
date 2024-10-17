@@ -114,8 +114,25 @@
              <pb n="2r"/>
              <pb n="2v"/>
              <pb n="3r"/>
-             <p><lb 
-n="120"/>rājasevakānāṁ vasatiprayāṇadaṃṭau na staḥ<g type="danda">.</g> Atha bhūmi-dāna-praśaṁsā<g type="danda">.</g></p>
+             <p>
+                 <lb 
+n="117"/>Atha brāhmaṇaniyamāḥ<g type="danda">.</g>
+                 <lg n="35">
+                     <l n="a"><choice><sic>A</sic><corr>Ā</corr></choice><lb 
+n="118"/>caṁdrārkam idaṁ bhojyam</l>
+                     <l n="b">ebhir eṣāṁ ca vaṁśajaiḥ<g type="danda">.</g></l>
+                     <l n="c">nādheyaṁ na ca vikreyaṁ</l>
+                     <l n="d">sadā sanmārggavarttri<supplied reason="omitted">bhiḥ</supplied></l>
+                 </lg>
+                 <lg n="36"><!-- need to check the meter and the repartition of the words within the padas -->
+                 <l n="a">paṃlvānanāṁ sada<lb 
+n="119"/>naṁ na deyaṁ </l>
+                 <l n="b">dy<choice><sic>u</sic><corr>ū</corr></choice>tapracāropi nivāranīyaḥ<g type="danda">.</g></l>
+                 <l n="c">śastrādikaṁ vāpi na dhāraṇīyaṁ</l>
+                 <l n="d">satkarmmaniṣṭ<supplied reason="omitted">h</supplied>ai<choice><sic>ṁbha</sic><corr>rbha</corr></choice>vitavyamebhiḥ</l>
+                     </lg>
+                 <lb 
+n="120"/>rājasevakānāṁ vasati prayāṇadaṃṭau na staḥ<g type="danda">.</g> Atha bhūmi-dāna-praśaṁsā<g type="danda">.</g></p>
               <lg n="37" met="anuṣṭubh"><!-- best_st0119 -->
                         <l n="a">siṁhāsanaṁ tathā <unclear>ccha</unclear>traṁ</l> <!-- variation on the six first syllabes -->
                         <l n="b">var-āśvā vara-vāra<lb 
@@ -284,12 +301,13 @@ n="141"/>pālayanti mama dharmam i<unclear>maṁ samagraṁ</unclear> </l>
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Mirashi1939-1940_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" source="bib:Mirashi1939-1940_01">
  	<!--translation encoded as per EGD §9.2 -->
+             <p n="117-120">Now the rules for the conduct of the Brāhmaṇas. This land shall be enjoyed by these (Brāhmaṇas) and their descendants, following always the righteous path; it shall not be mortgaged or sold. No quarter shall be given to prostitutes; the custom of gamblong also shall be prohibited; (and) weapons and (such) other things shall not be used. These Brāhmaṇas shall (always) be intent on (performing) good deeds. There shall be no forced contribution (for the expenses of) royal officers halting at and departing from (the agrahāra).</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -309,7 +327,7 @@ Raamachandra later Yaadava dynasty
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="M"><ptr target="bib:Mirashi1939-1940_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
