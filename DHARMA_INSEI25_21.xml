@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Purshottampuri Plates of Ramachandra, Saka 1232</title>
+                <title>Puruṣottampurī Plates of Rāmacandra, śaka 1232</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -117,19 +117,19 @@
              <p>
                  <lb 
 n="117"/>Atha brāhmaṇaniyamāḥ<g type="danda">.</g>
-                 <lg n="35">
+                 <lg n="35" met="anuṣṭubh">
                      <l n="a"><choice><sic>A</sic><corr>Ā</corr></choice><lb 
 n="118"/>caṁdrārkam idaṁ bhojyam</l>
                      <l n="b">ebhir eṣāṁ ca vaṁśajaiḥ<g type="danda">.</g></l>
                      <l n="c">nādheyaṁ na ca vikreyaṁ</l>
                      <l n="d">sadā sanmārggavarttri<supplied reason="omitted">bhiḥ</supplied></l>
                  </lg>
-                 <lg n="36"><!-- need to check the meter and the repartition of the words within the padas -->
+                 <lg n="36" met="indravajrā">
                  <l n="a">paṃlvānanāṁ sada<lb 
-n="119"/>naṁ na deyaṁ </l>
+n="119" break="no"/>naṁ na deyaṁ </l>
                  <l n="b">dy<choice><sic>u</sic><corr>ū</corr></choice>tapracāropi nivāranīyaḥ<g type="danda">.</g></l>
                  <l n="c">śastrādikaṁ vāpi na dhāraṇīyaṁ</l>
-                 <l n="d">satkarmmaniṣṭ<supplied reason="omitted">h</supplied>ai<choice><sic>ṁbha</sic><corr>rbha</corr></choice>vitavyamebhiḥ</l>
+                 <l n="d">satkarmmaniṣṭ<supplied reason="omitted">h</supplied>ai<choice><sic>ṁbha</sic><corr>rbha</corr></choice>vitavyam ebhiḥ</l>
                      </lg>
                  <lb 
 n="120"/>rājasevakānāṁ vasati prayāṇadaṃṭau na staḥ<g type="danda">.</g> Atha bhūmi-dāna-praśaṁsā<g type="danda">.</g></p>
@@ -145,7 +145,7 @@ n="121" break="no"/>ṇāḥ<g type="danda">.</g></l>
             <l n="b">valāṃti ca pitāmahāḥ<g type="danda">.</g></l><!-- variation pravalganti -->
             <l n="c">bhūmido 'sma<lb 
 n="122" break="no"/>t-kule jātaḥ</l>
-            <l n="d">so 'smā<choice><sic>ṃt</sic><corr>n</corr></choice> saṁtārayiṣyati trātā bhaviṣyati<g type="danda">.</g></l>
+            <l n="d">so 'smā<choice><sic>ṃt</sic><corr>n</corr></choice> saṁtārayiṣyati<g type="danda">.</g></l>
                            </lg>
              <lg n="39" met="anuṣṭubh"><!-- best_st0003 -->
                             <l n="a">Ādityā Iva dīpyaṁte</l>
@@ -311,17 +311,15 @@ n="141"/>pālayanti mama dharmam i<unclear>maṁ samagraṁ</unclear> </l>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-             <!-- place of conservation / discoevry : Purshottampuri on the southern bank of the Gödavari, about 40 miles due west of Parbhani,
-in the Bhir District
-Size : 1, 2 1/4 broad, 1' 8" high and 3/8" thick.
-Weight : total 47-25 lbs = Plate 1 18 lbs plate 2 14,25 lbs plate 3 15 lbs 
-hole top middle 1 1/2 diameter 
-no seal no ring
-141 lines of writing P1 : 34 P2 : 34 + 38 P3 : 35 
-Naagarii
-language : sanskrit (some words in old marathi)
-Raamachandra later Yaadava dynasty 
-             -->
+             <p>The information below is taken from the introduction of the plates given by <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl></p>
+             <p>Findspot : Purshottampurī on the southern bank of the Godāvarī, about 40 miles due west of Parbhaṇi, in the Bhīr District (Maharashtra)</p>
+             <p>Size (very massive) : 1, 2 1/2 broad, 1' 8" high and 3/8" thick.</p>
+              <p>Total Weight: 47.25 lbs. Plate 1: 18 lbs. Plate 2: 14,25 lbs. Plate 3: 15 lbs. </p> 
+             <p> The first and third plates are inscribed on one side only and the second on bith the sides. The plates have in the centre at the top a round hole (1 1/2" in diameter) but there are no seal and no ring preserved.</p> 
+<p>There are 141 lines of writing (Plate 1: 34; Plate 2: 34 and 38; Plate 3: 35). The characters are Nāgarī and the language is sanskrit (some words in old marathi).</p>  
+<p>Objet: record the grant by Rāmacandra of the later Yādava dynasty of some villages to his minister Puruṣottama alias Puruṣai Nāyaka for the formation of an agrahāra and the donation by Puruṣottama of the agrahāra which he named Puruṣottamapurī after himself to certqin Brāhmaṇas. The agrahāra consisted of the four villages Pokharī, Aḍagaum Vāghaure and Kuruṇapāragau, which are situated in the Kānhairī-khaṃpaṇaka of Kāhairī-deśa. The land of the villages was divided in 86 parts: two were assigned to two gods (names not specified), one part was set apart to provide for the annual performance of the agniṣṭikā rite and the maintenance of chartiable water-shed, while 83 parts were donated to 83 Brāhmaṇas. Two dates are mentioned: the earlier one records the grant by Rāmacandra (saturday the 11th tithi of the bright fornight of Bhādrapada of Śaka 1232, corresponding to the 5th September A.D.1310), while the second registers the donation of the agrahāra by the minister during the same year. </p>
+             <p>The verse 13 states that Rāma the son of Kṛṣṇa, having occupied the fort of Devagiri, forcibly wrested the kingdom from Āmaṇa. The next verse gives an interesting description of the ruse which Rāmacandra adopted to obtain possession of the impregnable fort. He entered it with a party of dancers who were his soldiers indisguise. When admitted inside, he rallied his foot-soldiers and attacked his antagonists apparently while they were engaged in seeing the dance. The dancers also, throwing off their ornaments (i.e., disguise), joined in the fight. Rāmacandra seems to have won an easy victory as his enemy was taken unawares. The <title>Līḷācaritra</title>, a work of the Mahānubhāva sect from which some extracts of historical importance have been published, gives a graphic account of the confusion caused by this sudden attack. Cakradhara, the founder of the sect, was then sojourning at the village Savitā near Devagiri. [...] The <title>Ratnamālāstotra</title> of Keśava Vyāsa, another disciple of Cakradhara, furnished the further detail that the aforementioned incident took place in the evening. The <title>Smṛtisthaḷa</title> of Paraśarāma Vyāsa, who flourished in the same period, charges Rāmadeva with the murder of his brother, persecution of saints and ineficient administration of his kingdom which culminated in his capture by Muhammadan invaders.  </p>
+             <p>The present inscription is the last record of Rāmacandra.</p> <!-- names of the brahmanas line 80-114 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
