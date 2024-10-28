@@ -68,10 +68,13 @@
             </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">It was given with ablutions; it has been enjoyed three times; it has been protected by noble men : these acts of the kings of olden days never cease.</p>
+                    <p rend="stanza">It was given with ablutions; it has been enjoyed three times; it has been protected by noble men: these acts of the kings of olden days never cease.</p>
                 </div>
                 <div type="notes">
                     <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27.</note><!-- not yet checked -->
+                </div>
+                <div type="occurences">
+                    <p>See <ref target="DHARMA_INSSiddham01055.xml">Halsi Grant of Ravivarman (5 plates)</ref>.</p>
                 </div>
             </div>
             <div xml:id="best_st002">
@@ -112,11 +115,25 @@
                     <div type="translation" resp="part:amwb">
                     <p rend="stanza">Like the sun in the sky, they shine with energy, the men who offer earth for [sustaining] a fire established by a brahmin.</p>
                 </div>
-                <div type="notes">
-                        <note>5. Ep. Ind., Vol. XXV, p. 218, verse 39<!-- EI25_21 -->. The Mahābhārata (XIII, 62, 46) has it
+              <!-- Sircar's note  
+                  <div type="notes">
+                        <note>5. Ep. Ind., Vol. XXV, p. 218, verse 39. The Mahābhārata (XIII, 62, 46) has it
                 with dīpyanti tejasā bhuvi in the first half and dadāti vasudhāṁ sphītāṁ ye
                 veda-viduṣi dvije in the second. Ballāla’s Dānasāgara (op. cit., p. 332) seems to
                 attribute the stanza to the Viṣṇudharmottara.</note>
+                    -->  
+                    <div type="occurences">
+                        <p>See <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, line 122-123.</p>
+                        <p>The verse is quoted with no variation in the <title>Dānasāgara</title> of Ballālasena (<bibl><ptr target="bib:Bhattacharya1953_03"/><citedRange unit="page">332</citedRange></bibl>, verse 41). </p>
+                    </div>
+                    <div type="variation">
+                        <p><title>Mahābhārata</title> 13.61.43 (GRETIL):</p>
+                        <lg met="anuṣṭubh"> 
+                            <l n="a">Ādityā iva dīpyante</l>
+                            <l n="b">tejasā bhuvi mānavāḥ</l>
+                            <l n="c">dadanti vasudhāṃ sphītāṃ</l>
+                            <l n="d">ye vedaviduṣi dvije</l>
+                        </lg>
                     </div>
                 </div>
             <div xml:id="best_st0004">               
@@ -132,11 +149,11 @@
                     <p rend="stanza">Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis and the Lord rejoice the land-giver.</p>
                    <!-- <p rend="stanza">Āditya, Varuṇa, Viṣṇu, Brahmā, Soma, Hutāśana, Śulpāṇis et le Bienheureux accueillent avec joie celui qui donne des terres.</p>-->
                 </div>  
-                 <div type="variation">
-                     <l>Pitaraḥ, etc. See No. 4, note.</l><!-- 2024/05/29 : J'ajoute cette stance à la liste car on trouve les deux derniers pada aussi dans EI25_21 associé à la stance 78 qui donne la même idée de donateeur récompensé -->
-                </div>
+                <!--  <div type="variation">
+                     <l>Pitaraḥ, etc. See No. 4, note.</l>2024/05/29 : J'ajoute cette stance à la liste car on trouve les deux derniers pada aussi dans EI25_21 associé à la stance 78 qui donne la même idée de donateur récompensé
+                </div>-->
                 <div type="notes">
-                    <note>1. See, e. g., Ep. Ind., Vol. VIII, p. 142, text lines 33 f. Often abhinandanti is
+                    <note>1. See, e. g., Ep. Ind., Vol. VIII, p. 142, text lines 33 f<!-- INSSomavamsin00008  -->. Often abhinandanti is
                 found instead of pratinandanti and sometimes Hutāsana-purogamāḥ (Ep. Ind., Vol. XXX,
                 p. 278, text line 14) in the second foot. Sometimes we have Ādityā Vasavo Rudrā in
                 the first and Nārāyaṇaś=ca bhagavān in the third foot (Ep. Carn., Vol.III, No. Sr.
@@ -146,6 +163,19 @@
                 A similar stanza is Pitaraḥ pitr̥-lokasthā deva-loke divaukasaḥ | santarpayanti
                 dātārāṁ bhūmeḥ prabhavatāṁ vara || (Ep. Ind„ Vol XII, p. 97, lines 28-29).</note><!-- ajouter cette stance ? Ep. Ind„ Vol XII, p. 97, lines 28-29 cette référence n'est pas bonne il n'y a pas de texte aux pages citées mais des tableaux... -->
                     <!-- Gretil : Mahābhārata 13,061.045 ādityo varuṇo viṣṇur brahmā somo hutāśanaḥ | śūlapāṇiś ca bhagavān pratinandanti bhūmidam -->
+                </div>
+                <div type="occurences">
+                    <p>See  <ref>Satalma plates of Mahābhavagupta Janamejaya year 8</ref> (DHARMA_INSSomavamsin00008.xml file coming soon)</p>
+                    <p>The verse is quoted with no variation in <title>Mahābhārata</title> 13.61.45 (GRETIL)</p>
+                </div>
+                <div type="variation">
+                    <p>The verse is quoted with a minor variation in pāda d in <title>Dānasāgara</title> of Ballālasena (<bibl><ptr target="bib:Bhattacharya1953_03"/><citedRange unit="page">316</citedRange></bibl>, verse 6) and is ascribed here to the <title>Dānabṛhaspati</title>.</p>
+                    <lg met="anuṣṭubh">
+                <l n="a">Ādityo varuṇo viṣṇur</l>
+                <l n="b">brahmā somo hutāśanaḥ</l>
+                <l n="c">śūlapāṇiś ca bhagavān</l>
+                <l n="d">abhinandanti bhūmidaM</l>
+                </lg>
                 </div>
             </div>
             <div xml:id="best_st0004_01">
@@ -3071,39 +3101,39 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 <div type="notes">
                     <note>2. CII, Vol. III, pp. 104, 108,137. In some cases, the first foot is found as:
                 Sarva-śasya-samr̥ddhāṁ tu (ibid., pp. 11, 122, 127, 133) and the second foot as : yo
-                hared=vasudhām=iha(Ep. Ind., Vol. XXVIII, p. 114, text line 27). In the second half,
+                hared=vasudhām=iha(Ep. Ind., Vol. XXVIII, p. 114, text line 27<!-- checked and added -->). In the second half,
                 sometimes we find śva-viṣṭhāyām (CII, Vol. III, pp. 119, 137) and
                 sva-viṣṭhāyāṁ(JASB, Vol. VI, 1910, p. 436) instead of sa viṣṭhāyāṁ, and majjati or
                 majjate (CII, Vol. III, pp. 108, 119, 137) instead of pacyate, and the last three
-                words also as : pacyate pitr̥bhiḥ saha (Ind. Ant., Vol. XXXIX, 1910, p. 196).
+                words also as : pacyate pitr̥bhiḥ saha (Ind. Ant., Vol. XXXIX, 1910, p. 196)<!-- these three remarkas are added -->.
                 Sometimes the first half is given as : Para-dattāṁ sva-dattāṁ vā yo harati
-                nar-ādhemaḥ(Ep. Carn., Vol. VII, Tm. No. 51) and the second half is modified as :
+                nar-ādhemaḥ(Ep. Carn., Vol. VII, Tm. No. 51<!-- not found -->) and the second half is modified as :
                 ṣaṣṭi-varṣa-sahasrāṇi viṣṭhāyāṁ jāyate kr̥miḥ (CII, Vol. III, p. 289) or as gavāṁ
                 śata-sahasrasya hantur= harati (or pibati) duṣkr̥tam (ibid., pp. 238, 247; sometimes
                 hantuḥ pibati kilbiṣam in the last quarter,—Ep. Ind., Vol. XXXI. p. 80, text lines
-                43-3), or ṣaṣṭiṁ varṣa-sahasrāṇi narake pacyate tu saḥ (ibid., Vol. XVI, p. 267; cf.
+                43-3 <!--  DHARMA_INSVengiCalukya00013.xml -->), or ṣaṣṭiṁ varṣa-sahasrāṇi narake pacyate tu saḥ (ibid., Vol. XVI, p. 267 <!-- DHARMA_INSSiddham01024 -->; cf.
                 bhr̥śam for tu saḥ in Ind. Ant., Vol. VI. p. 26, line 26), or ṣaṣṭi-varṣa-sahasrāṇi
                 Kumbhīpāke sa pacyate (Ind, Ant., Vol. VI, p. 25, text line 16; or nisaye sa
                 vipacyate—–ibid., p. 30, line 16; or ghore tamasi vartate—Ep. Ind., Vol. XIV, p.
-                335, verse 90), or tena jātā janayitā narake pātitā dhruvam (Ep.Ind., Vol. XII, p.
+                335, verse 90<!-- Rice1917-1918_01 -->), or tena jātā janayitā narake pātitā dhruvam (Ep.Ind., Vol. XII, p.
                 203), or śvāna-yoni-śataṁ gatvā Cāṇḍāleṣu=abhijāyate (ibid., Vol. XX, p. 128, text
-                line 21 ), or narakān=na nivartante yāvac=candra-divākarau(Ep. Carn., Vol. VIII, Sb.
-                No. 477),or sa rūpī kula-saṁyuktaḥ kalpāntaṁ narakaṁ vrajet (ibid., Vol. X, Malur
-                No. 57 ), or na tasya narakād=ghorād=vidyate niṣkr̥tiḥ kvacit (Ep. Ind., Vol. XVII,
-                p. 304, verse 10), or kapilā-śata-ghātīnām | enasā pratipadyate (ibid., Vol. XXXIII.
-                p. 213, v.5 ). Fcr brahma-vr̥ttiṁ haret=tu yaḥ(hareta yaḥ—Ind. Ant., Vol. II. p. 159)
+                line 21 <!-- best0132_06 -->), or narakān=na nivartante yāvac=candra-divākarau(Ep. Carn., Vol. VIII, Sb.
+                No. 477<!-- best0132_07 -->),or sa rūpī kula-saṁyuktaḥ kalpāntaṁ narakaṁ vrajet (ibid., Vol. X, Malur
+                No. 57 <!-- not found -->), or na tasya narakād=ghorād=vidyate niṣkr̥tiḥ kvacit (Ep. Ind., Vol. XVII,
+                p. 304, verse 10 <!-- best_st0132_08 -->), or kapilā-śata-ghātīnām | enasā pratipadyate (ibid., Vol. XXXIII.
+                p. 213, v.5 <!-- Sircar+Sankaranarayanan1959-1960_01 best_st0132_09 -->). Fcr brahma-vr̥ttiṁ haret=tu yaḥ(hareta yaḥ—Ind. Ant., Vol. II. p. 159)
                 in the second foot, see Chhabra, Antiquities of Chamba State, II, p. 178. we have
                 also Aṅgam=ekaṁ padam=ekaṁ in the first foot and divyaṁ varṣa-sahasrāṇi jāyate
-                Brahmarākṣaṣaḥ in the second half (Ep. Ind., Vol. XXIII, p. 143, text lines 12-13).
+                Brahmarākṣaṣaḥ in the second half (Ep. Ind., Vol. XXIII, p. 143, text lines 12-13<!-- best_st0132_10 -->).
                 For divyaṁ varṣa-sahasraṇi in the third foot, see also Ind. Ant., Vol. XII, p. 121.
                 The second half is sometimes given as : ākṣeptā c=ānumantā ca sarvathā narakaṁ
-                vrajet(Ep. Ind., Vol.XVII, p. 337, text line 13). In the Tan Kran (Cambodia)
+                vrajet(Ep. Ind., Vol.XVII, p. 337, text line 13<!-- best_st0132_11 -->). In the Tan Kran (Cambodia)
                 inscription of about the 7th centuryA.D., we have the second half as : Avīci-narake
                 yāti pitr̥bhiḥ saha bandhubhiḥ (R. C. Majumdar, Inscriptions of Kambuja, p. 50). The
                 stanza occurs in the PadmaPurāṇa, op. cit., verses 28-29 (with haret=tu and
                 viṣṭhā-kr̥mi°), BhavisyaPurāṇa, op. cit., verse 34 (with the second half as sa naro
                 narake ghore kliśyaty=ā pralay-āntikam), BrahmaPurāṇa, 115,67 (with ṣaṣṭir=varṣa° and viṣṭhāyāṁ jāyate kr̥miḥ); Br̥haspatisaṁhitā,
-                verse 28 (with harec=cq aqḍ sva-viṣṭhayāṁ). In the Viṣṇudharmotiara (Hemādri, loc. cit.), the first and second halves occur as the first and
+                verse 28 (with harec=cq aqḍ sva-viṣṭhayāṁ). In the Viṣṇudharmottara (Hemādri, loc. cit.), the first and second halves occur as the first and
                 second halves of two consecutive stanzas with harec=ca and viṣṭhāyāṁ kr̥mitāṁ=eti
                 pitr̥bhiḥ sahitas=tathā). Cf. PadmaPurāṇa, III. 24, 10. Aparārka assigns it to the
                 ĀdityaPurāṇa (op. cit., p.370). The stanza is also ascribed to Viśvāmitra in the
@@ -3114,7 +3144,37 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     Aparārka p 370 from āditya purāṇa  gupta inscriptions n 23 qnd n 26 p 119  IA VI p363 EI VI p45 EI XIII p 270 qnd 233 Padmapurāna VI 33 26-30-->                   
                 </div>
              <div type="occurences">
-                 <p><!-- my own note --><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Baudhāyana Dharmasūtra</title>, II.2.26 :</p>
+                 <p><!-- my own note -->This verse is found with several variations in the epigraphical records. Below the standard stanza edited by <bibl></bibl> (numbered here best_132_00), I have listed all the major variations and have numbered them with an extented number. Each of these major variations can present minor variations. Below are the minor variations of the verse 132_00. </p>
+                 <p>The verse 132_00 is found with a regular variation on the pāda c: <foreign>sva-viṣṭhāyāṁ</foreign> or <foreign>śva-viṣṭhāyāṁ</foreign> instead of <foreign>sa viṣṭhāyāṁ</foreign>.</p> 
+                 <p>For the <foreign>sva-viṣṭhāyāṁ</foreign> variation, see the <ref target="DHARMA_INSSiddham00131.xml">Ghagrahati Charter of the Time of Samācāradeva, Year 14</ref>:</p>
+                 <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">sva-viṣṭhāyāṁ kr̥mir bhūtvā</l>
+                        <l n="d">pitr̥bhiḥ saha pacyate</l>
+                    </lg>
+                 <p>For the <foreign>śva-viṣṭhāyāṁ</foreign> variation, see the <ref target="DHARMA_INSSiddham00129.xml">Faridpur Undated Charter of Dharmāditya</ref>:</p>
+                 <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">śva-viṣṭhāyāṁ kr̥mir bhūtvā</l>
+                        <l n="d">pitr̥bhiḥ saha pacyate</l>
+                    </lg>
+                 <p>One of the main variation of the pāda d is the inverted order of the word (see for example <ref target="DHARMA_INSSomavamsin00010.xml">Gaintala plates of Mahābhavagupta Janamejaya year 17</ref>, line 25-36), but one can also read synonyms for the verb <foreign>pacyate</foreign> like in the <ref target="DHARMA_INSIA6_194-195.xml">Grant n°3: Eleven Land-Grants of the Chalukyas of Aṇhilvād</ref>:</p>
+                 <lg met="anuṣṭubh">                        
+                     <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharāṁ</l>
+                        <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā</l>
+                        <l n="d">pitr̥bhiḥ saha majjati</l>
+                    </lg>
+                 <p>I reproduce below a particular variation mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl> but I was not able to find the text in the bibliographical reference he quotes<note>He quoted Ep. Carn., Vol. VII, Tm. No. 51.</note>:</p>
+                 <lg met="anuṣṭubh">                        
+                     <l n="a">para-dattāṁ sva-dattāṁ vā</l>
+                        <l n="b">yo harati narādhamaḥ</l>
+                        <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā</l>
+                        <l n="d">pitr̥bhiḥ saha pacyate</l>
+                    </lg>
+                 <p><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Baudhāyana Dharmasūtra</title>, II.2.26 :</p>
                        <lg met="anuṣṭubh">
                            <l n="a">bhojanābhyañjanād dānād</l>
                            <l n="b">yad anyat kurute tilaiḥ</l>
@@ -3127,7 +3187,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                  <lg met="anuṣṭubh">
                      <l n="a">bhojanābhyañjanād dānād</l>
                      <l n="b">yo 'nyat tu kurute tilaiḥ</l>
-                     <l n="c">kr̥mir bhūtvā śvaviṣṭhāyāṃ</l>
+                     <l n="c">kr̥mir bhūtvā śva-viṣṭhāyāṃ</l>
                      <l n="d">pitr̥bhiḥ saha majjati</l>
                  </lg>
                  <p>A variation of this stanza is found in the <title>Mahābhārata</title> 14.96.15*004_1109-1110 (GRETIL):</p>
@@ -3138,6 +3198,13 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                      <l n="d">vidyate niṣkṛtiḥ kva cit</l>
                  </lg>
                  <p>There is no expiation anywhere [to exit] from the terrible hell for the man who would steal land given by himself or another. </p>
+<p>The <title>Hindol Plate of Kulastambha</title>, line 27 (see <bibl><ptr target="bib:Sircar1949-1950_11"/></bibl>) quotes this verse with a minor variation in the pāda b:    </p>
+                 <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hared vasundhām iha</l>
+                        <l n="c">śva-viṣṭhāyāṁ kr̥mir bhūtvā</l>
+                        <l n="d">pitr̥bhiḥ saha pacyate</l>
+                    </lg>
              </div>
             </div>
             <div xml:id="best_st0132_01">
@@ -3207,11 +3274,31 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                            <item><ref target="DHARMA_INSTelugu00091.xml">Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</ref></item>
                            <item><ref target="DHARMA_INSVengiCalukya00054.xml">Mḻopaṟṟu grant probably of Maṅgi Yuvarāja</ref></item>
                            <item><ref target="DHARMA_INSChauhan00001.xml">Bargarh copper plate of Maharaja Narayan Singh of Sambalpur</ref></item>
-                       </list>
-                       
-                   </p>
-               </div>
-               
+                           <item><ref target="DHARMA_INSSiddham01024.xml">Sirsi Grant of Kr̥ṣṇavarman , Year 19</ref></item>
+                       </list>                  
+                   </p>                          
+                   <p>The verse is quoted in the <ref target="DHARMA_INSEI4_25.xml">Chikkulla plates of Vikramendravarman</ref> with the following variation in the pāda d:</p>
+                   <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
+                        <l n="d">narake pacyate dhruvam</l>
+                    </lg>
+                   <p>The verse is quoted in the <ref>Penukonda Plates of Madhava II (III)</ref>, verse 3 line 19 (see <bibl><ptr target="bib:Rice1917-1918_01"/></bibl>) and on copper-plates of the Jaina-basti in ruins at Noṇamaṅgala (see <title>Epigraphia Carnatica</title>, volume X, Malur, n°72, DHARMA IS: INSEC10Mr072) with the following variation in the pāda d:</p>
+                   <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
+                        <l n="d">ghore tamasi vartate</l>
+                    </lg>
+                   <p>The verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 13-15 (<bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) with the following variation in the pāda d:</p>
+                   <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
+                        <l n="d">narakāyā jāyāta kr̥miḥ</l>
+                    </lg>
+               </div>              
            </div>
             <div xml:id="best_st0132_04">
                 <div type="text">
@@ -3229,18 +3316,104 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p>This variation is not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, but it is found in one of the earliest records of the Śālaṅkāyana dynasty. This prakrit inscription contains two final stanzas in sanskrit (see <bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> and <ref target="DHARMA_INSEIAD00161.xml">Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year 14</ref> : in this inscription, a space precedes the sanskrit part of the inscription and the two stanzas are introduced by the word <foreign>bhavati cātra</foreign>). </p>
                 </div>
                 </div>
-           <!-- <div xml:id="best_st0132_05">
+           <div xml:id="best_st0132_05">  
                 <div type="text">
                     <lg met="">
-                        <l n="a"></l>
-                        <l n="b"></l>
-                        <l n="c"></l>
-                        <l n="d"></l>
+                        <l n="a">sva-dāttāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">śvana-yoni-śataṁ gatvā</l>
+                        <l n="d">cāṇḍāleṣv abhijāyate</l>
                     </lg>
+                </div>
+                <div type="notes">
+                    <p>The verse is quoted in the <ref>Charkari Plate of Devavarmandeva: [vikrama] samvat 1108</ref>, line 21 (see <bibl><ptr target="HiraLal1929-1930_01"/></bibl>). 
+                    </p>
                 </div>
              </div>
           <div xml:id="best_st0132_06">
                 <div type="text">
+                   <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">tena jātā janetā ca</l>
+                        <l n="d">narake pātitā dhruvam</l>
+                    </lg>                  
+                </div>
+              <div type="notes">
+                  <p>The verse is quoted in the <ref>Hansot Plates of the Chahamana Bhartrivaddha, Samvat 813</ref>, lines 28-29 (see <bibl><ptr target="bib:Rice1917-1918_01"/></bibl>).</p>
+              </div>
+           </div>
+         <div xml:id="best_st0132_07">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">narakān na nivartante</l>
+                        <l n="d">yāvac candra-divākaraḥ</l>
+                    </lg>
+                </div>
+             <div type="notes">
+                 <p>This variation is quoted in a stone inscription of the Nīlakanṇṭha temple at Hechche, see Epigraphia Carnatica, volume VIII, Sb 477 (DHARMA ID: INSEC08Sb477). </p>
+             </div>
+            </div>
+            <div xml:id="best_st0132_08">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                     <l n="b">yo hareta vasundharām</l>
+                     <l n="c">na tasya narakāt ghorād</l>
+                     <l n="d">vidyate niṣkṛtiḥ kvacit</l>
+                    </lg>
+                </div>
+                <div type="translation" source="bib:KrishnaSastri1923-1924_01">
+                    <p>To him that robs land given by himself or by others, there is no expiation anywhere except in the dreadful hell.</p>
+                </div>
+                <div type="notes">
+                    <p>See the <ref target="DHARMA_INSEI17_16.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>.</p>
+                </div>
+            </div>
+           <div xml:id="best_st0132_09">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">kapilā-śata-ghātīnām</l>
+                        <l n="d">enasā pratipadyate</l>
+                    </lg>
+                </div>
+               <div type="notes">
+                   <p>The verse is quoted in the Malga plates of Samanta Indraraja, lines 22-23 (see <bibl><ptr target="bib:Sircar+Sankaranarayanan1959-1960_01"/></bibl></p>
+               </div>
+            </div>
+            <div xml:id="best_st0132_10">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">Aṅgam ekaṁ padam</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">divyaṁ varṣa-sahasrāṇi</l>
+                        <l n="d">jāyate brahmarākṣasaḥ</l>
+                    </lg>
+                </div>
+                <div type="notes">
+                    <p>This verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 11-13 (<bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) and is followed by a variation of best_0132_03. </p>
+                </div>
+            </div>
+            <div xml:id="best_st0132_11">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">akṣeptā cānumantā ca</l>
+                        <l n="d">sarvathā narakaṁ vrajet</l>
+                    </lg>
+                </div>
+                <div type="notes">
+                    <p>This variation is quoted in the Ipur plates of Madhavavarman II, line 13 (see <bibl><ptr target="bib:Hultzsch1923-1924_04"/></bibl>).<!-- EI17_20 --></p>
+                </div>
+            
+            </div>
+            <!-- <div xml:id="best_st0132_12">
+                <div type="text">
                     <lg met="">
                         <l n="a"></l>
                         <l n="b"></l>
@@ -3248,8 +3421,28 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="d"></l>
                     </lg>
                 </div>
-           </div>
-          <div xml:id="best_st0132_07">
+            </div>
+            <div xml:id="best_st0132_13">
+                <div type="text">
+                    <lg met="">
+                        <l n="a"></l>
+                        <l n="b"></l>
+                        <l n="c"></l>
+                        <l n="d"></l>
+                    </lg>
+                </div>
+            </div>
+            <div xml:id="best_st0132_14">
+                <div type="text">
+                    <lg met="">
+                        <l n="a"></l>
+                        <l n="b"></l>
+                        <l n="c"></l>
+                        <l n="d"></l>
+                    </lg>
+                </div>
+            </div>
+            <div xml:id="best_st0132_15">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -3287,6 +3480,22 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 V, Hassan No. 40) and the second half as para-dattā para-strī syān=na hartavyā
                 vasundharā (ibid., Vol.X, Govibinur No. 3).</note><!-- not yet checked  -->
                 </div>
+              <div type="occurences">
+                  <p>The verse is quoted with slight variations on a stone inscription in the Śaṅkara temple at Sogāne agrahara, see <title>Epigraphia Carnatic</title>a, volume VII, Sh 54 (DHARMA ID: INSEC07Sh054).</p>
+                  <lg met="anuṣṭubh">
+                        <l n="a">sva-dattā putrikā dhātrī</l>
+                        <l n="b">pitr̥-dattā sahodarī</l>
+                        <l n="c">anya-dattā ca mātā</l>
+                        <l n="d">tasmād dattām parityajet</l>
+                    </lg>
+                  <p>Another slight variation can be read in a copper plate belonging to Kûdḷi Śṛiṅgêri matt at Kûdli, see <title>Epigraphia Carnatic</title>a, volume VII, Sh 79 (DHARMA ID: INSEC07Sh079)</p>
+                  <lg met="anuṣṭubh">
+                        <l n="a">sva-dattā putrikā dhātrī</l>
+                        <l n="b">pitr̥-dattā sahodarī</l>
+                        <l n="c">anya-dattā svayaṁ mātā</l>
+                        <l n="d">tasmāt tām pālayet sadā</l>
+                    </lg>
+              </div>
            </div>       
            <div xml:id="best_st0134">
                 <div type="text">
@@ -4078,10 +4287,71 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">The ancestors who reside in the Pitr̥loka and the gods who dwell in the Devaloka, fully satisfy the land-giver, O thou who art the best among born beings.</p>
                 </div>
                 <div type="occurences">
-                    <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is Epigraphia Indica, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas cd are found in the <title>Purshottampuri Plates of Ramachandra, Saka 1232</title>, lines125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).<!-- The text is encoded see INSEI25_21 --></p>
+                    <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is <title>Epigraphia Indica</title>, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas cd are found in the <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 12322</ref>, lines 125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).</p>
+                </div>
+                <div xml:id="best_0174">
+                    <div type="text">
+                        <lg met="indravajrā">
+                            <l n="a">yo vyakramed dāyam imaṁ nibaddhaṁ</l>
+                            <l n="b">go-ghno guru-ghno dvija-ghātakaḥ saḥ</l>
+                            <l n="c">taiḥ pātakaiḥ pañcabhir anvito dho</l>
+                            <l n="d">gacchen naraḥ sopanipātakaiś ca</l>
+                        </lg>
+                    </div>
+                    <div type="translation" source="bib:Mitra1874_01">
+                        <p>He will be a vile murderer of cattle, of spiritual instructors, and of Brahmans, who will venture to set aside this ordinance; enveloped by the five heinous sins and all minor sins such a wretch will drop to the nether regions.</p>
+                    </div>
+                    <div type="occurences">
+                        <p>See <ref target="DHARMA_INSSiddham00035.xml">Indor Charter of the Time of Skandagupta</ref>, line 11-12.</p>
+                    </div>
+                    <div type="notes">
+                        <p>This verse does not belong to Sircar's list. As it represents one of the odlest imprecative verse quoted in a copper plate, it seems important to include it in this list even if I found no other quotation of it. </p>
+                    </div>
+                </div>
+                <div xml:id="best_0175">
+                    <div type="text">
+                        <lg met="anuṣṭubh">
+                            <l n="a">yathoktaiḥ pañcabhiḥ ghoraiḥ</l>
+                            <l n="b">mahā-pātaka-vahnibhiḥ</l>
+                            <l n="c">nirdagdhā narakaṁ yānti</l>
+                            <l n="d">brahmadeyāpahāriṇaḥ</l>
+                        </lg>
+                    </div>
+                    <div type="translation">
+                        <p>After being burnt by the fires of the five terrifying great sins above mentioned, those who seize gifts made to Brahmins will go to the hell.</p>
+                    </div>
+                    <div type="occurences">
+                        <p>See <ref target="DHARMA_INSSiddham01025.xml">Akki-Ālūr (Kiṛukuppuṭūra) Grant of Kṛṣṇavarman II, Year 15</ref> (see <bibl><ptr target="bib:Gai1996_01"/><citedRange unit="entry">38</citedRange><citedRange unit="page">147-148</citedRange></bibl>, attributed to the Dharmaśāstra of Manu.</p>
+                    </div>
+                    <div type="notes">
+                        <p>Not in Sircar's list. </p>
+                    </div>
                 </div>
             </div>
-            <!-- To add drom daba's corpus 
+            <!-- <div xml:id="best_0">
+                    <div type="text">
+                        <lg met="">
+                            <l n="a"></l>
+                            <l n="b"></l>
+                            <l n="c"></l>
+                            <l n="d"></l>
+                       </lg>
+                    </div>
+                    <div type="translation">
+                        <p></p>
+                    </div>
+                    <div type="occurences">
+                        <p></p>
+                    </div>
+                    <div type="notes">
+                        <p></p>
+                    </div>
+                </div>
+                
+                
+                
+                
+                To add drom daba's corpus 
                 Paḷaṁkalūru grant of Amma II 
                 DHARMA_INSVengiCalukya00043.
 introduced by Anyenāpy uktaṁ||
