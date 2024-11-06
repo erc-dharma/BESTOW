@@ -2245,6 +2245,9 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
               <div type="notes">
                    <note>3. Ep. Ind., Vol. XVII, p. 303, verse 20.</note><!-- EI17_16-4.tif  -->
               </div>
+              <div type="occurences">
+                  <p>See <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>.</p>
+              </div>
           </div>        
           <div xml:id="best_st0096">
               <div type="text">
@@ -3133,7 +3136,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 stanza occurs in the PadmaPurāṇa, op. cit., verses 28-29 (with haret=tu and
                 viṣṭhā-kr̥mi°), BhavisyaPurāṇa, op. cit., verse 34 (with the second half as sa naro
                 narake ghore kliśyaty=ā pralay-āntikam), BrahmaPurāṇa, 115,67 (with ṣaṣṭir=varṣa° and viṣṭhāyāṁ jāyate kr̥miḥ); Br̥haspatisaṁhitā,
-                verse 28 (with harec=cq aqḍ sva-viṣṭhayāṁ). In the Viṣṇudharmottara (Hemādri, loc. cit.), the first and second halves occur as the first and
+                verse 28 (with harec=ca aqḍ sva-viṣṭhayāṁ). In the Viṣṇudharmottara (Hemādri, loc. cit.), the first and second halves occur as the first and
                 second halves of two consecutive stanzas with harec=ca and viṣṭhāyāṁ kr̥mitāṁ=eti
                 pitr̥bhiḥ sahitas=tathā). Cf. PadmaPurāṇa, III. 24, 10. Aparārka assigns it to the
                 ĀdityaPurāṇa (op. cit., p.370). The stanza is also ascribed to Viśvāmitra in the
@@ -3291,7 +3294,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
                         <l n="d">ghore tamasi vartate</l>
                     </lg>
-                   <p>The verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 13-15 (<bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) with the following variation in the pāda d:</p>
+                   <p>The verse is quoted in the <ref>Upalada Plates of Ranaka Ramadeva</ref>, lines 13-15 (<bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) with the following variation in the pāda d:</p>
                    <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
@@ -3302,7 +3305,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
            </div>
             <div xml:id="best_st0132_04">
                 <div type="text">
-                    <lg met=""> 
+                    <lg met="anuṣṭubh"> 
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo nr̥po noddhared dharet</l>
                         <l n="c">jātau jātau sa pibati</l>
@@ -3318,10 +3321,10 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 </div>
            <div xml:id="best_st0132_05">  
                 <div type="text">
-                    <lg met="">
+                    <lg met="anuṣṭubh">
                         <l n="a">sva-dāttāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
-                        <l n="c">śvana-yoni-śataṁ gatvā</l>
+                        <l n="c">śvāna-yoni-śataṁ gatvā</l>
                         <l n="d">cāṇḍāleṣv abhijāyate</l>
                     </lg>
                 </div>
@@ -3369,7 +3372,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p>To him that robs land given by himself or by others, there is no expiation anywhere except in the dreadful hell.</p>
                 </div>
                 <div type="notes">
-                    <p>See the <ref target="DHARMA_INSEI17_16.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>.</p>
+                    <p>See the <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>.</p>
                 </div>
             </div>
            <div xml:id="best_st0132_09">
@@ -3567,7 +3570,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 <div type="variation">
                     <l>Saṣṭiṁ varṣa°, etc. See No. 137, note. </l>
                     <l>Taṭākānām, etc. See No. 137, note.</l>
-                      <l>Vāpī-kūpa°, etc. See No. 137, note. </l>
+                      <l>Vāpī-kūpa°, etc. See No. 137, note. </l><!-- see EI20_14a -->
                     <l>Ārāmāṇāṁ sahasreṇa, etc. See No. 137, note. </l><!-- I noticed that a part of the note 2 p 198 (st0139) actually refers to the stanza 0137 : EI 32 p 76 line 46 . It is a variation with grāsa hartā for bhūmi hartā -->
                     <l>Aśvamedha-sahasreṇa, etc See No. 137, note. </l>
                 </div>
