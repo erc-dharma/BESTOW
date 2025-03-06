@@ -2025,7 +2025,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XXVIII, p. 311, text lines 10-11; p. 257. This stanza is
-                generally found in the grants of the Imperial Gaṅgas of orissa. Sometimes we have
+                generally found in the grants of the Imperial Gaṅgas of Orissa. Sometimes we have
                 bhūmeḥ for bhūpaiḥ.</note><!-- See also EI31_19 p. 128 line 206-207 ; EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEST) best_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90-->
                 </div>
             </div>      
@@ -3975,8 +3975,8 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <note>6. Ep. Ind., Vol. XXV, p. 218, verse 40 <!-- checked see EI25_21.tif not yet encoded -->. Cf. Mahābhārata, XIII, 62, 26 : Yathā
                 sva-putraṁ jananī kṣīreṇa bharate sadā| anugr̥hṇāti dātāraṁ tathā sarvarasair=mahī ||
                 Ballāla (op. cit., p. 320) quotes the same verse with slight variations and
-                attributes it to the Mahābhārata.</note></div>
-            </div>
+                attributes it to the Mahābhārata.</note>
+                </div>         
             <div type="occurences">
                <p><title>Mahābhārata</title> 13,061.023 (from GRETIL):</p>
                 <lg met="anuṣṭubh">
@@ -3987,6 +3987,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </lg>
                 <p>see also 14,096.015d@004_1097</p>
             </div>
+                </div>
             <div xml:id="best_st0157">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -4267,14 +4268,17 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
             <div xml:id="best_0172">
                 <div type="text">
                      <lg met="vasantatilakā">
-                 <l n="a">rakṣān naraḥ parakr̥tau vidadhīta vidvān </l>
-                 <l n="b">pādā hi dharmma yaśasaḥ paramasya labdhāḥ</l>
-                 <l n="c">dhātraiva sriṣṭam akhilam bhuvanaṁ tathāpi</l>
-                 <l n="d">rakṣantri puṇyaratayaḥ pr̥thivīn narendrāḥ</l>
+                 <l n="a">rakṣān naraḥ parakr̥tau vidadhīta vidvān</l>
+                 <l n="b">pādā hi dharma yaśasaḥ paramasya labdhāḥ</l>
+                 <l n="c">dhātraiva sṛṣṭam akhilam bhuvanaṁ tathāpi</l>
+                 <l n="d">rakṣanti puṇya-ratayaḥ pr̥thivīn narendrāḥ</l>
              </lg>
                 </div>
                 <div type="translation" resp="bib:KrishnaSastri1923-1924_01">
                     <p rend="stanza">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
+                </div>
+                <div type="occurences">
+                    <p>See <ref target="DHARMA_INSEI17_16.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>, lines 143-144 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
                 </div>
             </div>
             <div xml:id="best_0173">
@@ -4290,8 +4294,9 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">The ancestors who reside in the Pitr̥loka and the gods who dwell in the Devaloka, fully satisfy the land-giver, O thou who art the best among born beings.</p>
                 </div>
                 <div type="occurences">
-                    <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is <title>Epigraphia Indica</title>, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas cd are found in the <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 12322</ref>, lines 125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).</p>
+                    <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is <title>Epigraphia Indica</title>, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas c and d are found in the <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 12322</ref>, lines 125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).</p>
                 </div>
+            </div>
                 <div xml:id="best_0174">
                     <div type="text">
                         <lg met="indravajrā">
@@ -4330,8 +4335,69 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <p>This verse does not belong to Sircar's list.</p>
                     </div>
                 </div>
-            </div>
-            <!-- <div xml:id="best_0">
+                <div xml:id="best_0176">
+                    <div type="text">
+                        <lg met="">
+                            <l n="a"></l>
+                            <l n="b"></l>
+                            <l n="c"></l>
+                            <l n="d"></l>
+                        </lg>
+                    </div>
+                    <div type="translation">
+                        <p></p>
+                    </div>
+                    <div type="occurences">
+                        <p></p>
+                    </div>
+                    <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+                    </div>
+                </div>
+            <div xml:id="best_0177">
+                    <div type="text">
+                        <lg met="">
+                            <l n="a"></l>
+                            <l n="b"></l>
+                            <l n="c"></l>
+                            <l n="d"></l>
+                        </lg>
+                    </div>
+                    <div type="translation">
+                        <p></p>
+                    </div>
+                    <div type="occurences">
+                        <p></p>
+                    </div>
+                    <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+                    </div>
+                </div>
+            <div xml:id="best_0178">
+                    <div type="text">
+                        <lg met="">
+                            <l n="a"></l>
+                            <l n="b"></l>
+                            <l n="c"></l>
+                            <l n="d"></l>
+                        </lg>
+                    </div>
+                    <div type="translation">
+                        <p></p>
+                    </div>
+                    <div type="occurences">
+                        <p></p>
+                    </div>
+                    <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+                    </div>
+                </div>
+            
+
+        </body>
+    </text>
+</TEI>
+<!-- <div xml:id="best_0">
                     <div type="text">
                         <lg met="">
                             <l n="a"></l>
@@ -4366,7 +4432,7 @@ introduced by Anyenāpy uktaṁ||
 Donation and the preservation of land <supplied reason="subaudible">as granted</supplied> are both said in this world to be acts of religious duty <supplied reason="explanation"><foreign>dharma</foreign></supplied>. <supplied reason="subaudible">But</supplied> everyone donates out of affection, therefore preservation is greater than donation.
 
             -->
-            <!-- A ajouter avec une traduction et voir si on les sépare ou on les cite ensemble source DHARMA_INSEC03Sr064.xml Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)
+<!-- A ajouter avec une traduction et voir si on les sépare ou on les cite ensemble source DHARMA_INSEC03Sr064.xml Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)
             <lg met="anuṣṭubh">
                     <l n="a">Indraḥ pṛicchati caṇḍālīṃ</l> (celle-ci citée aussi dans DHARMA_INSEC03Sr157)
                     <l n="b">kim idaṃ pacyate śubhe <g type="danda">.</g></l>
@@ -4381,7 +4447,7 @@ Donation and the preservation of land <supplied reason="subaudible">as granted</
                     <l n="e">teṣāṃ pāda-rajo-bhītyā</l> 
                     <l n="f">carmmaṇā pihitaṃ mayā <g type="ddanda">.</g></l
             -->
-            <!-- A ajouter ? dans une inscription trois vers nouveaux dont un utilisant la notion de traitre drohi (+ aussi un 4eme vers aavec Indra) DHARMA_INSEC03Sr157
+<!-- A ajouter ? dans une inscription trois vers nouveaux dont un utilisant la notion de traitre drohi (+ aussi un 4eme vers aavec Indra) DHARMA_INSEC03Sr157
             <lg met="" n="10">
                     <l n="a">balād dattāṃ balād bhuktāṃ</l> 
                     <l n="b">bālād yānvāpi lekhitān <g type="danda">.</g></l>
@@ -4420,10 +4486,6 @@ n="43"/>pravilokyāḥ</l>
              <p>Having perfomed this gift of Dharma, whatever merit has been acquired by that merit may this world attain Nirvāṇa.  </p>
             
             -->
-
-        </body>
-    </text>
-</TEI>           
     <!-- 
         Stance à ajouter : EI4_25 
 stance placée juste avant la date elle clôt la parite notification puis date puis on a un groupe de 3 stances identifiées (donc celle-ci n'a pas été retenue par Sircar) => mes arguments pour l'inclure structure très proche d'autres stances, cas intéressants d'inclusion d'une coloration religieux rudraloka qui est en adéquation avec l'obédience du don
