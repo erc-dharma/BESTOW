@@ -1100,7 +1100,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
                <div type="variation">
                    <l>Yān=īha dāridya°, etc. See No. 43, note. </l>
-                   <l>Yān=īha dattāni, etc. See No. 43, note. </l>
+                   <l>Yān=īha dattāni, etc. See No. 43, note. </l><!-- see INSEI12_23 -->
                </div>
                <div type="notes">
                    <note>2. CII, Vol. III, p. 180, text lines 73-74; Ep. Ind., Vol. III. p. 322, text lines
@@ -1174,18 +1174,18 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
            </div>
             <div xml:id="best_st0045_01"><!-- I attribute this number to this verse because it is mentioned as a variation of best_st0045 by Sircar, but I'm really not sure that it could be seen as a variation since there are no words in common with it?? So it will be necessary to establish some criteria to attribute to one stanza the status of variation -->
                 <div type="text">
-                    <lg met="">
-                        <l n="a">yathoktaiḥ pañcabhir ghoraiḥ</l>
-                        <l n="b">mahāpātaka-vahnibhiḥ</l>
-                        <l n="c">nirdagdhā narakaṁ yānti</l>
-                        <l n="d">brahmadeyāpahāriṇaḥ</l>
-                    </lg>
+                    <lg met="anuṣṭubh">
+                            <l n="a">yathoktaiḥ pañcabhiḥ ghoraiḥ</l>
+                            <l n="b">mahā-pātaka-vahnibhiḥ</l>
+                            <l n="c">nirdagdhā narakaṁ yānti</l>
+                            <l n="d">brahmadeyāpahāriṇaḥ</l>
+                        </lg>
                 </div>
                 <div type="translation">
-                    <p rend="stanza">Those who steal a gift given to Brahmin (<foreign>brahmadeya</foreign>) go to hell and suffer the five terrible fires of the great sins mentioned above.</p>
-                </div>
+                     <p>After being burnt by the fires of the five terrifying great sins above mentioned, those who seize gifts made to Brahmins will go to the hell.</p><!-- <p rend="stanza">Those who steal a gift given to Brahmin (<foreign>brahmadeya</foreign>) go to hell and suffer the five terrible fires of the great sins mentioned above.</p>
+-->                </div>
                 <div type="bibliography">
-                    <p>This stanza is quoted in <ref target="DHARMA_INSSiddham01025">Akki-Ālūr (Kir̥ukuppuṭūra) Grant of Kr̥ṣṇavarman II, Year 15</ref>, lines 18-19.</p>
+                    <p>This stanza is quoted in <ref target="DHARMA_INSSiddham01025">Akki-Ālūr (Kir̥ukuppuṭūra) Grant of Kr̥ṣṇavarman II, Year 15</ref>, lines 18-19 (see <bibl><ptr target="bib:Gai1996_01"/><citedRange unit="entry">38</citedRange><citedRange unit="page">147-148</citedRange></bibl>, attributed to the Dharmaśāstra of Manu..</p>
                 </div>
             </div>
             <div xml:id="best_st0046">
@@ -3343,7 +3343,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>                  
                 </div>
               <div type="notes">
-                  <p>The verse is quoted in the <ref>Hansot Plates of the Chahamana Bhartrivaddha, Samvat 813</ref>, lines 28-29 (see <bibl><ptr target="bib:Rice1917-1918_01"/></bibl>).</p>
+                  <p>The verse is quoted in the <ref target="DHARMA_INSEI12_23.xml">Hansot Plates of the Chahamana Bhartrivaddha, Samvat 813</ref>, lines 28-29 (see <bibl><ptr target="bib:Konow1913-1914_01"/></bibl>).</p>
               </div>
            </div>
          <div xml:id="best_st0132_07">
@@ -4308,26 +4308,26 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <p>See <ref target="DHARMA_INSSiddham00035.xml">Indor Charter of the Time of Skandagupta</ref>, line 11-12.</p>
                     </div>
                     <div type="notes">
-                        <p>This verse does not belong to Sircar's list. As it represents one of the odlest imprecative verse quoted in a copper plate, it seems important to include it in this list even if I found no other quotation of it. </p>
+                        <p>This verse does not belong to Sircar's list. As it represents one of the oldest imprecative verse quoted in a copper plate, it seems important to include it in this list even if I found no other quotation of it. </p>
                     </div>
                 </div>
                 <div xml:id="best_0175">
                     <div type="text">
-                        <lg met="anuṣṭubh">
-                            <l n="a">yathoktaiḥ pañcabhiḥ ghoraiḥ</l>
-                            <l n="b">mahā-pātaka-vahnibhiḥ</l>
-                            <l n="c">nirdagdhā narakaṁ yānti</l>
-                            <l n="d">brahmadeyāpahāriṇaḥ</l>
+                        <lg met="">
+                            <l n="a"></l>
+                            <l n="b"></l>
+                            <l n="c"></l>
+                            <l n="d"></l>
                         </lg>
                     </div>
                     <div type="translation">
-                        <p>After being burnt by the fires of the five terrifying great sins above mentioned, those who seize gifts made to Brahmins will go to the hell.</p>
+                        <p></p>
                     </div>
                     <div type="occurences">
-                        <p>See <ref target="DHARMA_INSSiddham01025.xml">Akki-Ālūr (Kiṛukuppuṭūra) Grant of Kṛṣṇavarman II, Year 15</ref> (see <bibl><ptr target="bib:Gai1996_01"/><citedRange unit="entry">38</citedRange><citedRange unit="page">147-148</citedRange></bibl>, attributed to the Dharmaśāstra of Manu.</p>
+                        <p></p>
                     </div>
                     <div type="notes">
-                        <p>Not in Sircar's list. </p>
+                        <p>This verse does not belong to Sircar's list.</p>
                     </div>
                 </div>
             </div>
