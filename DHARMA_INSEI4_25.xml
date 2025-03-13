@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Chikkulla plates of Vikramendravarman</title>
+                <title>Chikkulla plates of Vikramendravarman</title><!-- corresponds to INSEIAD00182  -->
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -120,14 +120,9 @@ n="20"/><pb n="4r"/><lb
 n="21"/><lb 
 n="22"/><lb 
 n="23"/><lb 
-n="24"/><lg met="anuṣṭubh" n="1"><!-- Maybe add this stanza in the list because its structure looks like a benedictive one -->
-    <l n="a">kaścid enam pālāyati</l>
-    <l n="b">so rudra-loke devagaṇā</l>
-    <l n="c"><pb n="4v"/><lb 
-n="25"/>koṭī-<choice><orig>s</orig><reg>ś</reg></choice>ata-sahasreṇa</l>
-    <l n="d">svarggina sukha<supplied reason="omitted">ṁ</supplied> modati</l>
-</lg>
-                  <p>vi<unclear>ja</unclear><lb 
+n="24"/><p>kaścid enam pālāyati so rudra-loke devagaṇā
+    <pb n="4v"/><lb 
+n="25"/>koṭī-<choice><orig>s</orig><reg>ś</reg></choice>ata-sahasreṇa svar<choice><orig>gg</orig><reg>g</reg></choice>ina sukha<supplied reason="omitted">ṁ</supplied> modati vi<unclear>ja</unclear><lb 
 n="26" break="no"/>yarājya-saṁvassaraṁbuḷ <num value="10">10</num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></p>
              <lg met="anuṣṭubh" n="2"> <!-- variation on pada b best_0023 -->     
             <l n="a"><lb 
@@ -165,8 +160,7 @@ n="32"/>śrāvayanti hi rājānāṁ</l>
          </div>
          <div type="translation" source="bib:Kielhorn1896-1897_02">
  	<!--translation encoded as per EGD §9.2 -->
-             <p n="24-25" rend="stanza">Whoever obeys it enjoys hapiness of the inhabitants of heaven with the hundred-thousand billions hosts in Rudra's world.</p>
-             <p n="25">In the year 10 of the reign of victory, on the 5th (day) of the 8th fornight of summer. [Here follow three benedictive and imprecatory verses.]</p>
+             <p n="24-25">Whoever obeys it enjoys happiness of the inhabitants of heaven with the hundred-thousand billions hosts in Rudra's world.In the year 10 of the reign of victory, on the 5th (day) of the 8th fornight of summer. [Here follow three benedictive and imprecatory verses.] </p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
