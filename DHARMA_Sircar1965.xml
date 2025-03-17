@@ -527,6 +527,9 @@
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXVIII, p. 277, text lines 22-25; cf. Vol. XXXVI, p. 46.</note><!-- see EI28_44.tif -->
                 </div>
+                <div type="occurences">
+                    <p>See <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 20-21 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</p>
+                </div>
             </div>
            
               <div xml:id="best_st0020">
@@ -648,6 +651,13 @@
                  Ascribed to Vyasa in IA VI p363 (sake 500) and p9 Gupta Inscription 
                  to Manu EI VI p18 
                         -->
+                   </div>
+                   <div type="occurences">
+                       <p>See the following inscriptions:
+                           <list>
+                                <item><ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 19-20 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</item>
+                                <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
+                           </list></p>
                    </div>
                </div>      
             <div xml:id="best_st0024">
@@ -778,6 +788,9 @@ Il n’y en eut point et n’y en aura point -->
                 dharma-pratipālakāḥ | te sarve punya-karmāṇo niyataṁ svarga-gāminaḥ || (Ind. Ant.,
                 Vol. XI, p. 243, text lines 4o-41).</note>
                 </div>
+                <div type="occurences">
+                    <p>See <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, line 18 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</p>
+                </div>
             
             </div>                   
             <div xml:id="best_st0030">
@@ -798,12 +811,24 @@ Having observed this double and balancing fortune, may you work for the longevit
                 </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. XXXI, p. 221, text lines 21-24. The stanza is sometimes quoted
-                separately from the Vyāsa-gīta group of verses (ibid. Vol. XXXIV, p. 114).</note><!-- See https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00034.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00035.html + 
-https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00037.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00038.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00039.html +
-https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00040.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00042.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00043.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00031.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00041.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00044.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00051.html-->
+                separately from the Vyāsa-gīta group of verses (ibid. Vol. XXXIV, p. 114).</note>
                 </div>
                 <div type="occurences">
-                    <p>This verse is quoted in the following inscriptions : <ref target="DHARMA_INSDk00031.xml">Sirpur Plates of Śivagupta, Year 6</ref>, <ref target="DHARMA_INSDk00034.xml">Sirpur Plates of Śivagupta, Year 11</ref>, <ref target="DHARMA_INSDk00035.xml">Sirpur Plates of Śivagupta, Year 19</ref>, <ref target="DHARMA_INSDk00037.xml">Sirpur Plates of Śivagupta, Year 37</ref>, <ref target="DHARMA_INSDk00038.xml">Sirpur Plates of Śivagupta, Year 38</ref>, <ref target="DHARMA_INSDk00039.xml">Sirpur Plates of Śivagupta, Year 46</ref>, <ref target="DHARMA_INSDk00040.xml">Sirpur Plates of Śivagupta, Year 48</ref>, <ref target="DHARMA_INSDk00041.xml">Sirpur Plates of Śivagupta, undated (presumably year 48 or later)</ref>, <ref target="DHARMA_INSDk00042.xml">Sirpur Plates of Śivagupta, Year 52</ref>, <ref target="DHARMA_INSDk00043.xml">Sirpur Plates of Śivagupta, Year 55</ref>, <ref target="DHARMA_INSDk00044.xml">Sirpur Plates of Śivagupta, undated (presumably year 55 or later)</ref>, <ref target="DHARMA_INSDk00051.xml">Sirpur Plates of Śivagupta, undated</ref></p>
+                    <p>This verse is quoted in the following inscriptions : 
+                        <list>
+                           <item> <ref target="DHARMA_INSDk00031.xml">Sirpur Plates of Śivagupta, Year 6</ref></item>
+                            <item><ref target="DHARMA_INSDk00034.xml">Sirpur Plates of Śivagupta, Year 11</ref></item>
+                            <item><ref target="DHARMA_INSDk00035.xml">Sirpur Plates of Śivagupta, Year 19</ref></item>
+                            <item><ref target="DHARMA_INSDk00037.xml">Sirpur Plates of Śivagupta, Year 37</ref></item>
+                            <item><ref target="DHARMA_INSDk00038.xml">Sirpur Plates of Śivagupta, Year 38</ref></item>
+                            <item><ref target="DHARMA_INSDk00039.xml">Sirpur Plates of Śivagupta, Year 46</ref></item>
+                            <item><ref target="DHARMA_INSDk00040.xml">Sirpur Plates of Śivagupta, Year 48</ref></item>
+                            <item><ref target="DHARMA_INSDk00041.xml">Sirpur Plates of Śivagupta, undated (presumably year 48 or later)</ref></item>
+                            <item><ref target="DHARMA_INSDk00042.xml">Sirpur Plates of Śivagupta, Year 52</ref></item>
+                            <item><ref target="DHARMA_INSDk00043.xml">Sirpur Plates of Śivagupta, Year 55</ref></item>
+                            <item><ref target="DHARMA_INSDk00044.xml">Sirpur Plates of Śivagupta, undated (presumably year 55 or later)</ref></item>
+                            <item><ref target="DHARMA_INSDk00051.xml">Sirpur Plates of Śivagupta, undated</ref></item>
+                        </list></p>
                 </div>
             </div>
             <div xml:id="best_st0031">
@@ -976,7 +1001,17 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                      <note>5. Ep. Ind., Vol. IX, p. 173, text lines 12-14.</note>
                 </div>
                <div>
-                   <p>this verse is found in <ref target="DHARMA_INSDk00012.xml">Kauvatal Plates of Sudevarāja, Year 7</ref>, verse 1, lines 2v1-2v4; in <ref target="DHARMA_INSDk00014.xml">Sāraṅgarh Plates of Sudevarāja (incomplete)</ref>, verse 1; in <ref target="DHARMA_INSDk00015.xml"> Ṭhākurdīya Plates of Pravararāja, Year 3</ref>, verse 1; in <ref target="DHARMA_INSDk00016.xml">Malhār Plates of Pravararāja, Year 3</ref>, verse 1; in <ref target="DHARMA_INSDk00005.xml">Malhār Plates of Jayarāja, Year 5</ref>, verse 1; in <ref target="DHARMA_INSDk00007.xml">Malhār Plates of Jayarāja, Year 9</ref>, verse 1; in <ref target="DHARMA_INSDk00010.xml">Sirpur Plates of Sudevarāja, Year 7</ref>, verse 1; in <ref target="DHARMA_INSDk00011.xml">Āraṅg Plates of Sudevarāja, Year 7</ref>, verse 1; </p>
+                   <p>This verse is found in
+                       <list>
+                           <item><ref target="DHARMA_INSDk00012.xml">Kauvatal Plates of Sudevarāja, Year 7</ref>, verse 1, lines 2v1-2v4</item>
+                           <item><ref target="DHARMA_INSDk00014.xml">Sāraṅgarh Plates of Sudevarāja (incomplete)</ref>, verse 1</item>
+                           <item><ref target="DHARMA_INSDk00015.xml"> Ṭhākurdīya Plates of Pravararāja, Year 3</ref>, verse 1</item>
+                           <item><ref target="DHARMA_INSDk00016.xml">Malhār Plates of Pravararāja, Year 3</ref>, verse 1</item> 
+                           <item><ref target="DHARMA_INSDk00005.xml">Malhār Plates of Jayarāja, Year 5</ref>, verse 1</item>
+                           <item><ref target="DHARMA_INSDk00007.xml">Malhār Plates of Jayarāja, Year 9</ref>, verse 1</item>
+                           <item><ref target="DHARMA_INSDk00010.xml">Sirpur Plates of Sudevarāja, Year 7</ref>, verse 1</item>
+                           <item><ref target="DHARMA_INSDk00011.xml">Āraṅg Plates of Sudevarāja, Year 7</ref>, verse 1</item>
+                       </list> </p>
                </div>
             </div> 
             <div xml:id="best_st0040">
@@ -1003,9 +1038,26 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     padam and we have madhye for tāvat in the first foot (Ep. Ind., Vol. XVI,
                 p. 351). Sometimes we have Dānaṁ vāpālanaṁ vātra and dānā cchreyo 'nupālanam in the first and second feet (Ep. Carn., Vol. II,
                 Nos., 253, 327; Vol. III, My. Nos. 7, 32). The third foot sometimes reads
-                dānād indratvam āpnoti(Ep. Ind., Vol. XIV, p. 104, text lines 103-105).</note><!-- See https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00034.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00035.html + 
-https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00037.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00038.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00039.html +
-https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00040.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00042.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00043.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00031.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00041.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00044.html + https://erc-dharma.github.io/tfb-daksinakosala-epigraphy/workflow-output/html/DHARMA_INSDk00051.html -->
+                dānād indratvam āpnoti(Ep. Ind., Vol. XIV, p. 104, text lines 103-105).</note>
+                </div>
+                <div type="occurences">
+                    <p>See the following inscriptions:
+                        <list>
+                            <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00034.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00035.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00037.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00038.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00039.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00040.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00042.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00043.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00031.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00041.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00044.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00051.xml"></ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                        </list>
+                    </p>
                 </div>
             </div>
             <div xml:id="best_st0040_01">
@@ -1117,6 +1169,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 foot and audāryato vipra-niveditāni in the third.</note>
                </div>
                <div type="occurences">
+                   <p>See <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, line 20 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</p>
                     <p>This verse can be read with slight variations in <ref target="DHARMA_INSVengiCalukya00057.xml">Peddāpurappāḍu plates (set 2) of Viṣṇuvardhana II</ref> (verse IV, lines 23-24).</p><!-- in this inscription it is directly followed by an jain hommage namo'rhate -->
                 </div>
            </div>
@@ -1332,6 +1385,9 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <note>6. Ep. Ind., Vol. XVI, p. 351, text lines 78-80; p. 318. Sometimes we have bhogyā
                 (ibid., p. 253). The same stanza occurs in the Skanda Purāṇa, op. cit., verse
                 39.</note>
+                </div>
+                <div type="occurences">
+                    <p>See <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></p>
                 </div>
             </div>
             <div xml:id="best_st0054">
@@ -1668,6 +1724,13 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                  <div type="notes">
                      <note>7. Ep. Carn., Vol. III, TN. No. 63; Sr. No. 64.</note>
                  </div>
+                 <div type="occurences">
+                     <p>See the following inscriptions:
+                     <list>
+                         <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
+                     </list>
+                     </p>
+                 </div>
              </div>
             <div xml:id="best_st0071">
                 <div type="text">
@@ -1836,7 +1899,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 Mahābhārata, XIII. 59, 11.</note>
                </div>
                <div type="occurences">
-                   <p>The source quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">7</citedRange><citedRange unit="page">187</citedRange></bibl> is the <ref target="DHARMA_INSBengalCharters00033">Kalaikuri-Sultanpur Plate of the Time of Kumāragupta I
+                   <p>The source quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">7</citedRange><citedRange unit="page">187</citedRange></bibl> is the <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur Plate of the Time of Kumāragupta I
 </ref> (see also <bibl><ptr target="bib:Sanyal1955-1956_01"/></bibl>).</p>
                    <p>A variation of this verse is found in the <title>Mahābhārata</title> 13.61.26 (GRETIL) </p>
                    <lg met="anuṣṭubh">
@@ -2092,6 +2155,15 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     ye bhūmipās satatam ujjvala-dharma-cittāḥ |
                     mad-dharmam eva satataṁ paripālayanti
                     tat-pāda-padma-yugalaṁ śirasā namāmi ǁ-->
+                </div>
+                <div type="occurences">
+                    <p>A variation is legible in  <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref> as follows: 
+                        <lg met="vasantatilakā" n="11"><!-- variation of best_st0089 -->
+                    <l n="a">mad-vaṁśajā vānya-kulodbhavā vā <g type="danda">.</g></l> 
+                    <l n="b">rakṣanti ye dharmmam imaṁ nṛipālāḥ <g type="danda">.</g></l>
+                    <l n="c">teṣan tu nityaṁ sa harir ddadātu<g type="danda">.</g></l> 
+                    <l n="d">santāna-vṛiddhiṁ bhuvanādhipatyaṁ<g type="ddanda">.</g></l>
+</lg></p>
                 </div>
             <div xml:id="best_0089_01">
                 <div type="text">
@@ -2758,9 +2830,11 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                         <item><ref target="DHARMA_INSSomavamsin00038.xml">Sankhameri plates of Mahābhavagupta Uddyotakeśarin year 4</ref>, lines , Stanza </item>
                         <item><ref target="DHARMA_INSSomavamsin00039.xml">Ruchida plates of Mahābhavagupta year 8</ref>, lines , Stanza </item>
                         <item><ref target="DHARMA_INSSomavamsin00040.xml">Baragaon Plates of the Time of Janamejaya year 13</ref>, lines , Stanza </item>
-                        <item><ref target="DHARMA_INSSomavamsin00040.xml">Chaudwār plates #2 of Mahābhavagupta Dharmakandarpa year 31</ref>, lines , Stanza </item>
-                        <item><ref target="DHARMA_INSSomavamsin00040.xml">Chaudwār plates #3 of Mahābhavagupta Dharmakandarpa year 31</ref>, lines , Stanza </item>
-                        <item><ref target="DHARMA_INSSomavamsin00040.xml">Kāṇḍavindhā plates of Mahābhavagupta Uddyotakeśarin year 3</ref>, lines , Stanza </item>
+                        <item><ref target="DHARMA_INSSomavamsin00042.xml">Chaudwār plates #2 of Mahābhavagupta Dharmakandarpa year 31</ref>, lines , Stanza </item>
+                        <item><ref target="DHARMA_INSSomavamsin00043.xml">Chaudwār plates #3 of Mahābhavagupta Dharmakandarpa year 31</ref>, lines , Stanza </item>
+                        <item><ref target="DHARMA_INSSomavamsin00047.xml">Kāṇḍavindhā plates of Mahābhavagupta Uddyotakeśarin year 3</ref>, lines , Stanza </item>
+                        <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
+                        <item><ref target=""></ref></item>
                     </list>
                         </p>
                 </div>
@@ -2817,6 +2891,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 cit., p. 316) attributes the stanza to the Dāna-Br̥haspati.</note>
                 </div>
                 <div type="occurences">
+                    <p>See <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 21-22 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</p>
                     <p>A variation of this stanza quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> is found in the <title>Mahābhārata</title> 13.61.86-87 (GRETIL):</p>
                     <lg met="anuṣṭubh">
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
@@ -3039,6 +3114,12 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
 (a text of the Vaikhanasa-tradition) gretil sansknet bhrgs_u.htm
                     svadattāddviguṇaṃ puṇyaṃ paradattānupālanam  // BhS_35.170 //<BR>-->
                 </div>
+                <div type="occurences">
+                    <p>See the following isncriptions: 
+                    <list>
+                        <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
+                    </list></p>
+                </div>
             </div>   
             <div xml:id="best_st0129">
                 <div type="text">
@@ -3215,14 +3296,14 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="c">śva-viṣṭhāyāṁ kr̥mir bhūtvā</l>
                         <l n="d">pitr̥bhiḥ saha pacyate</l>
                     </lg>
-                 <p>One of the main variation of the pāda d is the inverted order of the word (see for example <ref target="DHARMA_INSSomavamsin00010.xml">Gaintala plates of Mahābhavagupta Janamejaya year 17</ref>, line 25-36), but one can also read synonyms for the verb <foreign>pacyate</foreign> like in the <ref target="DHARMA_INSIA6_194-195.xml">Grant n°3: Eleven Land-Grants of the Chalukyas of Aṇhilvād</ref>:</p>
+                 <p>One of the main variation of the pāda d is the inverted order of the word (see for example <ref target="DHARMA_INSSomavamsin00010.xml">Gaintala plates of Mahābhavagupta Janamejaya year 17</ref>, line 25-36), but one can also read synonyms for the verb <foreign>pacyate</foreign> like in the <ref target="DHARMA_INSIA6_194-195.xml">Grant n°3: Eleven Land-Grants of the Chalukyas of Aṇhilvād</ref> (for <foreign>majjati</foreign>, see also <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 22-23):</p>
                  <lg met="anuṣṭubh">                        
                      <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharāṁ</l>
                         <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā</l>
                         <l n="d">pitr̥bhiḥ saha majjati</l>
                     </lg>
-                 <p>I reproduce below a particular variation mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl> but I was not able to find the text in the bibliographical reference he quotes<note>He quoted Ep. Carn., Vol. VII, Tm. No. 51.</note>:</p>
+                 <p>I reproduce below a particular variation mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl> but I was not able to find the text in the bibliographical reference he quotes<note>He quoted Ep. Carn., Vol. VII, Tm. No. 51.</note>: </p>
                  <lg met="anuṣṭubh">                        
                      <l n="a">para-dattāṁ sva-dattāṁ vā</l>
                         <l n="b">yo harati narādhamaḥ</l>
@@ -3275,14 +3356,14 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p rend="stanza">He who would seize land, whether given by himself or by another, imbibes the sin (<foreign>kilbiṣa</foreign>) of the slayer of a hundred thousand cows.</p>
                 </div>
                 <div type="occurences">
-                    <p>Sircar's reference : <bibl><ptr target="bib:Narasimhaswami1955-1956_01"/></bibl> which corresponds to <ref target="DHARMA_INSVengiCalukya00013">Koṇeki grant of Viṣṇuvardhana II</ref>
+                    <p>Sircar's reference : <bibl><ptr target="bib:Narasimhaswami1955-1956_01"/></bibl> which corresponds to <ref target="DHARMA_INSVengiCalukya00013.xml">Koṇeki grant of Viṣṇuvardhana II</ref>
                      </p>
                     <p>Occurences found in the DHARMA database:
                         <list>
                             <item><ref target="DHARMA_INSVengiCalukya00013.xml">Koṇeki grant of Viṣṇuvardhana II</ref></item>
                             <item><ref target="DHARMA_INSVengiCalukya00017.xml">Tenali plates of Vijayāditya I</ref></item>
-                            <item><ref target="DHARMA_INSVengiCalukya00059">Uccāṭi grant of Jayasiṁha I</ref></item>
-                            <item><ref target="DHARMA_INSVengiCalukya00050">Cendalūr Plates of Maṅgi Yuvarāja</ref></item>
+                            <item><ref target="DHARMA_INSVengiCalukya00059.xml">Uccāṭi grant of Jayasiṁha I</ref></item>
+                            <item><ref target="DHARMA_INSVengiCalukya00050.xml">Cendalūr Plates of Maṅgi Yuvarāja</ref></item>
                         </list>             
 <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 3  p 1272
                         IA VI p 9 EI vol 8 p146 and p 162 EI XI p 111
@@ -3306,7 +3387,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p>Sircar's reference : CII vol III pp. 238, 247</p>
                     <p>Occurences found in the DHARMA database:
                     <list>
-                        <item><ref target="DHARMA_INSPallava00006">Uruvupalli grant, time of Siṃhavarman, year 11</ref></item>
+                        <item><ref target="DHARMA_INSPallava00006.xml">Uruvupalli grant, time of Siṃhavarman, year 11</ref></item>
                     </list></p>
                 </div>
             </div>
@@ -3323,13 +3404,14 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                    <p>He who would seize land, whether given by himself or by another, will be reborn as a worm in n excrement for sixty thousand years. </p>
                </div>
                <div type="occurences">
-                   <p>Sircar's reference : CII, Vol. III, p. 289 + INSTelugu00091 + INSVengiCalukya00054</p>
+                   <p>Sircar's reference : CII, Vol. III, p. 289.</p>
                    <p>Occurences found in the DHARMA database : 
                        <list>
-                           <item><ref target="DHARMA_INSTelugu00091.xml">Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</ref></item>
-                           <item><ref target="DHARMA_INSVengiCalukya00054.xml">Mḻopaṟṟu grant probably of Maṅgi Yuvarāja</ref></item>
+                           <item><ref target="DHARMA_INSTelugu00091.xml">Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</ref> (mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                           <item><ref target="DHARMA_INSVengiCalukya00054.xml">Mḻopaṟṟu grant probably of Maṅgi Yuvarāja</ref> (mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                            <item><ref target="DHARMA_INSChauhan00001.xml">Bargarh copper plate of Maharaja Narayan Singh of Sambalpur</ref></item>
                            <item><ref target="DHARMA_INSSiddham01024.xml">Sirsi Grant of Kr̥ṣṇavarman , Year 19</ref></item>
+                           <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                        </list>                  
                    </p>                          
                    <p>The verse is quoted in the <ref target="DHARMA_INSEI4_25.xml">Chikkulla plates of Vikramendravarman</ref> with the following variation in the pāda d (which is not mentioned by <bibl><ptr target="Sircar1965_03"/></bibl>, even though he quotes this record as the source for stanza best_st0057):</p>
@@ -4205,6 +4287,9 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 <div type="notes">
                     <note>7. Ep. Ind., Vol. II, p. 360. The verse is found in the Manusmr̥ti, IV, 235.</note><!-- checked see EI2_29.tif (date 1105) introduced by atrātha paurāṇikāḥ ślokaḥ  Olivelle's translation Manu IV.235  -->
                 </div>
+                <div type="occurences">
+                    <p>See <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 18-19 (see <bibl><ptr target="bib:Venis1894_01"/></bibl>). In this grant, the verses are introduced by the sentence: <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>.</p>
+                </div>
             </div>
             <div xml:id="best_0165">
                 <div type="text">
@@ -4250,7 +4335,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">A man who objects to the <foreign>vipra</foreign> in a copper plate, would be sick, diminished without will, whose life expectancy is reduced, defeated by his enemies !</p>
                 </div>
                 <div type="occurences">
-                    <p>See <ref target="DHARMA_INSSomavamsin00021">Nuapatna plates of the time of Janamejaya year 5</ref>.</p>
+                    <p>See <ref target="DHARMA_INSSomavamsin00021.xml">Nuapatna plates of the time of Janamejaya year 5</ref>.</p>
                 </div>
             </div>
             <div xml:id="best_0168">
@@ -4266,7 +4351,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">Hear the fruit of the sin of that man who seizes His property: it exceeds thousands of Brahmin-murders and cow-slaughters.</p>
                 </div>
                 <div type="occurences">
-                    <p>See <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062)</p>
+                    <p>See <ref target="DHARMA_INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref> (INSVengiCalukya00062)</p>
                 </div>
             </div>
             <div xml:id="best_0169">

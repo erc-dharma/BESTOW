@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</title>
+                <title>Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSEC03Sr064</idno>
+                <idno type="filename">DHARMA_INSEI2_29</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:amwb" when="2024-03-20">Creation of the file</change>
+            <change who="part:amwb" when="2025-03-17">Creation of the file</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
     </teiHeader>
@@ -91,97 +91,85 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-             <pb n="unknown"/>
-             <lg met="anuṣṭubh" n="1">
-                 <l n="a">dharmmās su-sthiratāṁ yāntu</l> 
-                 <l n="b">kṛṣṇa-rāja-mahīpateḥ<g type="danda">.</g></l>
-                 <l n="c">yāvad-dharādharādhārā</l> 
-                 <l n="d">yāvac chandra-divākarau <g type="ddanda">.</g></l>
-             </lg>
-              <p>gautama-kṣetrada paścima-raṅganātha-svāmiyavara caraṇāravinda-sannidhiyalli
-nānā-gotrada nānā-sūtrada nānā-vicitra-śākheya nānāvidha-nāmadheyādi Yādavapurī-agrahārada <num value="112">112</num>
-nūra-hanneraḍu-vṛitti-mahājanaṅgaḷgam ī <num value="23">23</num> ippattu-mūru-grāmagaḷaṁ sa-hiraṇyodakavāgi śrī-Kṛiṣṇā-
-rppaṇa-buddhiyiṁ dhāreyan er̤edu koṭṭu tāvu māḍid īy-agrahāraṁ śāśvatavāgi ā-candrārkkamuṁ
-sarvvamānyavāgi naḍeyutt irali yendu dharaṇī-varāha-mudrā-sahitavāgi sva-hastākṣaraṅgaḷiṁ sva-
-nāma-sañcihuitaṁ geydu baresi koṭṭa bhū-dāna-tāmra-śāsanaṁ<g type="ddanda">.</g> śrīḥ <g type="ddanda">.</g>
-                  
-                  <lg met="anuṣṭubh" n="2"><!-- best_st0053 -->
-                      <l n="a">Ekaiva bhaginī loke</l> 
-                      <l n="b">sarvveṣām eva bhūbhujāṁ<g type="danda">.</g></l>
-                      <l n="c">na bhojyā na kara-grāhyā</l> 
-                      <l n="d">vipra-dattā vasundharā<g type="ddanda">.</g></l>
-</lg>
-                  <lg met="anuṣṭubh" n="3"><!-- variation of st0040 -->
-                      <l n="a">dāna-pālanayor mmadhye</l> 
-                      <l n="b">dānāc chreyonupālanaṁ <g type="danda">.</g></l>
-                      <l n="c">dānāt svarggam avāpnoti</l> 
-                      <l n="d">pālanād acyutaṁ padaṁ<g type="ddanda">.</g></l>
-                  </lg>
-                 <lg met="anuṣṭubh" n="4"><!-- best_st0128 -->
-                     <l n="a">sva-dattād dviguṇaṁ puṇyaṁ</l> 
-                     <l n="b">para-dattānupālanaṁ<g type="danda">.</g></l>
-                     <l n="c">para-dattāpahāreṇa</l> 
-                     <l n="d">sva-dattaṁ niṣphalaṁ bhavet <g type="ddanda">.</g></l>
-                 </lg>
-                 <lg met="anuṣṭubh" n="5"><!-- best_st0132_03 -->
-                     <l n="a">sva-dattāṁ para-dattāṁ vā</l> 
-                     <l n="b">yo hareta vasundharāṁ<g type="danda">.</g></l>
-                     <l n="c">ṣaṣṭir-vvarṣa-sahasrāṇi</l> 
-                     <l n="d">viṣṭhāyāṁ jāyate krimiḥ<g type="ddanda">.</g></l>
-                 </lg>
-                <lg met="anuṣṭubh" n="6">
-                    <l n="a">Indraḥ pṛcchati caṇḍālīṁ</l> 
-                    <l n="b">kim idaṁ pacyate śubhe <g type="danda">.</g></l>
-                    <l n="c">śva-māṁsaṁ surayā siktaṁ</l> 
-                    <l n="d">kapālena citāgninā<g type="ddanda">.</g></l>
-                </lg>
-                <lg met="anuṣṭubh" n="7">
-                    <l n="a">kim artthaṁ vada kalyāṇi</l> 
-                    <l n="b">carmmaṇā pihitaṁ tvayā <g type="danda">.</g></l>
-                    <l n="c">brahma-svaṁ brāhmaṇa-kṣetraṁ</l> 
-                    <l n="d">hārayanti haranti ye<g type="danda">.</g></l>
-                    <l n="e">teṣāṁ pāda-rajo-bhītyā</l> 
-                    <l n="f">carmmaṇā pihitaṁ mayā<g type="ddanda">.</g></l>
-                </lg>
-                <lg met="anuṣṭubh" n="8"><!-- best_st0070 -->
-                    <l n="a">imaṁ dharmmaṁ ca ye ghnanti</l> 
-                    <l n="b">ye ca tat sahakāriṇaḥ <g type="danda">.</g></l>
-                    <l n="c">kirāta-mleñcha-caṇḍāla</l>
-                    <l n="d">-carmmakārātmajās tu te <g type="ddanda">.</g></l>
-                </lg>
-                <lg met="anuṣṭubh" n="9"><!-- best_st0023 -->
-                    <l n="a">bahubhir vvasudhā bhuktā</l> 
-                    <l n="b">rājabhis sagarādibhiḥ<g type="danda">.</g></l>
-                    <l n="c">yasya yasya yadā bhūmis</l> 
-                    <l n="d">tasya tasya tadā phalaṁ<g type="ddanda">.</g></l>
-                </lg>
-                <lg met="śālinī" n="10"><!-- best_st0117 -->
-                    <l n="a">sāmānyo 'yaṁ dharmma-setur nṛipāṇāṁ<g type="danda">.</g></l> 
-                    <l n="b">kāle kāle pālanīyo bhavadbhiḥ<g type="danda">.</g></l>
-                    <l n="c">sarvvān etān bhāvinaḥ pārtthivendrān<g type="danda">.</g></l> 
-                    <l n="d">bhūyo bhūyo yācate rāmacandraḥ<g type="ddanda">.</g></l>
-                </lg>
-                <lg met="vasantatilakā" n="11"><!-- variation of best_st0089 -->
-                    <l n="a">mad-vaṁśajā vānya-kulodbhavā vā <g type="danda">.</g></l> 
-                    <l n="b">rakṣanti ye dharmmam imaṁ nṛipālāḥ <g type="danda">.</g></l>
-                    <l n="c">teṣan tu nityaṁ sa harir ddadātu<g type="danda">.</g></l> 
-                    <l n="d">santāna-vṛiddhiṁ bhuvanādhipatyaṁ<g type="ddanda">.</g></l>
-</lg>
-                    <lg met="anuṣṭubh" n="12">
-                 <l n="a">dharmmās su-sthiratāṁ yāntu</l> 
-                 <l n="b">kṛiṣṇa-rāja-mahīpateḥ<g type="danda">.</g></l>
-                 <l n="c">yāvad-dharādharādhārā</l> 
-                 <l n="d">yāvac candra-divākarau <g type="ddanda">.</g></l>
-             </lg>
-
-                  </p>
+             <pb n="1v"/>
+              <p>
+                  <lb 
+n="1"/><lb 
+n="2"/><lb 
+n="3"/><lb 
+n="4"/><lb 
+n="5"/><lb 
+n="6"/><lb 
+n="7"/><lb 
+n="8"/><lb 
+n="9"/><lb 
+n="10"/><lb 
+n="11"/><lb 
+n="12"/><lb 
+n="13"/><lb 
+n="14"/><lb 
+n="15"/><lb 
+n="16"/><lb 
+n="17"/>atrātha paurāṇikāḥ<lb 
+n="18" break="no"/>ślokāḥ</p>
+             <lg met="anuṣṭubh" n="8"><!-- best_st0029 -->
+                <l n="a">bhūmi<supplied reason="omitted">ṁ</supplied> yaḥ pratigr̥hṇāti</l>
+                <l n="b">yaś ca bhūmiṁ prayacchati</l>
+                <l n="c">Ubhau tau puṇya-karmmāṇau</l>
+                <l n="d">niyataṁ svargga-gāminau</l>
+                    </lg>
+              <lg met="anuṣṭubh" n="9"><!-- best_st0164 -->
+                        <l n="a">yo 'rccitaṁ pratigr̥hṇāti</l>
+                        <l n="b">dadāty arcci<lb 
+n="19" break="no"/>tam eva vā</l>
+                        <l n="c">tāv ubhau gacchataḥ svargaṁ</l>
+                        <l n="d">narakaṁ tu viparyaye</l>
+              </lg>
+             <lg met="anuṣṭubh" n="10"> <!-- best_st0023 -->     
+            <l n="a">bahubhir vasudhā bhuktā</l>
+            <l n="b">rājabhiḥ sagarādibhiḥ</l>
+            <l n="c">yasya <choice><sic>satya</sic><corr>yasya</corr></choice> yadā bhū<choice><sic>g</sic><corr>m</corr></choice>is</l>
+            <l n="d">tasya tasya <choice><sic>v</sic><corr>t</corr></choice>adā<lb 
+n="20"/>phalaṁ</l>
+                       </lg>
+             <lg met="indravajrā" n="11"> <!-- best_st0043 -->
+                       <l n="a">yānīha dattāni purā narendrair</l>
+                       <l n="b">dānāni dharmmārtha-yaśas-karāṇi</l>
+                       <l n="c">nirmmālya-v<choice><sic>attat</sic><corr>ānta</corr></choice>-pratimāni tāni</l>  
+                       <l n="d">ko nāma sādhuḥ punar ādadīta</l>
+                   </lg>
+             <lg met="vasantatilakā" n="12"><!-- best_st0019 -->
+                        <l n="a">Asmat-kula-<choice><sic>para</sic><corr>krama</corr></choice><lb 
+n="21" break="no"/>m udāram udāharadbhir</l>
+                        <l n="b">anyaiś ca dānam idam <choice><sic><g type="danda">.</g>ṇumā</sic><corr>abhyanumo</corr></choice>danīyam</l>
+                        <l n="c">lakṣmyās taḍit-salila-budbuda-ca<choice><orig>ṁ</orig><reg>ñ</reg></choice>calāyā </l>
+                        <l n="d">dānaṁ phalaṁ para-yaśaḥ-paripālana<choice><orig>ṁ</orig><reg>ñ</reg></choice> ca <surplus>ja</surplus></l>
+                    </lg>
+             <lg met="anuṣṭubh" n="13"><!-- best_st0119 -->
+                        <l n="a"><choice><orig>ṣaṁ</orig><reg>śaṅ</reg></choice>kha<supplied reason="omitted">ṁ</supplied> bhadrāsanaṁ<lb 
+n="22"/> chatra<supplied reason="omitted">ṁ</supplied></l>
+                        <l n="b">varāśvā vara-vār<choice><sic>e</sic><corr>a</corr></choice>ṇāḥ</l>
+                        <l n="c">bhūmi-dānasya cihnāni</l>
+                        <l n="d"><choice><sic>masaṁ</sic><corr>phalaṁ</corr></choice> <supplied reason="lost">svargaḥ</supplied> pura<choice><orig>ṁ</orig><reg>n</reg></choice>dara</l>
+                    </lg>
+             <lg met="anuṣṭubh" n="14">  <!-- best_st0132_00 -->                      
+                     <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo <choice><sic>dare</sic><corr>hara</corr></choice>ti <choice><sic>vamaṁ</sic><corr>vasun</corr></choice>dharāṁ</l>
+                        <l n="c">sa viṣṭhāyāṁ kr̥mir <choice><sic>dūlā</sic><corr>bhūtvā</corr></choice></l>
+                        <l n="d">pitr̥bhiḥ sa<lb 
+n="23" break="no"/>ha majjati</l>
+                    </lg><p>
+                  <pb n="1r"/><lb 
+n="24"/>
+    </p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="22"><!-- update the value of @loc.-->
+                     <lem>cihnāni</lem>
+                     <note>The standard stanza recorded by <bibl><ptr target="bib:Sircar1965_03"/></bibl> has the reading <foreign>puṣpāṇi</foreign>. 
+                     </note>
                   </app>
                </listApp>
          </div>
@@ -190,16 +178,15 @@ nāma-sañcihuitaṁ geydu baresi koṭṭa bhū-dāna-tāmra-śāsanaṁ<g type
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-             <p>Mysore District</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="R"><ptr target="bib:Rice1894"/><citedRange unit="page">50</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="V"><ptr target="bib:Venis1894_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="appendix">II</citedRange><citedRange unit="note">5</citedRange><citedRange unit="page">175</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
