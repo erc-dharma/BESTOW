@@ -187,7 +187,7 @@
                 <l n="d">Abhinandanti bhūmidaM</l>
                 </lg>
                 </div>
-                <div type="translation" resp="bib:Griffiths2015_02">
+                <div type="translation" source="bib:Griffiths2015_02">
                     <p rend="stanza">Yama, Vāruṇa, Vāyu, Śakra, Śukra, Br̥haspati, Candra, Āditya and the Grahas: they all rejoice in one who gives land!</p>
                 </div>                
                 <div type="notes">
@@ -253,7 +253,7 @@
                 lines 108-09) while the Mahābhārata (XIII, 62, 73) shows this reading with ca
                 sv-āpta- dakṣiṇaiḥ in the second foot.</note><!-- Ind. Ant., Vol. XIV, p. 319, text encoded + its variation noted just below  -->
                 </div>
-                
+            </div>   
             <div xml:id="best_st0006_01">
                 <div type="text">
                      <lg met="anuṣṭubh">
@@ -269,7 +269,6 @@
                 <div type="bibliography">
                     <bibl><ptr target="bib:Fleet1885_02"/><citedRange unit="page">319</citedRange><citedRange unit="line">108-109</citedRange></bibl>
                 </div>
-            </div>
             </div>
                <div xml:id="best_st0007">
                    <div type="text">
@@ -614,6 +613,22 @@
                      <!--  <p rend="stanza">Des centaines de rois à commencer par Sagara ont fait don de terre. Le bénéfice (du don de terre) revient toujours à celui qui en est alors le propriétaire.</p> -->
                    </div>
                    <div type="variation">
+                       <p>A variation of the pāda b can be read in <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi grant, time of Neṭuñcaṭaiyaṉ, year 3</ref> verse XXIII (in his note 2 p.180 <bibl><ptr target="bib:Sircar1965_03"/></bibl> silently emends <foreign>ca narādhipaiḥ</foreign>): </p>
+                       <lg met="anuṣṭubh">
+                    <l n="a">bahubhir vasudhā dattā</l>
+                    <l n="b">bhujyate hi <choice><sic>t</sic><corr>dh</corr></choice>arādhipaiḥ</l>
+                    <l n="c">yasya yasya yadā bhūmis</l>
+                    <l n="d">tasya tasya tadā phalaM</l>
+                </lg>
+                       <p>A variation of the padā b can be read in <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur Plate of the Time of Kumāragupta I
+</ref> verse IV lines 32-33:</p>
+                       <lg n="4" met="anuṣṭubh">
+                        <l n="a">bahubhir vasudhā bhuktā</l>
+                        <l n="b">bhujyate ca punaḥ punaḥ</l>
+                        <l n="c">yasya yasya yadā bhūmis</l>
+                        <l n="d">tasya tasya tadā phalaṁ</l>
+</lg>
+                       
                         <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>
                        <l>manu-prabhr̥tibhir mānyaiḥ, etc. Sec No. 23, note. </l> <!-- checked in EI 28.13 -->
                        <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l>
@@ -1112,6 +1127,9 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                <div type="translation" resp="bib:KrishnaSastri1923-1924_01">
                     <p rend="stanza">Oh! Gladdener of your race! He that makes a gift on this earth blesses (his) ten generations past and future; and he that takes away (that which has been given) destroys ten generations past and future. </p>
                 </div>
+               <div type="variation">
+                   <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="item">Stanza 42</citedRange><citedRange unit="page">183</citedRange></bibl> silently emends <foreign>kurunandana</foreign> in the pāda d. As I find no occurence of this reading, I reproduce the reading (<foreign>kulanandana</foreign>) found in the source quoted by Sircar himself (see <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi grant, time of Neṭuñcaṭaiyaṉ, year 3</ref> verse XXI).   </p>
+               </div>
                <div type="bibliography">
                    <bibl><ptr target="bib:KrishnaSastri1923-1924_01"/><citedRange unit="page">303</citedRange><citedRange unit="line">146-147</citedRange></bibl>
                </div>
@@ -1119,6 +1137,9 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                    <note>1. Ep. Ind., vol. XVII, p. 3o3, verse 2I. Sometimes we have : Dātā daś=anugr̥hṇāti
                 daśa hanti tathā kṣipan I pūrva-dattāṁ haran=hhūmiṁ narakāy=opagachcati 11 (Ind.
                 Ant., Vol. XlV, p. 319, text lines 111-12).</note>
+               </div>
+               <div type="occurences">
+                   <p>See <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>, verse XXI (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
                </div>
            </div>
             <div xml:id="best_st0042_01">
@@ -2315,10 +2336,10 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">No gift is greater than the gift of land; nor is there a greater sin enjoined (on man) than (that of) resuming land (already given).</p>
                 </div>
               <div type="notes">
-                   <note>3. Ep. Ind., Vol. XVII, p. 303, verse 20.</note><!-- EI17_16-4.tif  -->
+                   <note>3. Ep. Ind., Vol. XVII, p. 303, verse 20.</note><!-- EI17_16-4.tif = INSPandya10002.xml  -->
               </div>
               <div type="occurences">
-                  <p>See <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>.</p>
+                  <p>See <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref> (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>).</p>
               </div>
           </div>        
           <div xml:id="best_st0096">
@@ -2834,7 +2855,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                         <item><ref target="DHARMA_INSSomavamsin00043.xml">Chaudwār plates #3 of Mahābhavagupta Dharmakandarpa year 31</ref>, lines , Stanza </item>
                         <item><ref target="DHARMA_INSSomavamsin00047.xml">Kāṇḍavindhā plates of Mahābhavagupta Uddyotakeśarin year 3</ref>, lines , Stanza </item>
                         <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
-                        <item><ref target=""></ref></item>
+                        
                     </list>
                         </p>
                 </div>
@@ -3506,7 +3527,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p>To him that robs land given by himself or by others, there is no expiation anywhere except in the dreadful hell.</p>
                 </div>
                 <div type="notes">
-                    <p>See the <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>.</p>
+                    <p>See the <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>, verse 22 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>.</p>
                 </div>
             </div>
            <div xml:id="best_st0132_09">
@@ -4415,7 +4436,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
                 </div>
                 <div type="occurences">
-                    <p>See <ref target="DHARMA_INSEI17_16.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>, lines 143-144 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
+                    <p>See <ref target="DHARMA_INSPandya10002.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>, lines 143-144 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
                 </div>
             </div>
             <div xml:id="best_0173">
@@ -4453,25 +4474,26 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <p>This verse does not belong to Sircar's list. As it represents one of the oldest imprecative verse quoted in a copper plate, it seems important to include it in this list even if I found no other quotation of it. </p>
                     </div>
                 </div>
-                <div xml:id="best_0175">
+            <div xml:id="best_0175">
                     <div type="text">
-                        <lg met="">
-                            <l n="a"></l>
-                            <l n="b"></l>
-                            <l n="c"></l>
-                            <l n="d"></l>
-                        </lg>
+                        <lg met="anuṣṭubh">
+			                 <l n="a">Āgāminaḥ prajāpālān</l>
+			                 <l n="b">yācate kuru-nandanaḥ </l>
+			                 <l n="c">dharmasyaitasya sāmānyāt</l>
+			                 <l n="d">pālanīya Iti svayam</l>
+		</lg>
                     </div>
-                    <div type="translation">
-                        <p></p>
+                    <div type="translation" source="bib:Hultzsch1925-1926_01">
+                        <p>The descendant of Kuru himself entreats future kings:―'As this charity is common (to all kings), it must be preserved (by you as well)!'</p>
                     </div>
                     <div type="occurences">
-                        <p>See <ref></ref> (<bibl><ptr/></bibl>), lines . </p>
+                        <p>See <ref target="DHARMA_INSPallava00155.xml">Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 8</ref> (<bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl>), lines 43-44, stanza XXIX. </p>
                     </div>
                     <div type="notes">
-                        <p>This verse does not belong to Sircar's list. </p>
+                        <p>This verse does not belong to Sircar's list. Its content links it without doubt to the stanzas best_st0117 and best_st0118.</p>
                     </div>
                 </div>
+               <!-- 
                 <div xml:id="best_0176">
                     <div type="text">
                         <lg met="">
@@ -4528,7 +4550,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <div type="notes">
                         <p>This verse does not belong to Sircar's list.</p>
                     </div>
-                </div>
+                </div> -->
             
 
         </body>
