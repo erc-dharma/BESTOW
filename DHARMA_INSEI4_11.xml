@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Velvikudi Grant of Nedunjadaiyan, the third year of reign</title>
+                <title>Plate of Govindracandra of Vikrama-saṁvat 1182</title>
                 <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Aubervilliers</pubPlace>
-                <idno type="filename">DHARMA_INSEI17_16</idno>
+                <idno type="filename">DHARMA_INSEI4_11</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -83,7 +83,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:amwb" when="2024-05-13">Creation of the file</change>
+            <change who="part:amwb" when="2025-03-24">Creation of the file</change>
             <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
         </revisionDesc>
     </teiHeader>
@@ -91,99 +91,92 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
-             <pb n="1v"/><p>
-             <pb n="2r"/>
-             <pb n="2v"/>
-             <pb n="3r"/>
-             <pb n="3v"/>
-             <pb n="4r"/>
-             <pb n="4v"/>
-             <pb n="5r"/>
-             <pb n="5v"/>
-             <pb n="6r"/>
-             <pb n="6v"/>
-             <pb n="7r"/>
-             <pb n="7v"/>
-             <pb n="8r"/>
-             <pb n="8v"/>
-             <pb n="9r"/>
-             <pb n="9v"/><lb n="141"/>
+             <pb n="1r"/>
+              <p>
                   <lb 
-n="142"/>Āsīt maṅgalarājo madhurataraḥ śāstravit kavir vvāgmī Ājñaptir asya vaidyaḥ karavandapurā<lb 
-n="143" break="no"/>dhivāstyaḥ</p>
-             <lg n="19" met="vasantatilakā"><!-- best_0172 -->
-                 <l n="a">ra<choice><sic>tṣ</sic><corr>kṣ</corr></choice>ān naraḥ parakṛtau vidadhīta vidvān</l>
-                 <l n="b">pādā hi dhar<choice><orig>mm</orig><reg>m</reg></choice>a yaśasaḥ para<lb 
-n="144" break="no"/>masya labdhā<supplied reason="omitted">ḥ</supplied></l>
-                 <l n="c">dhātraiva sr<choice><sic>a</sic><corr>i</corr></choice>ṣṭam akhilam bhuvana<choice><sic>n</sic><corr>ṁ</corr></choice> tathāpi</l>
-                 <l n="d">ra<choice><orig>tṣ</orig><reg>kṣ</reg></choice>ant<surplus>r</surplus>i puṇyaratayaḥ <choice><sic>pra</sic><corr>pṛ</corr></choice>thivīn narendrā<supplied reason="omitted">ḥ</supplied><g type="ddanda">.</g></l>
-             </lg>
-             <lg n="20" met="anuṣṭubh">  <!-- best_st0095 -->
-                        <l n="a"><lb 
-n="145"/>na hi bhūmi-pradānād vai</l>
-                        <l n="b">dānam anyad viśiṣyate</l>
-                        <l n="c">na cāpi bhūmi-haraṇāt</l>
-                       <l n="d">pāpa<lb 
-n="146"/>m anyad vidhīyate</l>
-                  </lg>
-            
-                 <lg met="anuṣṭubh" n="21"><!-- best_st0042 -->
-                   <l n="a">dātā daśānugrahṇāti</l>
-                   <l n="b">yo hared daśa hanti ca<g type="danda">.</g></l>
-                   <l n="c">atītānāgatā<lb 
-n="147" break="no"/>n īha</l>
-                   <l n="d">kulāni kula-nandana</l>
-               </lg>
-             <lg met="anuṣṭubh" n="22"><!-- variation of best_st0132_08 -->
-                     <l n="a">sva-dattāṁ para-dattāṁ vā</l>
-                     <l n="b">yo hareta vasundharā<lb 
-n="148" break="no"/>m</l>
-                     <l n="c">na tasya <supplied reason="omitted">na</supplied>rakāt ghorād </l>
-                     <l n="d">vidyate niṣkṛtiḥ kvacit</l>
-                    </lg> 
-             <lg met="anuṣṭubh" n="23"><!-- best_st0023 -->
-                    <l n="a">bahubhir vvasudhā
-             <pb n="10r"/><lb 
-n="149"/>dattā</l>
-                    <l n="b">bhujyate hi tarādhipaiḥ</l>
-                    <l n="c">yasya yasya yadā bhūmis</l>
-                    <l n="d">tasya tasya ta<lb 
-n="150" break="no"/>dā phalam</l>
-                 </lg>
-                       <p>catvāraḥ ime vaiṣṇave dharme ślokāḥ<g type="ddanda">.</g><lb 
-n="151"/><lb 
-n="152"/><lb 
-n="153"/><lb 
-n="154"/><lb 
-n="155"/>     
-</p>    
+n="1"/><lb 
+n="2"/><lb 
+n="3"/><lb 
+n="4"/><lb 
+n="5"/><lb 
+n="6"/><lb 
+n="7"/><lb 
+n="8"/><lb 
+n="9"/><lb 
+n="10"/><lb 
+n="11"/><lb 
+n="12"/><lb 
+n="13"/><lb 
+n="14"/><lb 
+n="15"/><lb 
+n="16"/><lb 
+n="17"/><lb 
+n="18"/><lb 
+n="19"/><lb 
+n="20"/><lb 
+n="21"/><lb 
+n="22"/><lb 
+n="23"/>bhavanti cātra puṇya-ślo<lb 
+n="24" break="no"/>kāḥ<g type="ddanda">.</g></p>
+             <lg met="anuṣṭubh"><!-- best_st0029 -->
+                <l n="a">bhūmiṁ yaḥ pratigr̥hṇāti</l>
+                <l n="b">yaś ca bhūmiṁ prayacchati<g type="danda">.</g></l>
+                <l n="c">Ubhau tau puṇya-karmmāṇau</l>
+                <l n="d">niyataṁ svargga-gāminau<g type="ddanda">.</g></l>
+                    </lg>
+             <lg met="anuṣṭubh"><!-- best_st0119 -->
+                        <l n="a">śaṅkhaṁ bhadrāsanaṁ <surplus>ch</surplus>chatraṁ</l>
+                        <l n="b">varāśvā va<lb 
+n="25" break="no"/>ra-vāraṇāḥ<g type="danda">.</g></l>
+                        <l n="c">bhūmi-dānasya cihnāṇi</l>
+                        <l n="d">phalaṁ etat purandara<g type="ddanda">.</g></l>
+                    </lg>
+             <lg met="śālinī"><!-- best_st0117 -->
+                    <l n="a">sarvvān etān bhāvinaḥ pārthivendrān</l>
+                    <l n="b">bhūyo bhūyo yācate rāmabhadraḥ<g type="danda">.</g></l>
+                    <l n="c">sām<supplied reason="omitted">ā</supplied>nyo 'yaṁ dharmma<lb 
+n="26" break="no"/>-setur nr̥pāṇāṁ</l>
+                    <l n="d">kāle kāle pālanīyo bhavadbhiḥ<g type="ddanda">.</g></l>                   
+                    </lg>
+              <lg met="anuṣṭubh">    <!-- best_st0023 -->  
+            <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir vvasudhā bhuktā</l>
+            <l n="b">rājabhiḥ sagarādibhiḥ<g type="danda">.</g></l>
+            <l n="c">yasya yasya yadā bhūmis</l>
+            <l n="d">tasya tasya ta<lb 
+n="27" break="no"/>dā phalam<g type="ddanda">.</g></l>
+                       </lg>
+              <lg met="anuṣṭubh"><!-- vest_st0132_00 -->
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">sa viṣṭhāyāṁ kr̥mir bhūtvā</l>
+                        <l n="d">pitr̥bhiḥ saha majjati</l>
+                    </lg><lb 
+n="28"/>
+    
+
+                  </p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:KrishnaSastri1923-1924_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
-         <div type="translation" source="bib:KrishnaSastri1923-1924_01">
+         <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
-             <p rend="stanza" n="19">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
-             <p rend="stanza" n="20">No gift is greater than the gift of land; nor is there a greater sin enjoined (on man) than (that of) resuming land (already given)</p>
-             <p rend="stanza" n="21">Oh ! Gladdener of your race ! He that makes a gift on this earth blesses (his) ten generations past and future; and he that takes away (that which has been given) destroys ten generations past and future.</p>
-             <p rend="stanza" n="22">To him that robs land given by himself or by others, there is no expiation anywhere except in the dreadful hell.</p>
-             <p rend="stanza" n="23">Lands have been given away by many. Different kings are ruling (them). The fruit (of protection) belongs to him whose land it happens to be (at the time).</p>
-             <p>These four are verses in the <title>Vaiṣṇava-dharma</title></p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+             <p>One example of a particul authorship of the final stanzas : "sacred verses". </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="K"><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="K"><ptr target="bib:Kielhorn1896_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->

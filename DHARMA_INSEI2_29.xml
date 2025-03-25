@@ -178,6 +178,7 @@ n="24"/>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+             <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">172</citedRange></bibl> indicates the purāṇic authorship attributed to the final stanzas.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
