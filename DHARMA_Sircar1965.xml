@@ -71,10 +71,18 @@
                     <p rend="stanza">It was given with ablutions; it has been enjoyed three times; it has been protected by noble men: these acts of the kings of olden days never cease.</p>
                 </div>
                 <div type="notes">
-                    <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27.</note><!-- not yet checked -->
+                    <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27.</note><!-- not yet checked but Kqne indicqtes EI6_2 whihc corresponds to INSSiddham01036 -->
+                </div>
+                <div type="bibliography">
+                    <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl> attributes the number 22 to this stanza.</p>
                 </div>
                 <div type="occurences">
-                    <p>See <ref target="DHARMA_INSSiddham01055.xml">Halsi Grant of Ravivarman (5 plates)</ref>.</p>
+                    <p>See the following inscriptions : 
+                        <list>
+                        <item><ref target="DHARMA_INSSiddham01036.xml">Bannahaḷḷi Grant of Kr̥ṣṇavarman II, Year 7</ref> (quoted by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl>) </item>
+                        <item><ref target="DHARMA_INSSiddham01055.xml">Halsi Grant of Ravivarman (5 plates)</ref></item>
+                        </list>
+                    </p>
                 </div>
             </div>
             <div xml:id="best_st0002">
