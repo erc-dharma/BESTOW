@@ -218,7 +218,7 @@
                     <p rend="stanza">Yama, Vāruṇa, Vāyu, Śakra, Śukra, Br̥haspati, Candra, Āditya and the Grahas: they all rejoice in one who gives land!</p>
                 </div>                
                 <div type="notes">
-                    <p>This stanza is quoted in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref> (see <bibl><ptr target="bib:Griffiths2015_02"/></bibl></p>
+                    <p>This stanza is quoted in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref> (see <bibl><ptr target="bib:Griffiths2015_02"/></bibl>).</p>
                 </div>
             </div>
             <div xml:id="best_st0005">               
@@ -407,7 +407,7 @@
                    </lg>
                </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Anyone who is enriched by a gift that comes from someone else, or even from another <foreign>gotra</foreign>, is tainted with the great sins:</p>
+                    <p rend="stanza">Anyone who is enriched by a gift that comes from someone else, or even from another <foreign>gotra</foreign>, is tainted with the great sins.</p>
                 </div>
                <div type="notes">
                    <note>3. Ep. Carn., Vol. XIV, IIg. No. 143.</note>
@@ -457,7 +457,7 @@
                  <div type="occurences">
                      <p>See the following inscriptions:
                      <list>
-                         <item><ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref> line 16</item>
+                         <item><ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref> line 16 with variations in pāda c </item>
                      </list>
                      </p>
                  </div>
@@ -541,7 +541,13 @@
                     <p rend="stanza">The man who protects the support given to a noble <foreign>saṅgha</foreign>, having obtained the heaven, rejoices [there] with a divine soul for millions <foreign>kalpa</foreign>s.   </p>
                 </div>
                     <div type="notes">
-                        <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note><!-- Checked EI28_13 and added in my table-->
+                        <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note><!-- = EI28_13 and added in my table-->
+                    </div>
+                    <div type="occurences">
+                        <p>See the following inscriptions:
+                        <list>
+                            <item><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>)</item>
+                        </list></p>
                     </div>
                 </div>
             <div xml:id="best_st0018">
@@ -688,20 +694,31 @@
                     <l n="c">yasya yasya yadā bhūmis</l>
                     <l n="d">tasya tasya tadā phalaM</l>
                 </lg>
-                       <p>A variation of the padā b can be read in <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur Plate of the Time of Kumāragupta I
-</ref> verse IV lines 32-33:</p>
-                       <lg n="4" met="anuṣṭubh">
+                       <p>A variation of the padā b can be read in <ref target="DHARMA_INSBengalCharters00033.xml">Kalaikuri-Sultanpur Plate of the Time of Kumāragupta I</ref> verse IV lines 32-33 (already quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">180</citedRange></bibl>):</p>
+                       <lg met="anuṣṭubh">
                         <l n="a">bahubhir vasudhā bhuktā</l>
                         <l n="b">bhujyate ca punaḥ punaḥ</l>
                         <l n="c">yasya yasya yadā bhūmis</l>
                         <l n="d">tasya tasya tadā phalaṁ</l>
 </lg>
-                       
+                       <p>A variation of the pādas a and b (already quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">180</citedRange></bibl>) can be read in <ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>):</p>
+                       <lg met="anuṣṭubh"><!-- Best_st0023  -->   
+            <l n="a">manu-prabhṛtibhir mānyaiḥ</l>
+            <l n="b">bhuktā yady api rājabhiḥ</l>
+            <l n="c">yasya yasya yadā bhūmis</l>
+            <l n="d">tasya tasya tadā phalam</l>
+</lg>
+                       <p>A variation of the pāda b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) can be read in <ref target="DHARMA_INSEIAD00167.xml">Copper plates from Kānukollu — reign of Skandavarman, year 1</ref>, one the the earliest plates of the Śālaṅkāya dynasty which are in prakrit language except for this final stanza: </p>
+                       <lg  met="anuṣṭubh">
+                       <l n="a">bahubhir bahudhā dattā</l>
+                       <l n="b">vasudhā vasudhādhipaiḥ </l>
+                       <l n="c">yasya yasya yadā bhūmiḥ </l>
+                       <l n="d">tasya tasya tadā phalam</l><!--   DHARMA_INSEIAD00167 ; this plate is interssting because it is one the the earliest plates of the Śālaṅkāya dynasty : the plate is in prakrit except for this final stanza which is inscribed alone on the fourth plate -->
+                       </lg>
                         <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>
-                       <l>manu-prabhr̥tibhir mānyaiḥ, etc. Sec No. 23, note. </l> <!-- checked in EI 28.13 -->
                        <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l>
                          <l>Yānti kālena, etc. See No. 23, note. </l>
-                         <l>Yas=tu pālayate, etc. See No. 23, note. </l><!--  There is another variation in DHARMA_INSEIAD00167 ; this plate is interssting because it is one the the earliest plates of the Śālaṅkāya dynasty : the plate is in prakrit except for this final stanza which is inscribed alone on the fourth plate -->
+                         <l>Yas=tu pālayate, etc. See No. 23, note. </l>
                    </div>              
                     <div type="notes">
                        <note>2. CII, Vol. III. pp. 96, 104, 108, 115, 119, 122, 127,
@@ -1386,7 +1403,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                      <p>After being burnt by the fires of the five terrifying great sins above mentioned, those who seize gifts made to Brahmins will go to the hell.</p><!-- <p rend="stanza">Those who steal a gift given to Brahmin (<foreign>brahmadeya</foreign>) go to hell and suffer the five terrible fires of the great sins mentioned above.</p>
 -->                </div>
                 <div type="bibliography">
-                    <p>This stanza is quoted in <ref target="DHARMA_INSSiddham01025">Akki-Ālūr (Kir̥ukuppuṭūra) Grant of Kr̥ṣṇavarman II, Year 15</ref>, lines 18-19 (see <bibl><ptr target="bib:Gai1996_01"/><citedRange unit="entry">38</citedRange><citedRange unit="page">147-148</citedRange></bibl>, attributed to the Dharmaśāstra of Manu..</p>
+                    <p>This stanza is quoted in <ref target="DHARMA_INSSiddham01025">Akki-Ālūr (Kir̥ukuppuṭūra) Grant of Kr̥ṣṇavarman II, Year 15</ref>, lines 18-19 (see <bibl><ptr target="bib:Gai1996_01"/><citedRange unit="entry">38</citedRange><citedRange unit="page">147-148</citedRange></bibl>, attributed to the <title>Dharmaśāstra</title> of Manu.</p>
                 </div>
             </div>
             <div xml:id="best_st0046">
@@ -2244,6 +2261,13 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXVIII, p. 75.</note> <!-- checked and added in my table  -->
+                </div>
+                <div type="occurences">
+                    <p>See the following inscriptions:
+                        <list>
+                            <item><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>)</item>
+                        </list>
+                    </p>
                 </div>
             </div>
             <div xml:id="best_st0084">
@@ -3344,7 +3368,11 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p>This verse corresponds to the number 2 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. </p>
                    </div>
                <div type="occurences">
-                   <p></p>
+                   <p>See the following inscriptions:
+                   <list>
+                       <item><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>)</item>
+                   </list>
+                   </p>
                </div>
            </div>
             <div xml:id="best_st0124">
@@ -5047,26 +5075,26 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <p>This verse does not belong to Sircar's list. The use of the word <foreign>setu</foreign> links it without doubt to the stanzas best_st0117</p>
                     </div>
                 </div>
-             <!-- <div xml:id="best_0177">
+             <div xml:id="best_0177">
                     <div type="text">
-                        <lg met="">
-                            <l n="a"></l>
-                            <l n="b"></l>
-                            <l n="c"></l>
-                            <l n="d"></l>
+                        <lg met="anuṣṭubh">
+                            <l n="a">rāgād drohāt pralobhād vā</l>
+                            <l n="b">grāme kiñcit pralopayet</l>
+                            <l n="c">sa mahāpātakair yuktaḥ</l>
+                            <l n="d">pañcabhir nnarakaṁ vrajet</l>
                         </lg>
                     </div>
-                    <div type="translation">
-                        <p></p>
+                    <div type="translation" resp="part:amwb">
+                        <p>Whether it be out of passion, cheating or greed, if a person steals something in the village, tainted by the five great sins, he will go to hell. </p>
                     </div>
                     <div type="occurences">
-                        <p>See <ref></ref> (<bibl><ptr/></bibl>), lines .</p>
+                        <p>See <ref target="DHARMA_INSSiddham01003.xml">Kesaribedā Donation of Arthapati</ref> (<bibl><ptr/></bibl>), lines 10-11, verse 1.</p>
                     </div>
                     <div type="notes">
                         <p>This verse does not belong to Sircar's list.</p>
                     </div>
                 </div>
-            <div xml:id="best_0178">
+            <!-- <div xml:id="best_0178">
                     <div type="text">
                         <lg met="">
                             <l n="a"></l>
