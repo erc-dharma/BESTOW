@@ -152,16 +152,13 @@ n="27" break="no"/>dā phalam<g type="ddanda">.</g></l>
                         <l n="d">pitr̥bhiḥ saha majjati</l>
                     </lg><lb 
 n="28"/>
-    
-
-                  </p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="line"><!-- update the value of @loc.-->
                      <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <rdg source="bib:Kielhorn1896_06"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
                </listApp>
          </div>
@@ -170,7 +167,7 @@ n="28"/>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-             <p>One example of a particul authorship of the final stanzas : "sacred verses". </p>
+             <p>One example of a particular authorship of the final stanzas : "sacred verses". </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
