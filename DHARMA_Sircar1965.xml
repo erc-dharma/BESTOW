@@ -17,7 +17,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_best</idno>
+                <idno type="filename">DHARMA_Sircar1965</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -31,7 +31,7 @@
                 <date from="2023" to="2025">2023-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <bibl><ptr target="bib:best_03"/></bibl>
+                <p></p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -492,7 +492,7 @@
                             <l n="d">-brahma-sva-haraṇe nr̥ṇām</l>
                         </lg>
                     </div>
-                    <div type="translation" resp="bib:Barnett1915-1916_05">
+                    <div type="translation" source="bib:Barnett1915-1916_05">
                     <p rend="stanza">The slayer of a cow or of a Brahman may perchance find atonement in the Ganges and other holy places; but in the case of appropriation of the possessions of gods and Brahmans there can be no atonement for men.</p>
                 </div>
                     <div type="variation">
@@ -1255,7 +1255,7 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                    <l n="d">kulāni kulanandana</l>
                </lg>
                 </div>
-               <div type="translation" resp="bib:KrishnaSastri1923-1924_01">
+               <div type="translation" source="bib:KrishnaSastri1923-1924_01">
                     <p rend="stanza">Oh! Gladdener of your race! He that makes a gift on this earth blesses (his) ten generations past and future; and he that takes away (that which has been given) destroys ten generations past and future. </p>
                 </div>
                <div type="variation">
@@ -2252,7 +2252,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <lg met="anuṣṭubh">
                         <l n="a">lobhād gr̥hṇāti mandātmā</l>
                         <l n="b">yaḥ pumān pāpa-mohitaḥ</l>
-                        <l n="c">narake pacyate ghore</l>
+                        <l n="c">narake pacyate ghore</l>   
                         <l n="d">sa hi kalpān anekaśaḥ</l>
                     </lg>
                 </div>
@@ -2566,7 +2566,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                        <l n="d">pāpam anyad vidhīyate</l>
                   </lg>
               </div>
-              <div type="translation" resp="bib:KrishnaSastri1923-1924_01">
+              <div type="translation" source="bib:KrishnaSastri1923-1924_01">
                     <p rend="stanza">No gift is greater than the gift of land; nor is there a greater sin enjoined (on man) than (that of) resuming land (already given).</p>
                 </div>
               <div type="notes">
@@ -2635,7 +2635,15 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <l>Brahma-svaṁ putra-pautraghnaṁ, etc. See No. 98, note. </l>
                     <l>Brahma-svaṁ tu viṣam, etc. See No. 98, note. </l>
                    <l>Deva-svaṁ tu viṣaṁ ghoram, etc. See No. 98, note.</l> <!-- EI6_11  -->
-                   <p>A variation of this stanza (pādas a and b) can be read in <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17:</p>
+                   <p>A variation of this stanza (pādas a and b) can be read in <ref target="DHARMA_INSPallava00005">Oṃgoḍu grant, time of Skandavarman, year 33</ref>, lines 17-18</p>
+                       <lg met="anuṣṭubh">
+        <l n="a">b<unclear>ra</unclear>h<unclear>ma</unclear>-svaṃ tu viṣaṃ <unclear>gho</unclear>raṃ</l>
+        <l n="b">na viṣaṃ viṣam ucyate</l>
+        <l n="c"><unclear>viṣan</unclear> t<unclear>v e</unclear>kākinaṃ hanti</l>
+        <l n="d">brahma-svaṃ putra-pautrika<choice><unclear>M</unclear><unclear>ṃ</unclear></choice></l>
+    </lg>    
+                       
+                      <p>An almost identical variation can be read in <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17:</p>
                    <lg met="anuṣṭubh">
                             <l n="a">brahmasvena viṣaṁ ghoraṁ</l>
                             <l n="b">na viṣair viṣam ucyate</l>
@@ -3863,7 +3871,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                    <p>He who would seize land, whether given by himself or by another, will be reborn as a worm in n excrement for sixty thousand years. </p>
                </div>
                <div type="variation">
-                   <p>The verse is quoted in the <ref target="DHARMA_INSEI4_25.xml">Chikkulla plates of Vikramendravarman</ref> with the following variation in the pāda d (which is not mentioned by <bibl><ptr target="Sircar1965_03"/></bibl>, even though he quotes this record as the source for stanza best_st0057):</p>
+                   <p>The verse is quoted in the <ref target="DHARMA_INSEI4_25.xml">Chikkulla plates of Vikramendravarman</ref> with the following variation in the pāda d (which is not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, even though he quotes this record as the source for stanza best_st0057):</p>
                    <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
@@ -3946,7 +3954,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                 <div type="notes">
-                    <p>The verse is quoted in the <ref>Charkari Plate of Devavarmandeva: [vikrama] samvat 1108</ref>, line 21 (see <bibl><ptr target="HiraLal1929-1930_01"/></bibl>). 
+                    <p>The verse is quoted in the <ref>Charkari Plate of Devavarmandeva: [vikrama] samvat 1108</ref>, line 21 (see <bibl><ptr target="bib:HiraLal1929-1930_01"/></bibl>). 
                     </p>
                 </div>
              </div>
@@ -4995,7 +5003,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                  <l n="d">rakṣanti puṇya-ratayaḥ pr̥thivīn narendrāḥ</l>
              </lg>
                 </div>
-                <div type="translation" resp="bib:KrishnaSastri1923-1924_01">
+                <div type="translation" source="bib:KrishnaSastri1923-1924_01">
                     <p rend="stanza">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
                 </div>
                 <div type="occurences">
