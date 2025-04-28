@@ -150,7 +150,7 @@
                 <l n="a">Ādityo varuṇo viṣṇur</l>
                 <l n="b">brahmā somo hutāśanaḥ</l>
                 <l n="c">śūlapāṇiś ca bhagavān</l>
-                <l n="d">abhinandanti bhūmidaM</l>
+                <l n="d">Abhinandanti bhūmidaM</l>
                 </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
@@ -728,13 +728,6 @@
 <l n="b">dīyate ca punaḥ punaḥ</l>
 <l n="c">yasya yasya yadā bhūmis</l>
 <l n="d">tasya tasya tadā phalaM</l>
-</lg>
-                       <p>A variation of the pādas a and b (already mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) can be read in <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref> lines 26-27 and <ref target="DHARMA_INSBengalCharters00084.xml">Mallasarul Plate of Vijayasena, time of Gopacandra, year 3</ref>:</p>
-                       <lg met="anuṣṭubh">
-<l n="a">Iyaṁ rāja-śatair dattā</l>
-<l n="b">dīyate ca punaḥ punaḥ</l>
-<l n="c">yasya yasya yadā bhūmis</l>
-<l n="d">tasya tasya tadā phalaṁ</l>
 </lg>
                         <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>
                        <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l>
@@ -1933,6 +1926,12 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                <div type="notes">
                      <note>6. Ep.Ind., Vol. XXXIII. p- 213, verse 9.</note><!--  checked but not yet encoded see EI33_41 stanza 109 also quoted  -->
                </div>
+               <div type="occurences">
+                   <p>See the following inscriptions:
+                   <list>
+                       <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref></item>
+                   </list></p>
+               </div>
            </div>
              <div xml:id="best_0070">
                  <div type="text">
@@ -2101,6 +2100,12 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
                 <div type="notes">
                      <note>5. Ep. Ind., Vol. XXXIII. p. 213, verse 6.</note><!-- checked but not yet encoded see EI33_41 Malga plates of Samanta Indraraha edited by Sircar and Sankaranarayanan first half of the seventh century ; no source of authority for the stanzas but pañcamahāpātaka before their quotation -->
+                </div>
+                <div type="occurences">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref></item>
+                    </list></p>
                 </div>
             </div>
             <div xml:id="best_0077">
@@ -2423,12 +2428,21 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <lg met="vasantatilakā">
                         <l n="a">mad-vaṁśajāḥ para-mahīpati-vaṁśajā vā</l>
                         <l n="b">pāpād apeta-manaso bhuvi bhāvi-bhūpāḥ</l>
-                        <l n="c">ye pālayanti mama dharmam imaṁ samastaṁ </l>
+                        <l n="c">ye pālayanti mama dharmam imaṁ samastaṁ</l>
                         <l n="d">teṣāṁ mayā viracito 'ñjalir eṣa mūrdhni</l><!-- here metrical error need a long i  !!mūrdhni!! -->
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
                     <p rend="stanza">To the future kings on earth born in my lineage or born from another royal lineage, whose minds are deprived of sin and who protect this entire <foreign>dharma</foreign> of mine, I offer my respectful reverence.</p> <!-- Daniel's translation [Hereby I offer my respectful obeisance (añjali) to [all] future] kings [on earth, [whether] born in my lineage or a different royal lineage], who [with minds averted from sin] observe [this ruling (dharma) of mine in its integrity.] -->
+                </div>
+                <div type="variation">
+                     <p>A variation is legible in  <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref> as follows: 
+                        <lg met="vasantatilakā" n="11"><!-- variation of best_0089 -->
+                    <l n="a">mad-vaṁśajā vānya-kulodbhavā vā <g type="danda">.</g></l> 
+                    <l n="b">rakṣanti ye dharmmam imaṁ nṛipālāḥ <g type="danda">.</g></l>
+                    <l n="c">teṣan tu nityaṁ sa harir ddadātu<g type="danda">.</g></l> 
+                    <l n="d">santāna-vṛiddhiṁ bhuvanādhipatyaṁ<g type="ddanda">.</g></l>
+</lg></p>
                 </div>
                 <div type="notes">
                       <note>3 Ep. Ind., Vol. XXVIII, p. 312, text lines 17-18 <!-- EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEST) best_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90 -->. A modified form of the last
@@ -2452,13 +2466,23 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl> attributes the number 21 to this stanza.</p>
                 </div>
                 <div type="occurences">
-                    <p>A variation is legible in  <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref> as follows: 
-                        <lg met="vasantatilakā" n="11"><!-- variation of best_0089 -->
-                    <l n="a">mad-vaṁśajā vānya-kulodbhavā vā <g type="danda">.</g></l> 
-                    <l n="b">rakṣanti ye dharmmam imaṁ nṛipālāḥ <g type="danda">.</g></l>
-                    <l n="c">teṣan tu nityaṁ sa harir ddadātu<g type="danda">.</g></l> 
-                    <l n="d">santāna-vṛiddhiṁ bhuvanādhipatyaṁ<g type="ddanda">.</g></l>
-</lg></p>
+                   <p>See the following inscriptions:
+                   <list>
+                       <item><ref target="INSVengiCalukya00086.xml">Kāṭlapaṟṟu grant of Vijayāditya III</ref>, lines 69-71</item>
+                       <item><ref target="INSVengiCalukya00024.xml">Bezvāḍa plates of Bhīma I</ref>, lines 37-40</item>
+                       <item><ref target="INSVengiCalukya00040.xml">Pedda-Gāḻidipaṟṟu grant of Amma II</ref>, lines 69-70</item>
+                       <item><ref target="INSVengiCalukya00047.xml">Vemalūrpāḍu plates of Amma II</ref>, lines 66-69</item>
+                       <item><ref target="INSVengiCalukya00054.xml">Mḻopaṟṟu grant attributed to Maṅgi Yuvarāja</ref>, lines 21-23 </item>
+                       <item><ref target="INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref>, lines 38-40</item>
+                       <item><ref target="INSVengiCalukya00071.xml">Kaṇḍyam plates of Dānārṇava</ref>, lines 67-69</item>
+                       <item><ref target="INSVengiCalukya00075.xml">Pañcapāka grant of Bhīma I</ref>, lines 48-51</item>
+                       <item><ref target="INSVengiCalukya00077.xml">Varaṇaveṇḍi grant of Bhīma II</ref>, lines 64-67</item>
+                       <item><ref target="INSVengiCalukya00079.xml">Kalidiṇḍi grant of the Eastern Cālukya Rājarāja I</ref>, lines 118-119 </item>
+                       <item><ref target="INSVengiCalukya00095.xml">Uṟuvuṭūru grant of Vijayāditya III</ref>, lines 51-53</item>
+                       <item><ref target="INSVengiCalukya00097.xml">Pulgoṭlapaṁbuluru grant of Vijayāditya III</ref>, lines 53-55 </item>
+                       <item><ref target="INSIA14_CLIX.xml">Paiṭhan Plates of Rāmacandra śaka 1193</ref>, see <bibl><ptr target="bib:Fleet1885_02"/></bibl></item>
+                       <item><ref target="INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl></item>
+                   </list></p>
                 </div>
             <div xml:id="best_0089_01">
                 <div type="text">
@@ -2967,6 +2991,12 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. XXXIII, p. 213, verse 8.</note><!-- checked but not yet encoded ; EI33_41 ; source also quoted for stanza 69 -->
+                </div>
+                <div type="occurences">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref></item>
+                    </list></p>
                 </div>
             </div>
            <!-- <l>Prāsādā yatra, etc. See No. 127, note.</l> -->
@@ -5026,7 +5056,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">He who would would say “<supplied reason="subaudible">No, you</supplied> give <supplied reason="subaudible">me</supplied>, me” to one who says “Give <supplied reason="subaudible">me</supplied>, give” <supplied reason="explanation">i.e. to a Brahmin</supplied>—that embodied being will not <supplied reason="subaudible">be able to</supplied> say “Give” when he takes birth in another body.</p>
                 </div>
                 <div type="occurences">
-                    <p>The stanza is rather corrupted and reconstructed by Daniel Balogh in his edition of the plate (see <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062), in particular the note ).</p>
+                    <p>The stanza is rather corrupted and reconstructed by Daniel Balogh in his edition of the plate (see <ref target="INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref>, in particular the note).</p>
                 </div>
             </div>
             <div xml:id="best_0170">
@@ -5042,7 +5072,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">Who indeed would act in breach of moral duty (dharma) for the sake of the body, which seems to be full of pain and malady, and which will decay today or tomorrow?</p>
                 </div>
                 <div type="occurences">
-                    <p>See <title>Ciṁbuluru plates of Vijayāditya III</title> (INSVengiCalukya00062)</p>
+                    <p>See <ref target="INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref> </p>
                 </div>
             </div>
             <div xml:id="best_0171">
@@ -5188,6 +5218,23 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <p>This verse does not belong to Sircar's list.</p>
                     </div>
                 </div>
+            <div xml:id="best_0179">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                 <l n="a">deya-dharmam idaṁ kṛtvā</l>  
+                  <l n="b">yat puṇyaṁ samupārjitaṁ</l>
+                  <l n="c">tena puṇyeṇa loko 'yaṁ</l>
+                  <l n="d">nirvāṇam adhigacchatu</l>
+             </lg>
+                </div>
+                <div type="translation">
+                    <p>Having perfomed this gift of Dharma, whatever merit has been acquired by that merit may this world attain Nirvāṇa.  </p>
+                </div>
+                <div type="occurences">
+                    <p>See <ref target="DHARMA_INSEI35_1_4.xml">Inscription of the time of Ehuvala Chāntamūla year 24</ref> (<bibl><ptr target="bib:Sircar1963-1964_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">11-13</citedRange></bibl></p>
+                </div>
+             
+            </div>
             
 
         </body>
@@ -5272,14 +5319,7 @@ n="43"/>pravilokyāḥ</l>
                <l n="d">kīrttayo nr̥patibhir na vilopyā</l>
             </lg> 
             meaning close to best_0141 best_046 -->
-<!--  Maybe add this stanza found in EI35_1_4 buddhist stone inscription p11-13
-            <lg n="1" met="anuṣṭubh">
-                 <l n="a">deya-dharmmam idaṁ kṛtvā</l>  
-                  <l n="b">yat puṇyaṁ samupārjjitaṁ<g type="danda">.</g></l>
-                  <l n="c">tena puṇyeṇa loko 'yaṁ</l>
-                  <l n="d">nirvvāṇam adhigacchatu<g type="ddanda">.</g></l>
-             </lg>
-             <p>Having perfomed this gift of Dharma, whatever merit has been acquired by that merit may this world attain Nirvāṇa.  </p>
+<!--  
             
             -->
     <!-- 
