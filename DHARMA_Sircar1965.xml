@@ -616,6 +616,13 @@
 <l n="c">bhūmi-do 'smat-kule jātaḥ</l>
 <l n="d">sa naḥ santārayiṣyati</l>
 </lg>
+                        <p>A slight variation in the pāda c can be read in <ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 24-25 (= <ref target="INSEI33_41.xml">Malgā plates of Sāmanta Indrarāja</ref>, <bibl><ptr target="bib:Sircar+Sankaranarayanan1959-1960_01"/></bibl>)</p>
+                        <lg met="anuṣṭubh"><!-- best_0020 -->
+            <l n="a">Āsphoṭayanti pitaraḥ</l>
+            <l n="b">pravalganti pitāmahāḥ</l>
+            <l n="c">tvam eko 'smat-kule jātaḥ</l>
+            <l n="d">sa nas trātā bhaviṣyati</l>
+                           </lg>
                         <l>nandanti tasya pitaraḥ, etc. See No. 20, note. </l> <!-- EI28_44_B -->
                         <l>Ānandanti ca, etc. See No. 20, note.</l>
                     </div> 
@@ -775,6 +782,7 @@
                                 <item><ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 19-20 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</item>
                                 <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                                <item><p>See <ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 2 (with <foreign>dattā</foreign> instead of <foreign>bhuktā</foreign> in padā a</p></item>
+                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 19-20</item>                  
                            </list></p>
                    </div>
                </div>
@@ -1685,7 +1693,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">gāvo bhūmiṁ tathā bhāryāṁ</l>
-                        <l n="b">ākramya hara mā naya</l>
+                        <l n="b">Ākramya hara mā naya</l>
                         <l n="c">śrāvayanti hi rājānaṁ</l>
                         <l n="d">brahma-hatyā ca limpati</l><!-- lipyati in EI4_25 -->
                     </lg>
@@ -1696,6 +1704,12 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <div type="notes">
                     <note> 2. Ep. Ind., Vol. IV. p. 197, lines 31 -32.</note>
                     <note>See <bibl><ptr target="bib:Kielhorn1896-1897_02"/><citedRange unit="page">197</citedRange><citedRange unit="line">31-32</citedRange></bibl> (<ref target="DHARMA_INSEI4_25.xml">Chikkulla plates of Vikramendravarman</ref>).</note>
+                </div>
+                <div type="occurences">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item><ref target="INSEIAD00182.xml">Copper plates from Chikula — grant of Vikramendravarman, year 10</ref>, lines 31-32</item>
+                    </list></p>
                 </div>
             </div>
            <div xml:id="best_0058">
@@ -1924,12 +1938,12 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">An act performed in this world is rewarded in the hereafter, just as a fruit can be seen among the branches of a tree whose base has been watered. </p>
                 </div>
                <div type="notes">
-                     <note>6. Ep.Ind., Vol. XXXIII. p- 213, verse 9.</note><!--  checked but not yet encoded see EI33_41 stanza 109 also quoted  -->
+                     <note>6. Ep.Ind., Vol. XXXIII. p- 213, verse 9.</note><!--  checked see EI33_41 = insdaksinaKosala00018  -->
                </div>
                <div type="occurences">
                    <p>See the following inscriptions:
                    <list>
-                       <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref></item>
+                       <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 26-27</item>
                    </list></p>
                </div>
            </div>
@@ -2094,17 +2108,19 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         <l n="d">na rājā hartum arhati</l>
                     </lg>
                 </div>
-                <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Land that has been totally conquered and land that has been in the possession of ten other people cannot be seized by a king for a hundred years. 
-</p>
+                <div type="translation" resp="part:nabo">
+                    <p>Waste land what has [newly] been taken up for cultivation and [cultivated] land what has been enjoyed for more than ten years up to a hundred years, [that land] a king is not entitled to confiscate!</p>
+                    <!-- My previous translation : 
+                        <p rend="stanza">Land that has been totally conquered and land that has been in the possession of ten other people cannot be seized by a king for a hundred years. 
+</p> -->
                 </div>
                 <div type="notes">
-                     <note>5. Ep. Ind., Vol. XXXIII. p. 213, verse 6.</note><!-- checked but not yet encoded see EI33_41 Malga plates of Samanta Indraraha edited by Sircar and Sankaranarayanan first half of the seventh century ; no source of authority for the stanzas but pañcamahāpātaka before their quotation -->
+                     <note>5. Ep. Ind., Vol. XXXIII. p. 213, verse 6.</note><!-- checked but not yet encoded see EI33_41 Malga plates of Samanta Indraraha edited by Sircar and Sankaranarayanan first half of the seventh century ; no source of authority for the stanzas but pañcamahāpātaka before their quotation = insdaksinakosala00018 -->
                 </div>
                 <div type="occurences">
                     <p>See the following inscriptions:
                     <list>
-                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref></item>
+                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref>, lines 23-24</item>
                     </list></p>
                 </div>
             </div>
@@ -2982,7 +2998,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <lg met="anuṣṭubh">
                         <l n="a">prāpsyase vipulān bhogān</l>
                         <l n="b">pūrva-dattasya tat phalam</l>
-                        <l n="c">punar dadāsi dānād dhi</l>
+                        <l n="c">punar dadāsi dānād dhi</l><!-- sircar makes an emendation without mentioning it; the original EI33_41 has the reading dehīti instead of dadāsi -->
                         <l n="d">punar bhogī bhaviṣyasi</l>
                     </lg>
                 </div>
@@ -2990,16 +3006,17 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p rend="stanza">You will obtain many riches: this is the result of what was given before; by giving again, you will become richer. </p>
                 </div>
                 <div type="notes">
-                    <note>2. Ep. Ind., Vol. XXXIII, p. 213, verse 8.</note><!-- checked but not yet encoded ; EI33_41 ; source also quoted for stanza 69 -->
+                    <note>2. Ep. Ind., Vol. XXXIII, p. 213, verse 8.</note><!-- checked but not yet encoded ; EI33_41 ; source also quoted for stanza 69 = insdaksinakosala00018 -->
                 </div>
                 <div type="occurences">
                     <p>See the following inscriptions:
                     <list>
-                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref></item>
-                    </list></p>
+                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref>, lines 25-26</item>
+                    </list>
+                    </p>
                 </div>
             </div>
-           <!-- <l>Prāsādā yatra, etc. See No. 127, note.</l> -->
+           <!--  -->
            <div xml:id="best_0110">
                <div type="text">
                    <lg met="anuṣṭubh"> 
@@ -3401,14 +3418,22 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                    <l n="a">saṣṭiṁ varṣa–sahasrāṇi</l>
                    <l n="b">svarge modati bhūmidaḥ</l>
                    <l n="c">Ācchettā cānumantā ca</l>
-                   <l n="d">tāny eva narake vaset</l>
+                   <l n="d">tāny eva narake vaseT</l>
                </lg>
            </div>
                <div type="translation" resp="part:amwb">
                     <p rend="stanza">Whoever gives land will rejoice in heaven for sixty thousand years, but whoever challenges [a gift] or approves [the challenge] will spend the same length of time in hell.</p>
                 </div>
                <div type="variation">
-                   <l>A-saṅkheyāni varṣāṇi, etc. See No. 123, note. </l>
+                   <p>There is a regular variation on the first word of the padā c (<foreign>Ākṣeptā</foreign> instead of <foreign>Ācchettā</foreign>. See for example  <ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 4.</p>
+                   <p>Anotehr regular variation in the pāda b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> can be read in <ref target="INSEIAD00168.xml">Cintapura grant (Kantēru plates 2) — reign of Skandavarman, year 1</ref>, lines 17-19, <ref target="INSEIAD00165.xml">Copper plates concerning the village Vidētūrapallikā — reign of Nandivarman II, year 8</ref>, line 13:</p>
+                   <lg met="anuṣṭubh">
+                       <l n="a">ṣaṣṭivarṣasahasrāṇi </l>
+                       <l n="b">svargge krīḍati bhūmidaḥ </l>
+                       <l n="c">Ākṣeptā cānumantā ca </l>
+                       <l n="d">tāny eva narake vaseT</l>
+                   </lg>
+                   
                    <!-- Kunthea thèse p160
                        Inscription bilingue inscription K. 341S Cœdès, IC VI : 24, 26.
                    ṣaṣṭivarṣasahassrāni svar[gg]e modati bhūmidaḥ
@@ -3418,7 +3443,8 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                  INSVengiCalukya00021 variation pāda a   kalpakoṭisahasrāṇi 
                  
                    -->
-                   <p>There is a regular variation on the first word of the padā c (<foreign>Ākṣeptā</foreign> instead of <foreign>Ācchettā</foreign>. See for example  <ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 4.</p>
+                   
+                   <l>A-saṅkheyāni varṣāṇi, etc. See No. 123, note. </l>
                </div>
                <div type="notes">
                    <note>4. CII, Vol. III, pp. 96,104, 238, 247, etc. often we have Ṣaṣṭir varṣa° or
@@ -3441,11 +3467,11 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 Dānamayūkha (IHQ, Vol. VI, p. 776).</note> <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 2  p 1272 
                 quoted by Viśvarūpa on yā I,316  by Aparārka from viṣṇudharmottara p369 IA VI p9  EI XI p221 (490 ad) EI X p53 (456 AD) JBBRAS X p365 (dated 532 śqke) 
                 for other early references EI vol XIX p 16 EI X p51 and 53 EI vol 21 p 16=18 
-                the latter hqlf is br̥haspati v 29 -->
+                the latter half is br̥haspati v 29 -->
                    <!-- Also quoted in the Vaakaa.taka grants of Pravarasena II (circa 419-455 ) seee fleet CII 3 1888 p 247 lines 39-41 and mirashi cii 5 1963 p 29 + CP of prabhaavatiiguptaa (deccan 5 th century) mirashi cii 5 1963 p 7-8 and 35-37 + CP of Dahrasena dated 456-457 CE southern Raajasthaan hultzsch "pardi plates of Dahrasena" p 51-54 mirashi cii 4 1955 1 p 24 -->
                </div>
                 <div type="bibliography">
-                       <p><bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">249</citedRange></bibl> mentioned this verse as a customary one. <bibl><ptr target="bib:Jolly1913_01"/><citedRange unit="page">675</citedRange></bibl> indicates that the beginning of the verse is quoted in Devaṇabhaṭṭa's <title>Smṛticandrikā</title> (see <bibl><ptr target="bib:Srinivasacharya1914_01"/></bibl>). In this context, the verse is attributed to Vyāsa and quoted as a part of the argument for the production of a written document. It is intended to inform future kings and their vassals :</p>
+                       <p><bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">249</citedRange></bibl> mentioned this verse as a customary one. <bibl><ptr target="bib:Jolly1913_01"/><citedRange unit="page">675</citedRange></bibl> indicates that the first pāda of the verse is quoted in Devaṇabhaṭṭa's <title>Smṛticandrikā</title> (see <bibl><ptr target="bib:Srinivasacharya1914_01"/></bibl>). In this context, the verse is attributed to Vyāsa and quoted as a part of the argument for the production of a written document. It is intended to inform future kings and their vassals :</p>
                     <lg met="anuṣṭubh">
                         <l n="a">ṣaṣṭiṃ varṣasahasrāṇi</l>
                         <l n="b">dānacchedaphalaṃ tathā</l>
@@ -3458,6 +3484,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                    <p>See the following inscriptions:
                    <list>
                        <item><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>)</item>
+                       <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 20-21</item> 
                    </list>
                    </p>
                </div>
@@ -3540,6 +3567,9 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 </div>
                 <div type="translation" resp="part:amwb">
                     <p rend="stanza">The land-givers go where there are golden palaces and wish-fulfilling streams of whealth, in the abode of Apsaras and Gandharvas.</p>
+                </div>
+                <div type="variation">
+                    <l>Prāsādā yatra, etc. See No. 127, note.</l>
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXXII. p. 123, text line 35 <!-- checked see EI32_14_1.tif -->. We have also Prāsādā yatra
@@ -3868,7 +3898,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
                         <l n="c">sva-viṣṭhāyāṁ kr̥mir bhūtvā</l>
-                        <l n="d">pitr̥bhiḥ saha mqjjati</l>
+                        <l n="d">pitr̥bhiḥ saha majjati</l>
                     </lg>
                    </div>
              <div type="occurences">
@@ -4092,7 +4122,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                <div type="notes">
-                   <p>The verse is quoted in the Malga plates of Samanta Indraraja, lines 22-23 (see <bibl><ptr target="bib:Sircar+Sankaranarayanan1959-1960_01"/></bibl></p>
+                   <p>The verse is quoted in the <ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 22-23 (= <ref target="INSEI33_41.xml">Malga plates of Samanta Indraraja</ref>, lines 22-23; see <bibl><ptr target="bib:Sircar+Sankaranarayanan1959-1960_01"/></bibl>).</p>
                </div>
             </div>
             <div xml:id="best_0132_10">
@@ -5174,7 +5204,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <p>For those who protect bridges <foreign>setu</foreign> and repair broken ones, for those who have done this inn the past, it is known that the fruit of this act count twice. </p>
                     </div>
                     <div type="occurences">
-                        <p>See <ref target="DHARMA_INSSiddham01022.xml">Halsi Grant of Harivarman , Year 5</ref> (<bibl><ptr/></bibl>), lines .</p>
+                        <p>See <ref target="DHARMA_INSSiddham01022.xml">Halsi Grant of Harivarman , Year 5</ref>, lines .</p>
                     </div>
                     <div type="notes">
                         <p>This verse does not belong to Sircar's list. The use of the word <foreign>setu</foreign> links it without doubt to the stanzas best_0117</p>
