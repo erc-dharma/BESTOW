@@ -133,16 +133,17 @@
                         <p>See <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, line 122-123.</p>
                     </div>
                     <div type="variation">
-                        <p><title>Mahābhārata</title> 13.61.43 (GRETIL):</p>
+                       
+                    </div>
+                    <div type="occurences">
+                        <p>The verse is quoted with no variation in the <title>Dānasāgara</title> of Ballālasena (<bibl><ptr target="bib:Bhattacharya1953_03"/><citedRange unit="page">332</citedRange></bibl>, verse 41). </p>
+                         <p>It can be read in <title>Mahābhārata</title> 13.61.43 (GRETIL) with variations in pādas c and d:</p>
                         <lg met="anuṣṭubh"> 
                             <l n="a">Ādityā iva dīpyante</l>
                             <l n="b">tejasā bhuvi mānavāḥ</l>
                             <l n="c">dadanti vasudhāṃ sphītāṃ</l>
                             <l n="d">ye vedaviduṣi dvije</l>
                         </lg>
-                    </div>
-                    <div type="occurences">
-                        <p>The verse is quoted with no variation in the <title>Dānasāgara</title> of Ballālasena (<bibl><ptr target="bib:Bhattacharya1953_03"/><citedRange unit="page">332</citedRange></bibl>, verse 41). </p>
                     </div>
                 </div>
             <div xml:id="best_0004">               
@@ -206,13 +207,14 @@
                     </p>
                 </div>
                 <div type="occurences">
-                    <p>The vers is found in the <title>Mahābhārata</title> 13,061.045 (GRETIL):</p>
+                    <p>The verse is found in the <title>Mahābhārata</title> 13,061.045 (GRETIL):</p>
                     <lg met="">
                         <l n="a">ādityo varuṇo viṣṇur</l>
                         <l n="b">brahmā somo hutāśanaḥ</l>
                         <l n="c">śūlapāṇiś ca bhagavān</l>
                         <l n="d">pratinandanti bhūmidam</l>
                     </lg>
+                    <p>Sircar gives the following occurrences <title>Bṛhaspatisaṁhitā</title> 16, <title>Atrisaṁhitā</title> verse 330 and Ballāla's <title>Dānasāgara</title> (p. 316)</p>
                 </div>
             </div>
             <div xml:id="best_0004_01">
@@ -288,6 +290,13 @@
 13,085.055a agnyabhāve ca kurvanti vahnisthāneṣu kāñcanam
 13,085.055c jāmadagnya pramāṇajñā vedaśrutinidarśanāt
                     -->
+                    <p>The other references given by Sircar are : 
+                        <list>
+                        <item>Br̥haspatisaṁhitā, verse 31</item>
+                            <item>Saṁvartasaṁhitā, verse 74</item>
+                            <item>Padma Purāṇa, VI, 33, 32</item>
+                            <item>Ballāla's Ḍānasāgara (p. 317)</item>
+                        </list></p>
                 </div>
             </div>
             <div xml:id="best_0006">
@@ -612,7 +621,7 @@
                     </lg>
                 </div>
                 <div type="inscriptions">
-                    <p>See <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 20-21 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</p>
+                    <p>See <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 20-21 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</p><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038 981 AD  lines 47-49  -->
                 </div>
             </div>
            
@@ -1288,7 +1297,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <div type="notes">
                     <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">182</citedRange><citedRange unit="note">6</citedRange></bibl> mentions this stanza as a variation of best_0040. The bibliographic references given are Ep. Carn., Vol. VIII, Tl. No. 73; Ep. Carn., Vol. II,
                 Nos., 253, 327; Vol. III, My. Nos. 7, 32;Ep. Ind., Vol. XIV, p. 104, text lines 103-105 </p>
-<!-- need to check these references  --> 
+<!-- need to check these references  -->
+                    <!-- citer dans EI25_19 palimpseste sur une nouvelle plaque Dikshit1935-1936_01 --> 
                     <!-- I found the verse here : Bhrgu-Samhita (a text of the Vaikhanasa-tradition) gretil + sansknet (bhrgus_u.htm)                    
                     dānapālanayormadhye dānācchreyo 'nupālanam  // BhS_35.169 //<BR>
 dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
@@ -1399,9 +1409,10 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                <div type="inscriptions">
                    <p>See the following inscriptions:
                        <list>
+                           <item><ref target="INSVengiCalukya00024.xml">Bezvāḍa plates of Bhīma I</ref> lines 43-45</item>
                            <item><ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, line 20 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</item>
                            <item><ref target="DHARMA_INSVengiCalukya00057.xml">Peddāpurappāḍu plates (set 2) of Viṣṇuvardhana II</ref> (verse IV, lines 23-24) with slight variations.</item><!-- in this inscription it is directly followed by an jain hommage namo'rhate -->
-                       </list>
+                       </list><!-- ajouter EI23_17_B  Plates of Vākpati-Muñja VS 1038 981 AD -->
                    </p>
                 </div>
            </div>
@@ -1622,7 +1633,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 39.</note>
                 </div>
                 <div type="inscriptions">
-                    <p>See <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></p>
+                    <p>See <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></p><!-- citer dans EI25_19 palimpseste sur une nouvelle plaque Dikshit1935-1936_01 -->
                 </div>
             </div>
             <div xml:id="best_0054">
@@ -2041,7 +2052,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>See the following inscriptions:
                     <list>
                         <item><ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 12</item>
-                    </list></p>
+                    </list></p><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038  981 AD  -->
                 </div>
             </div>                     
             <!--
@@ -2285,7 +2296,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">A man lying about the golden lord kills the born and the unborn, one lying about the earth kills everything, so nothing false should be said on earth.</p>
                 </div>
                 <div type="variation">
-                    <p>This stanza can be read in <ref target="DHARMA_INSEI19_34.xml">Amoda plates of the Haihaya King Jajalladeva of the (Cedi) year 912</ref> (see <bibl><ptr target="bib:HiraLal1927-1928_01"/></bibl> with the following variation (already mentioned by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">188</citedRange></bibl></p> 
+                    <p>This stanza can be read in <ref target="DHARMA_INSEI19_34.xml">Amoda plates of the Haihaya King Jajalladeva of the (Cedi) year 912</ref> (see <bibl><ptr target="bib:HiraLal1927-1928_01"/></bibl> with the following variation (already mentioned by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">188</citedRange></bibl>).</p> 
                     <lg met="anuṣṭubh">
                       <l n="a">haṁti jātā tu yātāṁś ca</l>
                       <l n="b">bhūmy arthe yo 'nr̥taṁ vadet</l>
@@ -3289,7 +3300,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                         <item><ref target="DHARMA_INSSomavamsin00047.xml">Kāṇḍavindhā plates of Mahābhavagupta Uddyotakeśarin year 3</ref>, lines , Stanza </item>
                         <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                         <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> (see 	<bibl><ptr target="bib:Kielhorn1896_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl>)</item>
-                    </list>
+                    </list><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038 981 AD -->
                         </p>
                 </div>
             </div>
@@ -3648,7 +3659,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                     <p>See the following isncriptions: 
                     <list>
                         <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
-                    </list></p>
+                    </list></p><!-- citer dans EI25_19 palimpseste sur une nouvelle plaque Dikshit1935-1936_01 -->
                 </div>
             </div>   
             <div xml:id="best_0129">
@@ -3721,7 +3732,8 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 half in some cases reads Pūrva-dattāṁ narendraiś=ca yatnād=rakṣa Śatakrato (ibid.,
                 Vol. XI, p. 313). The stanza occurs in the BhaviṣyaPurāṇa, IV, 164, 38 (with rakṣe
                 and mahibhr̥tām).</note>
-                <div type="bibliography">
+            </div>
+            <div type="bibliography">
                        <p>This verse was already quoted as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>. It was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">23</citedRange></bibl>. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">251</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 6 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">195-196</citedRange></bibl> attributed the number 131 to this verse.</p>
                    </div><!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 6  p 1272 -->
 <!-- Stanza found in Revākhāṇḍa of the Vāyupurāṇa (RKV) availalble on GRETIL website rkv_133.31 -->
@@ -3748,7 +3760,8 @@ File name : vaaprevaakh.txt
 svadattā paradattā vā yatnādrakṣyā yudhiṣṭhira  /
 mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 -->
-                <div xml:id="best_0131_01">
+            </div>
+          <div xml:id="best_0131_01">
                     <div type="text">
                         <lg met="anuṣṭubh">
                     <l n="a">pūrva–dattāṁ dvijātibhyo</l>
@@ -3804,10 +3817,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </list>
                 </p>
                      </div>
-                </div>
-
-                </div>
-        </div>                 
+        </div>                        
          <div xml:id="best_0132_00">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -4516,7 +4526,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    </lg>
                </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The gift made by speech, the one made by mind and the one made with the hand, the kuśa grass and water, one who steals these three kinds of gift would go to the terrible hell. </p>
+                    <p rend="stanza">The gift made by speech, the one made by mind and the one made with the hand, the <foreign>kuśa</foreign> grass and water, one who steals these three kinds of gift would go to the terrible hell. </p>
                 </div>
                <div type="variation">
                    <l>Vāk–dattaṁ ca, etc. See No. 143, note.</l>
@@ -4929,26 +4939,26 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 pāpaṁ kurute vr̥tti-karśitaḥ. Ballāla's Dānasāgara (op. cit., p. 316) attributes it
                 to the Dāna-Br̥haspati.<!-- According to Kane 1941 vol2.2 p.858-859: Vas. Dh. S. 29.16, Br̥haspati 7, Viṣṇudharmottara, Matsyapurāṇa (quoted by Aparārka p369 370) + Note 2021 : Bhaviṣyapurāṇa 4.164,18  see also EI39 jayarampur plates of gopacandra  p 148 variation pada a line 45-->
                     </note>
-                    <note>My own note: This stanza is found with the following reading in the <title>Mahābhārata</title> 13.61.16 (GRETIL):
+                    <div type="occurences">
+                        <p>This stanza is found with the following reading in the <title>Mahābhārata</title> 13.61.16 (GRETIL):</p>
                     <lg met="anuṣṭubh">
                            <l n="a">yat kiṃ cit puruṣaḥ pāpaṃ</l>
                            <l n="b">kurute vṛttikarśitaḥ</l>
                            <l n="c">api gocarma-mātreṇa</l>
                            <l n="d">bhūmi-dānena pūyate</l>
                        </lg>
-                  It is also possible to read it in the <title>Bhaviṣyapurāṇa</title> 164 with the following reading 
-                        <bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 29.16 and the Bhaviṣyapurāṇa 164.18 (see <bibl><ptr target="bib:Lal1959_01"/></bibl>:
+                <p><bibl><ptr target="bib:Sircar1965_03"/></bibl> makes no mention that a variation of this verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 29.16 and the <title>Bhaviṣyapurāṇa</title> 164.18 (see <bibl><ptr target="bib:Lal1959_01"/></bibl>:</p>
                        <lg met="anuṣṭubh">
                            <l n="a">yat kiñcit kurute pāpaṁ</l>
                            <l n="b">puruṣo vṛtti-karṣitaḥ</l>
                            <l n="c">api gocarma-mātreṇa</l>
                            <l n="d">bhūmi-dānena śudhyati</l>
                        </lg>
-                        <p>Whatever sin a man may have committed under the pressure of his occupation, he is cleansed from all that by giving a piece of land even small as a "cow's hide". (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">461</citedRange></bibl>)</p>
-                       <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.
+                       <p> Whatever sin a man may have committed under the pressure of his occupation, he is cleansed from all that by giving a piece of land even small as a "cow's hide". (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">461</citedRange></bibl>)</p>
+                     <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.
                      </p>
 <!-- My own research : a verse more or less similar in Hemadri Danakanda p 510 api gocarma-mātrāṁ yo dadāti harayebhuvama | saptajanmāni rājendra sa śrīmānabhijāyati -->
-                    </note>
+                    </div>
                     <div type="bibliography">
                         <p></p>
                     </div>
@@ -5244,13 +5254,13 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         </lg>
                     </div>
                     <div type="translation">
-                        <p>For those who protect bridges <foreign>setu</foreign> and repair broken ones, for those who have done this inn the past, it is known that the fruit of this act count twice. </p>
+                        <p>For those who protect bridges <foreign>setu</foreign> and repair broken ones, for those who have done this in the past, it is known that the fruit of this act count twice. </p>
                     </div>
                     <div type="inscriptions">
                         <p>See <ref target="DHARMA_INSSiddham01022.xml">Halsi Grant of Harivarman , Year 5</ref>, lines .</p>
                     </div>
                     <div type="notes">
-                        <p>This verse does not belong to Sircar's list. The use of the word <foreign>setu</foreign> links it without doubt to the stanzas best_0117</p>
+                        <p>This verse does not belong to Sircar's list. The use of the word <foreign>setu</foreign> links it without doubt to the stanzas best_0117.</p>
                     </div>
                 </div>
              <div xml:id="best_0177">
