@@ -3164,8 +3164,11 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                <div type="notes">
                    <note>6. Ep. Ind., Vol. VIII, p. 235, text lines 29-30.</note><!-- checked but not yet encoded EI8_23 ; Chendalur plates of kumaravishnu II by Hultzsch = Hultzsch1905-1906_09 , found in the Ongule taluka of the Nellore district ; 5 CP ; edict from kancipuran in the second year of the reign of the pallava maharaja kumaravisnu II son of buddhavarman and grandson of kumaravisnu I greatgrandson of Skandavarman ; api cātra brahmagītāḥ ślokāḥ 28+132-00+113+23  -->
                </div>
+               <div type="inscriptions">
+                   <p>Currently, this stanza is only cited in one epigraphic document : <ref target="INSPallava00011.xml">Cendalūra grant, time of Kumāraviṣṇu, year 2</ref></p>
+               </div>
                <div type="bibliography">
-                   <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">124</citedRange><citedRange unit="item">9bis</citedRange></bibl>. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 24 to this stanza in his list.</p>
+                   <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">124</citedRange><citedRange unit="item">9bis</citedRange></bibl>. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 24 to this stanza in his list. </p>
                </div>
            </div>   
             <div xml:id="best_0114">
@@ -4692,7 +4695,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </div>
                 <div type="variation">
                     <l>Toya-hīneṣv=araṇyeṣu, etc. See No. 149, note.</l>
-                    <l>Nighnatāṁ, etc. See No. 149, note. </l>
+                    <l>Nighnatāṁ, etc. See No. 149, note. </l><!-- voir si cela correspond à ce que je trouve dans https://dharmalekha.info/texts/INSEIAD00188 -->
                 </div>
                 <div type="notes">
                     <note>5. Ind. Ant., Vol. XVI, p. 134, text lines 17-18. Sometimes we have Nighnatāṁ for
@@ -4938,15 +4941,18 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 Mahābhārata, XIII. 62, 47 (with śasyāni rohanti prakirṇāni and tathā kāmāḥ
                 prarohanti).</note><!-- Checked it is a pallava charter EI24_43.tif mentionning 18 kinds of taxes and a corporal punishment  date 446 -->
                 </div>
+                <div type="inscriptions">
+                    <p>Currently, this stanza is only cited in one epigraphic document : <ref target="INSPallava00015.xml">Viḻavaṭṭi plates, time of Siṁhavarman, year 10</ref></p>
+                </div>
                 <div type="occurences">
-                    <p>The verse is found in the <title>Mahābhārata</title> 13,061.044 (source Gretil):</p>
+                    <p>The verse is found with slight variations in the <title>Mahābhārata</title> 13,061.044 (source Gretil):</p>
                     <lg met="anuṣṭubh">
                         <l n="a">yathā bījāni rohanti</l>
                         <l n="b">prakīrṇāni mahī-tale</l>
                         <l n="c">tathā kāmāḥ prarohanti</l>
                         <l n="d">bhūmi-dāna-samārjitāḥ</l>
                     </lg>
-                    <p>Just as seeds grow when scattered on the land surface, in the same way esires grow when land is given as a gift.  </p>
+                    <p>Just as seeds grow when scattered on the land surface, in the same way desires grow when land is given as a gift.  </p>
                 </div>
             </div>         
        <!--     <pb n="201"/>-->
@@ -5247,16 +5253,20 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 <div type="text">
                      <lg met="vasantatilakā">
                  <l n="a">rakṣān naraḥ parakr̥tau vidadhīta vidvān</l>
-                 <l n="b">pādā hi dharma yaśasaḥ paramasya labdhāḥ</l>
+                 <l n="b">pādā hi dharma-yaśasaḥ paramasya labdhāḥ</l>
                  <l n="c">dhātraiva sṛṣṭam akhilam bhuvanaṁ tathāpi</l>
                  <l n="d">rakṣanti puṇya-ratayaḥ pr̥thivīn narendrāḥ</l>
              </lg>
                 </div>
                 <div type="translation" source="bib:KrishnaSastri1923-1924_01">
                     <p rend="stanza">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
+                    <p>Let the wise man confer protection to the (pious) deeds of others, for respectful homage is paid to those who possess the glory of dharma! Thus Dhātṛ created the entire world and yet the best of men protect the earth, rejoicing in pious deeds!.</p>
                 </div>
                 <div type="inscriptions">
                     <p>See <ref target="DHARMA_INSPandya10002.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>, lines 143-144 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
+                </div>
+                <div type="occurences">
+                    <p>Although the meanings of the stanzas differ, we can see that the figure of Dhātṛ is also referenced in stanza best_0056. Currently, this stanza is only cited in one epigraphic document.</p>
                 </div>
             </div>
             <div xml:id="best_0173">
