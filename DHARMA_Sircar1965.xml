@@ -3876,7 +3876,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <l>sarva-sasya–samr̥ddhāṁ, etc. See No. 132, note. </l>
                     <l>Aṅgam=ekam, etc. See No. 132, note. </l>
                     <p>This verse is found with several variations in the epigraphical records. Below the standard stanza edited by <bibl><ptr target="bib:Sircar1965_03"/></bibl> (numbered here best_132_00), I have listed all the major variations and have numbered them with an extented number. Each of these major variations can present minor variations. Below are the minor variations of the verse 132_00. </p>
-                 <p>The verse 132_00 is found with a regular variation on the pāda c: <foreign>sva-viṣṭhāyāṁ</foreign> or <foreign>śva-viṣṭhāyāṁ</foreign> instead of <foreign>sa viṣṭhāyāṁ</foreign>.</p> 
+                 <p>The verse 132_00 is found with a regular variation on the pāda c: <foreign>sva-viṣṭhāyāṁ</foreign> or <foreign>śva-viṣṭhāyāṁ</foreign> instead of <foreign>sa viṣṭhāyāṁ</foreign> : see for example <ref target="INSCIK00055.xml">Stela from Kdei Ang (K. 55), 6th century Śaka</ref>; lines 7-8.</p> 
                  <p>For the <foreign>sva-viṣṭhāyāṁ</foreign> variation, see the <ref target="DHARMA_INSSiddham00131.xml">Ghagrahati Charter of the Time of Samācāradeva, Year 14</ref>:</p>
                  <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4127,10 +4127,14 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                            <item><ref target="DHARMA_INSChauhan00001.xml">Bargarh copper plate of Maharaja Narayan Singh of Sambalpur</ref></item>
                            <item><ref target="DHARMA_INSSiddham01024.xml">Sirsi Grant of Kr̥ṣṇavarman , Year 19</ref></item>
                            <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
+                           <item><ref target="INSPandya10004">Ciṉṉamaṉūr plates (smaller set)</ref>, circa 750–810 CE (Francis, forthcoming)</item>
                        </list>                  
                    </p>                          
                    
-               </div>              
+               </div>
+               <div type="occurences">
+                   <p>This stanza is quoted by Lakṣmīdhara (<title>gṛhasthakāṇḍa</title> of <title>Kṛtyakalapataru</title>, p. 317-318)</p>
+               </div>
            </div>
             <div xml:id="best_0132_04">
                 <div type="text">
@@ -5153,6 +5157,9 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                   <div type="inscriptions"> 
                         <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of best_0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
             </div>
+            <div type="notes">
+                        <p>This verse is quoted only in note by Sircar.</p>
+                    </div>
             <div xml:id="best_0166">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -5166,8 +5173,11 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p rend="stanza">It is the Lord of All Beings who, in order to preserve Brahmanic wealth, takes birth on earth as a Brahmin being born.</p>
                 </div>
                 <div type="inscriptions">
-                    <p>This stanza is inserted within a group of well-known benedictory and imprecatory stanzas in <title>Ciṁbuluru plates of Vijayāditya III</title> (DHARMA_INSVengiCalukya00062)</p>
+                    <p>This stanza is inserted within a group of well-known benedictory and imprecatory stanzas in <ref target="INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref> (DHARMA_INSVengiCalukya00062).</p>
                 </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+                    </div>
             </div>
             <div xml:id="best_0167">
                 <div type="text">
@@ -5183,6 +5193,9 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 </div>
                 <div type="inscriptions">
                     <p>See <ref target="DHARMA_INSSomavamsin00021.xml">Nuapatna plates of the time of Janamejaya year 5</ref>.</p>
+                </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
             <div xml:id="best_0168">
@@ -5200,6 +5213,9 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 <div type="inscriptions">
                     <p>See <ref target="DHARMA_INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref> (INSVengiCalukya00062)</p>
                 </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+                </div>
             </div>
             <div xml:id="best_0169">
                 <div type="text">
@@ -5215,6 +5231,9 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 </div>
                 <div type="inscriptions">
                     <p>The stanza is rather corrupted and reconstructed by Daniel Balogh in his edition of the plate (see <ref target="INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref>, in particular the note).</p>
+                </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
             <div xml:id="best_0170">
@@ -5232,6 +5251,9 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 <div type="inscriptions">
                     <p>See <ref target="INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref> </p>
                 </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+                </div>
             </div>
             <div xml:id="best_0171">
                 <div type="text">
@@ -5246,7 +5268,10 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p rend="stanza">Men who take away the offerings for him, should be punished here by the king and in the other world by Yama; but those who protect them, may they go to the auspicious abode of Śiva.</p>
                 </div>
                 <div type="inscriptions">
-                    <p>See <title>South and North doorjambs of East door of the Southern tower of the first row of Prasat Lolei (K. 327), 815 Śaka</title> (INSCIK00327)</p>
+                    <p>See <ref target="INSCIK00327.xml">South and North doorjambs of East door of the Southern tower of the first row of Prasat Lolei (K. 327), 815 Śaka</ref> (INSCIK00327)</p>
+                </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
             <div xml:id="best_0172">
@@ -5260,13 +5285,16 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 </div>
                 <div type="translation" source="bib:KrishnaSastri1923-1924_01">
                     <p rend="stanza">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
-                    <p>Let the wise man confer protection to the (pious) deeds of others, for respectful homage is paid to those who possess the glory of dharma! Thus Dhātṛ created the entire world and yet the best of men protect the earth, rejoicing in pious deeds!.</p>
+                    <p>Let the wise man confer protection to the (pious) deeds of others, for respectful homage is paid to those who possess the glory of dharma! Thus Dhātṛ created the entire world and yet the kings protect the earth, those who rejoice to get merits!</p>
                 </div>
                 <div type="inscriptions">
                     <p>See <ref target="DHARMA_INSPandya10002.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>, lines 143-144 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
                 </div>
                 <div type="occurences">
                     <p>Although the meanings of the stanzas differ, we can see that the figure of Dhātṛ is also referenced in stanza best_0056. Currently, this stanza is only cited in one epigraphic document.</p>
+                </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
             <div xml:id="best_0173">
@@ -5283,6 +5311,9 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 </div>
                 <div type="inscriptions">
                     <p>This verse is quoted as a parallel of the stanza 4 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is <title>Epigraphia Indica</title>, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas c and d are found in the <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 12322</ref>, lines 125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).</p>
+                </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
                 <div xml:id="best_0174">
@@ -5332,7 +5363,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                             <l n="d">tatphalaṃ samudāhṛtam</l>
                         </lg>
                     </div>
-                    <div type="translation">
+                    <div type="translation" resp="part:amwb">
                         <p>For those who protect bridges <foreign>setu</foreign> and repair broken ones, for those who have done this in the past, it is known that the fruit of this act count twice. </p>
                     </div>
                     <div type="inscriptions">
@@ -5370,7 +5401,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                             <l n="d">Apratiṣṭhaḥ patiṣyati</l>
                         </lg>
                     </div>
-                    <div type="translation">
+                    <div type="translation" resp="part:amwb">
                         <p>The Gods and his Ancestors <supplied reason="subaudible">of a land-thief</supplied> will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. Like a palm tree with his tuft of leaves cut, deprived of stability, he will fall <supplied reason="subaudible">in hell</supplied></p>
                     </div>
                     <div type="inscriptions">
@@ -5389,13 +5420,15 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                   <l n="d">nirvāṇam adhigacchatu</l>
              </lg>
                 </div>
-                <div type="translation">
+                <div type="translation" resp="part:amwb">
                     <p>Having perfomed this gift of Dharma, whatever merit has been acquired by that merit may this world attain Nirvāṇa.  </p>
                 </div>
                 <div type="inscriptions">
                     <p>See <ref target="DHARMA_INSEI35_1_4.xml">Inscription of the time of Ehuvala Chāntamūla year 24</ref> (<bibl><ptr target="bib:Sircar1963-1964_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">11-13</citedRange></bibl></p>
                 </div>
-             
+             <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+              </div>
             </div>
             <div xml:id="best_0180">
                 <div type="text">
@@ -5406,13 +5439,18 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <l n="d">pretyāpi vāsavasamā divi te vaseyuḥ</l>
                     </lg>
                 </div>
-                <div type="translation">
+                <div type="translation" resp="part:amwb">
                     
                 </div>
                 <div type="bibliography">
                     <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">18</citedRange></bibl>. He explained that this verse is quoted in one nepalese inscription probably issued by Śivadeva (saṁvat 145). Its authorship is the king himself, as the verse is introduced by <foreign>yathā cāha</foreign>. </p>
                 </div>
-                <div type="inscriptions"></div>
+                <div type="inscriptions">
+                    <p></p>
+                </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+                </div>
             </div>
             <!-- <div xml:id="best_0180_01">
                 <div type="text">
@@ -5439,11 +5477,14 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <l n="d">na hāpanīyo hy upakāripakṣaḥ</l>
                     </lg>
                 </div>
-                <div type="translation">
+                <div type="translation" resp="part:amwb">
                     
                 </div>
                 <div type="bibliography">
                     <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">19</citedRange></bibl>. He pointed out that the verse is found in almost two Valabhī kings (Guhasena and Dharasena II)</p>
+                </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
             <div xml:id="best_0183">
@@ -5455,7 +5496,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                             <l n="d">sthirārambhā pravartate</l>
                        </lg>
                     </div>
-                    <div type="translation">
+                    <div type="translation" resp="part:amwb">
                         <p>Having considered the perishable nature of everything, including the body, youth and wealth, the enlightened (su-usra-tā?) spirit, which gives birth to truth, strives for stability. </p>
                     </div>
                     <div type="inscriptions">
@@ -5465,9 +5506,68 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         </list></p>
                     </div>
                     <div type="notes">
-                        <p>The content of the verse is close to that of stanzas best_0010, best_0035, best_0036, best_0071, best_0138. </p>
+                        <p>This verse does not belong to Sircar's list. The content of the verse is close to that of stanzas best_0010, best_0035, best_0036, best_0071, best_0138. </p>
                     </div>
                 </div>
+            <div xml:id="best_0184">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                            <l n="a">teṣān tena ca dattaṁ yo</l>
+                            <l n="b">devasvaṁ hartum icchati</l>
+                            <l n="c">sa mūḍho narakaṁ yātu</l>
+                            <l n="d">kālasūtram avāṅśirāḥ</l>
+                            <l n="e">sa-putra-pautra-santāna</l>
+                            <l n="f">Ā saptama-kulād api</l>
+</lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p>Let the fool who would steal the gifts of the gods, given to them by him, go to Kālasūtra hell, head first, along with the line of his sons and grandsons up to the seventh generation.</p>
+                </div>
+                <div type="inscriptions">
+                    <p>See <ref target="INSCIK00055.xml">Stela from Kdei Ang (K. 55), 6th century Śaka</ref></p>
+                </div>
+                <div type="notes">
+                        <p>This verse does not belong to Sircar's list.</p>
+                </div>
+            </div>
+            <div xml:id="best_0185">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                            <l n="a">kalpitaṁ ye vilūmpeyur</l> 
+                            <l n="b">laṅghayeyuś ca śāsaṇaṁ</l> 
+                            <l n="c">te yānti narakaṁ tāvaT</l> 
+                            <l n="d">sthitau candra-divākarau</l>
+          </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p>May those who steal what has been established and transgress the royal order go to hell as long as the sun and moon last.</p>
+                </div>
+                <div type="inscriptions">
+                    <p>The stanza can be read on the Preah Bat Stela <bibl><ptr target="bib:Barth+Bergaigne1885-1893_01"/><citedRange unit="page">368</citedRange></bibl>, verse 48. It has been reporduced then in the inscription B of <ref target="INSCIK00231.xml">Four inscriptions on the pedestal of the cave’s entrance (K. 231)</ref>(see <bibl><ptr target="bib:Chhom2018_01"/><citedRange unit="page">169</citedRange></bibl>). </p>
+                </div>
+                <div type="notes">
+                    <p>This stanza does not belong to Sircar's list.</p>
+                </div>
+            </div>
+            <div xml:id="best_0186">
+                <div type="text">
+                    <lg met="anuṣṭubh" >
+                        <l n="a">Anukuryur idaṁ yena</l> 
+                        <l n="b">śāsanaṁ parikalpitaM</l>
+                        <l n="c">vardhayeyuś ca puṇyasya</l> 
+                        <l n="d">phalārddhaṁ prāpnuvanti te</l>
+                    </lg>
+                </div>
+                <div type="translation" resp="part:amwb">
+                    <p>Those who comply this order and increase what has been fixed will obtain half od the fruit of this meritorious act. </p>
+                </div>
+                <div type="inscriptions">
+                    <p>The stanza can be read on the Preah Bat Stela <bibl><ptr target="bib:Barth+Bergaigne1885-1893_01"/><citedRange unit="page">368</citedRange></bibl>, verse 49. It has been reporduced then in the inscription B of <ref target="INSCIK00231.xml">Four inscriptions on the pedestal of the cave’s entrance (K. 231)</ref> (see <bibl><ptr target="bib:Chhom2018_01"/><citedRange unit="page">169</citedRange></bibl>). </p>
+                </div>
+                <div type="notes">
+                    <p>This stanza does not belong to Sircar's list.</p>
+                </div>
+            </div>
 
         </body>
     </text>
