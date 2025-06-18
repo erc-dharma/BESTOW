@@ -2308,10 +2308,10 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 ajātān.</note>
                 </div>
                 <div type="bibliography">
-                    <p><bibl><ptr target="bib:Narasimhachar1913_01"/></bibl> is the first to indicate this verse as a formulaic stanza. He claims that this stanza is to be found in a donation issued by a Gaṅga king, but for the moment, the bibliographical information he provides has not enabled me to find this source. To date (21/03/2025), I have found no occurrence of this stanza in epigraphic sources. </p>
+                    <p><bibl><ptr target="bib:Narasimhachar1913_01"/></bibl> is the first to indicate this verse as a formulaic stanza. He claims that this stanza is to be found in a donation issued by a Gaṅga king, but for the moment, the bibliographical information he provides has not enabled me to find this source. To date (21/03/2025), I have found no occurrence of this stanza in epigraphic sources.   </p>
                 </div>
                  <div type="inscriptions">
-                    
+                    <p>This stanza or a variation of it can be traced in the corrupted text of <ref target="INSNandodbhava00006.xml">Jokab Plate of Devānandadeva</ref> lines 38-39.</p>
                 </div>
             </div>
             <div xml:id="best_0081"><!-- Linked to 0080 -->
@@ -5572,9 +5572,26 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
         </body>
     </text>
 </TEI>
-<!-- <div xml:id="best_0">
+<!-- 
+A ajouter certainement et à traduire Angul Plates of Śāntikaradeva 
+acharya 2022 Inscriptions of minor ruling dynasties p 255
+bhūmi=dāne phalaṁ sarvaṁ
+haraṇam sarva-pātakaṁ 
+śvaśvadh-dharmānavairaṅkai
+svadhi-dharaṇī-hatāḥ 
+
+Madras Museum Plates of Narendradhavala EI28-8 acharya 2022 minor dynasties p 248 (en plus il s'agit d'une kraya sasana 
+Avec la correction proposee par le pre;ier editeur reprise par acharya 
+yāvas dattā bhaved bhūmiḥ
+samacchedā suśobhanā 
+tāvad yuga-sahasrāṇi 
+rudralokañ (e) ca tiṣṭhati 
+-->
+<!-- 
+    <div xml:id="best_0">
                     <div type="text">
                         <lg met="">
+                       
                             <l n="a"></l>
                             <l n="b"></l>
                             <l n="c"></l>
@@ -5640,7 +5657,8 @@ Donation and the preservation of land <supplied reason="subaudible">as granted</
                     <l n="b">jāyante brahma-yoniṣu <g type="danda">.</g></l>
                     <l n="c">brāhmaṇān eva bādhante</l> 
                     <l n="d">tatrāpi śrotriyān kṛiśān <g type="ddanda">.</g></l>
-                </lg>-->
+                </lg>
+-->
 <!-- Dans coprus SV : une stance qui se trouve deux fois SV22 et SV24 en fin de CP en plus des autres stances : 
             SV22 <lg n="14" met="rathoddhatā">
                <l n="a">sambe<lb
