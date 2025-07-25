@@ -752,12 +752,19 @@
                   <div type="occurences">
                     <p>The content of this stanza is close to best_0010, best_0019, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0183. 
 </p>
-                      <p>The verse (with the following variation in pāda b) is attributed to Bṛhaspati in the Dānakhaṇḍacaturvargcintāmaṇi of Hemādri (p. 507):</p>
+                      <p>The verse is attributed to Viṣṇudharma by Aparārka (p.370 <title>Ācārādhyāya</title> commentary on the <title>Yājñavalkya-dharmaśāstra</title>) and quoted with the following variation:</p>
+                      <lg met="anuṣṭubh">
+            <l n="a">Āsphoṭayanti pitaraḥ</l>
+            <l n="b">pravalganti pitāmahāḥ</l>
+            <l n="c">bhūmido ‘smatkule jātaḥ</l>
+            <l n="d">so 'smān saṃtārayiṣyati</l>
+                           </lg>
+                      <p>The verse (with the following variation in pāda b) is attributed to Bṛhaspati in the <title>Dānakhaṇḍacaturvargacintāmaṇi</title> of Hemādri (p. 507) and quoted with the following variation:</p>
                       <lg met="anuṣṭubh">
             <l n="a">Āsphoṭayanti pitaraḥ</l>
             <l n="b">pragalpanti pitāmahāḥ</l>
             <l n="c">bhūmido ‘smatkule jātaḥ</l>
-            <l n="d">so ‘smākaṃ tārayiṣyati</l>
+            <l n="d">so 'smākaṃ tārayiṣyati</l>
                            </lg>
                      </div>
                   <div type="notes">
@@ -1452,6 +1459,13 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <div type="variation">
                     <l>Dānaṁ vā, etc. See No. 40, note.</l>
                      <l>Rakṣā, etc. See No. 40, note.</l>
+                    <p>The variation <foreign>rakṣāpālanayos</foreign> seems to give a better meaning :</p>
+                    <lg met="anuṣṭubh">
+                          <l n="a">rakṣāpālanayos tāvat</l>
+                        <l n="b">phalaṁ sugatidurggatī</l>
+                          <l n="c">ko nāma svargam utsṛjya</l>
+                        <l n="d">narakaṁ pratipadyate</l></lg>
+                    <p>Fortune and misfortune are truly the fruit of protecting and not protecting [the land]; who then discards heaven and resorts to hell? (translation Bosma N.)</p>
                                     </div>
                 <div type="notes">
                      <note>6. Ep. Ind., Vol. XXXI, pp. 221-22, text lines 24-25. We have Rakṣā for Dāna at
@@ -1805,7 +1819,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Thanks to <foreign>dharma</foreign>, the king Paijana enjoyed the earth for ever, and on the contrary, because of his <foreign>adharma</foreign>, Nahuṣa was precipitated into the underworld</p>
+                    <p rend="stanza">Thanks to <foreign>dharma</foreign>, the king Paijavana enjoyed the earth for ever, and on the contrary, because of his <foreign>adharma</foreign>, Nahuṣa was precipitated into the underworld</p>
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. VI, p. 344, verses 45-46.</note><!-- Checked this is the right reference. I haven't encoded the inscription yet.  Hultzsch EI6_35 p 335 date of the inscription : 1084 -->
@@ -1841,8 +1855,9 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         <l n="d">vipra-dattā vasundharā</l>
                     </lg>
                 </div>
-                <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The land given to brahmin (<foreign>vipra</foreign>) should not be enjoyed nor taken for taxes ; it is in this world the unique prosperous thing for all the kings.  </p>
+                <div type="translation" resp="bib:Tagare1996_01">
+                    <p>The earth granted to Brāhmaṇas is the sole sister of all the kings. No tax is to be levied therepon<note>The pun on kara 'hand'. 'She (being a sister) should not be grasped by hand'.</note>. It should be not enjoyed as their iwn possession.</p>
+                   <!-- <p rend="stanza">The land given to brahmin (<foreign>vipra</foreign>) should not be enjoyed nor taken for taxes ; it is in this world the unique prosperous thing for all the kings.  </p> -->
                 </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. XVI, p. 351, text lines 78-80; p. 318. Sometimes we have bhogyā
@@ -2629,6 +2644,29 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </list>
                     </p>
                 </div>-->
+                <div type="occurences">
+                    <p>The verses of Mahābhārata 5.35.26-27 (GRETIL) give the following variations for best_0080 and best_0081:</p>
+                    <lg met="anuṣṭubh">
+                      <l n="a">pañca paśvanṛte hanti</l>
+                      <l n="b">daśa hanti gavānṛte</l>
+                      <l n="c">śatam aśvānṛte hanti</l>
+                      <l n="d">sahasraṃ puruṣānṛte</l>
+                  </lg>
+                    <lg met="anuṣṭubh">
+                        <l n="a">hanti jātān ajātāṃś ca</l>
+                        <l n="b">hiraṇyārthe 'nṛtaṃ vadan</l>
+                        <l n="c">sarvaṃ bhūmyanṛte hanti </l>
+                        <l n="d">mā sma bhūmyanṛtaṃ vadīḥ</l>
+                    </lg>
+                    <p><title>Rāmāyāṇa</title> 4.33.9 (GRETIL) has the following variation: </p>
+                    <lg met="anuṣṭubh">
+                      <l n="a">śatam aśvānṛte hanti</l>
+                      <l n="b">sahasraṃ tu gavānṛte</l>
+                      <l n="c">ātmānaṃ svajanaṃ hanti</l>
+                      <l n="d">puruṣaḥ puruṣānṛte</l>
+                  </lg>
+                   <p>A man lying about a horse kills one hundred (horses), a man lying about a cow kills one thousand (cows), a man lying about another person kills himself and his relatives. </p>
+                </div>
             </div>
             <div xml:id="best_0082">
                 <div type="text">
@@ -3886,16 +3924,16 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                    </p>
                </div>
                <div type="occurences">
-                   <p>Aparārka (<title>Ācārādhyāya</title> commentary on the <title>Yājñavalkya-dharmaśāstra</title>) quotes twice the stanza best_0123 (book 1, p. 639 and p. 370). The first time, it is attributed to the <title>Viṣṇudharma</title>, while the second time it is assigned to the <title>Ādityapurāṇa</title>.</p>
+                   <p>Aparārka (<title>Ācārādhyāya</title> commentary on the <title>Yājñavalkya-dharmaśāstra</title>) quotes twice the stanza best_0123 (book 1, p. 369 and p. 370). The first time, it is attributed to the <title>Viṣṇudharma</title>, while the second time it is assigned to the <title>Ādityapurāṇa</title>.</p>
                    <p>The stanza is quoted by Viśvarūpa in his <title>Bālakrīda</title> (early 9th century according to <bibl><ptr target="bib:Olivelle2020_01"/></bibl> as an instance of exhortation, when he comments the compound <foreign>dānācchedopavarṇanam</foreign> used in 1.315 of the <title>Yājñavalakyasmṛti</title>. He introduced it by the words<foreign> tato dānācchedam upavarṇya | etad dānaphalam, etad ācchedanaphalaṃ</foreign>. </p>
-                   <p>Revākhaṇḍa of the Skandapurāṇa 142.66 (GRETIL):</p>
+                   <p>Revākhaṇḍa of the <title>Skandapurāṇa</title> 142.66 (GRETIL):</p>
                    <lg met="anuṣṭubh">
                    <l n="a">saṣṭi-varṣa–sahasrāṇi</l>
                    <l n="b">svarge tiṣṭhati bhūmidaḥ</l>
                    <l n="c">Ācchettā cānumantā ca</l>
                    <l n="d">tāny eva narake vaseT</l>
                </lg>
-                   <p>The verse (with minor variations) is quoted by Hemādri in his Dānakhaṇḍacaturvargacintāmaṇi (p. 504) and attributed to the Viṣṇudharmottara: </p>
+                   <p>The verse (with minor variations) is quoted by Hemādri in his <title>Dānakhaṇḍacaturvargacintāmaṇi</title> (p. 504) and attributed to the <title>Viṣṇudharmottara</title>: </p>
                    <lg met="anuṣṭubh">
                    <l n="a">saṣṭir varṣa–sahasrāṇi</l>
                    <l n="b">svarge vasati bhūmidaḥ</l>
@@ -4103,6 +4141,15 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                  <l>pūrva–dattāṁ dvijātibhyo, etc. See No. 131, note.</l> <!-- see below and DHARMA_INSSiddham00081 + INSSiddham00028 gupta era 128 (443 ce)  + INSSiddham0002 Gupta era 124 (= 439 ce)  + INSBengalCharters00031 (432-433 ce = 113 ge) -->
                 <l>pūrva–dattāṁ narendraiś=ca, etc. See No. 131, note.</l>
                 <l>Prāg-dattāṁ bhūmiṁ viprebhyo, etc. See 131, note. </l>
+            </div>
+            <div type="inscriptions">
+                <p>The verse can be read in lines 55-56 of Konnur spurious inscription of Amoghavarsha I.; Saka-Samvat 782 (<bibl><ptr target="bib:Kielhorn1900-1901_03"/></bibl>) with the following variation: </p>
+                <lg met="anuṣṭubh">
+                    <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                    <l n="b">yatnād rakṣa narādhipa</l>
+                    <l n="c">mahīṁ mahīmatāṁ śreṣṭha</l>
+                    <l n="d">dānāc chreyo 'nupālanam</l>
+                </lg>
             </div>
             <div type="notes">
                  <note>1. CII, pp. 119, 122, 127, 133, 194, 198, 296. The word mahīmatāṁ is altered in
@@ -4935,7 +4982,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Three gifts are said to be supreme: cows, land and speech. Their fruits last for seven generations through milking, carrying and teaching.</p>
+                    <p rend="stanza">Three gifts are said to be supreme: cows, land and knowledge. Their fruits last for seven generations through milking, carrying and teaching.</p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol. XI, pp. 312-13, text lines 46-47. The first half is found in the
@@ -5403,34 +5450,17 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 <div type="variation">
                     <p><!-- my own note --></p>
                 </div>
+                <div type="bibliography">
+                        <p></p>
+                </div>
+                <div type="inscriptions">
+                        <p>See the following inscriptions:
+                        <list>
+                            <item><ref target="DHARMA_INSBengalCharters00076.xml">Jayarampur plate of the time of Gopacandra, Year 1</ref>, stanza VIII line 45</item>
+                            <item><ref target="INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref></item>
+                        </list></p>
+                </div>
                 <div type="occurences">
-                    <p>The verse (with the folllowing variation in pāda b) is attributed to Matsyapurāṇa in the Dānakhaṇḍacaturvargcintāmaṇi of Hemādri (p. 506):</p>
-                    <lg met="anuṣṭubh">
-                        <l n="a">yat kiñcit kurute pāpaṁ</l> 
-                        <l n="b">janmaprabhṛti mānavaḥ</l>
-                        <l n="c">api gocarma-mātreṇa</l>
-                        <l n="d">bhūmi-dānena śudhyati</l></lg>
-                </div>
-                </div>
-                <div type="notes">
-                    <note>
-                        2. Ep. Ind., Vol. XXIII, p. 161, verse 7<!-- checked it corresponds to EI23_24_BC84.tif  -->. Sometimes we have janma-prabhr̥ti mānavaḥ
-                in the second foot and etad° at the beginning of the second half (Vogel, Antiquities
-                of Chamba State, I. p. 163). The Mahābhārata (XIII, 62, 19) has it with puruṣaḥ
-                pāpaṁ kurute vr̥tti-karśitaḥ. Ballāla's Dānasāgara (op. cit., p. 316) attributes it
-                to the Dāna-Br̥haspati.<!-- According to Kane 1941 vol2.2 p.858-859: Vas. Dh. S. 29.16, Br̥haspati 7, Viṣṇudharmottara, Matsyapurāṇa (quoted by Aparārka p369 370) + Note 2021 : Bhaviṣyapurāṇa 4.164,18  see also EI39 jayarampur plates of gopacandra  p 148 variation pada a line 45-->
-                        <!-- Variante dans Dānakhaṇḍa Hemādri 496 attribué au Mbh 
-                        yat kiṃcit kurute pāpaṃ puruṣo vṛttikarṣitaḥ ||
-	api gocarmamātreṇa bhūmidānena pūyate |
-voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzwP4Io/edit?tab=t.0
-                        -->
-                        <!-- Dānākhaṇḍa Hemādri p 506 attribue au ;atsyapurnana 
-                        https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzwP4Io/edit?tab=t.0
-                        variation b et d 
-                        -->
-                        <!-- Lakṣmīdhara Kṛtyakalpataru dānakaṇḍa 10.3 / hem 505 attribué à Bṛhaspati puis une variation attribu2e 0 Vṛddhavasiṣṭa 10.20= hemadri 506 -->
-                    </note>
-                    <div type="occurences">
                         <p>This stanza is found with the following reading in the <title>Mahābhārata</title> 13.61.16 (GRETIL):</p>
                     <lg met="anuṣṭubh">
                            <l n="a">yat kiṃ cit puruṣaḥ pāpaṃ</l>
@@ -5448,6 +5478,24 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                        <p> Whatever sin a man may have committed under the pressure of his occupation, he is cleansed from all that by giving a piece of land even small as a "cow's hide". (translation <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">461</citedRange></bibl>)</p>
                      <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">346</citedRange></bibl>, the <title>Vasiṣṭha Dharmasūtra</title> represents a transitional phase from the prose Dharmasūtras to the verse Smṛtis. Olivelle (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>) places <title>Vasiṣṭha Dharmasūtra</title>'s composition close to the beginning of the common era or even in the first century CE.
                      </p>
+                    <p>The verse (with the following variation in pāda b) is attributed to Bṛhaspati according to Aparārka (<title>Ācārādhyāya</title>) when he comments the verse 1.210 of Yājñavalkya (p. 367).  It is attributed to <title>Matsyapurāṇa</title> in the <title>Dānakhaṇḍacaturvargacintāmaṇi</title> of Hemādri (p. 506):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">yat kiñcit kurute pāpaṁ</l> 
+                        <l n="b">janmaprabhṛti mānavaḥ</l>
+                        <l n="c">api gocarma-mātreṇa</l>
+                        <l n="d">bhūmi-dānena śudhyati</l></lg>
+                    <p>Aparārka (<title>Ācārādhyāya</title>) when he comments the verse 1.210 of Yājñavalkya quotes again the following variation of this verse p. 369 among other verses attributed to <title>Viṣṇudharma</title>, and then again the same vairation attributed to <title>Matsyapurāṇa</title> p.370:</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">yat kiñcit kurute pāpaṁ</l> 
+                        <l n="b">puruṣo vṛttikarṣitaḥ</l>
+                        <l n="c">api gocarma-mātreṇa</l>
+                        <l n="d">bhūmi-dānena śudhyati</l></lg>
+                    <p>The same Aparārka (<title>Ācārādhyāya</title>) quotes a verse with the same meaning attributed to Ādityapurāṇa (p.370):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">yas tu gocarmamātrāṃ vai</l> 
+                        <l n="b">prayacchanti vasuṃdharām</l>
+                        <l n="c">vimuktaḥ sarvapāpebhyo</l>
+                        <l n="d">viṣṇulokaṃ sa gacchati</l></lg>
 <!-- My own research : a verse more or less similar in Hemadri Danakanda p 510 api gocarma-mātrāṁ yo dadāti harayebhuvama | saptajanmāni rājendra sa śrīmānabhijāyati -->
                         <!-- Voir Mitākṣarā of Vijñāneśvara commentaire de Yājñavalkya vers 1.210 il cite 
                         yat kiṃcit kurute pāpaṃ jñānato 'jñānato 'pi vā | 
@@ -5455,18 +5503,25 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
 	voir texte electroniaue https://docs.google.com/document/d/19ny7Y82T16VVIn1pRs2sZPa7Q50LZG0NJw2ISA48ycM/edit?tab=t.0 
 -->
                     </div>
-                    <div type="bibliography">
-                        <p></p>
-                    </div>
-                    <div type="inscriptions">
-                        <p>See the following inscriptions:
-                        <list>
-                            <item><ref target="DHARMA_INSBengalCharters00076.xml">Jayarampur plate of the time of Gopacandra, Year 1</ref>, stanza VIII line 45</item>
-                            <item><ref target="INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref></item>
-                        </list></p>
-                    </div>
-                                                         </div>
-                
+                    <div type="notes">
+                    <note>
+                        2. Ep. Ind., Vol. XXIII, p. 161, verse 7<!-- checked it corresponds to EI23_24_BC84.tif  -->. Sometimes we have janma-prabhr̥ti mānavaḥ
+                in the second foot and etad° at the beginning of the second half (Vogel, Antiquities
+                of Chamba State, I. p. 163). The Mahābhārata (XIII, 62, 19) has it with puruṣaḥ
+                pāpaṁ kurute vr̥tti-karśitaḥ. Ballāla's Dānasāgara (op. cit., p. 316) attributes it
+                to the Dāna-Br̥haspati.<!-- According to Kane 1941 vol2.2 p.858-859: Vas. Dh. S. 29.16, Br̥haspati 7, Viṣṇudharmottara, Matsyapurāṇa (quoted by Aparārka p369 370) + Note 2021 : Bhaviṣyapurāṇa 4.164,18  see also EI39 jayarampur plates of gopacandra  p 148 variation pada a line 45-->
+                        <!-- Variante dans Dānakhaṇḍa Hemādri 496 attribué au Mbh 
+                        yat kiṃcit kurute pāpaṃ puruṣo vṛttikarṣitaḥ ||
+	api gocarmamātreṇa bhūmidānena pūyate |
+voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzwP4Io/edit?tab=t.0
+                        -->
+                        <!-- Dānākhaṇḍa Hemādri p 506 attribue au ;atsyapurnana 
+                        https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzwP4Io/edit?tab=t.0
+                        variation b et d 
+                        -->
+                        <!-- Lakṣmīdhara Kṛtyakalpataru dānakaṇḍa 10.3 / hem 505 attribué à Bṛhaspati puis une variation attribu2e 0 Vṛddhavasiṣṭa 10.20= hemadri 506 -->
+                    </note>
+                    </div>                                    
             </div>       
             <div xml:id="best_0160">
                 <div type="text">
@@ -5599,14 +5654,14 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
             <div xml:id="best_0167">
                 <div type="text">
                     <lg met="anuṣṭubh">
-                 <l n="a">nirvvaśo nirddhano rogī</l> 
-                 <l n="b">kṣīṇāyuḥ śatrubhir jjitaḥ</l>
-                 <l n="c">bhaved yaḥ kurute vādhāṃ</l>
+                 <l n="a">nirvaśo nirdhano rogī</l> 
+                 <l n="b">kṣīṇāyuḥ śatrubhir jitaḥ</l>
+                 <l n="c">bhaved yaḥ kurute bādhāṃ</l>
                  <l n="d">viprāṇāṁ tāmra-śāsane</l>                     
                     </lg>
                 </div>
                 <div type="translation">
-                    <p rend="stanza">A man who objects to the <foreign>vipra</foreign> in a copper plate, would be sick, diminished without will, whose life expectancy is reduced, defeated by his enemies !</p>
+                    <p rend="stanza">A man who objects to the <foreign>vipra</foreign> in a copper plate, would be dependent, poor, sick, whose life expectancy is reduced, defeated by his enemies !</p>
                 </div>
                 <div type="inscriptions">
                     <p>See <ref target="DHARMA_INSSomavamsin00021.xml">Nuapatna plates of the time of Janamejaya year 5</ref>.</p>
@@ -5796,7 +5851,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                             <l n="a">rāgād drohāt pralobhād vā</l>
                             <l n="b">grāme kiñcit pralopayet</l>
                             <l n="c">sa mahāpātakair yuktaḥ</l>
-                            <l n="d">pañcabhir nnarakaṁ vrajet</l>
+                            <l n="d">pañcabhir narakaṁ vrajet</l>
                         </lg>
                     </div>
                     <div type="translation" resp="part:amwb">
@@ -5944,7 +5999,14 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>See <ref target="INSCIK00055.xml">Stela from Kdei Ang (K. 55), 6th century Śaka</ref></p>
                 </div>
                 <div type="notes">
-                        <p>This verse does not belong to Sircar's list.</p>
+                        <p>This verse does not belong to Sircar's list. The pādas c and d matches the pādas c and d of Manusmṛti 3.249:</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">śrāddhaṃ bhuktvā ya ucchiṣṭaṃ</l>
+                        <l n="b">vṛṣalāya prayacchati</l>
+                        <l n="c">sa mūḍho narakaṃ yāti</l>
+                        <l n="d">kālasūtram avākśirāḥ</l>
+                    </lg>
+                    <p>After eating an ancestral offering, if someone gives his leftovers to a śudra, that foolosh man will fall down head first in the Kālasūtra hell. (translation Olivelle)</p>
                 </div>
             </div>
             <div xml:id="best_0185">
