@@ -264,6 +264,7 @@
                     <p>See the following inscriptions : 
                         <list>
                             <item><ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 5 (with an inversion of the pādas c and d)</item>
+                            <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for best_0030</item>
                         </list>
                     </p>
 
@@ -643,6 +644,9 @@
                             <item><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>, reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                         </list></p>
                     </div>
+                    <div type="bibliography">
+                        <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
+                    </div>
                  <!--   <div type="notes">
                         <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note> = EI28_13 and added in my table
                     </div> -->
@@ -873,7 +877,13 @@
                                 <item><ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 19-20 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</item>
                                 <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                                <item><p>See <ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 2 (with <foreign>dattā</foreign> instead of <foreign>bhuktā</foreign> in padā a</p></item>
-                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 19-20</item>                  
+                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 19-20</item>
+                               <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for best_0030</item>
+                               <item><ref target="INSEIAD00185.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>bahubhiś cānupālitā</foreign> in pāda b</item>
+                               <item><ref target="INSEAIAD00186.xml">CCopper plates from Godavari district (set II) — reign of Pr̥thivīśrīmūla</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>bahubhiś cānupālitā</foreign> in pāda b</item>
+                               <item><ref target="INSEAIAD00187.xml">Copper plates from Kondavidu (set I) — reign of Pr̥thivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>bahubhiś cānupālitā</foreign> in pāda b</item>
+                               <item><ref target="INSEAIAD00188.xml">Copper plates from Kondavidu (set II) — reign of Pr̥thivīśrīmūla, year 43</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>bahubhiś cānupālitā</foreign> in pāda b</item>
+                               <item><ref target="INSEAIAD00189.xml">Copper plates from Kondavidu (set III) — reign of Pr̥thivīśrīmūla, year 43</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>bahubhiś cānupālitā</foreign> in pāda b</item>
                            </list></p>
                    </div>
                    <div type="occurences">
@@ -1109,12 +1119,21 @@
                     </lg>
                 </div>
                 <div type="notes">
-                <note>7. See, e. g., Ep. Ind., Vol. VIII, p. 235, text lines 26-28. Sometimes we have
+                <note>7. See, e. g., Ep. Ind., Vol. VIII, p. 235, text lines 26-28 <!-- = INSPallava00011 -->. Sometimes we have
                 iha-loke na vidyate for the second quarter and yah prayacchati bhūmiṁ hi
                 sarva-kāmān dadāti saḥ in the second half (ibid., Vol. XXIV, p. 303, text lines
                 23-24). For Bhūmi-dāna-samaṁ at the beginning and dānena yat phalaṁ proktaṁ pālanena
                 tato 'dhikam in the second half, see Ep. Ind., Vol. XIX, p. 42, text lines
                 25-26.<!-- EI XIX p.42 checked and added in my table + added in the div vaariation Rath1927-1928_01 --></note>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item><ref target="INSPallava00011.xml">Cendalūra grant, time of Kumāraviṣṇu, year 2</ref> (<bibl><ptr target="bib:Hultzsch1905-1906_09"/></bibl> is the reference given by <bibl><ptr target="bib:Hultzsch1905-1906_09"/></bibl>)</item>
+                        <item><ref target="INSEIAD00186.xml">Copper plates from Godavari district (set II) — reign of Pr̥thivīśrīmūla</ref>, lines 27-30 (period 400-600 CE, Andhra Pradesh)</item>
+                        <item><ref target="INSEIAD00188.xml">Copper plates from Kondavidu (set II) — reign of Pr̥thivīśrīmūla, year 43</ref>, lines 26-27 (period 400-600 CE, Andhra Pradesh)</item>
+                        <item><ref target="INSEIAD00189.xml">Copper plates from Kondavidu (set III) — reign of Pr̥thivīśrīmūla, year 43</ref>, lines 23-24 (period 400-600 CE, Andhra Pradesh)</item>
+                    </list></p>
                 </div>
                 <div type="bibliography">
                     <p>This verse was already quoted as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>. It was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">125</citedRange><citedRange unit="item">14</citedRange></bibl>. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 25 to this stanza.</p>
@@ -1199,15 +1218,23 @@ Having observed this double and balancing fortune, may you work for the longevit
 </p> -->
                 </div>
                 <div type="notes">
-                    <note>2. Ep. Ind., Vol. XXXI, p. 221, text lines 21-24. The stanza is sometimes quoted
-                separately from the Vyāsa-gīta group of verses (ibid. Vol. XXXIV, p. 114).</note>
+                    <note>2. Ep. Ind., Vol. XXXI, p. 221, text lines 21-24<!-- =INSDaksinaKosala0029 -->. The stanza is sometimes quoted separately from the Vyāsa-gīta group of verses (ibid. Vol. XXXIV, p. 114 <!-- = INSDaksinaKosala00002 -->).</note>
                 </div>
                 <div type="inscriptions">
                     <p>This verse is quoted in the following inscriptions : 
                         <list>
+                            <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, example given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">181</citedRange></bibl></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00025.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00026.xml">Rājim Plates of Tīvaradeva, Year 7</ref></item>
+                            <item><ref target="INSDaksinaKosala00027.xml">Sirpur Plates of Tīvaradeva, Year 7</ref></item>
+                            <item><ref target="INSDaksinaKosala00028.xml">Baloda Plates of Tīvaradeva, Year 9</ref></item>
+                            <item><ref target="INSDaksinaKosala00029.xml">Aḍbhār Plates of Nannarāja II, undated</ref>, example given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">181</citedRange></bibl></item>
                            <item> <ref target="DHARMA_INSDk00031.xml">Sirpur Plates of Śivagupta, Year 6</ref></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00032.xml">Malhār Plates of Śivagupta, undated (presumably year 6)</ref></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00033.xml">Bārdūlā Plates of Śivagupta, Year 9</ref></item>
                             <item><ref target="DHARMA_INSDk00034.xml">Sirpur Plates of Śivagupta, Year 11</ref></item>
                             <item><ref target="DHARMA_INSDk00035.xml">Sirpur Plates of Śivagupta, Year 19</ref></item>
+                            <item><ref target="DHARMA_INSDaksinaKosala00036.xml">Boṇḍā Plates of Śivagupta, Year 22</ref></item>
                             <item><ref target="DHARMA_INSDk00037.xml">Sirpur Plates of Śivagupta, Year 37</ref></item>
                             <item><ref target="DHARMA_INSDk00038.xml">Sirpur Plates of Śivagupta, Year 38</ref></item>
                             <item><ref target="DHARMA_INSDk00039.xml">Sirpur Plates of Śivagupta, Year 46</ref></item>
@@ -1216,9 +1243,16 @@ Having observed this double and balancing fortune, may you work for the longevit
                             <item><ref target="DHARMA_INSDk00042.xml">Sirpur Plates of Śivagupta, Year 52</ref></item>
                             <item><ref target="DHARMA_INSDk00043.xml">Sirpur Plates of Śivagupta, Year 55</ref></item>
                             <item><ref target="DHARMA_INSDk00044.xml">Sirpur Plates of Śivagupta, undated (presumably year 55 or later)</ref></item>
-                            <item><ref target="DHARMA_INSDk00051.xml">Sirpur Plates of Śivagupta, undated</ref></item>
+                            <item><ref target="INSDaksinaKosala00046.xml">Lodhiā Plates of Śivagupta, Year 57</ref></item>
+                            <item><ref target="INSDaksinaKosala00047.xml">Junvānī Plates of Śivagupta, Year 57
+</ref></item>
+                            <item><ref target="INSDaksinaKosala00050.xml">Malhār Plates of Śivagupta, undated</ref></item>
+                            <item><ref target="DHARMA_INSDk00051.xml">Sirpur Plates of Śivagupta, undated</ref></item> 
                         </list></p>
                 </div>
+            </div>
+            <div type="bibliography">
+                <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
             </div>
             <div xml:id="best_0031">
                 <div type="text">
@@ -1433,14 +1467,19 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                <div>
                    <p>This verse is found in
                        <list>
+                           <item><ref target="DHARMA_INSDk00005.xml">Malhār Plates of Jayarāja, Year 5</ref>, verse 1</item>
+                           <item><ref target="INSDaksinaKosala00006.xml">Āraṅg Plates of Jayarāja, Year 5</ref></item>
+                           <item><ref target="DHARMA_INSDk00007.xml">Malhār Plates of Jayarāja, Year 9</ref>, verse 1</item>
+                           <item><ref target="INSDaksinaKosala00008.xml">Nahna Plates of Sudevarāja, Year 2</ref></item>
+                           <item><ref target="INSDaksinaKosala00009.xml">Dhamatari Plates of Sudevarāja, Year 3</ref></item>
+                           <item><ref target="DHARMA_INSDk00010.xml">Sirpur Plates of Sudevarāja, Year 7</ref>, verse 1</item>
+                           <item><ref target="DHARMA_INSDk00011.xml">Āraṅg Plates of Sudevarāja, Year 7</ref>, verse 1</item>
                            <item><ref target="DHARMA_INSDk00012.xml">Kauvatal Plates of Sudevarāja, Year 7</ref>, verse 1, lines 2v1-2v4</item>
+                           <item><ref target="INSDaksinaKosala00013.xml">Raipur Plates of Sudevarāja, Year 10</ref></item>
                            <item><ref target="DHARMA_INSDk00014.xml">Sāraṅgarh Plates of Sudevarāja (incomplete)</ref>, verse 1</item>
                            <item><ref target="DHARMA_INSDk00015.xml"> Ṭhākurdīya Plates of Pravararāja, Year 3</ref>, verse 1</item>
                            <item><ref target="DHARMA_INSDk00016.xml">Malhār Plates of Pravararāja, Year 3</ref>, verse 1</item> 
-                           <item><ref target="DHARMA_INSDk00005.xml">Malhār Plates of Jayarāja, Year 5</ref>, verse 1</item>
-                           <item><ref target="DHARMA_INSDk00007.xml">Malhār Plates of Jayarāja, Year 9</ref>, verse 1</item>
-                           <item><ref target="DHARMA_INSDk00010.xml">Sirpur Plates of Sudevarāja, Year 7</ref>, verse 1</item>
-                           <item><ref target="DHARMA_INSDk00011.xml">Āraṅg Plates of Sudevarāja, Year 7</ref>, verse 1</item>
+                           <item><ref target="INSDaksinaKosala00017.xml">Stray Pokhra Plate of the Kings of Śarabhapura, undated</ref></item>
                        </list> </p>
                </div>
             </div> 
@@ -1480,6 +1519,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                         <list>
+                             <item><ref target="INSDaksinaKosala00029.xml">Aḍbhār Plates of Nannarāja II, undated</ref>, lines 24-25, example given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">6</citedRange><citedRange unit="page">182</citedRange></bibl></item>
                             <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                             <item><ref target="DHARMA_INSDaksinaKosala00034.xml">Sirpur Plates of Śivagupta, Year 11</ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
                             <item><ref target="DHARMA_INSDaksinaKosala00035.xml">Sirpur Plates of Śivagupta, Year 19</ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
@@ -1493,6 +1533,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                             <item><ref target="DHARMA_INSDaksinaKosala00041.xml">Sirpur Plates of Śivagupta, undated (presumably year 48 or later)</ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
                             <item><ref target="DHARMA_INSDaksinaKosala00044.xml">Sirpur Plates of Śivagupta, undated (presumably year 55 or later)</ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
                             <item><ref target="DHARMA_INSDaksinaKosala00051.xml">Sirpur Plates of Śivagupta, undated</ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
+                            <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he quotes this reference for best_0030</item>
+                           
                         </list>
                     </p>
                 </div>
@@ -1855,7 +1897,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         <l n="d">vipra-dattā vasundharā</l>
                     </lg>
                 </div>
-                <div type="translation" resp="bib:Tagare1996_01">
+                <div type="translation" source="bib:Tagare1996_01">
                     <p>The earth granted to Brāhmaṇas is the sole sister of all the kings. No tax is to be levied therepon<note>The pun on kara 'hand'. 'She (being a sister) should not be grasped by hand'.</note>. It should be not enjoyed as their iwn possession.</p>
                    <!-- <p rend="stanza">The land given to brahmin (<foreign>vipra</foreign>) should not be enjoyed nor taken for taxes ; it is in this world the unique prosperous thing for all the kings.  </p> -->
                 </div>
@@ -2247,6 +2289,9 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                      </list>
                      </p>
                  </div>
+                 <div type="bibliography">
+                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
+                 </div>
              </div>
             <div xml:id="best_0071">
                 <div type="text">
@@ -2325,10 +2370,11 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         <item><ref target="DHARMA_INSBengalCharters00110.xml">Rangpur Plate of Mahīpāla I, year 5</ref> verse </item>
                         <item><ref target="DHARMA_INSBengalCharters00111.xml">Suvarnakarikadanda Plate of Gopāla II, year 4 (no.1)</ref> verse </item>
                         <item><ref target="DHARMA_INSBengalCharters00125.xml">Monghyr/Munger Plate of Devapāla, r.y. 33</ref> verse </item>
-                        <item><ref target="DHARMA_INSDaksinaKosala00046.xml"></ref> verse </item>
-                        <item><ref target="DHARMA_INSDaksinaKosala00048.xml"></ref> verse </item>
+                        <item><ref target="DHARMA_INSDaksinaKosala00046.xml">Lodhiā Plates of Śivagupta, Year 57</ref> verse </item>
+                        <item><ref target="DHARMA_INSDaksinaKosala00048.xml">Stray Būrhīkhār Plate of Śivagupta, Year 57</ref></item>
                         <item><ref target="DHARMA_INSEI42_9.xml">Phulbāni copper-plate grant of Raṇabhañjadeva year 28</ref>, verse 14 (<bibl><ptr target="bib:SubramoniaIyer1977-1978_01"/></bibl>)</item>
-                    </list></p><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038  981 AD  -->
+                    </list>
+                    </p><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038  981 AD  -->
                 </div>
                 <div type="occurences">
                     <p>The content of this stanza is close to best_0010, best_0019, best_0020, best_0035, best_0036, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0183. 
@@ -2418,6 +2464,13 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                <div type="notes">
                    <note>3. Ep. Ind., Vol. VI, p. 97, text lines 52-53. We have also dharma for karma (Ind.
                 Ant.,Vol. IV, p. 276),</note><!-- checked see EI6_10-4  -->
+               </div>
+               <div type="inscriptions">
+                   <p>See the following inscriptions:
+                   <list>
+                       <item>Gadag (stone) Inscription of Vira-Ballala II, śaka samvat 1114, lines 52-53 <bibl><ptr target="bib:Luders1900-1901_01"/></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                       <item>lines 74-76 in a set of copper plates mentioning princes from the Kalachuri family edited by Fleet in Indian Antiquary, volume IV, pp.274-281 (<bibl><ptr target="bib:Fleet1875_03"/></bibl>), the reference was given by <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
+                   </list></p>
                </div>
            </div>
             <div xml:id="best_0075">
@@ -2757,7 +2810,11 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
 <!-- Levi1908 Somavamsin and Śaśaṅkarāja  -->
                  </div>
                  <div type="inscriptions">
-                     <p>See <ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 3</p>
+                     <p>See the following inscriptions:
+                         <list>
+                             <item><ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 3</item>
+                             <item><ref target="INSDaksinaKosala00048.xml">Stray Būrhīkhār Plate of Śivagupta, Year 57</ref></item>
+                         </list></p>
                  </div>
                      </div>            
             <div xml:id="best_0086">
@@ -2773,9 +2830,20 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">For the success of the fruits of my gift and for the benefit of the fruits of its protection, this <foreign>dharma</foreign> that I am carrying out must be protected by the kings as long as the moon and stars last. </p>
                 </div>
                 <div type="notes">
-                    <note>6. Ep. Ind., Vol. XXVIII, p. 311, text lines 10-11; p. 257. This stanza is
+               <!--      <note>6. Ep. Ind., Vol. XXVIII, p. 311, text lines 10-11; p. 257. This stanza is
                 generally found in the grants of the Imperial Gaṅgas of Orissa. Sometimes we have
-                bhūmeḥ for bhūpaiḥ.</note><!-- See also EI31_19 p. 128 line 206-207 ; EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEST) best_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90-->
+                bhūmeḥ for bhūpaiḥ.</note>See also EI31_19 p. 128 line 206-207 ; EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEST) best_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90 -->
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>Puri plates (set B) of Ganga Narasimha IV, lines 11-12 of the seventh plate, <bibl><ptr target="bib:Sircar1949-1950_08"/><citedRange unit="page">311</citedRange></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
+                        <item>Asankhali plates of Narasimha II, Saka 1225, lines 206-207 <bibl><ptr target="bib:Sircar1955-1956_04"/><citedRange unit="page">128</citedRange></bibl></item>
+                        <item></item>
+                    </list></p>
+                </div>
+                <div type="bibliography">
+                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet. He specifies in his note that this stanza is generally found in the grants of the Imperial Gaṅgas of Orissa and that sometimes we have <foreign>bhūmeḥ</foreign> for <foreign>bhūpaiḥ</foreign>. </p>
                 </div>
             </div>      
            <!--  <pb n="189"/>-->
@@ -2793,6 +2861,9 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
                 <div type="notes">
                     <note>1. Ep. Ind., Vol. XXXI, p. 191. See Nos. 89 and 90.</note><!--  EI31_24_1 not yet encoded but checked ; language sanskrit different scripts used in the plates ; date 889-891 AD ; verses introduced line 18-19 by atra vyāsagītāni ślokāḥ bhavanti ; 23 + 132_03 + 87 + 117 + date  -->
+                </div>
+                <div type="bibliography">
+                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>
             <div xml:id="best_0088">
@@ -3170,6 +3241,9 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 <div type="notes">
                     <note>7. Ep. Ind., Vol. XXII, p. 191, text lines 37-39. <!-- EI22_28b.tif checked ; "the Bhor State Museum Plates of Khambha II Saka 1001" interesting feature of this charter = unusual structure => date followed by description of the donor then description of the grant then name of the ministers of the donor then donor's genealogy tehn imprecatory verses then donee's names added like an after thought ; date = 1079 ; place modern Shirval in Bhor state 32 miles from Poona ; p 189 it is said that the village Vinga had been given to Brahmananas as early as the time of rama  --></note>
                 </div>
+                <div type="bibliography">
+                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
+                </div>
             </div>  <!--    
             <pb n="191"/> -->
             <div xml:id="best_0100">
@@ -3379,6 +3453,9 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                 </div>
                 <div type="notes"> 
                     <note>1. Ep. Ind., Vol.XII, p. 214, verse 35.<!-- checked EI12_24 --></note>
+                </div>
+                <div type="bibliography">
+                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>
             <div xml:id="best_0109">
@@ -3919,7 +3996,13 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                    <p>See the following inscriptions:
                    <list>
                        <item><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>)</item>
-                       <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 20-21</item> 
+                       <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 20-21</item>
+                       <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for best_0030</item>
+                       <item><ref target="INSEIAD00185.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh)</item>
+                       <item><ref target="INSEIAD00186.xml">Copper plates from Godavari district (set II) — reign of Pr̥thivīśrīmūla</ref> (period 400-600 CE, Andhra Pradesh)</item>
+                       <item><ref target="INSEIAD00187.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>svargge krīḍati bhūmidaḥ</foreign> in pāda b</item>
+                      <item><ref target="INSEIAD00188.xml">Copper plates from Kondavidu (set II) — reign of Pr̥thivīśrīmūla, year 43</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>svargge tiṣṭhati bhūmidaḥ</foreign> in pāda b</item>
+                       <item><ref target="INSEIAD00189.xml">Copper plates from Kondavidu (set III) — reign of Pr̥thivīśrīmūla, year 43</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>svargge tiṣṭhati bhūmidaḥ</foreign> in pāda b</item>
                    </list>
                    </p>
                </div>
@@ -4143,6 +4226,12 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                 <l>Prāg-dattāṁ bhūmiṁ viprebhyo, etc. See 131, note. </l>
             </div>
             <div type="inscriptions">
+                <p>See the following inscriptions:
+                    <list>
+                        <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for best_0030</item>
+                    </list>
+                </p>
+                
                 <p>The verse can be read in lines 55-56 of Konnur spurious inscription of Amoghavarsha I.; Saka-Samvat 782 (<bibl><ptr target="bib:Kielhorn1900-1901_03"/></bibl>) with the following variation: </p>
                 <lg met="anuṣṭubh">
                     <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4452,6 +4541,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                             <item><ref target="DHARMA_INSVengiCalukya00017.xml">Tenali plates of Vijayāditya I</ref></item>
                             <item><ref target="DHARMA_INSVengiCalukya00059.xml">Uccāṭi grant of Jayasiṁha I</ref></item>
                             <item><ref target="DHARMA_INSVengiCalukya00050.xml">Cendalūr Plates of Maṅgi Yuvarāja</ref></item>
+                            <item><ref target="INSEIAD00185.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref></item>
                         </list>             
 <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 3  p 1272
                         IA VI p 9 EI vol 8 p146 and p 162 EI XI p 111
@@ -4837,6 +4927,9 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. VI, p. 4, verse 50.</note>
                 </div>
+                <div type="bibliography">
+                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
+                </div>
             </div>                      
             <div xml:id="best_0137">
                 <div type="text">
@@ -4914,6 +5007,9 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                <div type="notes">
                    <note>1. Ep. Ind., Vol. IV, p. 250, lines 59-60.</note><!-- checked EI_04_No_34.tif see DHARMA_INSBengalCharters00088 -->
                </div>
+               <div type="bibliography">
+                   <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
+               </div>
            </div>
            <div xml:id="best_0139">
                <div type="text">
@@ -4950,6 +5046,9 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXII, p. 166, verse 21.</note><!-- see EI22_26.tif -->
+                </div>
+                <div type="bibliography">
+                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>          
             <div xml:id="best_0141">
@@ -5148,7 +5247,22 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 Vighnatāṁ.</note><!-- not yet checked  -->
                 </div>
                 <div type="inscriptions">
-                    <p>This verse occurs in <ref target="DHARMA_INSVengiCalukya00057.xml">Peddāpurappāḍu plates (set 2) of Viṣṇuvardhana II</ref> (verse III, lines 22-23).</p>
+                    <p>See the following inscriptions: 
+                        <list>
+                            <item>Parla-Kimedi Plates of the Mahārāja Indravarman, the year 91, <bibl><ptr target="bib:Fleet1876_05"/><citedRange unit="page">131-134</citedRange></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
+                            <item><ref target="DHARMA_INSVengiCalukya00057.xml">Peddāpurappāḍu plates (set 2) of Viṣṇuvardhana II</ref> (verse III, lines 22-23)</item>
+                            <item><ref target="INSEIAD00188.xml">Copper plates from Kondavidu (set II) — reign of Pṛthivīśrīmūla, year 43</ref></item>
+                            <item><ref target="INSEIAD00189.xml">Copper plates from Kondavidu (set III) — reign of Pr̥thivīśrīmūla, year 43</ref> lines 20-21</item>
+                        </list></p>
+                </div>
+                <div type="variation">
+                    <p>The following variation can be read in <ref target="INSEIAD00186.xml">Copper plates from Godavari district (set II) — reign of Pr̥thivīśrīmūla</ref>, lines 27-30 (period 400-600 CE, Andhra Pradesh)</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a" enjamb="yes">nighnatāṁ bhartr̥-go-vipra</l>
+                        <l n="b">-bāla-yoṣid-vipasviṇaḥ</l>
+                        <l n="c">yā gatiḥ sā bhaved bhūmiṁ</l>
+                        <l n="d">harataḥ śāsanāṅkitām</l>
+                    </lg>
                 </div>
             </div>                       
             <div xml:id="best_0150">
@@ -5303,6 +5417,9 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. III, p. 367, lines 20-21.</note><!-- there is a problem with this reference I do not find this page as EI 3 ends with the page 360  -->
+                </div>
+                <div type="bibliography">
+                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>
             <div xml:id="best_0154">
@@ -5589,7 +5706,10 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p rend="stanza">Those who steal even a small portion of the earth belonging to the Brahmins, they spend even ten millions of kalpas united with the ancestors in the pit of excrement, .</p>
                 </div>
                 <div type="notes">
-                    <note>6. Ep. Ind., Vol. XXII, p. 156, text lines 40-41.</note><!-- checked EI22_25.tif 10th century West Bengal maybe two verses found in this inscription could be added into the present list  -->
+                    <note>6. Ep. Ind., Vol. XXII, p. 156, text lines 40-41.</note><!-- checked EI22_25.tif 10th century West Bengal two verses whose text is quite uncertain (but hte meaning is quite understandable) introduced a group of 5 stanzas best_29, best163 best132_00  best_23 best117 best 71 -->
+                </div>
+                <div type="bibliography">
+                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>
             <div xml:id="best_0164">
@@ -6089,6 +6209,99 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                 </div>
                 <div type="bibliography">
                     <p>This stanza is quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">175</citedRange></bibl> as an instance of idiosyncratic verse. He did not explicitly explained his opinion. In the plate where the verse can be read, it is introduced as a verse from Vyāsa (uktaṁ ca bhagavatā vyāsena between two other "usual" formulas best_0123 and best_0023, followed by best_0150, best_0132_00 and best_0117. </p>
+                </div>
+            </div>
+             <div xml:id="best_0189">
+                    <div type="text">
+                        <lg met="anuṣṭubh"><!-- check the standard suggested on the basis of the testimonies -->
+                            <l n="a">tām eva rakṣatā yatnāN</l>
+                            <l n="b">nibodhaḥ kr̥itinaḥ phalaṁ</l>
+                            <l n="c">naikakalpasahasrāṇi</l>
+                            <l n="d">divi devai sa divyati</l>
+                        </lg>
+                    </div>
+                    <div type="translation" resp="part:argr">
+                        <p>Hear the fruit of the virtuous man who protects it scrupulously: during numerous thousands of aeons he plays in heaven with the gods.</p>
+                    </div>
+                    <div type="inscriptions">
+                        <p>See the following inscriptions:
+                        <list>
+                            <item><ref target="INSEIAD00185.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh)</item>
+                            <item><ref target="INSEIAD00187.xml">Copper plates from Kondavidu (set I) — reign of Pr̥thivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh)</item>
+                            <item><ref target="INSEIAD00188.xml">Copper plates from Kondavidu (set II) — reign of Pṛthivīśrīmūla, year 43</ref> (period 400-600 CE, Andhra Pradesh)</item>
+                            <item><ref target="INSEIAD00189.xml">Copper plates from Kondavidu (set III) — reign of Pr̥thivīśrīmūla, year 43</ref> lines 22-23 (period 400-600 CE, Andhra Pradesh)</item>
+                        </list></p>
+                    </div>
+                    <div type="bibliography">
+                        <p>This verse does not belong to Sircar's list. It is added here because it is quoted with other well-known verses (best_0132_01, best_0123, best_0023). The whole stanzas are introduced by <foreign>api ca</foreign> or <foreign>cātra manugītā ślokāḥ</foreign>. </p>
+                    </div>
+                </div>
+            <div xml:id="best_0190">
+                    <div type="text">
+                        <lg met="upajāti">
+                                        <l n="a">kīrtiḥ parasyeyam iyaṁ mameti</l>
+                                        <l n="b">kāryyo na dharmmaṁ pratipakṣapātaḥ</l>
+                                        <l n="c">bhavanti vaire 'pi hi rūḍḥamūle</l>
+                                        <l n="d">dharmmakriyā matsariṇo na santaḥ</l>
+                        </lg>
+                    </div>
+                    <div type="translation" resp="part:nabo">
+                        <p>One should not make judgements concerning dharma, such as "is this of someone else’s reputation or is it mine?". For, acts of dharma, being not jealous, tend to be firmly fixed even in the case of enmity.</p>
+                    </div>
+                    <div type="inscriptions">
+                        <p>See the following inscriptions:
+                        <list>
+                            <item><ref target="INSDaksinaKosala00024.xml">Philadelphia Museum of Art Copper-Plates of Nannarāja I, Year 7</ref> verse 1</item>
+                        </list></p>
+                    </div>
+                    <div type="bibliography">
+                        <p>This stanza is added because it is introduced by a sentence addressed to the future kings and arguing that the fruit in portectiong is greater than the one in giving.</p>
+                    </div>
+                </div>
+            <div xml:id="best_0191">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+      <l n="a">ye nu dharmam imaṁ ghnanti</l>
+      <l n="b">ye haranti vasūni ca</l>
+      <l n="c">te 'śeṣa-narakaṁ yāntu</l>
+      <l n="d">sa-sauta-suta-vāndhavāḥ</l>
+   </lg>
+                </div>
+                <div type="translation" source="bib:Coedes1954_02">
+                    <p>Ceux qui détruisent ce dharma, ceux qui prennent les terres, qu’ils aillent dans les enfers sans en excepter un seul, avec leurs petits-enfants, enfants et parents.</p>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item><ref target="INSCIK00950.xml">Inscription of Prasat Anlong Car (K. 950), 871 Śaka
+</ref> verse 10</item>
+                    </list></p>
+                </div>
+                <div type="bibliography">
+                    <p>This stanza is not repertorired in Sircar's list but I add it here because the wording and the meaning are close to best_0070.</p>
+                </div>
+            </div>
+            <div xml:id="best_0192">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+      <l n="a">kalpanāṁ ye na lumpanti</l>
+      <l n="b">loptṝn rundhanti mānavāḥ</l>
+      <l n="c">durāpalokaṁ te yāntu</l>
+      <l n="d">sa sauta-suta-vāndhavāḥ</l>
+   </lg>
+                </div>
+                <div type="translation" source="bib:Coedes1954_02">
+                    <p>Les hommes qui ne pillent pas cette fondation, qui écartent les pillards, qu’ils aillent au monde céleste difficile à atteindre avec leurs petits-enfants, enfants et parents.</p>
+                </div>
+                 <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item><ref target="INSCIK00950.xml">Inscription of Prasat Anlong Car (K. 950), 871 Śaka
+</ref> verse 10</item>
+                    </list></p>
+                </div>
+                <div type="bibliography">
+                    <p>This stanza is not repertorired in Sircar's list but I add it is the counterpart of best_0191 whose the wording and the meaning are close to best_0070.</p>
                 </div>
             </div>
 
