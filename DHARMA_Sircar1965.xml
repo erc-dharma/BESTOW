@@ -2837,8 +2837,8 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                     <list>
-                        <item>Puri plates (set B) of Ganga Narasimha IV, lines 11-12 of the seventh plate, <bibl><ptr target="bib:Sircar1949-1950_08"/><citedRange unit="page">311</citedRange></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
-                        <item>Asankhali plates of Narasimha II, Saka 1225, lines 206-207 <bibl><ptr target="bib:Sircar1955-1956_04"/><citedRange unit="page">128</citedRange></bibl></item>
+                        <item>Puri plates (set B) of Gaṅga Narasiṁha IV, lines 11-12 of the seventh plate, <bibl><ptr target="bib:Sircar1949-1950_08"/><citedRange unit="page">311</citedRange></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                        <item>Asankhali plates of Narasiṁha II, Śaka 1225, lines 206-207 <bibl><ptr target="bib:Sircar1955-1956_04"/><citedRange unit="page">128</citedRange></bibl> (reference not given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                         <item></item>
                     </list></p>
                 </div>
@@ -2931,6 +2931,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <div type="inscriptions">
                    <p>See the following inscriptions:
                    <list>
+                       <item>Puri plates (set B) of Gaṅga Narasiṁha IV, lines 17-18 of the seventh plate, <bibl><ptr target="bib:Sircar1949-1950_08"/><citedRange unit="page">312</citedRange></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                        <item><ref target="INSVengiCalukya00086.xml">Kāṭlapaṟṟu grant of Vijayāditya III</ref>, lines 69-71</item>
                        <item><ref target="INSVengiCalukya00024.xml">Bezvāḍa plates of Bhīma I</ref>, lines 37-40</item>
                        <item><ref target="INSVengiCalukya00040.xml">Pedda-Gāḻidipaṟṟu grant of Amma II</ref>, lines 69-70</item>
@@ -2988,14 +2989,14 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <l>Asmin=vaṁśe, etc. See No. 90, note. </l>
                 </div>
                 <div type="notes">
-                     <note>4 Ep. Ind., Vol. XXVIII. text line 18<!-- see EI28_48.tif stanza considered as new and not usual by the editor of the inscription see p 308 EI28_48.tif-->. Cf. mama dharmaṁ na lumpati or na lopyaṁ
+                     <note>4 Ep. Ind., Vol. XXVIII. text line 18<!-- see EI28_48.tif stanza considered as new and not usual by the editor (Sircar himself) of the inscription see p 308 EI28_48.tif-->. Cf. mama dharmaṁ na lumpati or na lopyaṁ
                 mama śāsanaṁ (ibid., Vol. XXII, p. 194, text line 23) and Asmin=vaṁśe kṣaya-ksīṇe
                 yo='nyo rājā bhaviṣyati | tasy=āhaṁ pāda-lagno='smi mayā dattaṁ na lopayet ||
                 (ibid., Vol. XXVIII. p. 283, text lines 36-37; for Mama for Asmin and kara for pāda,
                 cf. ibid., Vol. XXII, p. 194), For Mayi rājñi vyatikrānte in the first foot and
                 śāsanaṁ na vyatikramet in the last, see Ind. Ant., Vol. XII, p. 155. The Skanda
                 Purāṇa, op. cit., verse 41, has it as : Asmin=vaṁśe kṣitau ko='pi rājā yadi
-                bhaviṣyati | tasy=āhaṁ karalagno='smi mad-dattaṁ yad ipālyate ||<!-- this stanza is very close to the one quoted in EI13_18c  --> See Nos. 87 and
+                bhaviṣyati | tasy=āhaṁ karalagno='smi mad-dattaṁ yadi pālyate ||<!-- this stanza is very close to the one quoted in EI13_18c  --> See Nos. 87 and
                 89.</note><!-- Maybe create a new reference for this stanza since it is quite different from number 90 and seems to be quoted in this form more than once -->
                 </div>
                 <div type="bibliography">
@@ -3006,6 +3007,38 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         <l n="c" enjamb="yes">tasyāpi kara-lagnaḥ śā</l>
                         <l n="d">sanaṁ na vyatikrameT</l>
                     </lg>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>Puri plates (set B) of Gaṅga Narasiṁha IV, lines 18-19 of the seventh plate, <bibl><ptr target="bib:Sircar1949-1950_08"/><citedRange unit="page">312</citedRange></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                    </list></p>
+                </div>
+                <div type="variation">
+                    <p>The stanza is found with the following reading in the Plates of Neṭṭabhañja Tribhuvanakalaśa, lines 36-37 <bibl><ptr target="bib:Sircar+Acharya1949-1950_01"/><citedRange unit="page">283</citedRange></bibl> (variation already noticed by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">189</citedRange></bibl>):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">mama vaṁśe kśayakṣīṇe</l>
+                        <l n="b">yo 'nyo rājā bhaviṣyati</l>
+                        <l n="c">tasyāhaṁ pāda-lagno 'smi</l>
+                        <l n="d">mayā dattaṁ na lopayeT</l>
+                    </lg>
+                    <p>The stanza is found with the following reading in Mala Plates of Virasimhadeva ; V. S. 1343<bibl><ptr target="bib:Halder1933-1934_01"/></bibl> (variation already noticed by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">189</citedRange></bibl>):</p>
+                     <lg met="anuṣṭubh">
+                        <l n="a">mama vaṁ<corr>śe parikṣīṇe</corr></l>
+                        <l n="b">yo 'nyo rājā bhaviṣyati</l>
+                        <l n="c">tasyāhaṁ kara-lagno 'smi</l>
+                        <l n="d">na lopyaṁ mama śāsanaM</l>
+                    </lg>
+                </div>
+                <div type="occurences">
+                    <p>The stanza can be found in the <title>Dharmāraṇyakhaṇḍa</title>, <title>Brāhmakhaṇḍa</title> of the <title>Skandapurāṇa</title>, chapter 34, verse 41 with the following reading (already quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">189</citedRange></bibl>): </p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">Asmin vaṃśe kṣitau ko 'pi</l>
+                        <l n="b">rājā yadi bhaviṣyati</l>
+                        <l n="c">tasyāhaṃ karalagno 'smi</l>
+                        <l n="d">maddattaṃ yadi pālyate</l>
+                    </lg>
+                    <p>If any king is born in this family anywhere in earth, I am beholden to him if what is given by me is preserved.</p>
                 </div>
             </div>   
             <div xml:id="best_0091">
@@ -3730,6 +3763,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                         <item><ref target="DHARMA_INSSomavamsin00047.xml">Kāṇḍavindhā plates of Mahābhavagupta Uddyotakeśarin year 3</ref>, lines , Stanza </item>
                         <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                         <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> (see 	<bibl><ptr target="bib:Kielhorn1896_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl>)</item>
+                        <item>Ganjam Grant of Jayavarmadeva, lines 33-35, <bibl><ptr target="bib:Misra1936_01"/></bibl></item>
                     </list><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038 981 AD -->
                         </p>
                 </div>
@@ -5655,6 +5689,12 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 <div type="notes"> 
                     <note>3. Ep. Ind., Vol. XXVIII, p. 50, note 7<!-- checked see EI28_8 it is a kraya-śāsana from Orissa 10th century  -->. For slight variations, see Ep. Carn.,
                 Vol. XI, Cd. No. 82.</note>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>Madras Musuem Plates of the Time of Narendradhavala, lines 19-21 <bibl><ptr target="bib:Sircar1949-1950_12"/></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">201</citedRange></bibl></item>
+                    </list></p>
                 </div>
             </div>
            <div xml:id="best_0161">
