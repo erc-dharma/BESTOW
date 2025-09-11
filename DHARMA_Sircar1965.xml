@@ -204,7 +204,7 @@
                 </div>
                 <div type="occurences">
                     <p>The verse is found in the <title>Mahābhārata</title> 13,061.045 (GRETIL):</p>
-                    <lg met="">
+                    <lg met="anuṣṭubh">
                         <l n="a">Ādityo varuṇo viṣṇur</l>
                         <l n="b">brahmā somo hutāśanaḥ</l>
                         <l n="c">śūlapāṇiś ca bhagavān</l>
@@ -733,8 +733,8 @@
                      <!-- <p rend="stanza">Les pères applaudissent, les ancêtres trépignent de joie [quand ils peuvent dire:] ‘Un donateur de terres est né dans notre lignée, assurément, celui-ci sera notre sauveur!’</p> -->
                   </div>
                     <div type="variation">
-                        <p>A slight variation in the pāda d can be read in <ref target="INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref> lines 20-21: </p>
-                        <lg n="6" met="anuṣṭubh">
+                        <p>A slight variation in the pāda d can be read in <ref target="INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref> lines 20-21 verse 6: </p>
+                        <lg met="anuṣṭubh">
 <l n="a">Āsphoṭayanti pitaraḥ</l>
 <l n="b">pravalganti pitāmahāḥ</l>
 <l n="c">bhūmi-do 'smat-kule jātaḥ</l>
@@ -1121,7 +1121,7 @@
                 <div type="variation">
                     <l>Bhūmi-dāna-samaṁ dānaṁ na, etc. See No. 28, note. </l>
                     <p>The following variation of the stanza can be read in Antirigam plates of Jaya-Bhanja-Deva (see lines 25-26, <bibl><ptr target="bib:Rath1927-1928_01"/><citedRange unit="page">45</citedRange></bibl>): </p>
-                    <lg met="">
+                    <lg met="anuṣṭubh">
                         <l n="a">bhūmi-dāna-saraṁ dānaṁ</l>
                         <l n="b">dānaṃ bhūtaṃ na bhaviṣyati</l>
                         <l n="c">dānena yat phalaṁ proktam</l>
@@ -1520,11 +1520,8 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                      <note>6. Ep. Ind., Vol. XXXI, pp. 221-22, text lines 24-25. We have Rakṣā for Dāna at
                 the beginning in Ep. Ind., Vol. XXIII, p. 121, line 20; cf. ibid., Vol. XXXIV, p.
                 114 (where the stanza has been quoted seperately from the Vyāsa-gita group of
-                verses). The second half is sometimes quoted as dānāt svargam avāpnoti pālanād acyutaṁ(śāṅkaram in Ep. Carn., Vol. VIII, Tl. No. 73)
-                    padam and we have madhye for tāvat in the first foot (Ep. Ind., Vol. XVI,
-                p. 351). Sometimes we have Dānaṁ vāpālanaṁ vātra and dānā cchreyo 'nupālanam in the first and second feet (Ep. Carn., Vol. II,
-                Nos., 253, 327; Vol. III, My. Nos. 7, 32). The third foot sometimes reads
-                dānād indratvam āpnoti(Ep. Ind., Vol. XIV, p. 104, text lines 103-105).</note>
+                verses). The second half is sometimes quoted as dānāt svargam avāpnoti pālanād acyutaṁ(śāṅkaram in Ep. Carn., Vol. VIII, Tl. No. 73) padam and we have madhye for tāvat in the first foot (Ep. Ind., Vol. XVI,
+                p. 351). Sometimes we have Dānaṁ vāpālanaṁ vātra and dānā cchreyo 'nupālanam in the first and second feet (Ep. Carn., Vol. II, Nos., 253, 327; Vol. III, My. Nos. 7, 32). The third foot sometimes reads dānād indratvam āpnoti(Ep. Ind., Vol. XIV, p. 104, text lines 103-105).</note>
                 </div>
                 <div type="inscriptions">
                     <p>See the following inscriptions:
@@ -1565,6 +1562,17 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <p>This stanza can be read in:
                     <list>
                         <item><ref target="INSEC01011.xml">A copper plate at Kaṭṭepura</ref> (<bibl><ptr target="bib:Rice1914"/><citedRange unit="item">11</citedRange></bibl>, Epigraphia Carnatica volume 1, n° 11)</item>
+                        <item><ref target="INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl><!-- EI25_21 --></item>
+                        <item><ref target="INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref> (<bibl><ptr target="bib:Rice1894_01"/><citedRange unit="page">50</citedRange></bibl>)</item>
+                       <item><ref target="INSEC03Sr157.xml">Copper Plate at Melukoṭe</ref>, <bibl><ptr target="bib:Rice1894_01"/><citedRange unit="page">84</citedRange></bibl></item>
+                        <item><ref target="INSCirkali00020.xml">Cīrkāḻi, Brahmapurīśvara, Śaka 1410</ref><bibl><ptr target="bib:Veluppillai2013_01"/><citedRange unit="page">228-233</citedRange><citedRange unit="item">20</citedRange></bibl></item>
+                        <item><ref target="INStfaSIIv01p0i0043.xml">Arappākkam, time of Sadāśiva Deva Mahārāya, Śaka year 1488</ref>, <bibl><ptr target="bib:Hultzsch1890_01"/><citedRange unit="page">69-71</citedRange><citedRange unit="item">43</citedRange></bibl></item>
+                        <item><ref target="INStfaSIIv01p0i0044.xml">Ariyūr, time of Sadāśiva Deva Mahārāya, Śaka year 1488</ref>, <bibl><ptr target="bib:Hultzsch1890_01"/><citedRange unit="page">71</citedRange><citedRange unit="item">44</citedRange></bibl></item>
+                        <item><ref target="INStfaSIIv01p0i0045.xml">Ariyūr, time of Sadāśiva Deva Mahārāya, Śaka year 1488</ref>, <bibl><ptr target="bib:Hultzsch1890_01"/><citedRange unit="page">71</citedRange><citedRange unit="item">45</citedRange></bibl></item>
+                        <item><ref target="INStfaSIIv01p0i0046.xml">Catupperi, time of Sadāśiva Deva Mahārāya, Śaka year 1488</ref>, <bibl><ptr target="bib:Hultzsch1890_01"/><citedRange unit="page">71</citedRange><citedRange unit="item">46</citedRange></bibl></item>
+                        <item><ref target="INSTamilNadu00455.xml">Pirāṉmalai, Maṅkai Pākar, time of Accutatēvamahārāya, Śaka year 1452</ref>, <bibl><ptr target="bib:Vijayavenugopal2022_01"/><citedRange unit="item">55</citedRange><citedRange unit="page">133-135</citedRange></bibl></item>
+                        <item><ref target="INSTamilNadu00446.xml">Pirāṉmalai, Maṅkai Pākar, time of Naraciṅkarāya, Śaka year 1422
+</ref>, <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/><citedRange unit="item">439</citedRange><citedRange unit="page">229-230</citedRange></bibl>, <bibl><ptr target="bib:Vijayavenugopal2022_01"/><citedRange unit="item">46</citedRange><citedRange unit="page">109-110</citedRange></bibl></item>
                     </list></p>
                 </div>
                 <div type="notes">
@@ -2322,13 +2330,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">Having considered that fortune and human life were as transient as a drop of water on a lotus petal, and having thought that the entire world is an illustration, let the glorious acts made by others not be destroyed by men.</p>
                 </div>
                 <div type="variation">
-                    <p>The following variation can be read in <ref target="INSBengalCharters00084.xml"></ref> lines 23-24:</p>
-                    <lg met="anuṣṭubh">
-                        <l n="a">taḍit-taraṅga-bahulāṁ</l>
-                        <l n="b">śriyaṁ matvā ca marttyānāṁ</l>
-                        <l n="c">na dharma-sthitayas sadbhiḥ</l>
-                        <l n="d">yuktā loke vilopituM</l>
-                    </lg>
+                    
                      <l>Taḍit-taraṅga-bahulām, etc. See No. 71, note.</l>
                 </div>
                 
@@ -2921,8 +2923,8 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p rend="stanza">To the future kings on earth born in my lineage or born from another royal lineage, whose minds are deprived of sin and who protect this entire <foreign>dharma</foreign> of mine, I offer my respectful reverence.</p> <!-- Daniel's translation [Hereby I offer my respectful obeisance (añjali) to [all] future] kings [on earth, [whether] born in my lineage or a different royal lineage], who [with minds averted from sin] observe [this ruling (dharma) of mine in its integrity.] -->
                 </div>
                 <div type="variation">
-                     <p>A variation is legible in  <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref> as follows: 
-                        <lg met="vasantatilakā" n="11"><!-- variation of best_0089 -->
+                     <p>A variation is legible in  <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref>, verse 11,  as follows: 
+                        <lg met="vasantatilakā"><!-- variation of best_0089 -->
                     <l n="a">mad-vaṁśajā vānya-kulodbhavā vā <g type="danda">.</g></l> 
                     <l n="b">rakṣanti ye dharmmam imaṁ nṛipālāḥ <g type="danda">.</g></l>
                     <l n="c">teṣan tu nityaṁ sa harir ddadātu<g type="danda">.</g></l> 
@@ -3038,14 +3040,21 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </list></p>
                 </div>
                 <div type="variation">
-                    <p>The stanza is found with the following reading in the Plates of Neṭṭabhañja Tribhuvanakalaśa, lines 36-37 <bibl><ptr target="bib:Sircar+Acharya1949-1950_01"/><citedRange unit="page">283</citedRange></bibl> (variation already noticed by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">189</citedRange></bibl>):</p>
+                    <p>The stanza is found with the following reading in the Plates of Neṭṭabhañja Tribhuvanakalaśa, lines 36-37, EI28_44 = <bibl><ptr target="bib:Sircar+Acharya1949-1950_01"/><citedRange unit="page">283</citedRange></bibl> (variation already noticed by  <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">189</citedRange></bibl>):</p>
                     <lg met="anuṣṭubh">
                         <l n="a">mama vaṁśe kśayakṣīṇe</l>
                         <l n="b">yo 'nyo rājā bhaviṣyati</l>
                         <l n="c">tasyāhaṁ pāda-lagno 'smi</l>
                         <l n="d">mayā dattaṁ na lopayeT</l>
                     </lg>
-                    <p>The stanza is found with the following reading in Mala Plates of Virasimhadeva ; V. S. 1343<bibl><ptr target="bib:Halder1933-1934_01"/></bibl> (variation already noticed by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">189</citedRange></bibl>):</p>
+                    <p>The stanza is found with the following reading in the Jurada Grant of Neṭṭabhañjadeva, lines 21-22, EI24_4 = <bibl><ptr target="bib:Krishnamacharlu1937-1938_04"/><citedRange unit="page">19</citedRange></bibl> (not noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">Asmat-vaṁśe kśayakṣīṇe</l>
+                        <l n="b">yaḥ kascin nṛpatir bhavet</l>
+                        <l n="c">tasyāhaṁ pāda-lagno 'smi</l>
+                        <l n="d">mama dattānupālanāT</l>
+                    </lg>
+                    <p>The stanza is found with the following reading in Mala Plates of Virasimhadeva ; V. S. 1343, EI22_29 = <bibl><ptr target="bib:Halder1933-1934_01"/></bibl> (variation already noticed by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">189</citedRange></bibl>):</p>
                      <lg met="anuṣṭubh">
                         <l n="a">mama vaṁ<corr>śe parikṣīṇe</corr></l>
                         <l n="b">yo 'nyo rājā bhaviṣyati</l>
@@ -4934,12 +4943,12 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <lg met="anuṣṭubh">
                         <l n="a">svalpām api mahīṁ yas tu</l>
                         <l n="b">dadāti śraddhayānvitaḥ</l><!-- śrāddhayānvitaḥ ā? -->
-                        <l n="c">sa yāti brahma-sadanaṁ</l>
+                        <l n="c">sa yāti brahma-sadanaṁ</l><!-- try to find other testimonies and check if it is brahmā or brahma?  -->
                         <l n="d">yasmān nāvartate punaḥ</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">By giving even a small piece of land with faith, one goes to Brahma abode from which there is no return.</p>
+                    <p rend="stanza">By giving even a small piece of land with faith, one goes to Brahmā abode from which there is no return.</p>
                 </div>
                 <div type="notes">
                     <note>2. Ep. Carn., Vol. XII, Si. No. 95 assigning the stanza to Āditya.</note><!-- not yet checked  -->
@@ -5839,7 +5848,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of best_0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
             </div>
             <div type="notes">
-                        <p>This verse is quoted only in note by Sircar.</p>
+                        <p>This verse is quoted only in note by Sircar (<bibl><ptr target="bib:Sircar1965-03"/><citedRange unit="note">4</citedRange><citedRange unit="page">195</citedRange></bibl>).</p>
                     </div>
             <div xml:id="best_0166">
                 <div type="text">
@@ -6075,7 +6084,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 </div>
           <div xml:id="best_0178">
                     <div type="text">
-                        <lg met="">
+                        <lg met="anuṣṭubh">
                             <l n="a">nāsya devā na pitaro</l>
                             <l n="b">haviḥ piṇḍaṁ samāpnuyuḥ</l>
                             <l n="c"><unclear>chi</unclear>nna-mastakavat tālaḥ</l>
@@ -6113,7 +6122,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
             </div>
             <div xml:id="best_0180">
                 <div type="text">
-                    <lg met="">
+                    <lg met="vasantatilakā">
                         <l n="a">ye prāktanāvanibhujāṁ jagatīhitānāṁ</l>
                         <l n="b">dharmyāṁ stithiṁ stithikṛtām anupālayeyur</l>
                         <l n="c">lakṣmyā sametya suciram nijabhāryayaiva</l>
@@ -6121,16 +6130,16 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    
-                </div>
-                <div type="bibliography">
-                    <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">18</citedRange></bibl>. He explained that this verse is quoted in one Nepalese inscription probably issued by Śivadeva (saṁvat 145). Its authorship is the king himself, as the verse is introduced by <foreign>yathā cāha</foreign>. </p>
-                </div>
-                <div type="inscriptions">
                     <p></p>
                 </div>
+                <div type="bibliography">
+                    <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">18</citedRange></bibl>. He explained that this verse is quoted in one Nepalese inscription probably issued by Śivadeva (saṁvat 145). The king seems to be the author (or these words are attributed to him), as the verse is introduced by <foreign>yathā cāha</foreign>. </p>
+                </div>
+                <div type="inscriptions">
+                    <p><bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">18</citedRange></bibl> has found this stanza in a stone slab placed near a water-conduit close to the temple of Mañjughoṣa or Mīnanātha, Pātan, Date: saṁvat 145, text available in <bibl><ptr target="bib:Gnoli1956_01"/><citedRange unit="item">LXXX</citedRange><citedRange unit="page">113-114</citedRange></bibl>.</p>
+                </div>
                 <div type="notes">
-                        <p>This verse does not belong to Sircar's list.</p>
+                        <p>This verse does not belong to Sircar's list.He certainly reject this stanza previously noticed by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">18</citedRange></bibl> because its authorship could be the king himself.</p>
                 </div>
             </div>
             <!-- <div xml:id="best_0180_01">
@@ -6149,7 +6158,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">18bis</citedRange></bibl>. </p>
                 </div>
             </div>-->
-            <div xml:id="best_0182">
+            <div xml:id="best_0181">
                 <div type="text">
                     <lg met="">
                         <l n="a">lakṣṃīniketanaṁ yadapāśrayeṇa</l>
@@ -6164,11 +6173,18 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                 <div type="bibliography">
                     <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">19</citedRange></bibl>. He pointed out that the verse is found in almost two Valabhī kings (Guhasena and Dharasena II)</p>
                 </div>
+                <div type="inscriptions">
+                    <p><bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">19</citedRange></bibl> indicates that this stanza is used by Guhasena and Dharasena II. See the following inscriptions:
+                        <list>
+                            <item>INSMaitraka00026 = <ref target="INSMaitraka00026.xml">Bhavnagar plates of Guhasena I, [Valabhī] year 248, Āśvayuja ba. 1[4]</ref>, lines 13-14</item>
+                            <item>INSMaitraka00038 = <ref target="INSMaitraka00038.xml">Valabhipur plates of Dharasena II, [Valabhī] year 269, Caitra ba. 2</ref>, line 30</item>
+                        </list></p>
+                </div>
                 <div type="notes">
                         <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0183">
+            <div xml:id="best_0182">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">A-sthiram sarvam ālocya</l>
@@ -6190,7 +6206,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list. The content of the verse is close to that of stanzas best_0010, best_0019, best_0020, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148. </p>
                     </div>
                 </div>
-            <div xml:id="best_0184">
+            <div xml:id="best_0183">
                 <div type="text">
                     <lg met="anuṣṭubh">
                             <l n="a">teṣān tena ca dattaṁ yo</l>
@@ -6218,7 +6234,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>After eating an ancestral offering, if someone gives his leftovers to a śudra, that foolosh man will fall down head first in the Kālasūtra hell. (translation Olivelle)</p>
                 </div>
             </div>
-            <div xml:id="best_0185">
+            <div xml:id="best_0184">
                 <div type="text">
                     <lg met="anuṣṭubh">
                             <l n="a">kalpitaṁ ye vilūmpeyur</l> 
@@ -6237,7 +6253,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>This stanza does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0186">
+            <div xml:id="best_0185">
                 <div type="text">
                     <lg met="anuṣṭubh" >
                         <l n="a">Anukuryur idaṁ yena</l> 
@@ -6256,7 +6272,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>This stanza does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0187">
+            <div xml:id="best_0186">
                 <div type="text">
                     <lg met="śārdūlavikrīḍitam">
                         <l n="a">yātā yānti mahībhujaḥ kṣitim imāṃ yāsyanti bhuktvākhilaṃ </l>
@@ -6279,7 +6295,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                     <p>This stanza is quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">175</citedRange></bibl> as an instance of idiosyncratic verse. He did not explicitly explained his opinion. In the plate where the verse can be read, it is introduced as a verse from Vyāsa (uktaṁ ca bhagavatā vyāsena between two other "usual" formulas best_0123 and best_0023. </p>
                 </div>
             </div>
-            <div xml:id="best_0188">
+            <div xml:id="best_0187">
                 <div type="text">
                     <lg met="mālinī">
                         <l n="a">Iha hi jalada-līlā-caṁcale jīvaloke</l>
@@ -6300,7 +6316,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                     <p>This stanza is quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">175</citedRange></bibl> as an instance of idiosyncratic verse. He did not explicitly explained his opinion. In the plate where the verse can be read, it is introduced as a verse from Vyāsa (uktaṁ ca bhagavatā vyāsena between two other "usual" formulas best_0123 and best_0023, followed by best_0150, best_0132_00 and best_0117. </p>
                 </div>
             </div>
-             <div xml:id="best_0189">
+             <div xml:id="best_0188">
                     <div type="text">
                         <lg met="anuṣṭubh"><!-- check the standard suggested on the basis of the testimonies -->
                             <l n="a">tām eva rakṣatā yatnāN</l>
@@ -6325,7 +6341,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         <p>This verse does not belong to Sircar's list. It is added here because it is quoted with other well-known verses (best_0132_01, best_0123, best_0023). The whole stanzas are introduced by <foreign>api ca</foreign> or <foreign>cātra manugītā ślokāḥ</foreign>. </p>
                     </div>
                 </div>
-            <div xml:id="best_0190">
+            <div xml:id="best_0189">
                     <div type="text">
                         <lg met="upajāti">
                                         <l n="a">kīrtiḥ parasyeyam iyaṁ mameti</l>
@@ -6347,7 +6363,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         <p>This stanza is added because it is introduced by a sentence addressed to the future kings and arguing that the fruit in protecting is greater than the one in giving.</p>
                     </div>
                 </div>
-            <div xml:id="best_0191">
+            <div xml:id="best_0190">
                 <div type="text">
                     <lg met="anuṣṭubh">
       <l n="a">ye nu dharmam imaṁ ghnanti</l>
@@ -6370,7 +6386,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                     <p>This verse does not belong to Sircar's list. It is added here because the wording and the meaning are close to best_0070.</p>
                 </div>
             </div>
-            <div xml:id="best_0192">
+            <div xml:id="best_0191">
                 <div type="text">
                     <lg met="anuṣṭubh">
       <l n="a">kalpanāṁ ye na lumpanti</l>
@@ -6393,7 +6409,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                     <p>This verse does not belong to Sircar's list. It is added here because it is the counterpart of best_0191 whose the wording and the meaning are close to best_0070.</p>
                 </div>
             </div>
-            <div xml:id="best_0193">
+            <div xml:id="best_0192">
                     <div type="text">
                         <lg met="mandākrāntā">              
                             <l n="a">Ābrahmāṇḍāṁ khalu jagad idaṁ svapna-māyā-vināśi </l>
@@ -6412,7 +6428,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         <p>This verse does not belong to Sircar's list. It is added here because it is an address to the future kings and its content is close to other stanzas. In Mehar plate of Dāmodaradeva (1 plate) <bibl><ptr target="bib:Barua+Chakravarti1947-1948_01"/></bibl>, this stanza is preceded by best_0023, best_0132_00 and the introducing prose <foreign>itādi munivacanam avalokya</foreign>.</p>
                     </div>
                 </div>
-            <div xml:id="best_0194">
+            <div xml:id="best_0193">
                 <div type="text">
                     <lg met="anuṣṭubh">                     
                             <l n="a">brahmasvеna tu yac chidraṃ</l>
