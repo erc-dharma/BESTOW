@@ -83,6 +83,7 @@
                             <item>IN01026 = DHARMA_INSSiddham01026 = <ref target="DHARMA_INSSiddham01026.xml">Devagiri Grant of Devavarman</ref>, line 11  </item>
                             <item>IN01031 = DHARMA_INSSiddham01031 = <ref target="DHARMA_INSSiddham01031.xml">Dāvaṇagere Grant of Ravivarman, Year 34</ref> line 24</item>
                             <item>IN01032 = DHARMA_INSSiddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kasipura Grant of Ravivarman</ref> line 15 </item>
+                            <item>The Mallohalli grant of Durvinītakoṅgaṇi 35th royal year, IA vol5 1876 p.138-140 (the stanza ends the grant. It is preceded by best_0132_03, best_0023 and best_0135 and is introduced by <foreign>Apicātra manugīto śloko</foreign> </item>
                         </list>
                     </p>
                 </div>
@@ -2840,6 +2841,15 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                              <item><ref target="INSDaksinaKosala00048.xml">Stray Būrhīkhār Plate of Śivagupta, Year 57</ref></item>
                          </list></p>
                  </div>
+                 <div type="variation">
+                     <p>The following variation can be read in EI31_34 = Dasgoba plates of rajaraja III, Saka 1120, lines 146-147, <bibl><ptr target="bib:Sircar+RathaSarma1955-1956_01"/></bibl> (<bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">195</citedRange></bibl> quotes this reference as a variation of best_0128 but this is a mistake):</p>
+                      <lg met="anuṣṭubh">
+            <l n="a">mā bhūd a-phala-śaṅkā te</l>
+            <l n="b">para-datteti pārthiva</l>
+            <l n="c">sva-dattād adhikaṁ punyaṁ</l>
+            <l n="d">para-dattānupālanaṁ</l>
+                        </lg>
+                 </div>
                      </div>            
             <div xml:id="best_0086">
                 <div type="text">
@@ -3263,7 +3273,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                             <l n="c">viṣam ekākinaṁ hanti</l>
                             <l n="d">deva-svaṁ putra-pautrikaṁ</l>
 </lg>
-               </div>
+               </div><!--  A variation in The Nāgamaṅgala grant of śripuruṣa pṛthuvī koṅgaṇi 50th royal reign śaka saṃvat 698 (776-777ce) Ind Ant vol 2 p 155 => Manugiitaa 132_02 0023 98 ; this plate is seen as a spurious grant by Fleet see EI3_25 p.160 -->
                <div type="notes">
                    <note>6. Ep. Ind., Vol. XXII, p. 167, text lines 35-36<!-- EI22_26 -->. In some cases, the first half
                 reads : Deva-svaṁ hi viṣaṁ ghoraṁ kālakūṭa-sama-prabham (ibid., vol. IV, p. 345).
@@ -3803,7 +3813,13 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, a variation of t
                         <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                         <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> (see 	<bibl><ptr target="bib:Kielhorn1896_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl>)</item>
                         <item>Ganjam Grant of Jayavarmadeva, lines 33-35, <bibl><ptr target="bib:Misra1936_01"/></bibl></item>
-                    </list><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038 981 AD -->
+                        <item>Two inscriptions on copper-plates from Nutimadugu, lines 66-67, EI25_19 = <bibl><ptr target="bib:LakshminarayanRao1939-1940_01"/><citedRange unit="page">194</citedRange></bibl> (it is a palimspest record; the stanza belongs to the second record from Vijayanagar and is inscribed on the recto of the third plate)</item>
+                        <item>Veligalani Grant of Kapileśvara śaka 1380, lines 195-199, EI33_52 = <bibl><ptr target="bib:Sircar+Sarma1959-1960_01"/><citedRange unit="page">292</citedRange></bibl> (it is a palimpsest record, the verse ends the record and belongs to the charter originally engraved according to <bibl><ptr target="bib:Sircar+Sarma1959-1960_01"/><citedRange unit="page">278</citedRange></bibl>. The editors add in the note 4 p.192 that "these lines were probably not completely beaten because they are not unsuitable to the context of the new record")</item>
+                        <item>Nilagangavaram (stone) Inscription of Ambadeva-Mahārāja: śaka 1212, lines 37-39, EI25_27 = <bibl><ptr target="bib:Panchamukhi1939-1940_02"/></bibl></item>
+                        <item>EI25_25 = INSTamilNadu01010 = <ref target="INSTamilNadu01010.xml">Cārāla plates, time of Rājendra / Rājakesarin Vīrarājendra, year 32</ref>, lines 201-203 (<bibl><ptr target="bib:RamanathaAyyar+1939-1940_01"/></bibl>)</item>
+                        <item>EI25_21 = <ref target="INSEI25_21.xml">Purshottampuri plates of Ramachandra: Saka 1232</ref>, lines 139-140 (<bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>)</item>
+                    </list>
+                        <!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038 981 AD -->
                         </p>
                 </div>
             </div>
@@ -4139,7 +4155,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                     <list>
-                        <item>Nilagangavaram Inscription of Ambadeva-Mahārāja: śaka 1212, lines 42-44 (<bibl><ptr target="bib:Panchamukhi1939-1940_02"/></bibl>; not noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                        <item>Nilagangavaram Inscription of Ambadeva-Mahārāja: śaka 1212, lines 42-44 (EI25_27 = <bibl><ptr target="bib:Panchamukhi1939-1940_02"/></bibl>; not noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                     </list></p>
                 </div>
                 <div type="notes">
@@ -4227,12 +4243,14 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                     <list>
                         <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                         <item><ref target="INSEC01011.xml">A copper plate at Kaṭṭepura</ref> (<bibl><ptr target="bib:Rice1914"/><citedRange unit="item">11</citedRange></bibl>, Epigraphia Carnatica volume 1, n° 11)</item>
+                        <item>Two inscriptions on copper-plates from Nutimadugu, lines 61-63 <bibl><ptr target="bib:LakshminarayanRao1939-1940_01"/><citedRange unit="page">194</citedRange></bibl> (the stanza belongs to the second record from Vijayanagar and is inscribed on the recto of the third plate)</item>
+                        <item>EI41_34 = Dasgoba plates of rajaraja III, Saka 1120, lines 147 <bibl><ptr target="bib:Sircar+RathaSarma1955-1956_01"/></bibl></item>
                     </list>
-                    </p><!-- citer dans EI25_19 palimpseste sur une nouvelle plaque Dikshit1935-1936_01 -->
+                    </p><!-- citer dans EI25_19 palimpseste sur une nouvelle plaque Dikshit1935-1936_01 EI23_17 -->
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., vol. XVI. text lines 75-77 ; p. 318 <!-- it seems to be EI16_23.tif but the stanza is not in this inscription mistake? typo?    -->. Sometimes we have adhikaṁ for
-                dvi-gunaṁ (ibid., Vol. XXXI. p. 261, text lines 147 <!-- here ok see EI31_34.tif  orissa 1198-1199-->). This is followed by the stanza
+                dvi-gunaṁ (ibid., Vol. XXXI. p. 261, text lines 147 <!-- = EI31_34.tif  orissa 1198-1199; this reference is wrong because the verse matches best_0085 -->). This is followed by the stanza
                 : Kharo dvādaśa janmāni aṣṭa janmāni śūkaraḥ|śvā tu saptati-janmāni ity=evaṁ
                 Manur=avravīt || in Ep. Carn, Vol. XII, Gb. No. 34.</note>
                     <!-- I found two padas of this verse here : Bhrgu-Samhita<BR>
@@ -5251,11 +5269,18 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                  <div type="translation">
                     <p rend="stanza">This sovereignty of the earth totters like the wind and the clouds; the enjoyment of realm is sweet but for an instant; the breath of man is like a drop of water on the tip of a blade of grass. Only religious merit is the friend on the journey to the other world. (translation EI24_12 p.217)</p>
                 </div>
-                <div type="notes"> 
-                    <note>2. Ind. Ant., Vol. VI. p. 56; Ep. Ind., Vol.XXVI, p. 56, text lines 13-14.
-                Sometimes we have °madhurā viṣay-opabhogāḥ (ibid., Vol. XXIV, p. 295, text line
+             <!--   <div type="notes"> 
+                    <note>2. Ind. Ant., Vol. VI. p. 56; Ep. Ind., Vol.XXVI, p. 56, text lines 13-14 (= Reference checked but it is a mistake). Sometimes we have °madhurā viṣay-opabhogāḥ (ibid., Vol. XXIV, p. 295, text line
                 34).</note>
-                </div><!-- I found alos this verse quoted in vol 2 part IV Maner Copperplate of King Govnda Chandra Dev of Kanouj by Prof Ramavatara Sarma DATE of the inscription 1126 AD see pdf = Stambhesvari_2015.55116.Journal-Of-Bihar-And-Orissa-Research-Society-Vol-2_text.pdf  -->
+                </div> -->
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>IA6, p.55-56 = Inscription at Ingnoda, lines 13-14 <bibl><ptr target="bib:Kirtane1877_01"/></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">199</citedRange></bibl>) </item>
+                        <item>EI24_42 = Lucknow museum plate of Jayacchandradeva, V.S. 1237, lines 34-35 <bibl><ptr target="bib:Chakravarti1937-1938_01"/></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">199</citedRange></bibl>) with a minor variation on the pāda b</item>
+                        <item>EI35_20 = Spurious grant of Gāhaḍavāla Vijayacandra, Vikrama 1223, lines 34-35, <bibl><ptr target="bib:Sircar1962-1963_01"/></bibl> (not noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
+                    </list></p><!-- I found alos this verse quoted in vol 2 part IV Maner Copperplate of King Govnda Chandra Dev of Kanouj by Prof Ramavatara Sarma DATE of the inscription 1126 AD see pdf = Stambhesvari_2015.55116.Journal-Of-Bihar-And-Orissa-Research-Society-Vol-2_text.pdf  -->
+                </div>
                 <div type="bibliography">
                     <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 30 to this stanza in his list.</p>
                 </div>
@@ -5263,6 +5288,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p>The content of this stanza is close to best_0010, best_0019, best_0020, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0148, best_0183. 
 </p>
                      </div>
+                
             </div>
            <div xml:id="best_0147">
                <div type="text">
@@ -5547,7 +5573,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p>The stanza is quoted in the following inscriptions:
                     <list>
                         <item><ref target="INSEIAD00164.xml">Pillar from Guṇṭupalli ― reign of Nandivarman II, year 4 or 44</ref></item>
-                         <item>Nilagangavaram Inscription of Ambadeva-Mahārāja: śaka 1212 (1290 CE), lines 42-44 (<bibl><ptr target="bib:Panchamukhi1939-1940_02"/></bibl>; slab; already noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                         <item>Nilagangavaram Inscription of Ambadeva-Mahārāja: śaka 1212 (1290 CE), lines 42-44 (EI25_27 = <bibl><ptr target="bib:Panchamukhi1939-1940_02"/></bibl>; slab; already noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                     </list></p>
                 </div>
                 <div type="occurences">
