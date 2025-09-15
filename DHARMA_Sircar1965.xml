@@ -1260,11 +1260,11 @@ Having observed this double and balancing fortune, may you work for the longevit
                             <item><ref target="INSDaksinaKosala00050.xml">Malhār Plates of Śivagupta, undated</ref></item>
                             <item><ref target="DHARMA_INSDk00051.xml">Sirpur Plates of Śivagupta, undated</ref></item> 
                         </list></p>
-                </div>
-            </div>
+                </div>           
             <div type="bibliography">
                 <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
             </div>
+                </div>
             <div xml:id="best_0031">
                 <div type="text">
                     <lg met="indravajrā">
@@ -1320,8 +1320,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                 balād bhuktaṁ daśa pūrvān daśāparān || while the second half is given in Ind. Ant.,
                 Vol. XV, p. 176, text lines 48-49 as : tad eva cauryarūpeṇa dahatyā-candra-tārakam.
                 For variations, see Ep. Carn. Vol. X‚ Mulbagal No. 157.</note> <!-- EI6_11 checked -->
-               </div><!-- Lakṣmīdhara gṛhasthakāṇḍa p 317-318 dānabṛhaspati vqriqtion https://docs.google.com/document/d/1pbDnABNQ-j9aODuNqfYNFYK9jP8VGuUO6aRcT40gTVQ/edit?tab=t.0 -->
-           </div>
+               </div><!-- Lakṣmīdhara gṛhasthakāṇḍa p 317-318 dānabṛhaspati vqriqtion https://docs.google.com/document/d/1pbDnABNQ-j9aODuNqfYNFYK9jP8VGuUO6aRcT40gTVQ/edit?tab=t.0 -->        
             <div type="occurences">
                 <p>The verse can be read with some variations in <title>Garuḍapurāṇa</title> 2.42.16 (available on Gretil, from Venkatesvara Steam Press of Bombay):</p>
                 <lg met="anuṣṭubh">
@@ -1331,6 +1330,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                     <l n="d">dahatyācandratārakam</l>
                 </lg>
             </div>
+               </div>
            <div xml:id="best_0033">
                <div type="text">
                 <lg met="anuṣṭubh"> 
@@ -5872,10 +5872,10 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                  </div>
                   <div type="inscriptions"> 
                         <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of best_0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
-            </div>
-            <div type="notes">
-                        <p>This verse is quoted only in note by Sircar (<bibl><ptr target="bib:Sircar1965-03"/><citedRange unit="note">4</citedRange><citedRange unit="page">195</citedRange></bibl>).</p>
+                <div type="notes">
+                        <p>This verse is quoted only in note by Sircar (<bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">195</citedRange></bibl>).</p>
                     </div>
+            </div>
             <div xml:id="best_0166">
                 <div type="text">
                     <lg met="anuṣṭubh">
