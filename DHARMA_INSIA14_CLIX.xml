@@ -214,7 +214,7 @@ n="118"/>maṁgalaṁ mahāśrīḥ<g type="ddanda">.</g> oṁ śivam astu<g typ
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="F"><ptr target="bib:Fleet1885_02"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="F"><ptr target="bib:Fleet1885_02"/><citedRange unit="page">314-322</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
