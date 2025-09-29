@@ -655,15 +655,12 @@
                     <div type="inscriptions">
                         <p>See the following inscriptions:
                         <list>
-                            <item><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>, reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                            <item>EI28_13 = <ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>, reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                         </list></p>
                     </div>
                     <div type="bibliography">
                         <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                     </div>
-                 <!--   <div type="notes">
-                        <note>2. Ep. Ind., Vol. XXVIII, p. 75.</note> = EI28_13 and added in my table
-                    </div> -->
                 </div>
             <div xml:id="best_0018">
                 <div type="text">
@@ -678,7 +675,7 @@
                     <p rend="stanza">Even in the unfit <foreign>saṁsāra</foreign>, protecting the glorious deeds made by another or by ourselves gives the double fruit in this life.</p>
                 </div>
                 <div type="inscriptions">
-                    <p>See Antirigam plates of Jaya-Bhanja-Deva (<bibl><ptr target="bib:Rath1927-1928_01"/></bibl>, reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>). </p>
+                    <p>See EI19_5 = Antirigam plates of Jaya-Bhanja-Deva (<bibl><ptr target="bib:Rath1927-1928_01"/></bibl>, reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>). </p>
                 </div>
                 <div type="notes">
                      <note>3. Ep. Ind., Vol. XIX, p. 45, text lines 30-31.</note><!-- checked EI19_5 and added in my table -->
@@ -2986,7 +2983,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <title>Anargharāghava</title> as already indicated above.</note><!--  the authorship of this advice in Murāri is the sage Vasishta  -->
                 </div>
                 <div type="bibliography">
-                    <p><bibl><ptr target="bib:Narasimhachar1913_01"/></bibl> is the first to indicate this verse as a formulaic stanza (quoted in an inscription dated A.D.1521 recorded in <title>Archaeological Survey Of Mysore Annual Report: 1912</title> Vol.4, paragraph 108, pp.91-92, and published in <title>Epigraphia Carnatica</title>, vol.III, Tirumakūḍlu-narasīpūr Taluq 44). <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">188</citedRange></bibl> reproduced all the information given by his predecessor. In Murāri's work, the stanza is attributed to the sage Vasiṣṭha.</p>
+                    <p><bibl><ptr target="bib:Narasimhachar1913_01"/></bibl> is the first to indicate this verse as a formulaic stanza (quoted in an inscription dated A.D.1521 recorded in <title>Archaeological Survey Of Mysore Annual Report: 1912</title> Vol.4, paragraph 108, pp.91-92, and published in <title>Epigraphia Carnatica</title>, vol.III, Tirumakūḍlu-narasīpūr Taluq 44)<!-- not found -->. <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">188</citedRange></bibl> reproduced all the information given by his predecessor. In Murāri's work, the stanza is attributed to the sage Vasiṣṭha.</p>
                 </div>
             </div>
             <div xml:id="best_0089">
@@ -6684,6 +6681,9 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
     </text>
 </TEI>
 <!-- 
+    A AJOUTER Banerji1927-1928_02 The Kalvan Plates of Yaśovarman lines 32-33 c'est une stance rejétée par Sircar mais proche de best_0065
+    
+    
 A ajouter certainement et à traduire Angul Plates of Śāntikaradeva 
 acharya 2022 Inscriptions of minor ruling dynasties p 255
 bhūmi=dāne phalaṁ sarvaṁ
