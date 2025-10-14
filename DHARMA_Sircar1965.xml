@@ -78,17 +78,17 @@
                 <div type="inscriptions">
                     <p>See the following inscriptions : 
                         <list>
-                        <item><ref target="DHARMA_INSSiddham01036.xml">Bannahaḷḷi Grant of Kr̥ṣṇavarman II, Year 7</ref>, reference already mentioned by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">122</citedRange></bibl>, <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl> and <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
-                        <item><ref target="DHARMA_INSSiddham01055.xml">Halsi Grant of Ravivarman (5 plates)</ref>, reference already mentioned by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">122</citedRange></bibl> (reference quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">176</citedRange></bibl>)</item>
-                            <item>IN01026 = DHARMA_INSSiddham01026 = <ref target="DHARMA_INSSiddham01026.xml">Devagiri Grant of Devavarman</ref>, line 11  </item>
-                            <item>IN01031 = DHARMA_INSSiddham01031 = <ref target="DHARMA_INSSiddham01031.xml">Dāvaṇagere Grant of Ravivarman, Year 34</ref> line 24</item>
-                            <item>IN01032 = DHARMA_INSSiddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kasipura Grant of Ravivarman</ref> line 15 </item>
+                        <item>IN01036 = INSSiddham01036 = <ref target="DHARMA_INSSiddham01036.xml">Bannahaḷḷi Grant of Kr̥ṣṇavarman II, Year 7</ref>, reference already mentioned by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">122</citedRange></bibl>, <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl></item>
+                        <item>IN01055 = INSSiddham01055 = <ref target="DHARMA_INSSiddham01055.xml">Halsi Grant of Ravivarman (5 plates)</ref>, lines 26-27, reference already mentioned by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">122</citedRange></bibl> (reference quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">176</citedRange></bibl>)</item>
+                            <item>IN01026 = INSSiddham01026 = <ref target="DHARMA_INSSiddham01026.xml">Devagiri Grant of Devavarman</ref>, line 11  </item>
+                            <item>IN01031 = INSSiddham01031 = <ref target="DHARMA_INSSiddham01031.xml">Dāvaṇagere Grant of Ravivarman, Year 34</ref> line 24</item>
+                            <item>IN01032 = INSSiddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kasipura Grant of Ravivarman</ref> line 15 </item>
                             <item>The Mallohalli grant of Durvinītakoṅgaṇi 35th royal year, IA vol5 1876 p.138-140 (the stanza ends the grant. It is preceded by best_0132_03, best_0023 and best_0135 and is introduced by <foreign>Apicātra manugīto śloko</foreign> </item>
                         </list>
                     </p>
                 </div>
                 <!-- <div type="notes">
-                    <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27.</note>  -->
+                    <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27 =INSSiddham01055.</note>  -->
             </div>
             <div xml:id="best_0002">
                 <div type="text">
@@ -109,7 +109,8 @@
                 <div type="inscriptions">
                          <p><!-- my own note -->This verse is found in the following testimonies: 
                         <list>
-                        <item><ref target="DHARMA_INSEC03Sr157.xml">Copper Plate at Melukoṭe</ref> (<bibl><ptr target="bib:Rice1894_01"/><citedRange unit="page">84</citedRange></bibl>)</item>
+                           <!-- <item>IA4 p.333 grant n°VII, lines</item> -->
+                        <item>EC03Sr157 = <ref target="DHARMA_INSEC03Sr157.xml">Copper Plate at Melukoṭe</ref> (<bibl><ptr target="bib:Rice1894_01"/><citedRange unit="page">84</citedRange></bibl>)</item>
                             <item>On a copper plate at Kaṭṭepura, </item>
                     </list>
                     </p>
@@ -130,13 +131,16 @@
                     <p rend="stanza">Like the sun in the sky, they shine with energy, the men who offer earth for [sustaining] a fire established by a brahmin.</p>
                 </div>
                     <div type="inscriptions">
-                        <p>See <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, line 122-123.</p>
+                        <p>See the following inscriptions:
+                            <list>
+                                <item>EI25_21 = <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, line 122-123 (already mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</item>
+                            </list></p>
                     </div>
                     <div type="variation">
                        
                     </div>
                     <div type="occurences">
-                        <p>The verse is quoted with no variation in the <title>Dānasāgara</title> of Ballālasena (<bibl><ptr target="bib:Bhattacharya1953_03"/><citedRange unit="page">332</citedRange></bibl>, verse 41). </p>
+                        <p>The verse is quoted with no variation in the <title>Dānasāgara</title> of Ballālasena (<bibl><ptr target="bib:Bhattacharya1953_03"/><citedRange unit="page">332</citedRange></bibl>, verse 41) and is attributed to the <title>Viṣṇudharmottara</title>. </p>
                          <p>It can be read in <title>Mahābhārata</title> 13.61.43 (GRETIL) with variations in pādas c and d:</p>
                         <lg met="anuṣṭubh"> 
                             <l n="a">Ādityā iva dīpyante</l>
@@ -177,24 +181,24 @@
                 <div type="inscriptions">
                     <p>See the following inscriptions:  
                         <list>
-                            <item><ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00017.xml">Orissa State Museum plates of Mahāśivagupta Yayāti year 4</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00019.xml">Cuttack plates of Mahābhavagupta Bhīmaratha year 3</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00023.xml">Cuttack plates of Mahāśivagupta Yayāti year 9</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00040.xml">Baragaon plates of the time of Janamejaya year 13</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00039.xml">Ruchida plates of Mahābhavagupta year 8</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00006.xml">Patna plates of Mahābhavagupta Janamejaya Kārttika month year 6</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00013.xml">Banpur plates of Indraratha year 6</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00004.xml">Gopalpur plates of Mahābhavagupta Janamejaya year 12</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00010.xml">Gaintala plates of Mahābhavagupta Janamejaya year 17</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00035.xml">A Stray Plate of a Somavaṁśin or Telugu-Coḍa Grant from Kelga</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00026.xml">Kudopali plates of the time of Mahābhavagupta year 13</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00022.xml">Pāṭṇā plates of Mahāśivagupta Yayāti year 8</ref></item>
-                            <item><ref target="DHARMA_INSSomavamsin00001.xml">Vakratentalī grant of Mahābhavagupta Janamejaya, Year 3</ref></item>
-                            <item><ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159 GE</ref></item>
+                            <item>INSSomavamsin00008 =<ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> (already mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
+                            <item>INSSomavamsin00017 =<ref target="DHARMA_INSSomavamsin00017.xml">Orissa State Museum plates of Mahāśivagupta Yayāti year 4</ref></item>
+                            <item>INSSomavamsin00019 =<ref target="DHARMA_INSSomavamsin00019.xml">Cuttack plates of Mahābhavagupta Bhīmaratha year 3</ref></item>
+                            <item>INSSomavamsin00023 =<ref target="DHARMA_INSSomavamsin00023.xml">Cuttack plates of Mahāśivagupta Yayāti year 9</ref></item>
+                            <item>INSSomavamsin00040 =<ref target="DHARMA_INSSomavamsin00040.xml">Baragaon plates of the time of Janamejaya year 13</ref></item>
+                            <item>INSSomavamsin00039 =<ref target="DHARMA_INSSomavamsin00039.xml">Ruchida plates of Mahābhavagupta year 8</ref></item>
+                            <item>INSSomavamsin00006 =<ref target="DHARMA_INSSomavamsin00006.xml">Patna plates of Mahābhavagupta Janamejaya Kārttika month year 6</ref></item>
+                            <item>INSSomavamsin00013 =<ref target="DHARMA_INSSomavamsin00013.xml">Banpur plates of Indraratha year 6</ref></item>
+                            <item>INSSomavamsin00004 =<ref target="DHARMA_INSSomavamsin00004.xml">Gopalpur plates of Mahābhavagupta Janamejaya year 12</ref></item>
+                            <item>INSSomavamsin00010 =<ref target="DHARMA_INSSomavamsin00010.xml">Gaintala plates of Mahābhavagupta Janamejaya year 17</ref></item>
+                            <item>INSSomavamsin00035 =<ref target="DHARMA_INSSomavamsin00035.xml">A Stray Plate of a Somavaṁśin or Telugu-Coḍa Grant from Kelga</ref></item>
+                            <item>INSSomavamsin00026 =<ref target="DHARMA_INSSomavamsin00026.xml">Kudopali plates of the time of Mahābhavagupta year 13</ref></item>
+                            <item>INSSomavamsin00022 =<ref target="DHARMA_INSSomavamsin00022.xml">Pāṭṇā plates of Mahāśivagupta Yayāti year 8</ref></item>
+                            <item>INSSomavamsin00001 =<ref target="DHARMA_INSSomavamsin00001.xml">Vakratentalī grant of Mahābhavagupta Janamejaya, Year 3</ref></item>
+                            <item>INSBengalCharters00039 =<ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159 GE</ref></item>
                                                     
                         </list>
-                        <ref target="DHARMA_INSBengalCharters00076.xml">Jayarampur Plate of the time of Gopacandra, year 1</ref> (lines 43-44) has the following reading: 
+                        INSBengalCharters00039 = <ref target="DHARMA_INSBengalCharters00039.xml">Jayarampur Plate of the time of Gopacandra, year 1</ref> (lines 43-44) has the following reading: 
                     </p>
                     <lg met="anuṣṭubh">
              <l n="a">Ādityā vasavo rudrā</l>
@@ -630,7 +634,7 @@
                         </lg>
                     </div>
                     <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Whoever gives to a <foreign>vipra</foreign> even a small piece of land in his possession will rejoice in heaven for sixty thousand years.
+                    <p rend="stanza">Whoever gives to a <foreign>vipra</foreign> even a small piece of land in his possession  is honoured in heaven for sixty thousand years.
 </p>
                 </div>
                     <div type="inscriptions">
@@ -641,7 +645,7 @@
                     </div>
                 </div>
                 <div xml:id="best_0017">
-                    <div>
+                    <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Ārya-saṅghāya dattāṁ yo</l>
                             <l n="b">vr̥ttiṁ rakṣati mānavaḥ</l>
@@ -1053,6 +1057,24 @@
                 <div type="notes">
                      <note>3. Ep. Ind., Vol. XXVIII, p. 216, text lines 25–26.</note><!-- see EI28_36 -->
                 </div>
+                <div type="inscriptions">
+                    <p>This stanza becomes a dynastic stanza specifically used by the Bhaumakara kings since the Neulpur Plate of Śubhākara year 30. See the following inscriptions:
+                    <list>
+                        <item>Neulpur Plate of Śubhākara II, year 30, line 33 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">110-115</citedRange></bibl>)</item>
+                        <item>Terundia Plate of Śubhākara III, year 100, lines 25-26 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">7</citedRange><citedRange unit="page">120-124</citedRange></bibl>)</item>
+                        <item>Hindol Plate of Śubhākara IV, year 103, line 28 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">8</citedRange><citedRange unit="page">125-130</citedRange></bibl>)</item>
+                        <item>Dharakote Plate of Śubhākara IV, year 103, lines 28-29 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">9</citedRange><citedRange unit="page">131-134</citedRange></bibl>)</item>
+                        <item>Talcher Plate of Śivakara IV, year 149, line 33 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">11</citedRange><citedRange unit="page">140-146</citedRange></bibl>)</item>
+                        <item>Talcher Plate of Śivakara IV, year 149, lines 33-34 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">12</citedRange><citedRange unit="page">147-153</citedRange></bibl>)</item>
+                        <item>Baud Grant of Tribhuvanamahādevī, year 158, line 39 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">13</citedRange><citedRange unit="page">154-160</citedRange></bibl>)</item>
+                        <item>Baud Grant of Tribhuvanamahādevī, year 158, lines 39-40 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">14</citedRange><citedRange unit="page">161-166</citedRange></bibl>)</item>
+                        <item>Dhenkanal Grant of Tribhuvanamahādevī, year 160, line 37 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">15</citedRange><citedRange unit="page">167-172</citedRange></bibl>)</item>
+                        <item>Arabala Grant of Daṇḍimahādevī, year 183, lines 38-39 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">19</citedRange><citedRange unit="page">191-196</citedRange></bibl>)</item>
+                         <item>Kumurang Grant of Daṇḍimahādevī, year 187, line 39 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">20</citedRange><citedRange unit="page">197-202</citedRange></bibl>)</item>
+                        <item>A Grant of Vakulamahādevī, year 204, lines 42-43 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">21</citedRange><citedRange unit="page">203-209</citedRange></bibl>)</item>
+                        <item>Angul Copper-Plate Grant of Dharmamahādevī, lines 28-29 (<bibl><ptr target="bib:Tripathy2000_01"/><citedRange unit="item">22</citedRange><citedRange unit="page">210-215</citedRange></bibl>)</item>
+                    </list></p>
+                </div>
             </div>
             <div xml:id="best_0025">
                 <div type="text">
@@ -1110,7 +1132,7 @@
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The land-giver, the pure one who orders a land-gift and the one who will protect it, all these men go to heaven.</p>
+                    <p rend="stanza">The pure ones who will offer a land, who will order a land-gift and who will protect it, all these men go to heaven.</p>
                 </div>
                 <div type="notes">
                     <note>6. Ep. Ind., Vol. IV, p. 170, line 121.</note>
@@ -1505,7 +1527,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                      <note>5. Ep. Ind., Vol. IX, p. 173, text lines 12-14.</note>
                 </div>
                <div>
-                   <p>This verse is found in
+                   <p>This verse is found in the following inscriptions:
                        <list>
                            <item><ref target="DHARMA_INSDk00005.xml">Malhār Plates of Jayarāja, Year 5</ref>, verse 1</item>
                            <item><ref target="INSDaksinaKosala00006.xml">Āraṅg Plates of Jayarāja, Year 5</ref></item>
@@ -1522,6 +1544,9 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                            <item><ref target="INSDaksinaKosala00017.xml">Stray Pokhra Plate of the Kings of Śarabhapura, undated</ref></item>
                        </list> </p>
                </div>
+                <div type="bibliography">
+                    <p>Although <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174</citedRange></bibl> mentioned the existence of stanzas composed by court poets in his introduction, he did not notice that this was probably the case for this stanza. Indeed, based on my current research, it seems that it has been only used in records issued by three kings from the same dynasty: Jayarāja, Sudevarāja and Pravararāja. In these testimonies, the stanza is attributed to the king himself and could be seen as a dynastic stanza. </p>
+                </div>
             </div> 
             <div xml:id="best_0040">
                 <div type="text">
@@ -2983,7 +3008,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <title>Anargharāghava</title> as already indicated above.</note><!--  the authorship of this advice in Murāri is the sage Vasishta  -->
                 </div>
                 <div type="bibliography">
-                    <p><bibl><ptr target="bib:Narasimhachar1913_01"/></bibl> is the first to indicate this verse as a formulaic stanza (quoted in an inscription dated A.D.1521 recorded in <title>Archaeological Survey Of Mysore Annual Report: 1912</title> Vol.4, paragraph 108, pp.91-92, and published in <title>Epigraphia Carnatica</title>, vol.III, Tirumakūḍlu-narasīpūr Taluq 44)<!-- not found -->. <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">188</citedRange></bibl> reproduced all the information given by his predecessor. In Murāri's work, the stanza is attributed to the sage Vasiṣṭha.</p>
+                    <p><bibl><ptr target="bib:Narasimhachar1913_01"/></bibl> is the first to indicate this verse as a formulaic stanza (quoted in an inscription dated A.D.1521 recorded in <title>Archaeological Survey Of Mysore Annual Report: 1912</title> Vol.4, paragraph 108, pp.91-92, and published in <title>Epigraphia Carnatica</title>, vol.III, Tirumakūḍlu-narasīpūr Taluq 44, See <bibl><ptr target="bib:Settar1912_01"/></bibl>)<!-- not found -->. <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">188</citedRange></bibl> reproduced all the information given by his predecessor. In Murāri's work, the stanza is attributed to the sage Vasiṣṭha.</p>
                 </div>
             </div>
             <div xml:id="best_0089">
@@ -3789,7 +3814,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p rend="stanza">Giving is immediate and effortless, whereas protection is long-term and requires effort; this is why the sages say that protection is superior to giving.</p>
                 </div>
                <div type="inscriptions">
-                   <p>See Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922, lines 94-95 (<bibl><ptr target="bib:Kielhorn1894_02"/></bibl>, not noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) with the following variations: </p>
+                   <p>See EI2_15 = Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922, lines 94-95 (<bibl><ptr target="bib:Kielhorn1894_02"/></bibl>, not noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) with the following variations: </p>
                    <lg met="anuṣṭubh">
                        <l n="a">sadyo-dānaṁ nirāyāsaṁ</l>
                        <l n="b">sāyāsaṁ tasya–pālanam</l>
@@ -3956,7 +3981,11 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p>After giving a land, Rāmabhadra begs repeatedly to all these future kings: "this barrier of justice <foreign>dharma</foreign> which is common to all the kings, you always must protect it!".</p>
                 </div>
                 <div type="inscriptions">
-                    <p>See Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922 (<bibl><ptr target="bib:Kielhorn1894_02"/></bibl>, lines 95-98)</p>
+                    <p>See the following inscriptions:
+                        <list>
+                            <item>EI2_15 = Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922 (<bibl><ptr target="bib:Kielhorn1894_02"/></bibl>, lines 95-98)</item>
+                            <item>EI35_5 = the third grant entitled 'Grant of Vījala (Vija, Vīja or Vijja), śaka 975', AD 1053 lines 36-37 (<bibl><ptr target="bib:Sircar1957-1958_07"/><citedRange unit="page">76</citedRange></bibl></item>
+                        </list></p>
                 </div>
             </div>
             <div xml:id="best_0118">
@@ -5695,6 +5724,12 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. III, p. 367, lines 20-21.</note><!-- there is a problem with this reference I do not find this page as EI 3 ends with the page 360  -->
                 </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>EI3_36 = Rajor Inscription of Mathanadeva [vikrama] samvat 1016, (959 AD) lines 20-21 <!-- <bibl><ptr target="bib:Kielhorn1894-1895_05"/></bibl> --> (reference given with wrong page numbers by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">200</citedRange></bibl>)</item>
+                    </list></p>
+                </div>
                 <div type="bibliography">
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
@@ -5946,6 +5981,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>See the following inscriptions:
                     <list>
                         <item>Madras Musuem Plates of the Time of Narendradhavala, lines 19-21 <bibl><ptr target="bib:Sircar1949-1950_12"/></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">201</citedRange></bibl></item>
+                        <item>EC11Cd82 = At Hulêgundi (Chitaldroog hobli), on a stone behind the Siddêśvara temple (Epigraphia Carnatica volume XI, Chitaldroog Taluq, N°82, already mentioned by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">201</citedRange></bibl>)</item>
                     </list></p>
                 </div>
             </div>
@@ -6213,7 +6249,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>He will be a vile murderer of cattle, of spiritual instructors, and of Brahmans, who will venture to set aside this ordinance; enveloped by the five heinous sins and all minor sins such a wretch will drop to the nether regions.</p>
                     </div>
                     <div type="inscriptions">
-                        <p>See <ref target="DHARMA_INSSiddham00035.xml">Indor Charter of the Time of Skandagupta</ref>, line 11-12.</p>
+                        <p>See Siddham00035 = <ref target="DHARMA_INSSiddham00035.xml">Indor Charter of the Time of Skandagupta</ref>, line 11-12, 466 AD.</p>
                     </div>
                     <div type="bibliography">
                         <p>This verse does not belong to Sircar's list. As it represents one of the oldest imprecative verse quoted in a copper plate (465-466 AD), it seems important to include it in this list even if I found no other quotation of it. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">862</citedRange></bibl> already mentioned this grant as one of the oldest record constaining an imprecatory stanza. </p>
@@ -6305,10 +6341,10 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
              </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p>Having performed this gift of <foreign>dharma</foreign>, whatever merit has been acquired by that merit, may this world attain Nirvāṇa thanks to it.  </p>
+                    <p>Having performed this gift of <foreign>dharma</foreign>, whatever merit has been acquired by that merit, may this world attain Nirvāṇa thanks to it. </p>
                 </div>
                 <div type="inscriptions">
-                    <p>See <ref target="DHARMA_INSEI35_1_4.xml">Inscription of the time of Ehuvala Chāntamūla year 24</ref> (<bibl><ptr target="bib:Sircar1963-1964_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">11-13</citedRange></bibl></p>
+                    <p>See EI35_1_4 = <ref target="DHARMA_INSEI35_1_4.xml">Inscription of the time of Ehuvala Chāntamūla year 24</ref> (<bibl><ptr target="bib:Sircar1963-1964_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">11-13</citedRange></bibl></p>
                 </div>
              <div type="bibliography">
                         <p>This verse does not belong to Sircar's list.</p>
@@ -6613,7 +6649,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                        </lg>
                     </div>
                     <div type="translation" source="bib:Barua+Chakravarti1947-1948_01">
-                        <p>This world, nay the whole universe, is indeed perishable like dream and illusion. Knowing (this) for certain, that famaous Gajapati entreats the future kings again and again with joined hands touching the edge of the gem adorning his head "surely you should maintain the noble deed of mine thinking it to be your own".</p>
+                        <p>This world, nay the whole universe, is indeed perishable like dream and illusion. Knowing (this) for certain, that famous Gajapati entreats the future kings again and again with joined hands touching the edge of the gem adorning his head "surely you should maintain the noble deed of mine thinking it to be your own".</p>
                     </div>
                     <div type="inscriptions">
                         <p>See Mehar Plate of Dāmodaradeva (1 plate), lines 39-42, verse 12 <bibl><ptr target="bib:Barua+Chakravarti1947-1948_01"/></bibl><!-- EI27_33 --></p>
@@ -6683,6 +6719,8 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
 <!-- 
     A AJOUTER Banerji1927-1928_02 The Kalvan Plates of Yaśovarman lines 32-33 c'est une stance rejétée par Sircar mais proche de best_0065
     
+    A AJOUTER voir SV24  Nibinna Charter MSY Somac une stance sur l'impermanence + présente aussi dans DHARMA_INSSomavamsin00022
+    
     
 A ajouter certainement et à traduire Angul Plates of Śāntikaradeva 
 acharya 2022 Inscriptions of minor ruling dynasties p 255
@@ -6692,7 +6730,7 @@ haraṇam sarva-pātakaṁ
 svadhi-dharaṇī-hatāḥ 
 
 Madras Museum Plates of Narendradhavala EI28-8 acharya 2022 minor dynasties p 248 (en plus il s'agit d'une kraya sasana 
-Avec la correction proposee par le pre;ier editeur reprise par acharya 
+Avec la correction proposee par le premier editeur reprise par acharya 
 yāvas dattā bhaved bhūmiḥ
 samacchedā suśobhanā 
 tāvad yuga-sahasrāṇi 
