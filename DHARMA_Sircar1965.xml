@@ -83,7 +83,7 @@
                             <item>IN01026 = INSSiddham01026 = <ref target="DHARMA_INSSiddham01026.xml">Devagiri Grant of Devavarman</ref>, line 11  </item>
                             <item>IN01031 = INSSiddham01031 = <ref target="DHARMA_INSSiddham01031.xml">Dāvaṇagere Grant of Ravivarman, Year 34</ref> line 24</item>
                             <item>IN01032 = INSSiddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kasipura Grant of Ravivarman</ref> line 15 </item>
-                            <item>The Mallohalli grant of Durvinītakoṅgaṇi 35th royal year, IA vol5 1876 p.138-140 (the stanza ends the grant. It is preceded by best_0132_03, best_0023 and best_0135 and is introduced by <foreign>Apicātra manugīto śloko</foreign> </item>
+                            <item>IA5_138-140 = The Mallohalli grant of Durvinītakoṅgaṇi 35th royal year, IA vol5 1876 p.138-140 (the stanza ends the grant. It is preceded by best_0132_03, best_0023 and best_0135 and is introduced by <foreign>Apicātra manugīto śloko</foreign> </item>
                         </list>
                     </p>
                 </div>
@@ -232,7 +232,6 @@
                     <!-- Gretil : -->
                 </div>
             </div>
-
             <div xml:id="best_0004_01">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -468,7 +467,7 @@
                     <p>See <ref target="INSVengiCalukya00071.xml">Kaṇḍyam plates of Dānārṇava</ref> (see <bibl><ptr target="bib:Narasimham1937-1938_01"/></bibl>)</p>
                 </div>
             </div>
-                <div xml:id="best_0010">
+            <div xml:id="best_0010">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Anucintya śriyaṁ jīvyaṁ</l> 
@@ -492,7 +491,7 @@
                     </div> -->
                     <!-- EI 19 p45 checked and added in my table -->
                     
-                </div>          
+             </div>          
            <div xml:id="best_0011">
                <div type="text">
                    <lg met="anuṣṭubh"> 
@@ -509,7 +508,7 @@
                    <note>3. Ep. Carn., Vol. XIV, IIg. No. 143.</note>
                </div>
            </div>    
-                <div xml:id="best_0012">
+           <div xml:id="best_0012">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Anya-kṣetre kr̥taṁ pāpaṁ</l>
@@ -530,8 +529,8 @@
                 also the verse : Anityāni śarīrāṇi vibhavaṁ n=aiva śāśvatam | nityaṁ sannihito
                 mr̥tyuḥ kartavyo dharma-saṁgrahaḥ||(A. R. Ep. 1946-47, No. B 208).</note>
                     </div>
-                </div>
-             <div xml:id="best_0013">
+           </div>
+           <div xml:id="best_0013">
                  <div type="text">
                      <lg met="anuṣṭubh">
                          <l n="a">Anyāyena hr̥tā bhūmir</l>
@@ -567,8 +566,8 @@
                          <l n="d">viṣṭhāyāṃ jāyate kṛmiḥ</l>
                      </lg>
                  </div>
-             </div>
-                <div xml:id="best_0014">
+            </div>
+            <div xml:id="best_0014">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Anyeṣāṁ charditaṁ bhuṅkte</l> 
@@ -588,8 +587,8 @@
                 kṣudraiḥ śvabhiś ca charditaṁ na tu| tataḥ kaṣṭas tato nīcaḥ svayaṁdattāpahārakaḥ
                 || (Ind. Ant., Vol. IV, p. 334).</note>
                     </div>
-                </div>         
-                <div xml:id="best_0015">
+             </div>         
+             <div xml:id="best_0015">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Api gaṅgādi-tīrtheṣu</l>
@@ -622,9 +621,9 @@
                     <div type="bibliography">
                         <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl> attributes the number 20 to this stanza</p>
                     </div>
-                </div>  
+             </div>  
             <!--<pb n="179"/> -->     
-                <div xml:id="best_0016">
+             <div xml:id="best_0016">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Api hasta-mitāṁ bhūmiṁ</l>
@@ -643,8 +642,8 @@
                     <div type="notes">
                          <note>1. Ind. Ant., Vol.XIV, p. 73.</note>
                     </div>
-                </div>
-                <div xml:id="best_0017">
+             </div>
+             <div xml:id="best_0017">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Ārya-saṅghāya dattāṁ yo</l>
@@ -665,7 +664,7 @@
                     <div type="bibliography">
                         <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                     </div>
-                </div>
+            </div>
             <div xml:id="best_0018">
                 <div type="text">
                 <lg met="anuṣṭubh">
@@ -720,11 +719,9 @@
                      </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXVIII, p. 277, text lines 22-25; cf. Vol. XXXVI, p. 46.</note><!-- see EI28_44.tif -->
-                </div>
-                
-            </div>
-           
-              <div xml:id="best_0020">
+                </div>               
+            </div>         
+            <div xml:id="best_0020">
                    <div type="text">
                        <lg met="anuṣṭubh">
             <l n="a">Āsphoṭayanti pitaraḥ</l>
@@ -754,9 +751,7 @@
                            </lg>
                         <l>nandanti tasya pitaraḥ, etc. See No. 20, note. </l> <!-- EI28_44_B -->
                         <l>Ānandanti ca, etc. See No. 20, note.</l>
-                    </div> 
-                  
-                  
+                    </div>           
                   <div type="bibliography">
                        <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">123</citedRange><citedRange unit="item">5</citedRange></bibl>. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">252</citedRange></bibl> mentioned this verse as a customary one. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1273</citedRange></bibl> attributes the number 11 to this stanza in his list. <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">179</citedRange></bibl> quotes this verse.</p>
 <!-- Levi1908 : Jayanātha Cedi 174? Somavamsin -->
@@ -801,8 +796,8 @@
                       <!-- Dānakhaṇḍa Hemādri p 507 atrribue a bṛhaspati variation https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzwP4Io/edit?tab=t.0 -->
                       <!-- lakṣmīdhara kṛtyakalapataru dānakaṇḍa 10.29 attribue bṛhaspati / hemadri 507 -->
                   </div>
-              </div>
-              <div xml:id="best_0021">
+            </div>
+            <div xml:id="best_0021">
                   <div type="text">
                       <lg met="anuṣṭubh">
                           <l n="a">Aśvamedha-sahasrāṇi</l>
@@ -822,7 +817,7 @@
                 kr̥tvā yat=phalam-\-āpnoti bhūmi-dānat=tad=aśnute(Ep. Carn., Vol. X, Malur No.
                 57).</note><!-- see EI12_36-a.tif -->
                   </div>
-              </div>        
+            </div>        
             <div xml:id="best_0022">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -841,7 +836,7 @@
             </div>         
           <!-- <pb n="180"/>
             -->
-               <div xml:id="best_0023">
+            <div xml:id="best_0023">
                    <div type="text">
                        <lg met="anuṣṭubh">      
             <l n="a">bahubhir vasudhā bhuktā</l>
@@ -952,7 +947,7 @@
                         -->
                         <!--  Lakṣmīdhara nkṛtyakalpataru dānakaṇḍa 10.11 bṛhaspati  -->
                    </div>
-               </div>
+            </div>
             <div xml:id="best_0023_01">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -968,8 +963,9 @@
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                     <list>
-                        <item><ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref> lines 26-27 </item>
-                        <item><ref target="DHARMA_INSBengalCharters00084.xml">Mallasarul Plate of Vijayasena, time of Gopacandra, year 3</ref></item>
+                        <item>BengalCharters00034 = <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref> lines 26-27 </item>
+                        <item>BengalCharters00084 = <ref target="DHARMA_INSBengalCharters00084.xml">Mallasarul Plate of Vijayasena, time of Gopacandra, year 3</ref></item>
+                        <item>Siddham00134 = <ref target="INSSiddham00134.xml">Kotalipada Charter of the Time of Dvādaśāditya</ref>, lines 30-31</item>
                     </list>
                     </p>
                 </div>
@@ -1026,8 +1022,7 @@
                 </div>                  
             </div>
             <div xml:id="best_0023_05">
-                <div type="text">
-                     
+                <div type="text">                 
                        <lg met="anuṣṭubh"><!-- Best_0023  -->   
             <l n="a">manu-prabhṛtibhir mānyaiḥ</l>
             <l n="b">bhuktā yady api rājabhiḥ</l>
@@ -1457,12 +1452,18 @@ Having observed this double and balancing fortune, may you work for the longevit
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Prosperity is unsteady, youth is shattered in an instant, life is a step away from death, yet this counts for little when it comes to achievement in the next world. Alas! that which works miracles for men requires effort!</p>
+                    <p rend="stanza">Prosperity is unsteady, youth is shattered in an instant, life is a step away from death, yet this counts for little when it comes to achievement in the next world. Alas, the behaviour of men is astonishing!</p>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0020, best_0035, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0183. 
+                    <p>The content of this stanza is close to best_0010, best_0019, best_0020, best_0035, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0183. The wording is also close to the stnazas 16 and 17 of <ref target="INSCIC00149.xml">Nhan Biều stela (C. 149), 833 Śaka</ref> (= CIC00149).
 </p>
                      </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>EI32_5_2 = Grant of Vijjala śaka 969, lines 9-11 (<bibl><ptr target="bib:Sircar1957-1958_07"/><citedRange unit="page">70</citedRange></bibl>, reference quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                    </list></p>
+                </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. XXXII, p. 7o, text lines 9-11.</note>
                 </div>
@@ -2692,7 +2693,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
            </div>
             <div xml:id="best_0079">
                 <div type="text">
-                    <lg met="drutavilambitam"> <!-- Drutavilambitam is a sama-vr̥tta. It contains 4 pādas, each of which has the pattern LLLGLLGLLGLG -->
+                    <lg met="drutavilambita"> <!-- Drutavilambitam is a sama-vr̥tta. It contains 4 pādas, each of which has the pattern LLLGLLGLLGLG -->
                         <l n="a">kṣitir iyaṁ kulaṭeva bahu-priyā</l>
                         <l n="b">hata-śarīram idaṁ ca vinaśvaram</l>
                         <l n="c">sukr̥tam adya na cet kriyate dhruvaṁ</l>
@@ -3406,7 +3407,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                       <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).  </p>
                    
                </div>
-           </div>    
+           </div>
             <div xml:id="best_0099">
                 <div type="text">
                     <lg met="upendravajrā">
@@ -3425,7 +3426,8 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 <div type="bibliography">
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
-            </div>  <!--    
+            </div>           
+<!--    
             <pb n="191"/> -->
             <div xml:id="best_0100">
                 <div type="text">
@@ -4438,7 +4440,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Whoever steals land given by himself or by another to a <foreign>vipra</foreign> or a god will be born in an injurious condition for millions and millions of years</p>
+                    <p rend="stanza">Whoever steals what has been given by himself or by another to a <foreign>vipra</foreign> or a god will be born in an injurious condition for millions and millions of years</p>
                 </div>
                 <div type="notes">
                     <note>5. Ep. Ind., Vol.XXV, p. 219, verse 49.</note><!-- EI25_21.tif  -->
@@ -4449,7 +4451,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                         <l n="c">vr̥ttiṁ sa jāyate viḍbhug</l>                        
                         <l n="d">varṣāṇām ayutāyutam</l>
                     </lg>
-                    Any property profiteer who steals land given by himself or others to a Brahmin or a god will be born in an abusive condition for millions and millions of years.</note>
+                    Any property profiteer who steals what has been given by himself or others to a Brahmin or a god will be born in an abusive condition for millions and millions of years.</note>
                 </div>
             </div>
            <div xml:id="best_0130">
@@ -4462,7 +4464,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                    </lg>
                </div>
                <div type="translation" resp="part:amwb">
-                    <p rend="stanza">The men who protect a land given by himself or by another, will stay happy in the world of Rudra during thousand millions of years. </p>
+                    <p rend="stanza">The men who protect what has been given by himself or by another, will stay happy in the world of Rudra during thousand millions of years. </p>
                 </div>
                <div type="notes">
                    <note>6. Ind. Ant., Vol. XII. pp. 257-58.</note><!-- see https://archive.org/details/TheIndianAntiquaryVolXII/page/n289/mode/2up -->
@@ -5344,7 +5346,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </div>
             </div>
             <div xml:id="best_0142">
-                <div>
+                <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">triṇy āhur ati-dānāni</l>
                         <l n="b">gāvaḥ pr̥thvī sarasvatī</l>
@@ -5723,11 +5725,12 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </div>
                 <div type="notes">
                     <note>3. Ep. Ind., Vol. III, p. 367, lines 20-21.</note><!-- there is a problem with this reference I do not find this page as EI 3 ends with the page 360  -->
+                    
                 </div>
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                     <list>
-                        <item>EI3_36 = Rajor Inscription of Mathanadeva [vikrama] samvat 1016, (959 AD) lines 20-21 <!-- <bibl><ptr target="bib:Kielhorn1894-1895_05"/></bibl> --> (reference given with wrong page numbers by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">200</citedRange></bibl>)</item>
+                        <item>EI3_36 = Rajor Inscription of Mathanadeva [vikrama] samvat 1016, (959 AD) lines 20-21 <bibl><ptr target="bib:Kielhorn1894-1895_05"/></bibl> (reference given with wrong page numbers by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">200</citedRange></bibl>)</item>
                     </list></p>
                 </div>
                 <div type="bibliography">
@@ -6208,7 +6211,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>Let the wise man confer protection to the (pious) deeds of others, for respectful homage is paid to those who possess the glory of dharma! Thus Dhātṛ created the entire world and yet the kings protect the earth, those who rejoice to get merits!</p>
                 </div>
                 <div type="inscriptions">
-                    <p>See <ref target="DHARMA_INSPandya10002.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>, lines 143-144 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
+                    <p>See EI17_16 = INSPandya10002 = <ref target="DHARMA_INSPandya10002.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>, lines 143-144 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
                 </div>
                 <div type="occurences">
                     <p>Although the meanings of the stanzas differ, we can see that the figure of Dhātṛ is also referenced in stanza best_0056. Currently, this stanza is only cited in one epigraphic document.</p>
@@ -6712,7 +6715,6 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         <p></p>
                     </div>
                 </div>
-
         </body>
     </text>
 </TEI>
