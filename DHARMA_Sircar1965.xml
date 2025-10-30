@@ -701,6 +701,7 @@
                         <list>
                             <item><ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 20-21 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</item>
                             <item><ref target="INSBengalCharters00104.xml">Nalanda Plate of Devapāla, year 35</ref>, vers XX lines 48-49</item>
+                            <item>EI1_11 = The Madhuban Copper-Plate of Harsha Dated Samvat 25, line 16 (<bibl><ptr target="bib:Buhler1892_07"/></bibl></item>
                         </list>
                     </p><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038 981 AD  lines 47-49  -->
                 </div>
@@ -1527,7 +1528,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 <div type="notes">
                      <note>5. Ep. Ind., Vol. IX, p. 173, text lines 12-14.</note>
                 </div>
-               <div>
+               <div type="inscriptions">
                    <p>This verse is found in the following inscriptions:
                        <list>
                            <item><ref target="DHARMA_INSDk00005.xml">Malhār Plates of Jayarāja, Year 5</ref>, verse 1</item>
@@ -2228,6 +2229,9 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </list>
                     </p>
                 </div>
+                <div type="bibliography">
+                    <p>As this stanza is so far found only in the medieval corpus from the State of Chamba (Chhabra 1957), it seems to be a local or dynastic stanza.</p>
+                </div>
             </div>
             <!--  -->
             <div xml:id="best_0063">
@@ -2584,6 +2588,28 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    </list></p>
                </div>
            </div>
+            <div xml:id="best_0074_01">
+                <div type="text">
+                    <lg met="anuṣṭubh"> 
+                       <l n="a">karmaṇā manasā vācā</l>
+                       <l n="b">kartavyaṁ prāṇinehitaṁ</l>
+                       <l n="c">harṣeṇaitat samākhyātaṁ</l> 
+                       <l n="d">dharmārjjanam anuttamaṁ</l>
+                   </lg>
+                </div>
+                <div type="translation">
+                    
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>EI1_11 = The Madhuban Copper-Plate of Harsha Dated Samvat 25, lines 16-17 (<bibl><ptr target="bib:Buhler1892_07"/></bibl></item>
+                    </list></p>
+                </div>
+                <div type="bibliography">
+                    <p>This variation is not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl></p>
+                </div>
+            </div>
             <div xml:id="best_0075">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -3073,6 +3099,8 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                        <item><ref target="INSIA14_CLIX.xml">Paiṭhan Plates of Rāmacandra śaka 1193</ref>, see <bibl><ptr target="bib:Fleet1885_02"/></bibl></item>
                        <item><ref target="INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl></item>
                        <item>Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922 (see <bibl><ptr target="bib:Kielhorn1894_02"/><citedRange unit="page">221</citedRange></bibl>, lines 108-109) </item>
+                       <item>Kasheli copperplate inscriptions of (1) Śilāhāra ruler Bhoja II (dated 27 June 1191) and (2) Ramaṇasa Maṇḍalika and Jāṣaṇa Maṇḍalika (dated 31 August 1279), lines 51-53 (<bibl><ptr target="bib:Bapat2020_01"/></bibl>)</item>
+                       <item>The Kotāpūr copperplate charter dated Monday, November 18, 1191 CE, purported to have been issued by Śilāhāra ruler Bhoja II, lines 65-66 (<bibl><ptr target="bib:Bapat2022_01"/></bibl>)</item>
                    </list></p>
                 </div>
             </div>
@@ -3994,7 +4022,6 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sāmānyo 'yaṁ dharma-setuḥ</l>
-                        <l n="b">sarveṣām iha bhūbhujām</l>
                         <l n="c">yato 'taḥ pālanīyo 'yaṁ</l>
                         <l n="d">kāle kāle mahātmabhiḥ</l>
                     </lg>
@@ -6233,7 +6260,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p rend="stanza">The ancestors who reside in the Pitr̥loka and the gods who dwell in the Devaloka, fully satisfy the land-giver, O thou who are the best among born beings.</p>
                 </div>
                 <div type="inscriptions">
-                    <p>This verse is quoted as a parallel of the best_0004 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is <title>Epigraphia Indica</title>, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas c and d are found in the <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 12322</ref>, lines 125-126 (see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).</p>
+                    <p>This verse is quoted as a parallel of the best_0004 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is <title>Epigraphia Indica</title>, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas c and d are found in the <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, lines 125-126 (= EI25_21, see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).</p>
                 </div>
                 <div type="bibliography">
                         <p>This verse does not belong to Sircar's list, but <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">191</citedRange></bibl> mentions this verse as a variation of best_0004.</p>
@@ -6328,7 +6355,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>The Gods and his Ancestors <supplied reason="subaudible">of a land-thief</supplied> will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. Like a palm tree with his tuft of leaves cut, deprived of stability, he will fall <supplied reason="subaudible">in hell</supplied></p>
                     </div>
                     <div type="inscriptions">
-                        <p>See <ref target="DHARMA_INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref> (<bibl><ptr/></bibl>), lines 18-19.</p>
+                        <p>See EI23_24 = BengalCharters00084 = <ref target="DHARMA_INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref> (<bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl>), lines 18-19.</p>
                     </div>
                     <div type="bibliography">
                         <p>This verse does not belong to Sircar's list.</p>
