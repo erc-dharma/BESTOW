@@ -1233,7 +1233,7 @@ a commentary on the Yājñavalkya-dharmaśāstra
                         <list>
                             <item><ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, line 18 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</item>
                         <item><ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 7</item>
-                        <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> see <bibl><ptr target="bib:Kielhorn1896_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl></item>
+                        <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> see <bibl><ptr target="bib:Kielhorn1896-1897_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl></item>
                         </list>
                     </p>
                 </div>
@@ -3101,7 +3101,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                        <item><ref target="INSIA14_CLIX.xml">Paiṭhan Plates of Rāmacandra śaka 1193</ref>, see <bibl><ptr target="bib:Fleet1885_02"/></bibl></item>
                        <item><ref target="INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl></item>
                        <item>Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922 (see <bibl><ptr target="bib:Kielhorn1894_02"/><citedRange unit="page">221</citedRange></bibl>, lines 108-109) </item>
-                       <item>Kasheli copperplate inscriptions of (1) Śilāhāra ruler Bhoja II (dated 27 June 1191) and (2) Ramaṇasa Maṇḍalika and Jāṣaṇa Maṇḍalika (dated 31 August 1279), lines 51-53 (<bibl><ptr target="bib:Bapat2020_01"/></bibl>)</item>
+                       <item>Kasheli copperplate inscriptions of (1) Śilāhāra ruler Bhoja II (dated 27 June 1191) and (2) Ramaṇasa Maṇḍalika and Jāṣaṇa Maṇḍalika (dated 31 August 1279), lines 51-53 (<bibl><ptr target="bib:Bapat2016_01"/></bibl>)</item>
                        <item>The Kotāpūr copperplate charter dated Monday, November 18, 1191 CE, purported to have been issued by Śilāhāra ruler Bhoja II, lines 65-66 (<bibl><ptr target="bib:Bapat2022_01"/></bibl>)</item>
                    </list></p>
                 </div>
@@ -3374,7 +3374,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <l>Brahma-svaṁ putra-pautraghnaṁ, etc. See No. 98, note. </l>
                     <l>Brahma-svaṁ tu viṣam, etc. See No. 98, note. </l>
                    <l>Deva-svaṁ tu viṣaṁ ghoram, etc. See No. 98, note.</l> <!-- EI6_11  -->
-                   <p>A variation of this stanza (pādas a and b) can be read in <ref target="DHARMA_INSPallava00005">Oṃgoḍu grant, time of Skandavarman, year 33</ref>, lines 17-18</p>
+                   <p>A variation of this stanza (pādas a and b) can be read in Pallava00005 = <ref target="DHARMA_INSPallava00005">Oṃgoḍu grant, time of Skandavarman, year 33</ref>, lines 17-18</p>
                        <lg met="anuṣṭubh">
         <l n="a">b<unclear>ra</unclear>h<unclear>ma</unclear>-svaṃ tu viṣaṃ <unclear>gho</unclear>raṃ</l>
         <l n="b">na viṣaṃ viṣam ucyate</l>
@@ -3382,14 +3382,14 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
         <l n="d">brahma-svaṃ putra-pautrika<choice><unclear>M</unclear><unclear>ṃ</unclear></choice></l>
     </lg>    
                        
-                      <p>An almost identical variation can be read in <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17:</p>
+                      <p>An almost identical variation can be read in Siddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17:</p>
                    <lg met="anuṣṭubh">
                             <l n="a">brahmasvena viṣaṁ ghoraṁ</l>
                             <l n="b">na viṣair viṣam ucyate</l>
                             <l n="c">viṣam ekākinaṁ hanti</l>
                             <l n="d">brahmasvaṁ putra-pautrakaṁ</l>
                 </lg>
-                   <p>One can find the following variation on the beginning of the pādas b and d (see for example <ref target="INSVengiCalukya00096.xml">Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II</ref> lines 32-34; <ref target="INSVengiCalukya00022.xml">Ceruvu Mādhavaram plates of Viṣṇuvardhana V</ref> lines 25-26; <ref target="INSEI13_14.xml">Baṅkāpūr inscription of the time of Someśvara I and the Kādamba Harikeśarin śaka 977</ref> lines 58-59):<note>This variation is already quoted as an usual stanza by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">245</citedRange></bibl></note></p>
+                   <p>One can find the following variation on the beginning of the pādas b and d (see for example VengiCalukya00096 = <ref target="INSVengiCalukya00096.xml">Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II</ref> lines 32-34; VengiCalukya00022 = <ref target="INSVengiCalukya00022.xml">Ceruvu Mādhavaram plates of Viṣṇuvardhana V</ref> lines 25-26; EI13_14 = <ref target="INSEI13_14.xml">Baṅkāpūr inscription of the time of Someśvara I and the Kādamba Harikeśarin śaka 977</ref> lines 58-59) (this variation is already quoted as an usual stanza by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">245</citedRange></bibl>) :</p>
                    <lg met="anuṣṭubh">
                             <l n="a">na viṣaṁ viṣam ity āhuḥ</l>
                             <l n="b">deva-svaṁ viṣam ucyate</l>
@@ -3410,12 +3410,14 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    
                </div>
                <div type="bibliography">
-                   <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1273</citedRange></bibl> attributes the number 11 to this stanza in his list.</p>
+                   <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1273</citedRange></bibl> attributes the number 11 to this stanza in his list.</p><!-- Add that Lubin 2026 (p12 V01 paper) noticed that the word brahmasva is replaced by devasva in case of a grant issued to a deity example given Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II INSVengiCalukya00096 -->
                </div>
                <div type="inscriptions">
                    <p>This verse can be read in the following inscriptions:
                    <list>
-                       <item>inscription numbered 21 in <bibl><ptr target="bib:Chhabra1957_01"/></bibl> (this is the only inscription in this volume that quoteds this stanza)</item>
+                       <item>EI22_26 = The Sarkho Plates of Ratnadeva II of the (Chedi) year 880, lines 35-36, <bibl><ptr target="bib:Mirashi1933-1934_05"/><citedRange unit="page">167</citedRange></bibl> (already mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
+                       <item>inscription numbered 21 in <bibl><ptr target="bib:Chhabra1957_01"/></bibl> (this is the only inscription in this volume that quoted this stanza)</item>
+                       <item>Pandya10003 <ref target="INSPandya10003.xml">Śrīvaramaṅgala grant, time of Neṭuñcaṭaiyaṉ, year 17</ref>, lines 88-90</item>
                    </list></p>
                </div>
                <div type="occurences">
@@ -3451,7 +3453,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p rend="stanza">Bearing in mind the serious consequences of stealing land and the benefits received for its protection, what has been given by kings must be protected: protection is greater than a gift.</p>
                 </div>
                 <div type="notes">
-                    <note>7. Ep. Ind., Vol. XXII, p. 191, text lines 37-39. <!-- EI22_28b.tif checked ; "the Bhor State Museum Plates of Khambha II Saka 1001" interesting feature of this charter = unusual structure => date followed by description of the donor then description of the grant then name of the ministers of the donor then donor's genealogy tehn imprecatory verses then donee's names added like an after thought ; date = 1079 ; place modern Shirval in Bhor state 32 miles from Poona ; p 189 it is said that the village Vinga had been given to Brahmananas as early as the time of rama  --></note>
+                    <note>7. Ep. Ind., Vol. XXII, p. 191, text lines 37-39. = EI22_28b <!-- EI22_28b.tif checked ; "the Bhor State Museum Plates of Khambha II Saka 1001" interesting feature of this charter = unusual structure => date followed by description of the donor then description of the grant then name of the ministers of the donor then donor's genealogy tehn imprecatory verses then donee's names added like an after thought ; date = 1079 ; place modern Shirval in Bhor state 32 miles from Poona ; p 189 it is said that the village Vinga had been given to Brahmananas as early as the time of rama  --></note>
                 </div>
                 <div type="bibliography">
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
@@ -3694,7 +3696,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p rend="stanza">The rules have been established for the welfare of the people and the wise should observe them in regard to duties (<foreign>dharma</foreign>). The evil-minded one who seizes through greed or foolishness, blind he will immediately go to the bad and suffering hell. </p><!-- For the good of the people the laws have been established. The wise one should keep them in justice. The reprobate who from avarice or delusion shall usurp, will promptly incur a painful hell down below. (translation EI12_24, p.217) -->
                 </div>
                 <div type="notes"> 
-                    <note>1. Ep. Ind., Vol.XII, p. 214, verse 35.<!-- checked EI12_24 --></note>
+                    <note>1. Ep. Ind., Vol.XII, p. 214, verse 35. = EI12_24<!-- checked EI12_24 --></note>
                 </div>
                 <div type="bibliography">
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
@@ -3971,7 +3973,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                         <item><ref target="DHARMA_INSSomavamsin00043.xml">Chaudwār plates #3 of Mahābhavagupta Dharmakandarpa year 31</ref>, lines , Stanza </item>
                         <item><ref target="DHARMA_INSSomavamsin00047.xml">Kāṇḍavindhā plates of Mahābhavagupta Uddyotakeśarin year 3</ref>, lines , Stanza </item>
                         <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
-                        <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> (see 	<bibl><ptr target="bib:Kielhorn1896_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl>)</item>
+                        <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> (see 	<bibl><ptr target="bib:Kielhorn1896-1897_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl>)</item>
                         <item>Ganjam Grant of Jayavarmadeva, lines 33-35, <bibl><ptr target="bib:Misra1936_01"/></bibl></item>
                         <item>Two inscriptions on copper-plates from Nutimadugu, lines 66-67, EI25_19 = <bibl><ptr target="bib:LakshminarayanRao1939-1940_01"/><citedRange unit="page">194</citedRange></bibl> (it is a palimspest record; the stanza belongs to the second record from Vijayanagar and is inscribed on the recto of the third plate)</item>
                         <item>Veligalani Grant of Kapileśvara śaka 1380, lines 195-199, EI33_52 = <bibl><ptr target="bib:Sircar+Sarma1959-1960_01"/><citedRange unit="page">292</citedRange></bibl> (it is a palimpsest record, the verse ends the record and belongs to the charter originally engraved according to <bibl><ptr target="bib:Sircar+Sarma1959-1960_01"/><citedRange unit="page">278</citedRange></bibl>. The editors add in the note 4 p.192 that "these lines were probably not completely beaten because they are not unsuitable to the context of the new record")</item>
@@ -4078,7 +4080,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p>See the following inscriptions:<list>
                         <item><ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref> (with <foreign>puṣpāṇi</foreign> in pāda c; <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>)</item>
                         <item><ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 21-22 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>; in pāda c, <foreign>cihnāni</foreign> instead of <foreign>puṣpāṇi</foreign> )</item>
-                     <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> see <bibl><ptr target="bib:Kielhorn1896_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl> (pāda c: <foreign>cihnāni</foreign> instead of <foreign>puṣpāṇi</foreign>)</item>
+                     <item><ref target="DHARMA_INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref> see <bibl><ptr target="bib:Kielhorn1896-1897_06"/><citedRange unit="item">A</citedRange><citedRange unit="page">99-101</citedRange></bibl> (pāda c: <foreign>cihnāni</foreign> instead of <foreign>puṣpāṇi</foreign>)</item>
                     </list>
                     </p>
                     <p>A variation of this stanza quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> is found in the <title>Mahābhārata</title> 13.61.86-87 (GRETIL):</p>
@@ -5348,7 +5350,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">The very hot sun does not shine nor does the fierce wind blow </p><!-- The fierce sun does not shine, nor does the fierce wind blow in his command, having seen the extremely terrible sin of stealing the wealth of a brahmin -->
                 </div>
                 <div type="notes">
-                    <note>3. Ep. Ind., Vol. XXII, p. 166, verse 21.</note><!-- see EI22_26.tif -->
+                    <note>3. Ep. Ind., Vol. XXII, p. 166, verse 21. = EI22_26</note><!-- see EI22_26.tif -->
                 </div>
                 <div type="bibliography">
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
@@ -5759,7 +5761,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                     <list>
-                        <item>EI3_36 = Rajor Inscription of Mathanadeva [vikrama] samvat 1016, (959 AD) lines 20-21 <bibl><ptr target="bib:Kielhorn1894-1895_05"/></bibl> (reference given with wrong page numbers by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">200</citedRange></bibl>)</item>
+                        <item>EI3_36 = Rajor Inscription of Mathanadeva [vikrama] samvat 1016, (959 AD) lines 20-21 <bibl><ptr target="bib:Kielhorn1894-1895_05"/><citedRange unit="page">267</citedRange></bibl> (reference given with wrong page numbers by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">200</citedRange></bibl>)</item>
                     </list></p>
                 </div>
                 <div type="bibliography">
