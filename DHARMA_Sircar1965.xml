@@ -58,7 +58,7 @@
     </teiHeader>
     <text  xml:space="preserve">
         <body>
-            <div xml:id="best_0001">
+            <div xml:id="BEst_0001">
                 <div type="text">
                 <lg met="anuṣṭubh">
                 <l n="a">Adbhir dattaṁ tribhir bhuktaṁ</l>
@@ -69,8 +69,7 @@
                 </div>
                 <div type="translation" resp="part:amwb">
                     <p rend="stanza">It was given with ablutions; it has been enjoyed three times; it has been protected by noble men: these acts of the kings of olden days never cease.</p>
-                </div>
-                
+                </div>              
                 <div type="bibliography">
                     <p><bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">245</citedRange></bibl> quoted this verse as an usual one. <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">122</citedRange></bibl> quotes this stanza as the second in his list. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl> attributes the number 22 to this stanza.</p>
 <!-- Levi1908 : Kadaamba Kṛṣṇavarman II + Kadamba Ravivarman -->
@@ -83,14 +82,14 @@
                             <item>IN01026 = INSSiddham01026 = <ref target="DHARMA_INSSiddham01026.xml">Devagiri Grant of Devavarman</ref>, line 11  </item>
                             <item>IN01031 = INSSiddham01031 = <ref target="DHARMA_INSSiddham01031.xml">Dāvaṇagere Grant of Ravivarman, Year 34</ref> line 24</item>
                             <item>IN01032 = INSSiddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kasipura Grant of Ravivarman</ref> line 15 </item>
-                            <item>IA5_138-140 = The Mallohalli grant of Durvinītakoṅgaṇi 35th royal year, IA vol5 1876 p.138-140 (the stanza ends the grant. It is preceded by best_0132_03, best_0023 and best_0135 and is introduced by <foreign>Apicātra manugīto śloko</foreign> </item>
+                            <item>IA5_138-140 = The Mallohalli grant of Durvinītakoṅgaṇi 35th royal year, IA vol5 1876 p.138-140 (the stanza ends the grant. It is preceded by BEst_0132v03, BEst_0023 and BEst_0135 and is introduced by <foreign>Apicātra manugīto śloko</foreign> </item>
                         </list>
                     </p>
                 </div>
                 <!-- <div type="notes">
                     <note>3. See, e. g., Ind. Ant., Vol. VI. p. 26, lines 26-27 =INSSiddham01055.</note>  -->
             </div>
-            <div xml:id="best_0002">
+            <div xml:id="BEst_0002">
                 <div type="text">
                     <lg met="upajāti">
                         <l n="a">Āditya-candrāv anilo 'nalaś ca</l>
@@ -118,7 +117,7 @@
 
                 </div>
             </div>
-                <div xml:id="best_0003">
+                <div xml:id="BEst_0003">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Ādityā Iva dīpyante</l>
@@ -156,7 +155,7 @@
                 attribute the stanza to the Viṣṇudharmottara.</note>
                   </div>
                 </div>
-            <div xml:id="best_0004">               
+            <div xml:id="BEst_0004">               
                 <div type="text">
                 <lg met="anuṣṭubh">
                 <l n="a">Ādityo varuṇo viṣṇur</l>
@@ -232,7 +231,7 @@
                     <!-- Gretil : -->
                 </div>
             </div>
-            <div xml:id="best_0004_01">
+            <div xml:id="BEst_0004v01">
                 <div type="text">
                     <lg met="anuṣṭubh">
                 <l n="a">yamo 'tha varuṇo vāyuḥ</l>
@@ -248,7 +247,7 @@
                     <p>This stanza (not noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) is quoted in <ref target="DHARMA_INSBengalCharters00039.xml">Raktamālā Grant no. 1, year 159</ref> (see <bibl><ptr target="bib:Griffiths2015_02"/></bibl>).</p>
                 </div>
             </div>
-            <div xml:id="best_0005">               
+            <div xml:id="BEst_0005">               
                 <div type="text">
                     <lg met="indravajrā">
                     <l n="a">Agner apatyaṁ prathamaṁ suvarṇaṁ</l>
@@ -272,7 +271,7 @@
                     <p>See the following inscriptions : 
                         <list>
                             <item><ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 5 (with an inversion of the pādas c and d)</item>
-                            <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for best_0030</item>
+                            <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for BEst_0030</item>
                         </list>
                     </p>
                 </div>
@@ -312,7 +311,7 @@
                     
                                     </div>
             </div>
-            <div xml:id="best_0006">
+            <div xml:id="BEst_0006">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Agniṣṭomādibhir yajñair</l>
@@ -331,7 +330,7 @@
                     </list></p>
                 </div>
                 <div type="variation">
-                    <p>See best_0006_01.</p>
+                    <p>See BEst_0006v01.</p>
                 </div>
                 <div type="occurences">
                     <p>This verse with a variation on the pāda b is quoted by Hemādri in his Dānakhaṇḍa-caturvargacintāmaṇi (p.496) and attributed to the Mahābhārata:</p>
@@ -351,7 +350,7 @@
                 sv-āpta- dakṣiṇaiḥ in the second foot.</note><!-- Ind. Ant., Vol. XIV, p. 319, text encoded + its variation noted just below  -->
                 </div>
             </div>   
-            <div xml:id="best_0006_01">
+            <div xml:id="BEst_0006v01">
                 <div type="text">
                      <lg met="anuṣṭubh">
                         <l n="a">Agniṣṭoma-prabhr̥tibhir</l>
@@ -364,7 +363,7 @@
                     <p rend="stanza">Even after offering sacrifices such as the Agniṣṭoma etc, with substantial fees, one does not obtain the fruit (obtained) after giving earth.</p>
                 </div>
                 <div type="bibliography">
-                    <p><bibl><ptr target="bib:Sircar1965_03"/></bibl> mentioned this variation of best_0006 with this bibliographical reference : <bibl><ptr target="bib:Fleet1885_02"/><citedRange unit="page">319</citedRange><citedRange unit="line">108-109</citedRange></bibl>. </p>
+                    <p><bibl><ptr target="bib:Sircar1965_03"/></bibl> mentioned this variation of BEst_0006 with this bibliographical reference : <bibl><ptr target="bib:Fleet1885_02"/><citedRange unit="page">319</citedRange><citedRange unit="line">108-109</citedRange></bibl>. </p>
                 </div>
                 <div type="occurences">
                     <p><bibl><ptr target="bib:Sircar1965_03"/></bibl> mentioned the presence of the following variation of this stanza in Mahābhārata 13.61.70 (GRETIL):</p>
@@ -376,7 +375,7 @@
                     </lg>
                 </div>
             </div>
-               <div xml:id="best_0007">
+               <div xml:id="BEst_0007">
                    <div type="text">
                        <lg met="anuṣṭubh">
                            <l n="a">Aho rāghava rājendra</l>
@@ -403,7 +402,7 @@
                        -->
                    </div>
                </div>       
-                <div xml:id="best_0008">
+                <div xml:id="BEst_0008">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">A-karasya karādānaṁ</l>
@@ -428,7 +427,7 @@
                         <!-- Ep Carn checked DHARMA_INSEC05Bl074 but not the volume XII  -->
                     </div>
                 </div>      
-                <div xml:id="best_0009">
+                <div xml:id="BEst_0009">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Andho dvādaśa janmāni</l> 
@@ -451,7 +450,7 @@
                         <p>This verse can be read in the inscriptions numbered 2, 11, 20, 27, 29, 31, 32, 33, 34, 35, 37, 38, 39, 40, 43, 63, 64, 78, 79 edited by <bibl><ptr target="bib:Chhabra1957_01"/><citedRange unit="appendix">A</citedRange><citedRange unit="page">177</citedRange></bibl></p>
                     </div>
                 </div>
-            <div xml:id="best_0009_01">
+            <div xml:id="BEst_0009v01">
                 <div type="text">
                     <lg met="anuṣṭubh">
 <l n="a"><unclear cert="low">Anye</unclear>ṣāṁ ccha<supplied reason="omitted">r</supplied>ddi<choice><sic><unclear>ṣo</unclear></sic><corr>taṁ</corr></choice> bh<unclear>o</unclear>ktā</l>
@@ -467,7 +466,7 @@
                     <p>See <ref target="INSVengiCalukya00071.xml">Kaṇḍyam plates of Dānārṇava</ref> (see <bibl><ptr target="bib:Narasimham1937-1938_01"/></bibl>)</p>
                 </div>
             </div>
-            <div xml:id="best_0010">
+            <div xml:id="BEst_0010">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Anucintya śriyaṁ jīvyaṁ</l> 
@@ -480,10 +479,10 @@
                     <p rend="stanza">Having considered that the fortune is as transient as a drop of water on a lotus petal, and having thought that all is an illustration, let the glorious acts made by others not be destroyed.</p>
                 </div>
                     <div type="inscriptions">
-                        <p>The content of this stanza is close to best_0071. An occurrence of this stanza is found in Antirigam plates of Jaya-Bhanja-Deva (EI19_5 = <bibl><ptr target="bib:Rath1927-1928_01"/></bibl>, reference given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">178</citedRange></bibl>). </p>
+                        <p>The content of this stanza is close to BEst_0071. An occurrence of this stanza is found in Antirigam plates of Jaya-Bhanja-Deva (EI19_5 = <bibl><ptr target="bib:Rath1927-1928_01"/></bibl>, reference given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">178</citedRange></bibl>). </p>
                     </div>
                     <div type="occurences">
-                    <p>The content of this stanza is close to best_0019, best_0024, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                      </div>
                     <!--  <div type="notes">
@@ -492,7 +491,7 @@
                     <!-- EI 19 p45 checked and added in my table -->
                     
              </div>          
-           <div xml:id="best_0011">
+           <div xml:id="BEst_0011">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">Anya-gotra-samutpannam</l>
@@ -508,7 +507,7 @@
                    <note>3. Ep. Carn., Vol. XIV, IIg. No. 143.</note>
                </div>
            </div>    
-           <div xml:id="best_0012">
+           <div xml:id="BEst_0012">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Anya-kṣetre kr̥taṁ pāpaṁ</l>
@@ -530,7 +529,7 @@
                 mr̥tyuḥ kartavyo dharma-saṁgrahaḥ||(A. R. Ep. 1946-47, No. B 208).</note>
                     </div>
            </div>
-           <div xml:id="best_0013">
+           <div xml:id="BEst_0013">
                  <div type="text">
                      <lg met="anuṣṭubh">
                          <l n="a">Anyāyena hr̥tā bhūmir</l>
@@ -567,7 +566,7 @@
                      </lg>
                  </div>
             </div>
-            <div xml:id="best_0014">
+            <div xml:id="BEst_0014">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Anyeṣāṁ charditaṁ bhuṅkte</l> 
@@ -588,7 +587,7 @@
                 || (Ind. Ant., Vol. IV, p. 334).</note>
                     </div>
              </div>         
-             <div xml:id="best_0015">
+             <div xml:id="BEst_0015">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Api gaṅgādi-tīrtheṣu</l>
@@ -623,7 +622,7 @@
                     </div>
              </div>  
             <!--<pb n="179"/> -->     
-             <div xml:id="best_0016">
+             <div xml:id="BEst_0016">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Api hasta-mitāṁ bhūmiṁ</l>
@@ -643,7 +642,7 @@
                          <note>1. Ind. Ant., Vol.XIV, p. 73.</note>
                     </div>
              </div>
-             <div xml:id="best_0017">
+             <div xml:id="BEst_0017">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">Ārya-saṅghāya dattāṁ yo</l>
@@ -665,7 +664,7 @@
                         <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                     </div>
             </div>
-            <div xml:id="best_0018">
+            <div xml:id="BEst_0018">
                 <div type="text">
                 <lg met="anuṣṭubh">
                     <l n="a">Asāre 'pi ca saṁsāre</l>
@@ -684,7 +683,7 @@
                      <note>3. Ep. Ind., Vol. XIX, p. 45, text lines 30-31.</note><!-- checked EI19_5 and added in my table -->
                 </div>
             </div>         
-            <div xml:id="best_0019">
+            <div xml:id="BEst_0019">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">Asmat-kula-kramam udāram udāharadbhir</l>
@@ -715,14 +714,14 @@
                     </lg>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0024, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                      </div>
                 <div type="notes">
                     <note>4. Ep. Ind., Vol. XXVIII, p. 277, text lines 22-25; cf. Vol. XXXVI, p. 46.</note><!-- see EI28_44.tif -->
                 </div>               
             </div>         
-            <div xml:id="best_0020">
+            <div xml:id="BEst_0020">
                    <div type="text">
                        <lg met="anuṣṭubh">
             <l n="a">Āsphoṭayanti pitaraḥ</l>
@@ -744,7 +743,7 @@
 <l n="d">sa naḥ santārayiṣyati</l>
 </lg>
                         <p>A slight variation in the pāda c can be read in <ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 24-25 (= <ref target="INSEI33_41.xml">Malgā plates of Sāmanta Indrarāja</ref>, <bibl><ptr target="bib:Sircar+Sankaranarayanan1959-1960_01"/></bibl>)</p>
-                        <lg met="anuṣṭubh"><!-- best_0020 -->
+                        <lg met="anuṣṭubh"><!-- BEst_0020 -->
             <l n="a">Āsphoṭayanti pitaraḥ</l>
             <l n="b">pravalganti pitāmahāḥ</l>
             <l n="c">tvam eko 'smat-kule jātaḥ</l>
@@ -765,7 +764,7 @@
                       </p>
                   </div>
                   <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                       <p>The verse is attributed to <foreign>Viṣṇudharma</foreign> by Aparārka (p.370 <title>Ācārādhyāya</title> commentary on the <title>Yājñavalkya-dharmaśāstra</title>) and quoted with the following variation:</p>
                       <lg met="anuṣṭubh">
@@ -798,7 +797,7 @@
                       <!-- lakṣmīdhara kṛtyakalapataru dānakaṇḍa 10.29 attribue bṛhaspati / hemadri 507 -->
                   </div>
             </div>
-            <div xml:id="best_0021">
+            <div xml:id="BEst_0021">
                   <div type="text">
                       <lg met="anuṣṭubh">
                           <l n="a">Aśvamedha-sahasrāṇi</l>
@@ -819,7 +818,7 @@
                 57).</note><!-- see EI12_36-a.tif -->
                   </div>
             </div>        
-            <div xml:id="best_0022">
+            <div xml:id="BEst_0022">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Āyuḥ putrā dhanaṁ saukhyaṁ</l>
@@ -837,7 +836,7 @@
             </div>         
           <!-- <pb n="180"/>
             -->
-            <div xml:id="best_0023">
+            <div xml:id="BEst_0023">
                    <div type="text">
                        <lg met="anuṣṭubh">      
             <l n="a">bahubhir vasudhā bhuktā</l>
@@ -889,7 +888,7 @@
                                 <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                                <item><p>See <ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 2 (with <foreign>dattā</foreign> instead of <foreign>bhuktā</foreign> in padā a</p></item>
                         <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 19-20</item>
-                               <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for best_0030</item>
+                               <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for BEst_0030</item>
                                <item><ref target="INSEIAD00185.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>bahubhiś cānupālitā</foreign> in pāda b</item>
                                <item><ref target="INSEAIAD00186.xml">CCopper plates from Godavari district (set II) — reign of Pr̥thivīśrīmūla</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>bahubhiś cānupālitā</foreign> in pāda b</item>
                                <item><ref target="INSEAIAD00187.xml">Copper plates from Kondavidu (set I) — reign of Pr̥thivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>bahubhiś cānupālitā</foreign> in pāda b</item>
@@ -949,7 +948,7 @@
                         <!--  Lakṣmīdhara nkṛtyakalpataru dānakaṇḍa 10.11 bṛhaspati  -->
                    </div>
             </div>
-            <div xml:id="best_0023_01">
+            <div xml:id="BEst_0023v01">
                 <div type="text">
                     <lg met="anuṣṭubh">
                 <l n="a">Iyaṁ rāja-śatair dattā</l>
@@ -971,7 +970,7 @@
                     </p>
                 </div>
             </div>
-            <div xml:id="vest_0023_02">
+            <div xml:id="BEst_0023v02">
                 <div type="text">
                     <lg met="anuṣṭubh">
         <l n="a">rājabhir bahubhir dattā</l>
@@ -990,7 +989,7 @@
                     </list></p>
                 </div>
             </div>
-            <div xml:id="best_0023_03">
+            <div xml:id="BEst_0023v03">
                 <div type="text">
                     <lg met="anuṣṭubh">
         <l n="a">yānti kālena rājāno</l>
@@ -1006,7 +1005,7 @@
                     <p>Jodhpur Fragmentary Grant of Simharaja, Vikrama 1054 (1 plate), lines 9-10 (see <bibl><ptr target="bib:Chhabra1964-1965_01"/></bibl>, already mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</p>
                 </div>                  
             </div>
-            <div xml:id="best_0023_04">
+            <div xml:id="BEst_0023v04">
                 <div type="text">
                     <lg met="anuṣṭubh">
         <l n="a">yas tu pālayate bhūmiṃ</l>
@@ -1022,9 +1021,9 @@
                     <p>Ekallahāra Grant of Trilochanapāla, śaka 972, lines 49-50 (see <bibl><ptr target="bib:Sircar1965-1966_01"/></bibl>, already mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</p>
                 </div>                  
             </div>
-            <div xml:id="best_0023_05">
+            <div xml:id="BEst_0023v05">
                 <div type="text">                 
-                       <lg met="anuṣṭubh"><!-- Best_0023  -->   
+                       <lg met="anuṣṭubh"><!-- BEst_0023  -->   
             <l n="a">manu-prabhṛtibhir mānyaiḥ</l>
             <l n="b">bhuktā yady api rājabhiḥ</l>
             <l n="c">yasya yasya yadā bhūmis</l>
@@ -1038,7 +1037,7 @@
                     <p><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>, already quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">180</citedRange></bibl>).</p>
                 </div>
             </div>
-            <div xml:id="best_0024">
+            <div xml:id="BEst_0024">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">bahun ātra kim uktena</l> 
@@ -1072,7 +1071,7 @@
                     </list></p>
                 </div>
             </div>
-            <div xml:id="best_0025">
+            <div xml:id="BEst_0025">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">bhūmi-dānaṁ su-pātreṣu</l>
@@ -1099,7 +1098,7 @@
                     </lg>
                 </div>
             </div>          
-           <div xml:id="best_0026">
+           <div xml:id="BEst_0026">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">bhūmi-dāna-samaṁ dānam</l>
@@ -1118,7 +1117,7 @@
                    <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl> attributes the number 18 to this stanza.</p>
                </div>
            </div>
-            <div xml:id="best_0027">
+            <div xml:id="BEst_0027">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">bhūmi-dānasya yaḥ kartā</l> 
@@ -1134,7 +1133,7 @@
                     <note>6. Ep. Ind., Vol. IV, p. 170, line 121.</note>
                 </div>
             </div>
-            <div xml:id="best_0028">
+            <div xml:id="BEst_0028">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">bhūmi-dānāt paraṁ dānaṁ</l>
@@ -1184,7 +1183,7 @@ Hormis le crime de s’en emparer,
 Il n’y en eut point et n’y en aura point -->
             </div>
             <!--<pb n="181"/>-->                    
-            <div xml:id="best_0029">
+            <div xml:id="BEst_0029">
                 <div type="text">
                     <lg met="anuṣṭubh">
                 <l n="a">bhūmiṁ yaḥ pratigr̥hṇāti</l>
@@ -1253,7 +1252,7 @@ a commentary on the Yājñavalkya-dharmaśāstra
                 </div>
             
             </div>                   
-            <div xml:id="best_0030">
+            <div xml:id="BEst_0030">
                 <div type="text">
                 <lg met="vasantatilakā">
                 <l n="a">bhūmi-pradā divi lalanti patanti hanta</l>
@@ -1306,7 +1305,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                 <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
             </div>
                 </div>
-            <div xml:id="best_0031">
+            <div xml:id="BEst_0031">
                 <div type="text">
                     <lg met="indravajrā">
                         <l n="a">bhūmi-pradānān na paraṁ pradānaṁ </l>
@@ -1333,7 +1332,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                     </list></p>
                 </div>
             </div>   
-           <div xml:id="best_0032">
+           <div xml:id="BEst_0032">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">brahma-svaṁ praṇayād bhuktvā</l>
@@ -1372,7 +1371,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                 </lg>
             </div>
                </div>
-           <div xml:id="best_0033">
+           <div xml:id="BEst_0033">
                <div type="text">
                 <lg met="anuṣṭubh"> 
                     <l n="a">brahma-sva-paripuṣṭāni</l>
@@ -1393,7 +1392,7 @@ Having observed this double and balancing fortune, may you work for the longevit
            </div>                
             <!--
                  <pb n="182"/>-->
-            <div xml:id="best_0034">
+            <div xml:id="BEst_0034">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">brahma-sve mā matiṁ kuryāḥ</l> 
@@ -1423,7 +1422,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                     </list></p>
                 </div>
             </div>
-            <div xml:id="best_0035">
+            <div xml:id="BEst_0035">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l>calā lakṣmīś calāḥ prāṇāś</l>
@@ -1436,14 +1435,14 @@ Having observed this double and balancing fortune, may you work for the longevit
                     <p rend="stanza">Unsteady is the Whealth, as well as are the breaths and the youth of the life; indeed within the moving to and from <foreign>saṁsāra</foreign> the only firm thing is <foreign>dharma</foreign>.</p>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0024, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                      </div>
                 <div type="notes">
                     <note>2. Ep. Ind., Vol. XXII, p. 194, text lines 17-18.</note>
                 </div>
             </div>
-            <div xml:id="best_0036">
+            <div xml:id="BEst_0036">
                 <div type="text">
                     <lg met="vaṁśastha">
                         <l>calā vibhūtiḥ kṣaṇa-bhaṅgi yauvanaṁ</l>
@@ -1456,7 +1455,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                     <p rend="stanza">Prosperity is unsteady, youth is shattered in an instant, life is a step away from death, yet this counts for little when it comes to achievement in the next world. Alas, the behaviour of men is astonishing!</p>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0024, best_0035, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0182, best_0192. The wording is also close to the stnazas 16 and 17 of <ref target="INSCIC00149.xml">Nhan Biều stela (C. 149), 833 Śaka</ref> (= CIC00149).
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. The wording is also close to the stnazas 16 and 17 of <ref target="INSCIC00149.xml">Nhan Biều stela (C. 149), 833 Śaka</ref> (= CIC00149).
 </p>
                      </div>
                 <div type="inscriptions">
@@ -1469,7 +1468,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                     <note>3. Ep. Ind., Vol. XXXII, p. 7o, text lines 9-11.</note>
                 </div>
             </div>
-            <div xml:id="best_0037"><!-- Caution ! Sircar attributes the numbers 37 and 38 to these couple of stanzas but as it is impossible to form an understanble sentence with only one of them, I consider the two as a semantic whole -->
+            <div xml:id="BEst_0037"><!-- Caution ! Sircar attributes the numbers 37 and 38 to these couple of stanzas but as it is impossible to form an understanble sentence with only one of them, I consider the two as a semantic whole -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">candrārkau ca tathā bhūmir</l>
@@ -1488,7 +1487,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                      <note>4. Ind. Ant., Vol. XII, p. 121. See above No. 2.</note>
                 </div>
             </div>
-            <div xml:id="best_0038">
+            <div xml:id="BEst_0038">
                 <div type="text">
                     <lg met="anuṣṭubh">
                          <l n="a">tisraḥ sandhyās trayo vedās</l>
@@ -1507,7 +1506,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                      <note>4. Ind. Ant., Vol. XII, p. 121. See above No. 2.</note><!-- checked : it is quoted in the middle of other usual stanza like 132, 123 etc https://archive.org/details/TheIndianAntiquaryVolXII/page/n135/mode/2up -->
                 </div>
             </div>
-            <div xml:id="best_0039">
+            <div xml:id="BEst_0039">
                 <div type="text">
                     <lg met="vasantatilakā"><!-- some metrical problems : 
                     dānād viśi!!ṣṭaṃ!! paripālanajaṃ purāṇā 
@@ -1550,7 +1549,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     <p>Although <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174</citedRange></bibl> mentioned the existence of stanzas composed by court poets in his introduction, he did not notice that this was probably the case for this stanza. Indeed, based on my current research, it seems that it has been only used in records issued by three kings from the same dynasty: Jayarāja, Sudevarāja and Pravararāja. In these testimonies, the stanza is attributed to the king himself and could be seen as a dynastic stanza. </p>
                 </div>
             </div> 
-            <div xml:id="best_0040">
+            <div xml:id="BEst_0040">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">dāna-pālanayos tāvat</l>
@@ -1597,13 +1596,13 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                             <item><ref target="DHARMA_INSDaksinaKosala00041.xml">Sirpur Plates of Śivagupta, undated (presumably year 48 or later)</ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
                             <item><ref target="DHARMA_INSDaksinaKosala00044.xml">Sirpur Plates of Śivagupta, undated (presumably year 55 or later)</ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
                             <item><ref target="DHARMA_INSDaksinaKosala00051.xml">Sirpur Plates of Śivagupta, undated</ref> with a slight variation in pāda a: <foreign>rakṣāpālanayos</foreign></item>
-                            <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he quotes this reference for best_0030</item>
+                            <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he quotes this reference for BEst_0030</item>
                            
                         </list>
                     </p>
                 </div>
             </div>
-            <div xml:id="best_0040_01">
+            <div xml:id="BEst_0040v01">
                 <div type="text">
                     <lg met="anuṣṭubh"><!-- found in EI16_12 and in Margherita's CP Perunāvalūrc ceppēṭu -->
                         <l n="a">dāna-pālanayos madhye</l>
@@ -1633,7 +1632,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                     </list></p>
                 </div>
                 <div type="notes">
-                    <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">182</citedRange><citedRange unit="note">6</citedRange></bibl> mentions this stanza as a variation of best_0040. The bibliographic references given are Ep. Carn., Vol. VIII, Tl. No. 73; Ep. Carn., Vol. II, Nos., 253, 327; Vol. III, My. Nos. 7, 32;Ep. Ind., Vol. XIV, p. 104, text lines 103-105 </p>
+                    <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">182</citedRange><citedRange unit="note">6</citedRange></bibl> mentions this stanza as a variation of BEst_0040. The bibliographic references given are Ep. Carn., Vol. VIII, Tl. No. 73; Ep. Carn., Vol. II, Nos., 253, 327; Vol. III, My. Nos. 7, 32;Ep. Ind., Vol. XIV, p. 104, text lines 103-105 </p>
 <!-- need to check these references  -->
                     <!-- citer dans EI25_19 palimpseste sur une nouvelle plaque Dikshit1935-1936_01 --> 
                     <!-- I found the verse here : Bhrgu-Samhita (a text of the Vaikhanasa-tradition) gretil + sansknet (bhrgus_u.htm)                    
@@ -1646,15 +1645,15 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                         <lg met="anuṣṭubh">
                             <l n="a">dānapālanayor madhye</l>
                             <l n="b">dānācchreyo 'nupālanam</l>
-                            <l n="c">dānātsvargamavāpnoti</l>
-                            <l n="d">pālanādacyutaṃ padam </l>
+                            <l n="c">dānāt svargam avāpnoti</l>
+                            <l n="d">pālanād acyutaṃ padam</l>
                         </lg>
                         <p>This variation is quoted in several inscriptions (numbered 3, 49, 61) edited by <bibl><ptr target="bib:Chhabra1957_01"/><citedRange unit="appendix">A</citedRange><citedRange unit="page">177</citedRange></bibl>. He gives the following translation:</p>
                         <p>Between a gift and its preservation, the preservation is more meritorious than the gift. By giving one attains to heaven, by preserving to the postion from where there is no falling (into the world).</p>
                     </div>
                 </div>
             </div>
-           <div xml:id="best_0041">
+           <div xml:id="BEst_0041">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">dātā caivānumantā ca</l> 
@@ -1671,7 +1670,7 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                </div>
            </div>      
           <!-- <pb n="183"/> -->  
-           <div xml:id="best_0042">
+           <div xml:id="BEst_0042">
                <div type="text">
                <lg met="anuṣṭubh">
                    <l n="a">dātā daśānugr̥hṇāti</l>
@@ -1698,7 +1697,7 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                    <p>See <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>, verse XXI (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
                </div>
            </div>
-            <div xml:id="best_0042_01">
+            <div xml:id="BEst_0042v01">
                 <div type="text">
                    <lg met="anuṣṭubh">
                    <l n="a">dātā daśānugr̥hṇāti</l>
@@ -1714,7 +1713,7 @@ dānātsvargamavāpnoti pālanādacyutaṃ padam  /<BR>
                     <bibl><ptr target="bib:Fleet1885_02"/><citedRange unit="page">319</citedRange><citedRange unit="line">111-112</citedRange></bibl>
                 </div>
             </div>
-           <div xml:id="best_0043">
+           <div xml:id="BEst_0043">
                <div type="text">
                    <lg met="indravajrā"> 
                        <l n="a">dattāni yānīha purā narendrair</l>
@@ -1774,7 +1773,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    </lg>
                </div>
            </div>
-            <div xml:id="best_0044">
+            <div xml:id="BEst_0044">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">deva-dravya-vināśena</l> 
@@ -1790,7 +1789,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                      <note>3. Ep. Carn., Vol. V, Belur No. 58.</note>
                 </div>
             </div>  
-           <div xml:id="best_0045">
+           <div xml:id="BEst_0045">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">deva-dravyopabhoktā ca</l> 
@@ -1826,7 +1825,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 3)</note>
                </div>
            </div>
-            <div xml:id="best_0045_01"><!-- I attribute this number to this verse because it is mentioned as a variation of best_0045 by Sircar, but I'm really not sure that it could be seen as a variation since there are no words in common with it?? So it will be necessary to establish some criteria to attribute to one stanza the status of variation -->
+            <div xml:id="BEst_0045v01"><!-- I attribute this number to this verse because it is mentioned as a variation of BEst_0045 by Sircar, but I'm really not sure that it could be seen as a variation since there are no words in common with it?? So it will be necessary to establish some criteria to attribute to one stanza the status of variation -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                             <l n="a">yathoktaiḥ pañcabhiḥ ghoraiḥ</l>
@@ -1842,7 +1841,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>This stanza is quoted in <ref target="DHARMA_INSSiddham01025">Akki-Ālūr (Kir̥ukuppuṭūra) Grant of Kr̥ṣṇavarman II, Year 15</ref>, lines 18-19 (see <bibl><ptr target="bib:Gai1996_01"/><citedRange unit="entry">38</citedRange><citedRange unit="page">147-148</citedRange></bibl>, attributed to the <title>Dharmaśāstra</title> of Manu.</p>
                 </div>
             </div>
-            <div xml:id="best_0046">
+            <div xml:id="BEst_0046">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">deva-dvija-gatāṁ bhūmiṁ</l>
@@ -1865,7 +1864,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
             </div>           
             <!--  -->
             <!-- <pb n="184"/> -->
-            <div xml:id="best_0047">
+            <div xml:id="BEst_0047">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">deva-svatvaṁ yavāṁśaṁ ca</l> 
@@ -1881,7 +1880,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <note>1. Ep. Carn., Vol. XII, Tin. No. 37.</note><!-- not yet checked  -->
                 </div>
             </div>
-            <div xml:id="best_0048">
+            <div xml:id="BEst_0048">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">deva-svāni harantīha</l>
@@ -1897,7 +1896,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <note>2. Ind. Ant., Vol. XII, p. 121.</note>
                 </div>
             </div>
-           <div xml:id="best_0049"><!-- Caution here Sircar attributes two numbers 49 and 50  -->
+           <div xml:id="BEst_0049"><!-- Caution here Sircar attributes two numbers 49 and 50  -->
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">dharmād vivardhate rājyaṁ</l>
@@ -1917,7 +1916,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note><!-- Checked this is the right reference. I haven't encoded the inscription yet.Hultzsch EI6_35 p 335 date of the inscription : 1084 -->
                </div>
            </div>
-            <div xml:id="best_0050"><!-- Caution linked to 0049 -->
+            <div xml:id="BEst_0050"><!-- Caution linked to 0049 -->
                 <div type="text">
                        <lg met="anuṣṭubh"> 
                        <l n="a">tasmād dharmaḥ prayatnena</l>
@@ -1937,7 +1936,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <note>4. Ep. Ind., Vol. VI. p. 343. verse 43.</note><!-- Checked this is the right reference. I haven't encoded the inscription yet.Hultzsch EI6_35 p 335 date of the inscription : 1084 -->
                </div>
             </div>
-            <div xml:id="best_0051">
+            <div xml:id="BEst_0051">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">dharmāt paijavano rājā</l>
@@ -1954,7 +1953,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>
             <!--  -->
-            <div xml:id="best_0052">
+            <div xml:id="BEst_0052">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">dvijāś ca nāvamantavyās</l>
@@ -1974,7 +1973,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
 <!-- Checked and encoded see EI19_34.xml  -->                
                 </div>
             </div>
-            <div xml:id="best_0053">
+            <div xml:id="BEst_0053">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Ekaiva bhaginī loke</l>
@@ -1996,7 +1995,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>See <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></p><!-- citer dans EI25_19 palimpseste sur une nouvelle plaque Dikshit1935-1936_01 -->
                 </div>
             </div>
-            <div xml:id="best_0054">
+            <div xml:id="BEst_0054">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Ekaviṁsat–kulasyeva</l>
@@ -2014,7 +2013,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>
            
-            <div xml:id="best_0055">
+            <div xml:id="BEst_0055">
                         <div type="text">
                             <lg met="anuṣṭubh">
                                 <l n="a">gām ekāṁ svarṇam ekaṁ vā</l>
@@ -2085,7 +2084,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>                      
             <!-- <pb n="185"/>-->   
-            <div xml:id="best_0056">
+            <div xml:id="BEst_0056">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">gaṇyante pāṁsavo bhūmer</l>
@@ -2111,7 +2110,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 26 to this stanza in his list.</p>
                 </div>
             </div>
-            <div xml:id="best_0057">
+            <div xml:id="BEst_0057">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">gāvo bhūmiṁ tathā bhāryāṁ</l>
@@ -2136,7 +2135,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>The text of this stanza is quite problematic and <bibl><ptr target="bib:Kielhorn1896-1897_02"/><citedRange unit="note">4</citedRange><citedRange unit="page">197</citedRange></bibl> explains that he was unable to find this verse elsewhere and to give a correct text. </p>
                 </div>
             </div>
-           <div xml:id="best_0058">
+           <div xml:id="BEst_0058">
                <div type="text">
                    <lg met="anuṣṭubh">
                       <l n="a">gayā-godāvarī-gaṅgā</l>
@@ -2152,7 +2151,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <note> 3. Ind. Ant., Vol. VII, p. 121.</note><!-- I didn't find the verse indicated in the vol. VII p.121, is it a typo?  -->
                </div>
            </div>
-            <div xml:id="best_0059">
+            <div xml:id="BEst_0059">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">go-hatyā brahma-hatyā ca</l>
@@ -2169,7 +2168,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     
                 </div>
             </div>
-            <div xml:id="best_0060"><!-- Caution here Sircar attributes two numbers 60 and 61 -->
+            <div xml:id="BEst_0060"><!-- Caution here Sircar attributes two numbers 60 and 61 -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">gr̥hṇanti yāvataḥ pāṁsūn</l>
@@ -2189,7 +2188,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 Carn.,Vol. XI, Dg. No. 28.</note>
                 </div>
             </div>
-            <div xml:id="best_0061"><!-- Linked to 0060 -->
+            <div xml:id="BEst_0061"><!-- Linked to 0060 -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">rājāno rāja-kulyāś ca</l>
@@ -2209,7 +2208,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 Carn.,Vol. XI, Dg. No. 28.</note>
                 </div>
             </div>
-            <div xml:id="best_0062">
+            <div xml:id="BEst_0062">
                 <div type="text">
                     <lg met="śālinī">
                         <l n="a">haṁsair yutaṁ yānam āruhya divyaṁ</l><!-- caution unmetrical a short for a long : haṁsair !!yu!!taṁ yānam āruhya divyaṁ -->
@@ -2236,7 +2235,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>
             <!--  -->
-            <div xml:id="best_0063">
+            <div xml:id="BEst_0063">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">harasya prīṇanārthaṁ tu</l>
@@ -2258,7 +2257,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>
          <!--   <pb n="186"/>-->
-            <div xml:id="best_0064">
+            <div xml:id="BEst_0064">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">harate hārayed yas tu</l>
@@ -2295,7 +2294,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </list></p>
                 </div>
             </div>
-           <div xml:id="best_0065">
+           <div xml:id="BEst_0065">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">hartā devasya yo bhūmiṁ</l>
@@ -2311,7 +2310,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <note>2. Ind. Ant., Vol. XII, p. 121.</note>
                </div>
            </div> 
-            <div xml:id="best_0066">
+            <div xml:id="BEst_0066">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">hinasti viṣam attāraṁ</l>
@@ -2332,7 +2331,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 and 133).</note>
                 </div>
             </div>
-            <div xml:id="best_0067">
+            <div xml:id="BEst_0067">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">hiraṇya-maṇi-muktāni</l>
@@ -2348,7 +2347,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <note>4. Ep. Ind., Vol. XXIII. p. 229, verse 17.</note>
                 </div>
             </div>
-            <div xml:id="best_0068">
+            <div xml:id="BEst_0068">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">r̥ṇa-hartā bhūmi-hartā</l><!-- I checked EI11_32 and the text is hṛṇa but the editor corrects it by ṛṇa  -->
@@ -2368,7 +2367,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1277</citedRange></bibl> attributes the number 39.</p>
                 </div>
             </div>
-           <div xml:id="best_0069">
+           <div xml:id="BEst_0069">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">Iha-loka-kr̥taṁ karma</l>
@@ -2390,7 +2389,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    </list></p>
                </div>
            </div>
-             <div xml:id="best_0070">
+             <div xml:id="BEst_0070">
                  <div type="text">
                      <lg met="anuṣṭubh">
                          <l n="a">Imaṁ dharmaṁ ca ye ghnanti</l>
@@ -2416,7 +2415,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                      <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                  </div>
              </div>
-            <div xml:id="best_0071">
+            <div xml:id="BEst_0071">
                 <div type="text">
                 <lg met="puṣpitāgrā">
                     <l n="a">Iti kamala-dalāmbu-bindu-lolāṁ</l>
@@ -2494,7 +2493,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </p><!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038  981 AD  -->
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0024, best_0035, best_0036, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                      </div>
                 <div type="notes">
@@ -2508,7 +2507,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 also No. 10 above.</note><!-- Kane1941 vol 2-2 p1275 note 29 : verse numbered 29 in the appendix sources E.I.VI.p.285 at p.294 (śake 789) , EI.VII.93 (1077A.D) EI X p. 89, I. H. Q. for 1932 vol. VIII. p. 805 (sam. 1079)  -->
                 </div>
             </div>
-            <div xml:id="best_0071_01">
+            <div xml:id="BEst_0071v01">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">taḍit-taraṅga-bahulāṁ</l>
@@ -2521,17 +2520,17 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     
                 </div>
                 <div type="inscriptions">
-                    <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page"></citedRange></bibl> noticed this variation of best_0071. It can be read in INSBengalCharters00084 = <ref target="INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref> lines 23-24</p>
+                    <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page"></citedRange></bibl> noticed this variation of BEst_0071. It can be read in INSBengalCharters00084 = <ref target="INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref> lines 23-24</p>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0024, best_0035, best_0036, best_0071, best_0138, best_0141, best_0146, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                 </div>
             </div>
             <!--
             <pb n="187"/>
            -->       
-            <div xml:id="best_0072">
+            <div xml:id="BEst_0072">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">jñātvaivaṁ mat-pradatto 'yaṁ</l>
@@ -2550,7 +2549,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                      <note>1. Ep. Ind., Vol. XXXII, p. 54, text lines 55–56.</note><!-- checked see EI32_4_1.tif lines 55-56 verse 32 -->
                 </div>
             </div>
-           <div xml:id="best_0073">
+           <div xml:id="BEst_0073">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">kalpa-koṭi-sahasrāṇi</l>
@@ -2566,7 +2565,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <note>2. Ep. Ind., Vol. XXXII, p. 70, text lines 21–22.</note><!-- checked but not yet encoded EI32_5_2.tif  -->
                </div>
            </div>          
-           <div xml:id="best_0074">
+           <div xml:id="BEst_0074">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">karmaṇā manasā vācā</l>
@@ -2590,7 +2589,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    </list></p>
                </div>
            </div>
-            <div xml:id="best_0074_01">
+            <div xml:id="BEst_0074v01">
                 <div type="text">
                     <lg met="anuṣṭubh"> 
                        <l n="a">karmaṇā manasā vācā</l>
@@ -2612,7 +2611,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>This variation is not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl></p>
                 </div>
             </div>
-            <div xml:id="best_0075">
+            <div xml:id="BEst_0075">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">kartuḥ kārayitur hetor</l>
@@ -2638,7 +2637,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>
            <!--  -->
-            <div xml:id="best_0076">
+            <div xml:id="BEst_0076">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">khila-bhagnā tu yā bhūmir</l>
@@ -2663,7 +2662,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </list></p>
                 </div>
             </div>
-            <div xml:id="best_0077">
+            <div xml:id="BEst_0077">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">koṭis tu vājapeyānāṁ</l>
@@ -2681,7 +2680,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 signature in approval of a grant.</note><!-- checked but not yet encoded ; Source of authority for the stanzas vedavyāsena vyāsena 123+ 150+ 5+ 23+ 43+ 131+ 2 unknown verses one corrupted 118+ 77+ -->
                 </div>
             </div>
-           <div xml:id="best_0078">
+           <div xml:id="BEst_0078">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">kr̥śāya kr̥śa-vr̥ttāya</l>
@@ -2719,7 +2718,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    </lg>
                </div>
            </div>
-            <div xml:id="best_0079">
+            <div xml:id="BEst_0079">
                 <div type="text">
                     <lg met="drutavilambita"> <!-- Drutavilambitam is a sama-vr̥tta. It contains 4 pādas, each of which has the pattern LLLGLLGLLGLG -->
                         <l n="a">kṣitir iyaṁ kulaṭeva bahu-priyā</l>
@@ -2737,7 +2736,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
             </div>      
          <!--  
             <pb n="188"/>-->          
-            <div xml:id="best_0080"><!-- Caution here Sircar attributes two numbers 80 and 81  -->
+            <div xml:id="BEst_0080"><!-- Caution here Sircar attributes two numbers 80 and 81  -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">kṣudra-paśvanr̥te pañca</l>
@@ -2785,7 +2784,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>This stanza or a variation of it can be traced in the corrupted text of <ref target="INSNandodbhava00006.xml">Jokab Plate of Devānandadeva</ref> lines 38-39.</p>
                 </div>
             </div>
-            <div xml:id="best_0081"><!-- Linked to 0080 -->
+            <div xml:id="BEst_0081"><!-- Linked to 0080 -->
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">hanti jātān ajātāṁś ca</l>
@@ -2837,7 +2836,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </p>
                 </div>-->
                 <div type="occurences">
-                    <p>The verses of Mahābhārata 5.35.26-27 (GRETIL) give the following variations for best_0080 and best_0081:</p>
+                    <p>The verses of Mahābhārata 5.35.26-27 (GRETIL) give the following variations for BEst_0080 and BEst_0081:</p>
                     <lg met="anuṣṭubh">
                       <l n="a">pañca paśvanṛte hanti</l>
                       <l n="b">daśa hanti gavānṛte</l>
@@ -2860,7 +2859,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <p>A man lying about a horse kills one hundred (horses), a man lying about a cow kills one thousand (cows), a man lying about another person kills himself and his relatives. </p>
                 </div>
             </div>
-            <div xml:id="best_0082">
+            <div xml:id="BEst_0082">
                 <div type="text">
                     <lg met="anuṣṭubh">            
                         <l n="a">kulāni tārayet kartā</l>
@@ -2890,7 +2889,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>This verse is quoted by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">246</citedRange></bibl>.</p>
                 </div>
             </div>
-            <div xml:id="best_0083">
+            <div xml:id="BEst_0083">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">lobhād gr̥hṇāti mandātmā</l>
@@ -2913,7 +2912,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </p>
                 </div>
             </div>
-            <div xml:id="best_0084">
+            <div xml:id="BEst_0084">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">loha-cūrṇāśma-cūrṇaṁ ca</l>
@@ -2931,7 +2930,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 viśrutam.</note><!-- EI12_36_a checked but not yet encoded source of authority Dharmasastra ; 23 + 85 + 21 + 54v +132 + 55v +98v + 122 + 54 + pāpanirmmocyavas tyaktvā saupanā bhūmidānaka pade pade divaṃ yāti pitṛmātmaikaviṃśakaṃ (trad Having given away the land that frees from sin, at every step he goes to heaven, along with his ancestors up to the twenty-first degree.) + 107 + 137v + 84 + 154 + 141 + 147 + 158 + 20 + 4 + 29 + 71  date / scribe / rajamudra symbol -->
                 </div>
             </div>
-             <div xml:id="best_0085">
+             <div xml:id="BEst_0085">
                 <div type="text">
                         <lg met="anuṣṭubh">
             <l n="a">mā bhūd a-phala-śaṅkā vaḥ</l>
@@ -2962,7 +2961,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                          </list></p>
                  </div>
                  <div type="variation">
-                     <p>The following variation can be read in EI31_34 = Dasgoba plates of rajaraja III, Saka 1120, lines 146-147, <bibl><ptr target="bib:Sircar+RathaSarma1955-1956_01"/></bibl> (<bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">195</citedRange></bibl> quotes this reference as a variation of best_0128 but this is a mistake):</p>
+                     <p>The following variation can be read in EI31_34 = Dasgoba plates of rajaraja III, Saka 1120, lines 146-147, <bibl><ptr target="bib:Sircar+RathaSarma1955-1956_01"/></bibl> (<bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">195</citedRange></bibl> quotes this reference as a variation of BEst_0128 but this is a mistake):</p>
                       <lg met="anuṣṭubh">
             <l n="a">mā bhūd a-phala-śaṅkā te</l>
             <l n="b">para-datteti pārthiva</l>
@@ -2971,7 +2970,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         </lg>
                  </div>
                      </div>            
-            <div xml:id="best_0086">
+            <div xml:id="BEst_0086">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mad-dāna-phala-siddhy-arthaṁ</l>
@@ -2986,7 +2985,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 <div type="notes">
                <!--      <note>6. Ep. Ind., Vol. XXVIII, p. 311, text lines 10-11; p. 257. This stanza is
                 generally found in the grants of the Imperial Gaṅgas of Orissa. Sometimes we have
-                bhūmeḥ for bhūpaiḥ.</note>See also EI31_19 p. 128 line 206-207 ; EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEST) best_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90 -->
+                bhūmeḥ for bhūpaiḥ.</note>See also EI31_19 p. 128 line 206-207 ; EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEST) BEst_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90 -->
                 </div>
                 <div type="inscriptions">
                     <p>See the following inscriptions:
@@ -3001,7 +3000,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>      
            <!--  <pb n="189"/>-->
-            <div xml:id="best_0087">
+            <div xml:id="BEst_0087">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mad-dattaṁ sad-dvijātibhyo</l>
@@ -3020,7 +3019,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>
-            <div xml:id="best_0088">
+            <div xml:id="BEst_0088">
                 <div type="text">
                     <lg met="vasantamālikā"><!-- vasantamālikā with errors  -->
                         <l n="a">madhu-kaiṭabha-dānavendra-medaḥ</l>
@@ -3040,7 +3039,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p><bibl><ptr target="bib:Narasimhachar1913_01"/></bibl> is the first to indicate this verse as a formulaic stanza (quoted in an inscription dated A.D.1521 recorded in <title>Archaeological Survey Of Mysore Annual Report: 1912</title> Vol.4, paragraph 108, pp.91-92, and published in <title>Epigraphia Carnatica</title>, vol.III, Tirumakūḍlu-narasīpūr Taluq 44, See <bibl><ptr target="bib:Settar1912_01"/></bibl>)<!-- not found -->. <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">188</citedRange></bibl> reproduced all the information given by his predecessor. In Murāri's work, the stanza is attributed to the sage Vasiṣṭha.</p>
                 </div>
             </div>
-            <div xml:id="best_0089">
+            <div xml:id="BEst_0089">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">mad-vaṁśajāḥ para-mahīpati-vaṁśajā vā</l>
@@ -3054,7 +3053,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
                 <div type="variation">
                      <p>A variation is legible in  <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref>, verse 11,  as follows: 
-                        <lg met="vasantatilakā"><!-- variation of best_0089 -->
+                        <lg met="vasantatilakā"><!-- variation of BEst_0089 -->
                     <l n="a">mad-vaṁśajā vānya-kulodbhavā vā <g type="danda">.</g></l> 
                     <l n="b">rakṣanti ye dharmmam imaṁ nṛipālāḥ <g type="danda">.</g></l>
                     <l n="c">teṣan tu nityaṁ sa harir ddadātu<g type="danda">.</g></l> 
@@ -3062,7 +3061,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
 </lg></p>
                 </div>
                 <div type="notes">
-                      <note>3 Ep. Ind., Vol. XXVIII, p. 312, text lines 17-18 <!-- EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEST) best_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90 -->. A modified form of the last
+                      <note>3 Ep. Ind., Vol. XXVIII, p. 312, text lines 17-18 <!-- EI28_48 (not yet encoded) date between 1378-1402 imperial ganag Narasimha IV predominent langugae oriya except for the stanza (9 usual stanzas followed by three new stanzas in line 18-23 whose content does not belong to BEst) BEst_0086 is the first stanza quoted no source introducing the verses ; 86 + 85 + 131+ 132_03 + 150v + 55 + 125 + 89 + 90 -->. A modified form of the last
                 three feet of the stanza reads : ye bhūmipāḥ satatam=ujjvaladharma-cittāḥ|
                 mad-dharmam=eva paripālanam=ācaranti tat-pādukā-dvayam=ahaṁ śirasā vahāmi(ibid.,
                 vol. XVI, p. 96, text lines 41-44) <!-- EI16_12.tif checked but not yet encoded : 40_01 + 128 + 132v + 89v -->. The second half is sometimes also given as :
@@ -3106,7 +3105,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    </list></p>
                 </div>
             </div>
-            <div xml:id="best_0089_01">
+            <div xml:id="BEst_0089v01">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">mad-vaṁśajāḥ para-mahīpati-vaṁśajā vā</l>
@@ -3126,7 +3125,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>    
             
-            <div xml:id="best_0090">
+            <div xml:id="BEst_0090">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mad-vaṁśe para-vaṁśe vā</l>
@@ -3206,7 +3205,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>If any king is born in this family anywhere in earth, I am beholden to him if what is given by me is preserved.</p>
                 </div>
             </div>   
-            <div xml:id="best_0091">
+            <div xml:id="BEst_0091">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mahatām api pāpānāṁ</l>
@@ -3222,7 +3221,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <note>5 Ep. Ind., Vol. XXVIII, p. 320, text line 13.</note><!-- checked see EI28_49 verse 12-13 are imprecatory date 1254 -->
                 </div>
             </div>
-            <div xml:id="best_0092">
+            <div xml:id="BEst_0092">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mā pārthiva kadācit tvaṁ</l>
@@ -3240,7 +3239,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 </div>
             </div>
            <!--  <pb n="190"/>-->
-            <div xml:id="best_0093">
+            <div xml:id="BEst_0093">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">mr̥tyor hi kiṅkarā daṇḍā</l>
@@ -3267,7 +3266,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </lg>
                 </div>
             </div>
-            <div xml:id="best_0094">
+            <div xml:id="BEst_0094">
                 <div type="text">
                     <lg met="anuṣṭubh"><!--  here I modified the text according to the original : Sircar corrected vāharet by vāparet + tau ca dvau by tau baddhau + tapyete by tapyate , see the encoded text INSIA14_CLIX -->
                         <l n="a">na dadāti pratiśrutaṁ</l> 
@@ -3290,10 +3289,10 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         <l n="c">sa baddho vāruṇaiḥ pāśais </l>
                         <l n="d">tapyate mṛtyu-śāsanāt</l>
                     </lg>
-                    <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">186</citedRange></bibl> quotes this verse as a variation of the stanza best_0064. </p>
+                    <p><bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">1</citedRange><citedRange unit="page">186</citedRange></bibl> quotes this verse as a variation of the stanza BEst_0064. </p>
                 </div>
             </div>
-          <div xml:id="best_0095">
+          <div xml:id="BEst_0095">
               <div type="text">
                   <lg met="anuṣṭubh">  
                         <l n="a">na hi bhūmi-pradānād vai</l>
@@ -3309,10 +3308,10 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                    <note>3. Ep. Ind., Vol. XVII, p. 303, verse 20.</note><!-- EI17_16-4.tif = INSPandya10002.xml  -->
               </div>
               <div type="inscriptions">
-                  <p>See <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref> (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>).</p>
+                  <p>See INSPandya10002 = <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref> (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>).</p>
               </div>
           </div>        
-          <div xml:id="best_0096">
+          <div xml:id="BEst_0096">
               <div type="text">
                   <lg met="anuṣṭubh">  
                       <l n="a">nāsti bhūmi-samaṁ dānaṁ</l>
@@ -3330,7 +3329,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                 attributes it to the Mahābhārata.</note>
               </div>
           </div>
-            <div xml:id="best_0097">
+            <div xml:id="BEst_0097">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">na tathā saphalā vidyā</l>
@@ -3357,7 +3356,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 24 to this stanza.</p>
                 </div>
             </div>
-           <div xml:id="best_0098">
+           <div xml:id="BEst_0098">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">na viṣaṁ viṣam ity āhur</l>
@@ -3440,7 +3439,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    
                </div>
            </div>
-            <div xml:id="best_0099">
+            <div xml:id="BEst_0099">
                 <div type="text">
                     <lg met="upendravajrā">
                         <l n="a">niśamya doṣaṁ haraṇe mahāntaṁ</l>
@@ -3461,7 +3460,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
             </div>           
 <!--    
             <pb n="191"/> -->
-            <div xml:id="best_0100">
+            <div xml:id="BEst_0100">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">nyāyenopārjitā bhūmir</l>
@@ -3497,7 +3496,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     </list></p>
                 </div>
             </div>
-           <div xml:id="best_0101">
+           <div xml:id="BEst_0101">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">pālanāt paramo dharmaḥ</l>
@@ -3521,7 +3520,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                </div>
            </div>
            
-            <div xml:id="best_0102">
+            <div xml:id="BEst_0102">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">pāpaṁ nirmoka-vat tyaktvā</l>
@@ -3540,7 +3539,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <note>3. Ep. Ind., Vol. XII, p. 234, lines 33-34.<!--  typo in Sircar's list : the correct reference is EI12_36-a p. 324 lines 33-34 ; it is a bhanja cp ; the baudh grant of raṇabhañjadeva the 54th year  --></note>
                 </div>
             </div>         
-           <div xml:id="best_0103">
+           <div xml:id="BEst_0103">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">para-dattāṁ tu yo bhūmim</l>
@@ -3580,10 +3579,10 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                         <l n="d">kṣipyate pūya-śoṇite</l>
                     </lg>
                    <p>Who would give back a gift of land after having accepted it or would take it back after having given it, bound by Vāruṇa's lace he will be thrown into purulent blood.</p>
-                   <p>This variation is very close to best_0094.</p>
+                   <p>This variation is very close to BEst_0094.</p>
                </div>
            </div>
-           <div xml:id="best_0104">
+           <div xml:id="BEst_0104">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">paratra saṁvalaṁ divyaṁ</l>
@@ -3599,7 +3598,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    <note>5. Ind. Ant., Vol. XII, p. 121, text lines 42-43.</note><!-- checked but not encoded ; yadava copperplate  -->
                </div>
            </div>
-            <div xml:id="best_0105">
+            <div xml:id="BEst_0105">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">patanty aśrūṇi rudatāṁ</l>
@@ -3616,7 +3615,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 Ep.Ind., Vol. VII, p. 97, text lines 33-34 <!-- EI 7 p 97 does not match with this?  -->.</note>
                 </div>
             </div>
-            <div xml:id="best_0106">
+            <div xml:id="BEst_0106">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">phāla-kr̥ṣṭāṁ mahīṁ dadyāt</l>
@@ -3665,7 +3664,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     </list></p>
                 </div>
             </div>
-           <div xml:id="best_0107">
+           <div xml:id="BEst_0107">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">phalasya kathito dharmaḥ</l>
@@ -3683,7 +3682,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
            </div>          
           <!--             
             <pb n="192"/>-->
-            <div xml:id="best_0108">
+            <div xml:id="BEst_0108">
                 <div type="text">
                     <lg met="indravajrā">
                         <l n="a">prajā-hitārthaṁ sthitayaḥ praṇītā</l>
@@ -3702,7 +3701,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>
-            <div xml:id="best_0109">
+            <div xml:id="BEst_0109">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">prāpsyase vipulān bhogān</l>
@@ -3726,7 +3725,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 </div>
             </div>
            <!--  -->
-           <div xml:id="best_0110">
+           <div xml:id="BEst_0110">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">prasr̥tyāsampradānena</l>
@@ -3742,7 +3741,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    <note>3. Ind. Ant., Vol. XII, p. 252.</note><!-- checked but not encoded IAXII_133 https://archive.org/details/TheIndianAntiquaryVolXII/page/n289/mode/2up inscripton of Govinda 5 dated saka 855 (933-934 AD) -->
                </div>
            </div>
-            <div xml:id="best_0111">
+            <div xml:id="BEst_0111">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">prāyeṇa hi narendrāṇāṁ</l>
@@ -3752,7 +3751,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">We know that generally there is no virtuous path for kings, but they always purify themselves by offering land.</p><!-- Willis 2009_01 p 87 fleet's translation : "As a rule, indeed, no auspicious condition is experienced by kings, but they are purified forever when they bestow land" from Uccakalpa plates dated 533-534 (131v - 111 - 23 - 123 - 132 ) source of authority vyasa vedavyasa parasarasuta + mabh satasahasrya samhita " CII 3 1888 p 137 lines 27-29 -->
+                    <p rend="stanza">We know that generally there is no virtuous path for kings, but they always purify themselves by offering land.</p><!-- Willis 2009_01 p 87 fleet's translation : "As a rule, indeed, no auspicious condition is experienced by kings, but they are purified forever when they BEstow land" from Uccakalpa plates dated 533-534 (131v - 111 - 23 - 123 - 132 ) source of authority vyasa vedavyasa parasarasuta + mabh satasahasrya samhita " CII 3 1888 p 137 lines 27-29 -->
                 </div>
                 <div type="notes">
                     <note>4. CII, Vol. III, p. 119, text lines 16-17; p. 122, text lines 17-18; p. 128, text
@@ -3763,7 +3762,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
 <!-- Levi1908 refers to Jayanātha 174 177 Śarvanātha 193 197 214 -->
                 </div>
             </div>
-           <div xml:id="best_0112">
+           <div xml:id="BEst_0112">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">pr̥thivyā dīyamānāyā</l>
@@ -3779,7 +3778,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    <note>5. Ep. Carn., Vol. XV, Arkalgud No. 106.</note>
                </div>
            </div>       
-           <div xml:id="best_0113">
+           <div xml:id="BEst_0113">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">pūrvaiḥ pūrvataraiś caiva</l><!-- typo in Sircar it is written purvaiḥ without the long u  -->
@@ -3801,7 +3800,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">124</citedRange><citedRange unit="item">9bis</citedRange></bibl>, who refers to Kumāraviṣṇu. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 24 to this stanza in his list. </p>
                </div>
            </div>   
-            <div xml:id="best_0114">
+            <div xml:id="BEst_0114">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">ratnānna-pāna-goṣṭhādyaṁ</l>
@@ -3817,7 +3816,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <note>7. Ind. Ant., Vol. XII, p. 121.</note><!-- checked but not yet encoded yadava inscriptions quoted for other stanzas ; https://archive.org/details/TheIndianAntiquaryVolXII/page/n133/mode/2up  -->
                 </div>
             </div>
-           <div xml:id="best_0115">
+           <div xml:id="BEst_0115">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">ṣaḍaśīti-sahasrāṇāṁ</l>
@@ -3835,7 +3834,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 the second and attributes the stanza to the Dāna-Br̥haspati.</note><!-- checked but not yet encoded EI4_26.tif here pada c reads as follows : aho punyāya kātyaya  -->
                </div>
            </div>
-           <div xml:id="best_0116">
+           <div xml:id="BEst_0116">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">sadyo-dānaṁ nirāyāsaṁ</l>
@@ -3864,7 +3863,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                </div>
            </div>          
            <!-- <pb n="193"/> -->
-            <div xml:id="best_0117">
+            <div xml:id="BEst_0117">
                 <div type="text">
                     <lg met="śālinī">
                     <l n="a">sāmānyo 'yaṁ dharma-setur nr̥pāṇāṁ</l>
@@ -3985,8 +3984,9 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                         <!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038 981 AD -->
                         </p>
                 </div>
+                
             </div>
-            <div xml:id="best_0117_01">
+            <div xml:id="BEst_0117v01">
                 <div type="text">
                     <lg met="śālinī">
                     <l n="a">sāmānyo 'yaṁ dharma-setur nr̥pāṇāṁ</l>
@@ -4002,7 +4002,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p>Ekallahāra Grant of Trilocanapāla, śaka 972 (1050 CE), Gujarat, lines 53-54 (see <bibl><ptr target="bib:Sircar1965-1966_01"/></bibl>, not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</p>
                 </div>
             </div>
-            <div xml:id="best_0117_02">
+            <div xml:id="BEst_0117v02">
                 <div type="text">
                     <lg met="śālinī">
                       <l n="a">dattvā bhūmiṁ bhāvinaḥ pārthivendrān</l>
@@ -4022,10 +4022,11 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                         </list></p>
                 </div>
             </div>
-            <div xml:id="best_0118">
+            <div xml:id="BEst_0118">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sāmānyo 'yaṁ dharma-setuḥ</l>
+                        <l n="b">sarveṣām iha bhūbhujām</l>
                         <l n="c">yato 'taḥ pālanīyo 'yaṁ</l>
                         <l n="d">kāle kāle mahātmabhiḥ</l>
                     </lg>
@@ -4033,11 +4034,20 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 <div type="translation" resp="part:amwb">
                     <p rend="stanza">This bridge of <foreign>dharma</foreign> is common to all the kings on earth, so that it should always be protected by the noble lords.</p>
                 </div>
+                <div type="occurences">
+                    <p>I found a variation of the verse in the <title>Bhṛgusaṁhitā</title> 35.598, a text of the Vaikhanasa-tradition (GRETIL):</p> 
+                    <lg met="anuṣṭubh">
+                        <l>dharmasetumimaṃ vindyāt</l>
+                        <l>sarvasādhāraṇaṃ naraḥ</l>
+                        <l>pālanīyassadā so 'yaṃ</l>
+                        <l>jagatāṃ yatra saṃsthitiḥ</l>
+                    </lg>
+                </div>
                 <div type="notes">
                      <note>2. Ind. Ant., Vol. XII, p. 186. See No. 117.</note><!-- IAXII_186 https://archive.org/details/TheIndianAntiquaryVolXII/page/n207/mode/2up -->
                 </div>
             </div>
-            <div xml:id="best_0119">
+            <div xml:id="BEst_0119">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
@@ -4047,7 +4057,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
-                    <p rend="stanza">A conch, a throne, an umbrella, the best horses and elephants are the flowers of land-donation, its fruit is the sky, o destroyer of strongholds!</p>
+                    <p rend="stanza">A conch, a throne, an umbrella, the BEst horses and elephants are the flowers of land-donation, its fruit is the sky, o destroyer of strongholds!</p>
                 </div>
                 <div type="variation">
                     <l>Siṁhāsanaṁ tathā chatraṁ, etc. See No 119, note. </l>
@@ -4097,7 +4107,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                         <l n="d">phalaṁ svargaḥ puraṃdara</l>
                     </lg>
                     <p>A variation of this stanza is found in <ref target="DHARMA_INSEI19_34">Amoda plates of the Haihaya King Jajalladeva of the (Cedi) year 912</ref> (<bibl><ptr target="bib:HiraLal1927-1928_01"/></bibl>):</p>
-                    <lg met="anuṣṭubh" n="20"><!-- best_0119 -->
+                    <lg met="anuṣṭubh" n="20"><!-- BEst_0119 -->
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
                         <l n="b">gajāśvā va<choice><sic>v</sic><corr>r</corr></choice>a-vāha<unclear>na</unclear>M</l>
                         <l n="c">bhūmi-dānasya cihnāṇi</l>
@@ -4115,7 +4125,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     </list></p>
                 </div>
             </div>
-            <div xml:id="best_0119_01">
+            <div xml:id="BEst_0119v01">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">dhavalāny ātapatrāṇi</l>
@@ -4128,14 +4138,14 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p rend="stanza">Beautiful umbrellas and haugty rutting elephants are the sacred deeds of land-donation, its fruit is the sky, o destroyer of strongholds!</p>
                 </div>
                 <div type="bibliography">
-                    <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 41 to this stanza in his list, while <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">193</citedRange></bibl> quotes this verse only as a variation of the previous one (best_0119).</p>
+                    <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 41 to this stanza in his list, while <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">193</citedRange></bibl> quotes this verse only as a variation of the previous one (BEst_0119).</p>
                 </div>
                 <div type="inscriptions">
                     <p>See Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922, with a slight variation on pāda c (puṣpāṇi instead of puṇyāni) <bibl><ptr target="bib:Kielhorn1894_02"/><citedRange unit="page">219</citedRange></bibl>, lines 60-61, reference already given by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl>. In this inscription, the verse is attributed to several sages: Pāraśara, Vatsa, Kutsa, Aṅgiras, Gautama, Manu and Yājñavalkya (line 62 iti pāraśaravatsakutsāṅgarasagautamamanuyājñavalkyamunivacanānyavadhārya mayā dṛḍhataraviraktabuddhyā mātāpitrorātmanaśca śreyorthinā hi brāhmaṇānāṁ gramo dattaḥ) </p><!--  Kane1941_01 quotes EI2_XV see lines 60-61 in this inscriptions there are stanzas from line 56 to 61, from 88 to 110 with several authorships -->
                 </div>
             </div>
           <!--  <pb n="194"/> -->
-            <div xml:id="best_0120">
+            <div xml:id="BEst_0120">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sarvaṁ ca bhūmi-haraṇād</l>
@@ -4151,7 +4161,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                      <note>1. Ind. Ant., Vol. XII. p. 121.</note><!-- see stanza 114 same source -->
                 </div>
             </div>       
-            <div xml:id="best_0121">
+            <div xml:id="BEst_0121">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sarveṣām eva dānānām</l>
@@ -4181,7 +4191,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     </list></p>
                 </div>
             </div>
-            <div xml:id="best_0122">
+            <div xml:id="BEst_0122">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sarveṣāṁ tu pradānānāṁ</l>
@@ -4197,7 +4207,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <note>3. Ep. Ind., Vol. XII, p. 324, text lines 32.</note><!-- checked EI12_36-a.tif ranabhanja orissa -->
                 </div>
             </div>                     
-           <div xml:id="best_0123">
+           <div xml:id="BEst_0123">
                <div type="text"> 
                <lg met="anuṣṭubh">
                    <l n="a">saṣṭiṁ varṣa–sahasrāṇi</l>
@@ -4266,7 +4276,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    <list>
                        <item><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>)</item>
                        <item><ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 20-21</item>
-                       <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for best_0030</item>
+                       <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for BEst_0030</item>
                        <item><ref target="INSEIAD00185.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh)</item>
                        <item><ref target="INSEIAD00186.xml">Copper plates from Godavari district (set II) — reign of Pr̥thivīśrīmūla</ref> (period 400-600 CE, Andhra Pradesh)</item>
                        <item><ref target="INSEIAD00187.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref> (period 400-600 CE, Andhra Pradesh) with <foreign>svargge krīḍati bhūmidaḥ</foreign> in pāda b</item>
@@ -4276,7 +4286,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    </p>
                </div>
                <div type="occurences">
-                   <p>Aparārka (<title>Ācārādhyāya</title> commentary on the <title>Yājñavalkya-dharmaśāstra</title>) quotes twice the stanza best_0123 (book 1, p. 369 and p. 370). The first time, it is attributed to the <title>Viṣṇudharma</title>, while the second time it is assigned to the <title>Ādityapurāṇa</title>.</p>
+                   <p>Aparārka (<title>Ācārādhyāya</title> commentary on the <title>Yājñavalkya-dharmaśāstra</title>) quotes twice the stanza BEst_0123 (book 1, p. 369 and p. 370). The first time, it is attributed to the <title>Viṣṇudharma</title>, while the second time it is assigned to the <title>Ādityapurāṇa</title>.</p>
                    <p>The stanza is quoted by Viśvarūpa in his <title>Bālakrīda</title> (early 9th century according to <bibl><ptr target="bib:Olivelle2020_01"/></bibl> as an instance of exhortation, when he comments the compound <foreign>dānācchedopavarṇanam</foreign> used in 1.315 of the <title>Yājñavalakyasmṛti</title>. He introduced it by the words<foreign> tato dānācchedam upavarṇya | etad dānaphalam, etad ācchedanaphalaṃ</foreign>. </p>
                    <p>Revākhaṇḍa of the <title>Skandapurāṇa</title> 142.66 (GRETIL):</p>
                    <lg met="anuṣṭubh">
@@ -4317,7 +4327,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                    <!-- Also quoted in the Vaakaa.taka grants of Pravarasena II (circa 419-455 ) seee fleet CII 3 1888 p 247 lines 39-41 and mirashi cii 5 1963 p 29 + CP of prabhaavatiiguptaa (deccan 5 th century) mirashi cii 5 1963 p 7-8 and 35-37 + CP of Dahrasena dated 456-457 CE southern Raajasthaan hultzsch "pardi plates of Dahrasena" p 51-54 mirashi cii 4 1955 1 p 24 -->
                </div>
            </div>
-            <div xml:id="best_0124">
+            <div xml:id="BEst_0124">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">śatam indu-kṣaye dānaṁ</l>
@@ -4333,7 +4343,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                 150. Hemādri assigns it to Yājñavalkya (op. cit., p. 75).</note></div><!-- checked see EI32_5_2  -->
             </div>
            <!-- <pb n="195"/> -->
-            <div xml:id="best_0125">
+            <div xml:id="BEst_0125">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">śatruṇāpi kr̥to dharmaḥ</l>
@@ -4355,7 +4365,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                     <note>1. Ep. Ind., Vol. XXVIII. p. 312, text line 16; p. 258 (manīṣibhiḥ for mahīpate).</note><!-- checked but not yet encoded EI28_48 Imperial Eastern Ganga monarch Narasimha IV 1378-1402 CE verses in sanskrit prose in Oriya  see also EI31_19 lines 210-211 p.128 -->
                 </div>
             </div>    
-            <div xml:id="best_0126">
+            <div xml:id="BEst_0126">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">satyaṁ yajña-hutaṁ caiva</l>
@@ -4394,7 +4404,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                 (verse 41) with ardh-āṅgulasya (need to check). </p>
                 </div>
             </div>
-            <div xml:id="best_0127">
+            <div xml:id="BEst_0127">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sauvarṇā yatra prāsādā</l>
@@ -4426,7 +4436,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                     </list></p>
                 </div>
             </div> 
-            <div xml:id="best_0128">
+            <div xml:id="BEst_0128">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattād dvi-guṇaṁ puṇyaṁ</l>
@@ -4453,7 +4463,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                 </div>
                 <div type="notes">
                     <note>4. Ep. Ind., vol. XVI. text lines 75-77 ; p. 318 <!-- it seems to be EI16_23.tif but the stanza is not in this inscription mistake? typo?    -->. Sometimes we have adhikaṁ for
-                dvi-gunaṁ (ibid., Vol. XXXI. p. 261, text lines 147 <!-- = EI31_34.tif  orissa 1198-1199; this reference is wrong because the verse matches best_0085 -->). This is followed by the stanza
+                dvi-gunaṁ (ibid., Vol. XXXI. p. 261, text lines 147 <!-- = EI31_34.tif  orissa 1198-1199; this reference is wrong because the verse matches BEst_0085 -->). This is followed by the stanza
                 : Kharo dvādaśa janmāni aṣṭa janmāni śūkaraḥ|śvā tu saptati-janmāni ity=evaṁ
                 Manur=avravīt || in Ep. Carn, Vol. XII, Gb. No. 34.</note>
                     <!-- I found two padas of this verse here : Bhrgu-Samhita<BR>
@@ -4461,7 +4471,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                     svadattāddviguṇaṃ puṇyaṃ paradattānupālanam  // BhS_35.170 //<BR>-->
                 </div>
             </div>   
-            <div xml:id="best_0129">
+            <div xml:id="BEst_0129">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4485,7 +4495,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                     Any property profiteer who steals what has been given by himself or others to a Brahmin or a god will be born in an abusive condition for millions and millions of years.</note>
                 </div>
             </div>
-           <div xml:id="best_0130">
+           <div xml:id="BEst_0130">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4502,7 +4512,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                </div>
            </div>
            <!-- <pb n="196"/>-->                       
-        <div xml:id="best_0131">
+        <div xml:id="BEst_0131">
             <div type="text">
                 <lg met="anuṣṭubh">
                     <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4522,7 +4532,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
             <div type="inscriptions">
                 <p>See the following inscriptions:
                     <list>
-                        <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for best_0030</item>
+                        <item><ref target="INSDaksinaKosala0002.xml">Boṇḍā Plates of Tīvaradeva, Year 5</ref>, not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> while he uses this reference for BEst_0030</item>
                     </list>
                 </p>
                 
@@ -4577,7 +4587,7 @@ svadattā paradattā vā yatnādrakṣyā yudhiṣṭhira  /
 mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 -->
             
-          <div xml:id="best_0131_01">
+          <div xml:id="BEst_0131v01">
                     <div type="text">
                         <lg met="anuṣṭubh">
                     <l n="a">pūrva–dattāṁ dvijātibhyo</l>
@@ -4634,7 +4644,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 </p>
                      </div>
         </div>                        
-         <div xml:id="best_0132_00">
+         <div xml:id="BEst_0132v00">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4649,8 +4659,8 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 <div type="variation">
                     <l>sarva-sasya–samr̥ddhāṁ, etc. See No. 132, note. </l>
                     <l>Aṅgam=ekam, etc. See No. 132, note. </l>
-                    <p>This verse is found with several variations in the epigraphical records. Below the standard stanza edited by <bibl><ptr target="bib:Sircar1965_03"/></bibl> (numbered here best_132_00), I have listed all the major variations and have numbered them with an extented number. Each of these major variations can present minor variations. Below are the minor variations of the verse 132_00. </p>
-                 <p>The verse 132_00 is found with a regular variation on the pāda c: <foreign>sva-viṣṭhāyāṁ</foreign> or <foreign>śva-viṣṭhāyāṁ</foreign> instead of <foreign>sa viṣṭhāyāṁ</foreign> : see for example <ref target="INSCIK00055.xml">Stela from Kdei Ang (K. 55), 6th century Śaka</ref>; lines 7-8.</p> 
+                    <p>This verse is found with several variations in the epigraphical records. Below the standard stanza edited by <bibl><ptr target="bib:Sircar1965_03"/></bibl> (numbered here BEst_132_00), I have listed all the major variations and have numbered them with an extented number. Each of these major variations can present minor variations. Below are the minor variations of the verse 132_00. </p>
+                 <p>The verse 132v00 is found with a regular variation on the pāda c: <foreign>sva-viṣṭhāyāṁ</foreign> or <foreign>śva-viṣṭhāyāṁ</foreign> instead of <foreign>sa viṣṭhāyāṁ</foreign> : see for example <ref target="INSCIK00055.xml">Stela from Kdei Ang (K. 55), 6th century Śaka</ref>; lines 7-8.</p> 
                  <p>For the <foreign>sva-viṣṭhāyāṁ</foreign> variation, see the <ref target="DHARMA_INSSiddham00131.xml">Ghagrahati Charter of the Time of Samācāradeva, Year 14</ref>:</p>
                  <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4730,17 +4740,17 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 vipacyate</foreign>—–ibid., p. 30, line 16; or <foreign>ghore tamasi vartate</foreign>—Ep. Ind., Vol. XIV, p.
                 335, verse 90<!-- Rice1917-1918_01 -->), or <foreign>tena jātā janayitā narake pātitā dhruvam</foreign> (Ep.Ind., Vol. XII, p.
                 203), or <foreign>śvāna-yoni-śataṁ gatvā Cāṇḍāleṣu Abhijāyate</foreign> (ibid., Vol. XX, p. 128, text
-                line 21 <!-- best_0132_06 -->), or <foreign>narakān na nivartante yāvac candra-divākarau</foreign>(Ep. Carn., Vol. VIII, Sb.
-                No. 477<!-- best_0132_07 -->),or <foreign>sa rūpī kula-saṁyuktaḥ kalpāntaṁ narakaṁ vrajet</foreign> (ibid., Vol. X, Malur
+                line 21 <!-- BEst_0132_06 -->), or <foreign>narakān na nivartante yāvac candra-divākarau</foreign>(Ep. Carn., Vol. VIII, Sb.
+                No. 477<!-- BEst_0132_07 -->),or <foreign>sa rūpī kula-saṁyuktaḥ kalpāntaṁ narakaṁ vrajet</foreign> (ibid., Vol. X, Malur
                 No. 57 <!-- not found -->), or n<foreign>a tasya narakād ghorād vidyate niṣkr̥tiḥ kvacit</foreign> (Ep. Ind., Vol. XVII,
-                p. 304, verse 10 <!-- best_0132_08 -->), or<foreign> kapilā-śata-ghātīnām | enasā pratipadyate </foreign>(ibid., Vol. XXXIII.
-                p. 213, v.5 <!-- Sircar+Sankaranarayanan1959-1960_01 best_0132_09 -->). For <foreign>brahma-vr̥ttiṁ haret tu yaḥ</foreign> (<foreign>hareta yaḥ</foreign>—Ind. Ant., Vol. II. p. 159)
+                p. 304, verse 10 <!-- BEst_0132_08 -->), or<foreign> kapilā-śata-ghātīnām | enasā pratipadyate </foreign>(ibid., Vol. XXXIII.
+                p. 213, v.5 <!-- Sircar+Sankaranarayanan1959-1960_01 BEst_0132_09 -->). For <foreign>brahma-vr̥ttiṁ haret tu yaḥ</foreign> (<foreign>hareta yaḥ</foreign>—Ind. Ant., Vol. II. p. 159)
                 in the second foot, see Chhabra, Antiquities of Chamba State, II, p. 178. we have
                 also <foreign>Aṅgam ekaṁ padam ekaṁ </foreign>in the first foot and <foreign>divyaṁ varṣa-sahasrāṇi jāyate
-                brahmarākṣaṣaḥ</foreign> in the second half (Ep. Ind., Vol. XXIII, p. 143, text lines 12-13<!-- best_0132_10 -->).
+                brahmarākṣaṣaḥ</foreign> in the second half (Ep. Ind., Vol. XXIII, p. 143, text lines 12-13<!-- BEst_0132_10 -->).
                 For <foreign>divyaṁ varṣa-sahasraṇi</foreign> in the third foot, see also Ind. Ant., Vol. XII, p. 121.
                 The second half is sometimes given as : <foreign>ākṣeptā cānumantā ca sarvathā narakaṁ
-                vrajet</foreign> (Ep. Ind., Vol.XVII, p. 337, text line 13<!-- best_0132_11 -->). In the Tan Kran (Cambodia)
+                vrajet</foreign> (Ep. Ind., Vol.XVII, p. 337, text line 13<!-- BEst_0132_11 -->). In the Tan Kran (Cambodia)
                 inscription of about the 7th century A.D., we have the second half as : <foreign>Avīci-narake
                 yāti pitr̥bhiḥ saha bandhubhiḥ</foreign> (R. C. Majumdar, Inscriptions of Kambuja, p. 50). The
                 stanza occurs in the <title>PadmaPurāṇa</title>, op. cit., verses 28-29 (with <foreign>haret tu</foreign> and
@@ -4757,7 +4767,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     Aparārka p 370 from āditya purāṇa  gupta inscriptions n 23 qnd n 26 p 119  IA VI p363 EI VI p45 EI XIII p 270 qnd 233 Padmapurāna VI 33 26-30-->                   
                 </div>
               <div type="bibliography">
-                       <p>This verse was already quoted as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>, but with one of the major variation quoted below (i.e. best_0123_02). Best_132_00 was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">24</citedRange></bibl>. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">250</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 4 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. He quotes it with the following reading (pāda d):</p>
+                       <p>This verse was already quoted as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>, but with one of the major variation quoted below (i.e. BEst_0123v02). BEst_132v00 was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">24</citedRange></bibl>. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">250</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 4 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. He quotes it with the following reading (pāda d):</p>
                   <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
@@ -4804,7 +4814,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
              </div>
            </div>
-            <div xml:id="best_0132_01">
+            <div xml:id="BEst_0132v01">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4824,7 +4834,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="c">gavāṁ śata-sahasrasya</l>
                         <l n="d">hantuḥ prāpnoti kilbiṣam</l>
                     </lg>
-                    <p> <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange></bibl> quotes this reading <foreign>hantuḥ prāpnoti kilbiṣaṃ</foreign> as an usual variation of best_0132_00.</p>
+                    <p> <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange></bibl> quotes this reading <foreign>hantuḥ prāpnoti kilbiṣaṃ</foreign> as an usual variation of BEst_0132v00.</p>
                 </div>
                 <div type="inscriptions">
                     <p>Sircar's reference : <bibl><ptr target="bib:Narasimhaswami1955-1956_01"/></bibl> which corresponds to <ref target="DHARMA_INSVengiCalukya00013.xml">Koṇeki grant of Viṣṇuvardhana II</ref>
@@ -4843,7 +4853,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </p>
                 </div>            
             </div>
-            <div xml:id="best_0132_02">
+            <div xml:id="BEst_0132v02">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4866,7 +4876,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </list></p>
                 </div>
             </div>
-           <div xml:id="best_0132_03">
+           <div xml:id="BEst_0132v03">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4879,7 +4889,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                    <p>He who would seize land, whether given by himself or by another, will be reborn as a worm in n excrement for sixty thousand years. </p>
                </div>
                <div type="variation">
-                   <p>The bibliographical reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl> is the Nirmand copper-plate inscription of the Mahasamata and Mahararaja Samudrasena (see <bibl><ptr target="bib:Fleet1888_03"/></bibl>). The verse is also quoted in the <ref target="DHARMA_INSEI4_25.xml">Chikkulla plates of Vikramendravarman</ref> with the following variation in the pāda d (which is not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, even though he quotes this record as the source for stanza best_0057):</p>
+                   <p>The bibliographical reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl> is the Nirmand copper-plate inscription of the Mahasamata and Mahararaja Samudrasena (see <bibl><ptr target="bib:Fleet1888_03"/></bibl>). The verse is also quoted in the <ref target="DHARMA_INSEI4_25.xml">Chikkulla plates of Vikramendravarman</ref> with the following variation in the pāda d (which is not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, even though he quotes this record as the source for stanza BEst_0057):</p>
                    <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
@@ -4942,7 +4952,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                    <p>This stanza is quoted by Lakṣmīdhara (<title>Gṛhasthakāṇḍa</title> of <title>Kṛtyakalapataru</title>, p. 317-318) and is there attributed to the <title>Dānabṛhaspati</title>. </p>
                </div>
            </div>
-            <div xml:id="best_0132_04">
+            <div xml:id="BEst_0132v04">
                 <div type="text">
                     <lg met="anuṣṭubh"> 
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4958,7 +4968,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p>This variation is not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, but it is found in one of the earliest records of the Śālaṅkāyana dynasty. This prakrit inscription contains two final stanzas in sanskrit (see <bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> and <ref target="DHARMA_INSEIAD00161.xml">Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year 14</ref> : in this inscription, a space precedes the sanskrit part of the inscription and the two stanzas are introduced by the word <foreign>bhavati cātra</foreign>). </p>
                 </div>
                 </div>
-           <div xml:id="best_0132_05">  
+           <div xml:id="BEst_0132v05">  
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dāttāṁ para-dattāṁ vā</l>
@@ -4972,7 +4982,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </p>
                 </div>
              </div>
-          <div xml:id="best_0132_06">
+          <div xml:id="BEst_0132v06">
                 <div type="text">
                    <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4985,7 +4995,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                   <p>The verse is quoted in the <ref target="DHARMA_INSEI12_23.xml">Hansot Plates of the Chahamana Bhartrivaddha, Samvat 813</ref>, lines 28-29 (see <bibl><ptr target="bib:Konow1913-1914_01"/></bibl>).</p>
               </div>
            </div>
-         <div xml:id="best_0132_07">
+         <div xml:id="BEst_0132v07">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -4998,7 +5008,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                  <p>This variation is quoted in a stone inscription of the Nīlakanṇṭha temple at Hechche, see Epigraphia Carnatica, volume VIII, Sb 477 (DHARMA ID: INSEC08Sb477). </p>
              </div>
             </div>
-            <div xml:id="best_0132_08">
+            <div xml:id="BEst_0132v08">
                 <div type="text">
                     <lg met="anuṣṭubh">
                          <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -5011,10 +5021,10 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p>To him that robs land given by himself or by others, there is no expiation anywhere except in the dreadful hell.</p>
                 </div>
                 <div type="notes">
-                    <p>See the <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>, verse 22 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>.</p>
+                    <p>See INSPandya10002 = <ref target="DHARMA_INSPandya10002.xml">Vēḷvikkuṭi Grant, time of Neṭuñcaṭaiyaṉ, year 3</ref>, verse 22 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>.</p>
                 </div>
             </div>
-           <div xml:id="best_0132_09">
+           <div xml:id="BEst_0132v09">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -5027,7 +5037,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                    <p>The verse is quoted in the <ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 22-23 (= <ref target="INSEI33_41.xml">Malga plates of Samanta Indraraja</ref>, lines 22-23; see <bibl><ptr target="bib:Sircar+Sankaranarayanan1959-1960_01"/></bibl>).</p>
                </div>
             </div>
-            <div xml:id="best_0132_10">
+            <div xml:id="BEst_0132v10">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Aṅgam ekaṁ padam</l>
@@ -5037,10 +5047,10 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                 <div type="notes">
-                    <p>This verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 11-13 (<bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) and is followed by a variation of best_0132_03. </p>
+                    <p>This verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 11-13 (<bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) and is followed by a variation of BEst_0132_03. </p>
                 </div>
             </div>
-            <div xml:id="best_0132_11">
+            <div xml:id="BEst_0132v11">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
@@ -5054,7 +5064,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 </div>
             
             </div>
-            <div xml:id="best_0132_12">
+            <div xml:id="BEst_0132v12">
                 <div type="text">
                     <lg met="">
                         <l n="a">sarva-śasya-samr̥ddhāṁ tu</l>
@@ -5080,7 +5090,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                                <item><ref target="DHARMA_INSSiddham00093.xml">Katni Charter of Jayanātha, year 182</ref> (<foreign>majjati</foreign> in pāda d)</item>
                            </list></p></div>
             </div>
-           <!--  <div xml:id="best_0132_13">
+           <!--  <div xml:id="BEst_0132_13">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -5090,7 +5100,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
             </div>
-            <div xml:id="best_0132_14">
+            <div xml:id="BEst_0132_14">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -5100,7 +5110,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
             </div>
-            <div xml:id="best_0132_15">
+            <div xml:id="BEst_0132_15">
                 <div type="text">
                     <lg met="">
                         <l n="a"></l>
@@ -5111,7 +5121,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 </div>
             </div>
                          <pb n="197"/> -->
-          <div xml:id="best_0133">
+          <div xml:id="BEst_0133">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattā putrikā dhātrī</l>
@@ -5160,7 +5170,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 vasundharā (ibid., Vol.X, Govibinur No. 3).</note><!-- not yet checked  -->
                 </div>
            </div>       
-           <div xml:id="best_0134">
+           <div xml:id="BEst_0134">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">svalpām api mahīṁ yas tu</l>
@@ -5176,7 +5186,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <note>2. Ep. Carn., Vol. XII, Si. No. 95 assigning the stanza to Āditya.</note><!-- not yet checked  -->
                 </div>
             </div>
-            <div xml:id="best_0135">
+            <div xml:id="BEst_0135">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">svaṁ dātuṁ sumahac chakyaṁ</l>
@@ -5210,7 +5220,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </list></p>
                 </div>
             </div>
-            <div xml:id="best_0136">
+            <div xml:id="BEst_0136">
                 <div type="text">
                     <lg met="puṣpitāgrā">
                         <l n="a">sva-sukr̥ta-paripālanāt prabhūṇāṁ</l>
@@ -5230,7 +5240,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>                      
-            <div xml:id="best_0137">
+            <div xml:id="BEst_0137">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">taḍāgānāṁ sahasreṇa</l>
@@ -5246,7 +5256,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <l>Saṣṭiṁ varṣa°, etc. See No. 137, note. </l>
                     <l>Taṭākānām, etc. See No. 137, note.</l>
                       <l>Vāpī-kūpa°, etc. See No. 137, note. </l><!-- see EI20_14a -->
-                    <l>Ārāmāṇāṁ sahasreṇa, etc. See No. 137, note. </l><!-- I noticed that a part of the note 2 p 198 (best_0139) actually refers to the stanza 0137 : EI 32 p 76 line 46 . It is a variation with grāsa hartā for bhūmi hartā -->
+                    <l>Ārāmāṇāṁ sahasreṇa, etc. See No. 137, note. </l><!-- I noticed that a part of the note 2 p 198 (BEst_0139) actually refers to the stanza 0137 : EI 32 p 76 line 46 . It is a variation with grāsa hartā for bhūmi hartā -->
                     <l>Aśvamedha-sahasreṇa, etc See No. 137, note. </l>
                 </div><!-- Lakṣmīdhara gṛhasthakāṇḍa p 317-318 dānabṛhaspati https://docs.google.com/document/d/1pbDnABNQ-j9aODuNqfYNFYK9jP8VGuUO6aRcT40gTVQ/edit?tab=t.0 -->
                 <div type="notes">
@@ -5293,7 +5303,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
             </div>
             <!--            
             <pb n="198"/>-->
-           <div xml:id="best_0138">
+           <div xml:id="BEst_0138">
                <div type="text">
                    <lg met="śikhariṇī">
                        <l n="a">taḍit-tulyā lakṣmīs tanur api ca dīpānala-samā</l>
@@ -5306,7 +5316,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">Fortune is like lightning, the body is also like a blazing fire, the existence ends with solely misery; for those who destroy the good acts performed by others there is no fame and in this world for those who protect them with effort the glory last as long as the moon and the stars last. Having this in mind, the kings should act as it is prescribed in the scriptures.   </p>
                 </div>
                <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0024, best_0035, best_0036, best_0071, best_0071_01, best_0141, best_0146, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                      </div>
                <div type="notes">
@@ -5316,7 +5326,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                </div>
            </div>
-           <div xml:id="best_0139">
+           <div xml:id="BEst_0139">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">tādr̥k-puṇyaṁ na dadatāṁ</l>
@@ -5339,7 +5349,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    <div type="inscriptions">
                        <p>See the verse VII, lines 28-29 of <ref target="DHARMA_INSVengiCalukya00001.xml">Sātārā plates of Viṣṇuvardhana I</ref>, reference already given by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">123</citedRange><citedRange unit="item">8</citedRange></bibl>.</p></div>
            </div>
-            <div xml:id="best_0140">
+            <div xml:id="BEst_0140">
                 <div type="text">
                     <lg met="āryā"><!-- not found  https://sanskritmetres.appspot.com/identify  -->
                         <l n="ab">tapati na tapanaḥ prakharo marud api no vāti śāsane tīvraḥ</l>
@@ -5356,7 +5366,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>          
-            <div xml:id="best_0141">
+            <div xml:id="BEst_0141">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">tr̥ṇāgra-jala-binduś ca</l>
@@ -5369,14 +5379,14 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">Knowing that life is a water-buble or like a drop of water on the tip of a blade of grass, one should not destroyed one's fame and <foreign>dharma</foreign>. </p>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0024, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0146, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0146, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                      </div>
                 <div type="notes">
                     <note>4. Ep.Ind., Vol. XII, p. 325, lines 38-40.</note><!-- checked but not yet encoded ranabhanja grant  EI12_36-a.tif -->
                 </div>
             </div>
-            <div xml:id="best_0142">
+            <div xml:id="BEst_0142">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">triṇy āhur ati-dānāni</l>
@@ -5414,7 +5424,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </list></p>
                 </div>
             </div>
-           <div xml:id="best_0143">
+           <div xml:id="BEst_0143">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">vācā dattaṁ mano-dattaṁ</l>
@@ -5443,7 +5453,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    </list></p>
                </div>
            </div>
-            <div xml:id="best_0144">
+            <div xml:id="BEst_0144">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">vahniṁ vahni–sutaṁ cāmbu</l>
@@ -5460,7 +5470,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </div>
             </div>       
           <!--  <pb n="199"/>-->
-            <div xml:id="best_0145">
+            <div xml:id="BEst_0145">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">vāridas tr̥ptim āpnoti</l>
@@ -5478,7 +5488,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <note>1. Ep. Ind., Vol. XXV, p. 219, verse 46.</note><!-- EI25_21_RAMA.tif -->
                 </div>
             </div>    
-            <div xml:id="best_0146">
+            <div xml:id="BEst_0146">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">vātābhra-vibhramam idaṁ vasudhādhipatyam</l>
@@ -5506,12 +5516,12 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 30 to this stanza in his list.</p>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0024, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0148, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0148, BEst_0182, BEst_0192. 
 </p>
                      </div>
                 
             </div>
-           <div xml:id="best_0147">
+           <div xml:id="BEst_0147">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">veda-vāk–smr̥tayo jihvā</l>
@@ -5528,7 +5538,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 Vol. XII, p. 325).</note><!-- checeked EI28_50 is not totally encoded and it corresponds to DHARMA_INSSomavamsin00035 + EI12_36a checked but not yet encoded -->               
                </div>
            </div>
-            <div xml:id="best_0148">
+            <div xml:id="BEst_0148">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">vidyud-vilāsa-taralām avagamya samyag</l>
@@ -5541,7 +5551,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p rend="stanza">Having understood that the the world stability is trembling like a lightning, with Your minds intensely attached to fame, rejoicing only and always in doing good for others, engaged in the propitiation of the <foreign>dharma</foreign>, You should approve [of this]. </p>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to best_0010, best_0019, best_0024, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0182, best_0192. 
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0182, BEst_0192. 
 </p>
                      </div>
                 <div type="notes">
@@ -5549,7 +5559,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 °moditavyā.</note><!-- checked see EI29_5_2 it is included between other stanzas under the autority of the Dharmasastra ; it is a sailodbhava grnts from banpur edited by sircar  -->
                 </div>
             </div>
-            <div xml:id="best_0149">
+            <div xml:id="BEst_0149">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a" enjamb="yes">vighnatāṁ bhartr̥-go-vipra</l>
@@ -5589,7 +5599,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
             </div>                       
-            <div xml:id="best_0150">
+            <div xml:id="BEst_0150">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">vindhyāṭavīṣv a-toyāsu</l> 
@@ -5681,7 +5691,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
             </div>
-            <div xml:id="best_0150_01">
+            <div xml:id="BEst_0150v01">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Apānīyeṣv araṇyeṣu</l> 
@@ -5710,7 +5720,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
             <!--
             <pb n="200"/>
             -->
-            <div xml:id="best_0151">
+            <div xml:id="BEst_0151">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yaḥ kriyāṁ dharma-saṁyutāṁ</l> 
@@ -5726,7 +5736,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <note>1. Ep. Ind., Vol. XXXI, pp. 92-93.</note><!-- checked but not yet encoded EI31_15.tif -->
                 </div>
             </div>     
-            <div xml:id="best_0152">
+            <div xml:id="BEst_0152">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yaḥ svayaṁ kurute dharmaṁ</l>
@@ -5742,7 +5752,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <note>2. Ep. Ind., Vol. VI. p. 343, verse 44.</note><!-- checked see EI6_35.tif : this set is written in sanskrit  with telugu script  -->
                 </div>
             </div>
-            <div xml:id="best_0153">
+            <div xml:id="BEst_0153">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">yair vāñchitaṁ śiśira-dīdhiti-śubhra-kīrter</l>
@@ -5768,7 +5778,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>
-            <div xml:id="best_0154">
+            <div xml:id="BEst_0154">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yajño 'nr̥tena kṣarati</l>
@@ -5784,7 +5794,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <note>4. Ep. Ind., Vol. XII, p. 325, line 38.</note><!-- checked but not yet encoded EI12_36-a.tif = baud grant of ranabhanjadeva the 54th year -->
                 </div>
             </div>
-            <div xml:id="best_0155">
+            <div xml:id="BEst_0155">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yathā candramaso vr̥ddhir</l>
@@ -5814,7 +5824,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>                
                 </div>
             </div>
-            <div xml:id="best_0156">
+            <div xml:id="BEst_0156">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yathā janitrī puṣṇāti</l>
@@ -5846,7 +5856,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 <p>see also 14,096.015d@004_1097</p>
             </div>
                 </div>
-            <div xml:id="best_0157">
+            <div xml:id="BEst_0157">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yathā nirohanty uptāni</l>
@@ -5878,7 +5888,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                 </div>
             </div>         
        <!--     <pb n="201"/>-->
-           <div xml:id="best_0158">
+           <div xml:id="BEst_0158">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">yathāpsu patitaḥ śakra</l>
@@ -5915,7 +5925,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                    </list></p>
                </div>
            </div>          
-            <div xml:id="best_0159">
+            <div xml:id="BEst_0159">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yat kiñcit kurute pāpaṁ</l> 
@@ -6002,7 +6012,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     </note>
                     </div>                                    
             </div>       
-            <div xml:id="best_0160">
+            <div xml:id="BEst_0160">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yāvad dattā bhaved bhumiḥ</l>
@@ -6026,7 +6036,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     </list></p>
                 </div>
             </div>
-           <div xml:id="best_0161">
+           <div xml:id="BEst_0161">
                <div type="text">
                    <lg met="anuṣṭubh">
                        <l n="a">yāvanti sasya-mūlāni</l>
@@ -6046,7 +6056,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                    <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1276</citedRange></bibl> attributes the number 33. </p>
                </div>
            </div>
-           <div xml:id="best_0162">
+           <div xml:id="BEst_0162">
                <div type="text">
                    <lg met="anuṣṭubh"> 
                        <l n="a">yāvat sūrya-saśāṅkau ca</l>
@@ -6062,7 +6072,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                    <note>5. Ind. Ant., Vol. XII, p. 121.</note>
                </div>
            </div>
-            <div xml:id="best_0163">
+            <div xml:id="BEst_0163">
                 <div type="text">
                     <lg met="indravajrā">
                         <l n="a">ye brāhmaṇānām ayathā haranti</l>
@@ -6075,13 +6085,13 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p rend="stanza">Those who steal even a small portion of the earth belonging to the Brahmins, they spend even ten millions of kalpas united with the ancestors in the pit of excrement, .</p>
                 </div>
                 <div type="notes">
-                    <note>6. Ep. Ind., Vol. XXII, p. 156, text lines 40-41.</note><!-- checked EI22_25.tif 10th century West Bengal two verses whose text is quite uncertain (but hte meaning is quite understandable) introduced a group of 5 stanzas best_29, best163 best132_00  best_23 best117 best 71 -->
+                    <note>6. Ep. Ind., Vol. XXII, p. 156, text lines 40-41.</note><!-- checked EI22_25.tif 10th century West Bengal two verses whose text is quite uncertain (but hte meaning is quite understandable) introduced a group of 5 stanzas best_29, BEst163 BEst132_00  BEst_23 BEst117 BEst 71 -->
                 </div>
                 <div type="bibliography">
                     <p>In his introduction, <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">3</citedRange><citedRange unit="page">174-175</citedRange></bibl> classifies this stanza as not a quotation but a stanza composed by a court poet.</p>
                 </div>
             </div>
-            <div xml:id="best_0164">
+            <div xml:id="BEst_0164">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">yo 'rcitaṁ pratigr̥hṇāti</l>
@@ -6103,7 +6113,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>See <ref target="DHARMA_INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 18-19 (see <bibl><ptr target="bib:Venis1894_01"/></bibl>). In this grant, the verses are introduced by the sentence: <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>.</p>
                 </div>
             </div>
-            <div xml:id="best_0165">
+            <div xml:id="BEst_0165">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">kharo dvādaśa janmāni</l>
@@ -6116,12 +6126,12 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p rend="stanza">Manu said: "He will be born twelve times as an ass, eight times as a hog, seventy times as a dog".</p>
                  </div>
                   <div type="inscriptions"> 
-                        <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of best_0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
+                        <p>This stanza is quoted by Sircar in the note of the stanza 128 but it seems to be a variation of BEst_0009. What is interesting here is that the authorship of the sentence is included in the stanza.  Source : Epigraphia Carnatica, XII, Gubbi Taluq, n°34, pp.42-44 : At Yiḍagūtru (Chiṭṭanahaḷḷi hobli) on a stone in the varadah of the Īśvara temple</p> </div>
                 <div type="notes">
                         <p>This verse is quoted only in note by Sircar (<bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">4</citedRange><citedRange unit="page">195</citedRange></bibl>).</p>
                     </div>
             </div>
-            <div xml:id="best_0166">
+            <div xml:id="BEst_0166">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">brāhmaṇo jāyamāno vai</l>
@@ -6140,7 +6150,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list.</p>
                     </div>
             </div>
-            <div xml:id="best_0167">
+            <div xml:id="BEst_0167">
                 <div type="text">
                     <lg met="anuṣṭubh">
                  <l n="a">nirvaśo nirdhano rogī</l> 
@@ -6159,7 +6169,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0168">
+            <div xml:id="BEst_0168">
                 <div type="text">
                     <lg met="anuṣṭubh">
                        <l n="a">tasya svaṁ harate yas tu</l>
@@ -6178,7 +6188,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0169">
+            <div xml:id="BEst_0169">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a" met="na-vipulā" real="+-++---+">dehi dehīti vādato</l>
@@ -6197,7 +6207,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0170">
+            <div xml:id="BEst_0170">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">Ādhi-vyādhi-parītāyev</l>
@@ -6216,7 +6226,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0171">
+            <div xml:id="BEst_0171">
                 <div type="text">
                     <lg met="upajāti">
                         <l n="a">Asyāsumanto haraṇaṁ haranti</l>
@@ -6235,7 +6245,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0172">
+            <div xml:id="BEst_0172">
                 <div type="text">
                      <lg met="vasantatilakā">
                  <l n="a">rakṣān naraḥ parakr̥tau vidadhīta vidvān</l>
@@ -6252,13 +6262,13 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>See EI17_16 = INSPandya10002 = <ref target="DHARMA_INSPandya10002.xml">Velvikudi Grant of Nedunjadaiyan, the third year of reign</ref>, lines 143-144 (<bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>). </p>
                 </div>
                 <div type="occurences">
-                    <p>Although the meanings of the stanzas differ, we can see that the figure of Dhātṛ is also referenced in stanza best_0056. Currently, this stanza is only cited in one epigraphic document.</p>
+                    <p>Although the meanings of the stanzas differ, we can see that the figure of Dhātṛ is also referenced in stanza BEst_0056. Currently, this stanza is only cited in one epigraphic document.</p>
                 </div>
                 <div type="notes">
                         <p>This verse does not belong to Sircar's list, because he considers it as a stanza composed by the court poet (see <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">175</citedRange></bibl>).  </p>
                 </div>
             </div>
-            <div xml:id="best_0173">
+            <div xml:id="BEst_0173">
                 <div type="text">
                     <lg met="anuṣṭubh">
                         <l n="a">pitaraḥ pitr̥-lokasthā</l>
@@ -6271,13 +6281,13 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p rend="stanza">The ancestors who reside in the Pitr̥loka and the gods who dwell in the Devaloka, fully satisfy the land-giver, O thou who are the best among born beings.</p>
                 </div>
                 <div type="inscriptions">
-                    <p>This verse is quoted as a parallel of the best_0004 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is <title>Epigraphia Indica</title>, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas c and d are found in the <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, lines 125-126 (= EI25_21, see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).</p>
+                    <p>This verse is quoted as a parallel of the BEst_0004 by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. The source he quotes is <title>Epigraphia Indica</title>, Vol XII, p. 97, lines 28-29, but there must be an error in this reference, since these pages reproduce tables on the planets and not the text of an inscription. The pādas c and d are found in the <ref target="DHARMA_INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref>, lines 125-126 (= EI25_21, see <bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>).</p>
                 </div>
                 <div type="bibliography">
-                        <p>This verse does not belong to Sircar's list, but <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">191</citedRange></bibl> mentions this verse as a variation of best_0004.</p>
+                        <p>This verse does not belong to Sircar's list, but <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">191</citedRange></bibl> mentions this verse as a variation of BEst_0004.</p>
                 </div>
             </div>
-                <div xml:id="best_0174">
+                <div xml:id="BEst_0174">
                     <div type="text">
                         <lg met="indravajrā">
                             <l n="a">yo vyakramed dāyam imaṁ nibaddhaṁ</l>
@@ -6296,7 +6306,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list. As it represents one of the oldest imprecative verse quoted in a copper plate (465-466 AD), it seems important to include it in this list even if I found no other quotation of it. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">862</citedRange></bibl> already mentioned this grant as one of the oldest record constaining an imprecatory stanza. </p>
                     </div>
                 </div>
-            <div xml:id="best_0175">
+            <div xml:id="BEst_0175">
                     <div type="text">
                         <lg met="anuṣṭubh">
 			                 <l n="a">Āgāminaḥ prajāpālān</l>
@@ -6312,10 +6322,10 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>See <ref target="DHARMA_INSPallava00155.xml">Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 8</ref> (<bibl><ptr target="bib:Hultzsch1896-1897_06"/></bibl>), lines 43-44, stanza XXIX. </p>
                     </div>
                     <div type="bibliography">
-                        <p>This verse does not belong to Sircar's list. Its content links it without doubt to the stanzas best_0117 and best_0118.</p>
+                        <p>This verse does not belong to Sircar's list. Its content links it without doubt to the stanzas BEst_0117 and BEst_0118.</p>
                     </div>
                 </div>       
-                <div xml:id="best_0176">
+                <div xml:id="BEst_0176">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">ye setūn abhirakṣanti</l>
@@ -6331,10 +6341,10 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>See IN01022 = DHARMA_INSSiddham01022 = <ref target="DHARMA_INSSiddham01022.xml">Halsi Grant of Harivarman, Year 5</ref>, <bibl><ptr target="bib:Fleet1870_01"/></bibl>, lines 15-16 between 500 and 515 CE, early Kadamba epigraphy.</p>
                     </div>
                     <div type="bibliography">
-                        <p>This verse does not belong to Sircar's list. The use of the word <foreign>setu</foreign> links it  to the stanza best_0117. The idea that protecting counts twice is also present in best_0128.</p>
+                        <p>This verse does not belong to Sircar's list. The use of the word <foreign>setu</foreign> links it  to the stanza BEst_0117. The idea that protecting counts twice is also present in BEst_0128.</p>
                     </div>
                 </div>
-             <div xml:id="best_0177">
+             <div xml:id="BEst_0177">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">rāgād drohāt pralobhād vā</l>
@@ -6347,13 +6357,13 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>Whether it be out of passion, cheating or greed, if a person steals something in the village, tainted by the five great sins, he will go to hell. </p>
                     </div>
                     <div type="inscriptions">
-                        <p>See <ref target="DHARMA_INSSiddham01003.xml">Kesaribedā Donation of Arthapati</ref> (<bibl><ptr target="bib:Sircar1949-1950_01"/></bibl>), lines 10-11, verse 1. These plates are dated from the sixth century by <bibl><ptr target="bib:Sircar1949-1950_01"/></bibl>.<!-- On the recto of the third plate, there are only two stanzas quoted this one and best_0123. the date and scribe are engraved on the verso of the third plate . --> </p>
+                        <p>See <ref target="DHARMA_INSSiddham01003.xml">Kesaribedā Donation of Arthapati</ref> (<bibl><ptr target="bib:Sircar1949-1950_01"/></bibl>), lines 10-11, verse 1. These plates are dated from the sixth century by <bibl><ptr target="bib:Sircar1949-1950_01"/></bibl>.<!-- On the recto of the third plate, there are only two stanzas quoted this one and BEst_0123. the date and scribe are engraved on the verso of the third plate . --> </p>
                     </div>
                     <div type="bibliography">
                         <p>This verse does not belong to Sircar's list.</p>
                     </div>
                 </div>
-          <div xml:id="best_0178">
+          <div xml:id="BEst_0178">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">nāsya devā na pitaro</l>
@@ -6372,7 +6382,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list.</p>
                     </div>
                 </div>
-            <div xml:id="best_0179">
+            <div xml:id="BEst_0179">
                 <div type="text">
                     <lg met="anuṣṭubh">
                  <l n="a">deya-dharmam idaṁ kṛtvā</l>  
@@ -6391,7 +6401,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         <p>This verse does not belong to Sircar's list.</p>
               </div>
             </div>
-            <div xml:id="best_0180">
+            <div xml:id="BEst_0180">
                 <div type="text">
                     <lg met="vasantatilakā">
                         <l n="a">ye prāktanāvanibhujāṁ jagatīhitānāṁ</l>
@@ -6411,7 +6421,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">18</citedRange></bibl>. He explained that this verse is quoted in one Nepalese inscription probably issued by Śivadeva (saṁvat 145). The king seems to be the author (or these words are attributed to him), as the verse is introduced by <foreign>yathā cāha</foreign>. </p>
                 </div>
             </div>
-            <!-- <div xml:id="best_0180_01">
+            <!-- <div xml:id="BEst_0180v01">
                 <div type="text">
                     <lg met="">
                         <l n="a">ye śītāṁśukarāvadātacaritāḥ samyakprajāpālane</l>
@@ -6427,7 +6437,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>This verse was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">18bis</citedRange></bibl>. </p>
                 </div>
             </div>-->
-            <div xml:id="best_0181">
+            <div xml:id="BEst_0181">
                 <div type="text">
                     <lg met="">
                         <l n="a">lakṣṃīniketanaṁ yadapāśrayeṇa</l>
@@ -6451,7 +6461,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         </list></p>
                 </div>
             </div>
-            <div xml:id="best_0182">
+            <div xml:id="BEst_0182">
                     <div type="text">
                         <lg met="anuṣṭubh">
                             <l n="a">A-sthiram sarvam ālocya</l>
@@ -6470,10 +6480,10 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         </list></p>
                     </div>
                     <div type="bibliography">
-                        <p>This verse does not belong to Sircar's list. The content of the verse is close to that of stanzas best_0010, best_0019, best_0024, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0192. </p>
+                        <p>This verse does not belong to Sircar's list. The content of the verse is close to that of stanzas BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0192. </p>
                     </div>
                 </div>
-            <div xml:id="best_0183">
+            <div xml:id="BEst_0183">
                 <div type="text">
                     <lg met="anuṣṭubh">
                             <l n="a">teṣān tena ca dattaṁ yo</l>
@@ -6505,7 +6515,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>After eating an ancestral offering, if someone gives his leftovers to a śudra, that foolosh man will fall down head first in the Kālasūtra hell. (translation Olivelle)</p>
                 </div>
             </div>
-            <div xml:id="best_0184">
+            <div xml:id="BEst_0184">
                 <div type="text">
                     <lg met="anuṣṭubh">
                             <l n="a">kalpitaṁ ye vilūmpeyur</l> 
@@ -6524,7 +6534,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>This stanza does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0185">
+            <div xml:id="BEst_0185">
                 <div type="text">
                     <lg met="anuṣṭubh" >
                         <l n="a">Anukuryur idaṁ yena</l> 
@@ -6543,7 +6553,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                     <p>This stanza does not belong to Sircar's list.</p>
                 </div>
             </div>
-            <div xml:id="best_0186">
+            <div xml:id="BEst_0186">
                 <div type="text">
                     <lg met="śārdūlavikrīḍita">
                         <l n="a">yātā yānti mahībhujaḥ kṣitim imāṃ yāsyanti bhuktvākhilaṃ </l>
@@ -6563,7 +6573,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
  Indian antiquary col 6 p 207  -->
                 </div>
                 <div type="bibliography">
-                    <p>This stanza is quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">175</citedRange></bibl> as an instance of idiosyncratic verse. He did not explicitly explained his opinion. In the plate where the verse can be read, it is introduced as a verse from Vyāsa (<foreign>uktaṁ ca bhagavatā vyāsena</foreign>) between two other "usual" formulas best_0123 and best_0023. </p>
+                    <p>This stanza is quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">175</citedRange></bibl> as an instance of idiosyncratic verse. He did not explicitly explained his opinion. In the plate where the verse can be read, it is introduced as a verse from Vyāsa (<foreign>uktaṁ ca bhagavatā vyāsena</foreign>) between two other "usual" formulas BEst_0123 and BEst_0023. </p>
                 </div>
             </div>
             <div xml:id="best_0187">
@@ -6584,10 +6594,10 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
  Indian antiquary col 6 p 207  -->
                 </div>
                 <div type="bibliography">
-                    <p>This stanza is quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">175</citedRange></bibl> as an instance of idiosyncratic verse. He did not explicitly explained his opinion. In the plate where the verse can be read, it is introduced as a verse from Vyāsa (<foreign>uktaṁ ca bhagavatā vyāsena</foreign>) between two other "usual" formulas best_0123 and best_0023, followed by best_0150, best_0132_00 and best_0117. </p>
+                    <p>This stanza is quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">175</citedRange></bibl> as an instance of idiosyncratic verse. He did not explicitly explained his opinion. In the plate where the verse can be read, it is introduced as a verse from Vyāsa (<foreign>uktaṁ ca bhagavatā vyāsena</foreign>) between two other "usual" formulas BEst_0123 and BEst_0023, followed by BEst_0150, BEst_0132 and BEst_0117. </p>
                 </div>
             </div>
-             <div xml:id="best_0188">
+             <div xml:id="BEst_0188">
                     <div type="text">
                         <lg met="anuṣṭubh"><!-- check the standard suggested on the basis of the testimonies -->
                             <l n="a">tām eva rakṣatā yatnāN</l>
@@ -6609,7 +6619,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         </list></p>
                     </div>
                     <div type="bibliography">
-                        <p>This verse does not belong to Sircar's list. It is added here because it is quoted with other well-known verses (best_0132_01, best_0123, best_0023). The whole stanzas are introduced by <foreign>api ca</foreign> or <foreign>cātra manugītā ślokāḥ</foreign>. </p>
+                        <p>This verse does not belong to Sircar's list. It is added here because it is quoted with other well-known verses (BEst_0132v01, BEst_0123, BEst_0023). The whole stanzas are introduced by <foreign>api ca</foreign> or <foreign>cātra manugītā ślokāḥ</foreign>. </p>
                     </div>
                 </div>
             <div xml:id="best_0189">
@@ -6677,10 +6687,10 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                     </list></p>
                 </div>
                 <div type="bibliography">
-                    <p>This verse does not belong to Sircar's list. It is added here because it is the counterpart of best_0191 whose the wording and the meaning are close to best_0070.</p>
+                    <p>This verse does not belong to Sircar's list. It is added here because it is the counterpart of BEst_0191 whose the wording and the meaning are close to BEst_0070.</p>
                 </div>
             </div>
-            <div xml:id="best_0192">
+            <div xml:id="BEst_0192">
                     <div type="text">
                         <lg met="mandākrāntā">              
                             <l n="a">Ābrahmāṇḍāṁ khalu jagad idaṁ svapna-māyā-vināśi </l>
@@ -6696,10 +6706,10 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         <p>See Mehar Plate of Dāmodaradeva (1 plate), lines 39-42, verse 12 <bibl><ptr target="bib:Barua+Chakravarti1947-1948_01"/></bibl><!-- EI27_33 --></p>
                     </div>
                     <div type="bibliography">
-                        <p>This verse does not belong to Sircar's list. It is added here because it is an address to the future kings and its content is close to that of stanzas best_0010, best_0019, best_0024, best_0035, best_0036, best_0071, best_0071_01, best_0138, best_0141, best_0146, best_0148, best_0182. In Mehar plate of Dāmodaradeva (1 plate) <bibl><ptr target="bib:Barua+Chakravarti1947-1948_01"/></bibl>, this stanza is preceded by best_0023, best_0132_00 and the introducing prose <foreign>itādi munivacanam avalokya</foreign>.</p>
+                        <p>This verse does not belong to Sircar's list. It is added here because it is an address to the future kings and its content is close to that of stanzas BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0036, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182. In Mehar plate of Dāmodaradeva (1 plate) <bibl><ptr target="bib:Barua+Chakravarti1947-1948_01"/></bibl>, this stanza is preceded by BEst_0023, BEst_0132 and the introducing prose <foreign>itādi munivacanam avalokya</foreign>.</p>
                     </div>
                 </div>
-            <div xml:id="best_0193">
+            <div xml:id="BEst_0193">
                 <div type="text">
                     <lg met="anuṣṭubh">                     
                             <l n="a">brahmasvеna tu yac chidraṃ</l>
@@ -6731,7 +6741,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                     </lg>
                 </div>
             </div>
-            <div xml:id="best_0194">
+            <div xml:id="BEst_0194">
                     <div type="text">
                         <lg met="">            
                             <l n="a"></l>
@@ -6757,7 +6767,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
     </text>
 </TEI>
 <!-- 
-    A AJOUTER Banerji1927-1928_02 The Kalvan Plates of Yaśovarman lines 32-33 c'est une stance rejétée par Sircar mais proche de best_0065
+    A AJOUTER Banerji1927-1928_02 The Kalvan Plates of Yaśovarman lines 32-33 c'est une stance rejétée par Sircar mais proche de BEst_0065
     
     A AJOUTER voir SV24  Nibinna Charter MSY Somac une stance sur l'impermanence + présente aussi dans DHARMA_INSSomavamsin00022
     
@@ -6785,7 +6795,7 @@ toujours dqns cette inscription line 106-107  iti maharṣivasanānyavadhārya �
 paramahīpativaṁśajā vā pāpādapetamanaso bhuvi bhāvibhūpāḥ ye pālayaṁti mama dharmmamimaṃ samagrā teṣaṃ mayā viracitoñjalireṣu mūrdhni 
 -->
 <!-- 
-    <div xml:id="best_0">
+    <div xml:id="BEst_0">
                     <div type="text">
                         <lg met="">            
                             <l n="a"></l>
@@ -6867,7 +6877,7 @@ n="42" break="no"/>do jalaja-parṇṇaja-la<supplied reason="omitted">ṁ</supp
 n="43"/>pravilokyāḥ</l> 
                <l n="d">kīrttayo nr̥patibhir na vilopyā</l>
             </lg> 
-            meaning close to best_0141 best_046 -->
+            meaning close to BEst_0141 BEst_046 -->
 <!--  
             
             -->
@@ -6963,7 +6973,7 @@ pas correcte. Nous proposons de le rendre par « (ceux qui) prennent (des biens 
             -->
             <!-- 
             Stances mises de côté par Sircar et donc à aller voir 
-            best note 1 et 2 p176 
+            BEst note 1 et 2 p176 
 1. See, e.g., Ep. Ind., Vol. XXII. pp. 156-57, verses 24-25, 32.
 2. See, e. g., Ep. Carm., Vol. IX, Dv. No. 15 ( Śivaṁ, etc, and Indrāś=ca, etc. ); Vol. XI. Cd. No. 14 ( Deva-svaṁ, etc. ) ; Vol. XI. Cd. No. 82 (Catuḥ-sāgara°, etc.). The following stanza quoted from the Atrisaṁhitā in Vol. XI,  Cd. No. 82, does not give a complete idea :
 Bhramanti suciraṁ kālaṁ kṣut-pipās-ādi-pīḍitāḥ  l 
@@ -6981,7 +6991,7 @@ Manuscript : IFP/EFEO 72 from page 25 copied from Adyar Library Madras.  ms. no.
 p. 152(178) bhūmiratnāśvanāgānāṃ gohiraṇyādivāsasām |
 bhavetpūrvopadiṣṭānāṃ dānācchreyonupālanam || 12-109 || -->
 <!-- 
-<div xml:id="best_000_00">
+<div xml:id="BEst_000_00">
                 <div type="text">
                     
                 </div>
