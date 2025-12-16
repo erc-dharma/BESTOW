@@ -872,7 +872,13 @@
                        <l n="c">yasya yasya yadā bhūmiḥ </l>
                        <l n="d">tasya tasya tadā phalam</l><!--   DHARMA_INSEIAD00167 ; this plate is interssting because it is one the the earliest plates of the Śālaṅkāya dynasty : the plate is in prakrit except for this final stanza which is inscribed alone on the fourth plate -->
                        </lg>
-                       
+                       <p>A variation of the pāda b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) can be read in SII 4.1030 <ref target="INSSIIv04p0i1030.xml">SII 4.1030: original edition by H. Krishna Sastri</ref>, lines 3-4:
+                       <lg n="1" met="anuṣṭubh">
+                    <l n="a">bahubhir vasutā dattā</l>
+                    <l n="b">bahubhiś cānupālitā</l>
+                    <l n="c">yasya yasya yadā bhūmis</l>
+                    <l n="d">tasya tasya tadā phalaM</l>
+                </lg></p>
                  <!--       <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>= 0023_01 -->
                  <!--       <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l> = 0023_02 -->
                   <!--       <l>Yānti kālena, etc. See No. 23, note. </l>= 0023_03  -->
@@ -1613,6 +1619,15 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                 </div>
                 <div type="translation">
                     <p>Between gift and preservation, preservation is better than gift : by gift one obtains Heaven but by preservation one never falls again.</p>
+                </div>
+                <div type="variation">
+                    <p>An incomplete variation of this stanza van be read in SIIv04p0i0501 = <ref target="INSSIIv04p0i0501.xml">SII 4.501: original edition by H. Krishna Sastri</ref>:</p>
+                    <lg n="1" met="anuṣṭubh">
+                    <l n="a">dānaṃ vā pālanaṃ vāpi</l>
+                    <l n="b">dānācchreyo<unclear>nu</unclear>pālanaM</l>
+                    <l n="c"><lb n="10"/><gap reason="lost" quantity="6" unit="character"/></l>
+                    <l n="d"><gap reason="lost" quantity="1" unit="character"/> <unclear>la</unclear>nādacyutaM padaM</l>
+                </lg> 
                 </div>
                 <div type="inscriptions">
                     <p>This stanza can be read in:
@@ -4944,6 +4959,9 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                            <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
                            <item><ref target="INSPandya10004">Ciṉṉamaṉūr plates (smaller set)</ref>, circa 750–810 CE (Francis, forthcoming)</item>
                            <item>Inscriptions numbered 1, 3, 4, 8, 15, 17, 18, 27, 29, 30, 31, 32, 33, 34, 36, 37, 39, (60), 63, 64, 67, 68, 71, 74, 78, 79 in <bibl><ptr target="bib:Chhabra1957_01"/><citedRange unit="appendix">A</citedRange><citedRange unit="page">179</citedRange></bibl></item>
+                           <item>SIIv04p0i1030 = <ref target="INSSIIv04p0i1030.xml">SII 4.1030: original edition by H. Krishna Sastri</ref>, lines 4-6</item>
+                           <item>SIIv04p0i0526 = <ref target="INSSIIv04p0i0526.xml">SII 4.526: original edition by H. Krishna Sastri</ref></item>
+                           <item>SIIv04p0i0501 = <ref target="INSSIIv04p0i0501.xml">SII 4.501: original edition by H. Krishna Sastri</ref></item>
                        </list>                  
                    </p>                          
                    
@@ -6622,7 +6640,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         <p>This verse does not belong to Sircar's list. It is added here because it is quoted with other well-known verses (BEst_0132v01, BEst_0123, BEst_0023). The whole stanzas are introduced by <foreign>api ca</foreign> or <foreign>cātra manugītā ślokāḥ</foreign>. </p>
                     </div>
                 </div>
-            <div xml:id="best_0189">
+            <div xml:id="BEst_0189">
                     <div type="text">
                         <lg met="upajāti">
                                         <l n="a">kīrtiḥ parasyeyam iyaṁ mameti</l>
@@ -6644,7 +6662,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         <p>This stanza is added because it is introduced by a sentence addressed to the future kings and arguing that the fruit in protecting is greater than the one in giving.</p>
                     </div>
                 </div>
-            <div xml:id="best_0190">
+            <div xml:id="BEst_0190">
                 <div type="text">
                     <lg met="anuṣṭubh">
       <l n="a">ye nu dharmam imaṁ ghnanti</l>
@@ -6667,7 +6685,7 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                     <p>This verse does not belong to Sircar's list. It is added here because the wording and the meaning are close to best_0070.</p>
                 </div>
             </div>
-            <div xml:id="best_0191">
+            <div xml:id="BEst_0191">
                 <div type="text">
                     <lg met="anuṣṭubh">
       <l n="a">kalpanāṁ ye na lumpanti</l>
