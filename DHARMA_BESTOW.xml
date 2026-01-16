@@ -872,13 +872,13 @@
                        <l n="c">yasya yasya yadā bhūmiḥ </l>
                        <l n="d">tasya tasya tadā phalam</l><!--   DHARMA_INSEIAD00167 ; this plate is interssting because it is one the the earliest plates of the Śālaṅkāya dynasty : the plate is in prakrit except for this final stanza which is inscribed alone on the fourth plate -->
                        </lg>
-                       <p>A variation of the pāda b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) can be read in SII 4.1030 <ref target="INSSIIv04p0i1030.xml">SII 4.1030: original edition by H. Krishna Sastri</ref>, lines 3-4:
+                       <p>A variation of the pāda b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) can be read in SII 4.1030 <ref target="INSSIIv04p0i1030.xml">SII 4.1030: original edition by H. Krishna Sastri</ref>, lines 3-4:</p>
                        <lg n="1" met="anuṣṭubh">
                     <l n="a">bahubhir vasutā dattā</l>
                     <l n="b">bahubhiś cānupālitā</l>
                     <l n="c">yasya yasya yadā bhūmis</l>
                     <l n="d">tasya tasya tadā phalaM</l>
-                </lg></p>
+                </lg>
                  <!--       <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>= 0023_01 -->
                  <!--       <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l> = 0023_02 -->
                   <!--       <l>Yānti kālena, etc. See No. 23, note. </l>= 0023_03  -->
@@ -1082,13 +1082,13 @@
                     <lg met="anuṣṭubh">
                         <l n="a">bhūmi-dānaṁ su-pātreṣu</l>
                         <l n="b">su-tīrtheṣu su-parvasu</l>
-                        <l n="c" enjamb="yes">agādhāpāra-saṁsāra</l>
+                        <l n="c" enjamb="yes">Agādhāpāra-saṁsāra</l>
                         <l n="d">-sāgarottāraṇaṁ bhaveT</l>
                     </lg>
                 </div>
                 <div type="translation" resp="part:amwb">
                     <p rend="stanza">Among the best sacrificial vessels, among the best holy places, among the best occasions, may the earth-gift be a way out of the infinite and deep ocean of rebirth !
-</p>
+</p><!-- Revoir la traduction possibilité de voir les locatifs pluriels comme les conditions du don ? voir Bharadwaj 2015 "Puṇya, Vrata" and "Dāna": Examining the Centrality of the Religious Institution of "Vratas" in the Giving of Gifts and Issuance of Land Grants in North and Central India: 4th-12th Centuries A.d-->
                 </div>
                 <div type="inscriptions">
                     <p>See A Copper-Plate Grant of Mummuniraja; Saka 971 (1049 CE) (<bibl><ptr target="bib:Upadhyaya1939-1940_01"/></bibl>, reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>).</p>
@@ -1461,7 +1461,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                     <p rend="stanza">Prosperity is unsteady, youth is shattered in an instant, life is a step away from death, yet this counts for little when it comes to achievement in the next world. Alas, the behaviour of men is astonishing!</p>
                 </div>
                 <div type="occurences">
-                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. The wording is also close to the stnazas 16 and 17 of <ref target="INSCIC00149.xml">Nhan Biều stela (C. 149), 833 Śaka</ref> (= CIC00149).
+                    <p>The content of this stanza is close to BEst_0010, BEst_0019, BEst_0024, BEst_0035, BEst_0071, BEst_0071v01, BEst_0138, BEst_0141, BEst_0146, BEst_0148, BEst_0182, BEst_0192. The wording is also close to the stanzas 16 and 17 of <ref target="INSCIC00149.xml">Nhan Biều stela (C. 149), 833 Śaka</ref> (= CIC00149).
 </p>
                      </div>
                 <div type="inscriptions">
@@ -2119,6 +2119,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     <p>See the following inscriptions:
                     <list>
                         <item>Gadag Inscription of Vira-Ballala II, śaka samvat 1114, line 48 <bibl><ptr target="bib:Luders1900-1901_01"/></bibl> (reference given by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">185</citedRange></bibl></item>
+                        <item>INSIA14_CLIX = <ref target="INSIA14_CLIX.xml">Paiṭhan Plates of Ramacandra śaka 1193</ref>, lines 101-102, stanza 1</item>
                     </list></p>
                 </div>
                 <div type="bibliography">
@@ -4052,9 +4053,9 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 <div type="occurences">
                     <p>I found a variation of the verse in the <title>Bhṛgusaṁhitā</title> 35.598, a text of the Vaikhanasa-tradition (GRETIL):</p> 
                     <lg met="anuṣṭubh">
-                        <l>dharmasetumimaṃ vindyāt</l>
-                        <l>sarvasādhāraṇaṃ naraḥ</l>
-                        <l>pālanīyassadā so 'yaṃ</l>
+                        <l>dharmasetum imaṃ vindyāt</l>
+                        <l>sarva-sādhāraṇaṃ naraḥ</l>
+                        <l>pālanīyas sadā so 'yaṃ</l>
                         <l>jagatāṃ yatra saṃsthitiḥ</l>
                     </lg>
                 </div>
@@ -4793,7 +4794,122 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
              <div type="inscriptions">
                  <p><!-- my own note -->See the following inscriptions : 
                      <list>
-                         <item><ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 9</item>
+                         <item>INSSiddham00079 = <ref target="INSSiddham00079.xml">Majhgawam Charter of Hastin, year 191</ref>, lines 16-17, stanza 4 with a variation on pāda d  <foreign>pitr̥bhiḥ saha majjate</foreign> (quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">196</citedRange></bibl>)</item>
+                         <item>INSSiddham00088 = <ref target="INSSiddham00088.xml">Khoh Charter 2 of Śarvanātha, year 214</ref>, lines 24-26, stanza 5 with a variation on pādas cd <foreign>śva-viṣṭhāyāṁ kr̥mir bhūtvā pitr̥bhis saha majjati</foreign> (quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">196</citedRange></bibl>)</item>
+                         <item>INSSomavamsin00008 = <ref target="DHARMA_INSSomavamsin00008.xml">Satalma plates of Mahābhavagupta Janamejaya year 8</ref> verse 9</item>
+                         <item>INSBadamiCalukya00006 = <ref target="INSBadamiCalukya00006.xml"></ref></item>
+                         <item>INSBengalCharters00001 = <ref target="INSBengalCharters00001.xml"></ref></item>
+                         <item>INSBengalCharters00008 = <ref target="INSBengalCharters00008.xml"></ref></item>
+                         <item>INSBengalCharters00026 = <ref target="INSBengalCharters00026.xml"></ref></item>
+                         <item>INSBengalCharters00031 = <ref target="INSBengalCharters00031.xml"></ref></item>
+                         <item>INSBengalCharters00032 = <ref target="INSBengalCharters00032.xml"></ref></item>
+                          <item>INSBengalCharters00033 = <ref target="INSBengalCharters00033.xml"></ref></item>
+                         <item>INSBengalCharters00034 = <ref target="INSBengalCharters00034.xml"></ref></item>
+                          <item>INSBengalCharters00039 = <ref target="INSBengalCharters00039.xml"></ref></item>
+                          <item>INSBengalCharters00049 = <ref target="INSBengalCharters00049.xml"></ref></item>
+                         <item>INSBengalCharters00051 = <ref target="INSBengalCharters00051.xml"></ref></item>
+                          <item>INSBengalCharters00052 = <ref target="INSBengalCharters00052.xml"></ref></item>
+                         <item>INSBengalCharters00054 = <ref target="INSBengalCharters00054.xml"></ref></item>
+                         <item>INSBengalCharters00055 = <ref target="INSBengalCharters00055.xml"></ref></item>
+                         <item>INSBengalCharters00063 = <ref target="INSBengalCharters00063.xml"></ref></item>
+                         <item>INSBengalCharters00065 = <ref target="INSBengalCharters00065.xml"></ref></item>
+                         <item>INSBengalCharters00071 = <ref target="INSBengalCharters00071.xml"></ref></item>
+                         <item>INSBengalCharters00072 = <ref target="INSBengalCharters00072.xml"></ref></item>
+                         <item>INSBengalCharters00073 = <ref target="INSBengalCharters00073.xml"></ref></item>
+                         <item>INSBengalCharters00075 = <ref target="INSBengalCharters00075.xml"></ref></item>
+                         <item>INSBengalCharters00076 = <ref target="INSBengalCharters00076.xml"></ref></item>
+                         <item>INSBengalCharters00085 = <ref target="INSBengalCharters00085.xml"></ref></item>
+                         <item>INSBengalCharters00088 = <ref target="INSBengalCharters00088.xml"></ref></item>
+                         <item>INSBengalCharters00091 = <ref target="INSBengalCharters00091.xml"></ref></item>
+                         <item>INSBengalCharters00092 = <ref target="INSBengalCharters00092.xml"></ref></item>
+                         <item>INSBengalCharters00097 = <ref target="INSBengalCharters00097.xml"></ref></item>
+                         <item>INSBengalCharters00098 = <ref target="INSBengalCharters00098.xml"></ref></item>
+                         <item>INSBengalCharters00099 = <ref target="INSBengalCharters00099.xml"></ref></item>
+                         <item>INSBengalCharters00096 = <ref target="INSBengalCharters00096.xml"></ref></item>
+                          <item>INSBengalCharters00102 = <ref target="INSBengalCharters00102.xml"></ref></item>
+                         <item>INSBengalCharters00104 = <ref target="INSBengalCharters00104.xml"></ref></item>
+                         <item>INSBengalCharters00107 = <ref target="INSBengalCharters00107.xml"></ref></item>
+                         <item>INSBengalCharters00108 = <ref target="INSBengalCharters00108.xml"></ref></item>
+                         <item>INSBengalCharters00109 = <ref target="INSBengalCharters00109.xml"></ref></item>
+                         <item>INSBengalCharters00110 = <ref target="INSBengalCharters00110.xml"></ref></item>
+                         <item>INSBengalCharters00111 = <ref target="INSBengalCharters00111.xml"></ref></item>
+                         <item>INSBengalCharters00112 = <ref target="INSBengalCharters00112.xml"></ref></item>
+                         <item>INSBengalCharters00125 = <ref target="INSBengalCharters00125.xml"></ref></item>
+                         <item>INSBengalCharters00127 = <ref target="INSBengalCharters00127.xml"></ref></item>
+                         <item>INSBengalCharters00129 = <ref target="INSBengalCharters00129.xml"></ref></item>
+                         <item>INSCIK00055 = <ref target="INSCIK00055.xml"></ref></item>
+                         <item>INSCIK01201 = <ref target="INSCIK01201.xml"></ref></item>
+                         <item>INSEI2_29 = <ref target="INSEI2_29.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref></item>
+                         <item>INSEI4_11 = <ref target="INSEI4_11.xml">Plate of Govindracandra of Vikrama-saṁvat 1182</ref></item>
+                         <item>INSEI19_34 = <ref target="INSEI19_34.xml">Amoda plates of the Haihaya King Jajalladeva of the (Cedi) year 912</ref></item>
+                         <item>INSEI42_9 = <ref target="INSEI42_9.xml">Phulbāni copper-plate grant of Raṇabhañjadeva year 28</ref></item>
+                         <item>INSEIAD00174 = <ref target="INSEIAD00174.xml"></ref></item>
+                         <item>INSEIAD00180 = <ref target="INSEIAD00180.xml"></ref></item>
+                         <item>INSEIAD00186 = <ref target="INSEIAD00186.xml"></ref></item>
+                         <item>INSEIAD00189 = <ref target="INSEIAD00189.xml"></ref></item>
+                         <item>INSIA6_194-195 = <ref target="INSIA6_194-195.xml">Grant n°3: Eleven Land-Grants of the Chalukyas of Aṇhilvād</ref></item>
+                          <item>INSNalodbhava00001 = <ref target="INSNalodbhava00001.xml"></ref></item>
+                         <item>INSNalodbhava00002 = <ref target="INSNalodbhava00002.xml"></ref></item>
+                         <item>INSNalodbhava00003 = <ref target="INSNalodbhava00003.xml"></ref></item>
+                         <item>INSparivrajaka00001 = <ref target="INSpzrivrajaka00001.xml"></ref></item>
+                         <item>INSSiddham00023 = <ref target="INSSiddham00023.xml"></ref></item>
+                         <item>INSSiddham00026 = <ref target="INSSiddham00026.xml"></ref></item>
+                          <item>INSSiddham00044 = <ref target="INSSiddham00044.xml"></ref></item>
+                         <item>INSSiddham00046 = <ref target="INSSiddham00046.xml"></ref></item>
+                         <item>INSSiddham00056 = <ref target="INSSiddham00056.xml"></ref></item>
+                         <item>INSSiddham00061 = <ref target="INSSiddham00061.xml"></ref></item>
+                          <item>INSSiddham00062 = <ref target="INSSiddham00062.xml"></ref></item>
+                         <item>INSSiddham00065 = <ref target="INSSiddham00065.xml"></ref></item>
+                         <item>INSSiddham00067 = <ref target="INSSiddham00067.xml"></ref></item>
+                         <item>INSSiddham00070 = <ref target="INSSiddham00070.xml"></ref></item>
+                          <item>INSSiddham00074 = <ref target="INSSiddham00074.xml"></ref></item>
+                         <item>INSSiddham00078 = <ref target="INSSiddham00078.xml"></ref></item>
+                         <item>INSSiddham00079 = <ref target="INSSiddham00079.xml"></ref></item>
+                         <item>INSSiddham00082 = <ref target="INSSiddham00082.xml"></ref></item>
+                         <item>INSSiddham00083 = <ref target="INSSiddham00083.xml"></ref></item>
+                         <item>INSSiddham00084 = <ref target="INSSiddham00084.xml"></ref></item>
+                         <item>INSSiddham00087 = <ref target="INSSiddham00087.xml"></ref></item>
+                         <item>INSSiddham00088 = <ref target="INSSiddham00088.xml"></ref></item>
+                         <item>INSSiddham00089 = <ref target="INSSiddham00089.xml"></ref></item>
+                         <item>INSSiddham00093 = <ref target="INSSiddham00093.xml"></ref></item>
+                         <item>INSSiddham00128 = <ref target="INSSiddham00128.xml"></ref></item>
+                          <item>INSSiddham00129 = <ref target="INSSiddham00129.xml"></ref></item>
+                          <item>INSSiddham00130 = <ref target="INSSiddham00130.xml"></ref></item>
+                          <item>INSSiddham00131 = <ref target="INSSiddham00131.xml"></ref></item>
+                         <item>INSSiddham00133 = <ref target="INSSiddham00133.xml"></ref></item>
+                          <item>INSSiddham00134 = <ref target="INSSiddham00134.xml"></ref></item>
+                          <item>INSSiddham00215 = <ref target="INSSiddham00215.xml"></ref></item>
+                          <item>INSSiddham02015 = <ref target="INSSiddham02015.xml"></ref></item>
+                         <item>INSSiddham02040 = <ref target="INSSiddham02040.xml"></ref></item>
+                         <item>INSSomavamsin00002 = <ref target="INSSomavamsin00002.xml"></ref></item>
+                          <item>INSSomavamsin00004 = <ref target="INSSomavamsin00004.xml"></ref></item>
+                         <item>INSSomavamsin00005 = <ref target="INSSomavamsin00005.xml"></ref></item>
+                         <item>INSSomavamsin00006 = <ref target="INSSomavamsin00006.xml"></ref></item>
+                          <item>INSSomavamsin00007 = <ref target="INSSomavamsin00007.xml"></ref></item>
+                          <item>INSSomavamsin00008 = <ref target="INSSomavamsin00008.xml"></ref></item>
+                          <item>INSSomavamsin00009 = <ref target="INSSomavamsin00009.xml"></ref></item>
+                         <item>INSSomavamsin00010 = <ref target="INSSomavamsin00010.xml"></ref></item>
+                         <item>INSSomavamsin00011 = <ref target="INSSomavamsin00011.xml"></ref></item>
+                         <item>INSSomavamsin00013 = <ref target="INSSomavamsin00013.xml"></ref></item>
+                         <item>INSSomavamsin00014 = <ref target="INSSomavamsin00014.xml"></ref></item>
+                         <item>INSSomavamsin00015 = <ref target="INSSomavamsin00015.xml"></ref></item>
+                         <item>INSSomavamsin00016 = <ref target="INSSomavamsin00016.xml"></ref></item>
+                         <item>INSSomavamsin00017 = <ref target="INSSomavamsin00017.xml"></ref></item>
+                         <item>INSSomavamsin00019 = <ref target="INSSomavamsin00019.xml"></ref></item>                   
+                         <item>INSSomavamsin00020 = <ref target="INSSomavamsin00020.xml"></ref></item>
+                          <item>INSSomavamsin00021 = <ref target="INSSomavamsin00021.xml"></ref></item>
+                         <item>INSSomavamsin00022 = <ref target="INSSomavamsin00022.xml"></ref></item>
+                         <item>INSSomavamsin00023 = <ref target="INSSomavamsin00023.xml"></ref></item>
+                         <item>INSSomavamsin00026 = <ref target="INSSomavamsin00026.xml"></ref></item>
+                         <item>INSSomavamsin00031 = <ref target="INSSomavamsin00031.xml"></ref></item>
+                         <item>INSSomavamsin00032 = <ref target="INSSomavamsin00032.xml"></ref></item>
+                         <item>INSSomavamsin00037 = <ref target="INSSomavamsin00037.xml"></ref></item>
+                         <item>INSSomavamsin00038 = <ref target="INSSomavamsin00038.xml"></ref></item>
+                         <item>INSSomavamsin00039 = <ref target="INSSomavamsin00039.xml"></ref></item>
+                         <item>INSSomavamsin00046 = <ref target="INSSomavamsin00046.xml"></ref></item>
+                         <item>INSSomavamsin00047 = <ref target="INSSomavamsin00047.xml"></ref></item>
+                         <item>INSTunga00002 = <ref target="INSTunga00002.xml"></ref></item>
+                         <item>INSTunga00003 = <ref target="INSTunga00003.xml"></ref></item>
                      </list>
                      </p>
                      
@@ -4856,11 +4972,12 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                      </p>
                     <p>Occurences found in the DHARMA database:
                         <list>
-                            <item><ref target="DHARMA_INSVengiCalukya00013.xml">Koṇeki grant of Viṣṇuvardhana II</ref></item>
-                            <item><ref target="DHARMA_INSVengiCalukya00017.xml">Tenali plates of Vijayāditya I</ref></item>
-                            <item><ref target="DHARMA_INSVengiCalukya00059.xml">Uccāṭi grant of Jayasiṁha I</ref></item>
-                            <item><ref target="DHARMA_INSVengiCalukya00050.xml">Cendalūr Plates of Maṅgi Yuvarāja</ref></item>
-                            <item><ref target="INSEIAD00185.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref></item>
+                             <item>INSPallava00009 = <ref target="DHARMA_INSPallava00009.xml">Sakrepaṭna plates, time of Siṁhavarman, year 41</ref></item>
+                            <item>INSVengiCalukya00013 = <ref target="DHARMA_INSVengiCalukya00013.xml">Koṇeki grant of Viṣṇuvardhana II</ref></item>
+                            <item>INSVengiCalukya00017 = <ref target="DHARMA_INSVengiCalukya00017.xml">Tenali plates of Vijayāditya I</ref></item>
+                            <item>INSVengiCalukya00059 = <ref target="DHARMA_INSVengiCalukya00059.xml">Uccāṭi grant of Jayasiṁha I</ref></item>
+                            <item>INSVengiCalukya00050 = <ref target="DHARMA_INSVengiCalukya00050.xml">Cendalūr Plates of Maṅgi Yuvarāja</ref></item>
+                            <item>INSEIAD00185 = <ref target="INSEIAD00185.xml">Copper plates from Godavari district (set I) — reign of Pṛthivīśrīmūla, year 25</ref></item>
                         </list>             
 <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 3  p 1272
                         IA VI p 9 EI vol 8 p146 and p 162 EI XI p 111
@@ -4887,7 +5004,17 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p>Sircar's reference : CII vol III pp. 238, 247</p>
                     <p>Occurences found in the DHARMA database:
                     <list>
-                        <item><ref target="DHARMA_INSPallava00006.xml">Uruvupalli grant, time of Siṃhavarman, year 11</ref></item>
+                        <item>INSPallava00004 = <ref target="DHARMA_INSPallava00004.xml">Guṇapadēya plates, time of Vijaya-Skandavarman</ref></item>
+                        <item>INSPallava00005 = <ref target="DHARMA_INSPallava00005.xml">Oṁgoḍu grant, time of Skandavarman, year 33</ref></item>
+                        <item>INSPallava00006 = <ref target="DHARMA_INSPallava00006.xml">Uruvupalli grant, time of Siṃhavarman, year 11</ref></item>
+                        <item>INSPallava00011 = <ref target="DHARMA_INSPallava00011.xml">Cendalūra grant, time of Kumāraviṣṇu, year 2</ref></item>
+                        <item>INSPallava00376 = <ref target="DHARMA_INSPallava00376.xml">Alavakoṇḍa plates, time of Viṣṇugopa, year 1</ref></item>
+                        <item>INSPallava00396 = <ref target="DHARMA_INSPallava00396.xml">Pāṇḍūra grant, time of Siṁhavarman, year 1</ref></item>
+                        <item>INSPallava00008 = <ref target="DHARMA_INSPallava00008.xml">Vesanta grant, time of Siṁhavarman, year 19</ref></item>
+                        <item>INSSiddham00164 = <ref target="INSSiddham00164.xml">Riddhapur Charter of Prabhāvatīguptā</ref></item>
+                        <item>INSSiddham00166 = <ref target="INSSiddham00166.xml">Indore Incomplete Charter of Pravarasena II</ref></item>
+                        <item>INSSiddham00184 = <ref target="INSSiddham00184.xml">Masod Charter of Pravarasena II, Year 19</ref></item>
+                        <item>INSSiddham00189 = <ref target="INSSiddham00184.xml">Mandhal Charter of Pr̥thivīṣeṇa II, Year 2</ref></item>
                     </list></p>
                 </div>
             </div>
@@ -4952,12 +5079,95 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                    <p>Sircar's reference : CII, Vol. III, p. 289.</p>
                    <p>Occurences found in the DHARMA database : 
                        <list>
-                           <item><ref target="DHARMA_INSTelugu00091.xml">Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</ref> (mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
-                           <item><ref target="DHARMA_INSVengiCalukya00054.xml">Mḻopaṟṟu grant probably of Maṅgi Yuvarāja</ref> (mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
-                           <item><ref target="DHARMA_INSChauhan00001.xml">Bargarh copper plate of Maharaja Narayan Singh of Sambalpur</ref></item>
-                           <item><ref target="DHARMA_INSSiddham01024.xml">Sirsi Grant of Kr̥ṣṇavarman, Year 19</ref></item>
-                           <item><ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>
-                           <item><ref target="INSPandya10004">Ciṉṉamaṉūr plates (smaller set)</ref>, circa 750–810 CE (Francis, forthcoming)</item>
+                           <item>INSBadamiCalukya00002 = <ref target="INSBadamiCalukya00002.xml">Kāndalgām plates of Pulakeśin II</ref>, lines 26-27, stanza 2</item>
+                           <item>INSBadamiCalukya00003 = <ref target="INSBadamiCalukya00003.xml">Yekkeri donation of the time of Pulakeśin II</ref> with a vairation on pāda d, lines , stanza </item>
+                           <item>INSBadamiCalukya00008 = <ref target="INSBadamiCalukya00008.xml">Modlimb plates of Pulakeśin II</ref>, lines , stanza </item>
+                           <item>INSChauhan00001 = <ref target="DHARMA_INSChauhan00001.xml">Bargarh copper plate of Maharaja Narayan Singh of Sambalpur</ref></item>
+                           <item>INSEI13_14 = <ref target="INSEI13_14.xml">Baṅkāpūr inscription of the time of Someśvara I and the Kādamba Harikeśarin śaka 977</ref> line 57, stanza 3</item>
+                           <item>INSEI25_21 = <ref target="INSEI25_21.xml">Puruṣottampurī Plates of Rāmacandra, śaka 1232</ref> line 30, stanza 48</item>
+                           <item>INSEI28_13 = <ref target="INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> lines 10-11</item>
+                           <item>INSIA14_CLIX = <ref target="INSIA14_CLIX.xml">Paiṭhan Plates of Ramacandra śaka 1193</ref>, lines 116-117, stanza 12</item>
+                           <item> INSKalyanaCalukya00001 = <ref target="INSKalyanaCalukya00001.xml">Kancagara-Beḷagallu Inscription of the Reign of Taila II, Śaka 903</ref>lines , stanza </item>
+                           <item> INSKalyanaCalukya00003 = <ref target="INSKalyanaCalukya00003.xml">Bāgali Kallēśvara Temple Inscription of the Reign of Taila II 2, Śaka 903</ref>lines 20-21, stanza 2</item>
+                           <item> INSKalyanaCalukya00004 = <ref target="INSKalyanaCalukya00004.xml">Kōgali Basadi Inscription of the Reign of Taila II, Śaka 914</ref>lines , stanza </item>
+                           <item> INSKalyanaCalukya00009 = <ref target="INSKalyanaCalukya00009.xml">Hosūr Durgavva Temple Inscription of the reign of Taila II, Śaka 915</ref>lines , stanza </item>
+                           <item> INSKalyanaCalukya00010 = <ref target="INSKalyanaCalukya00010.xml">Sogal Inscription of the reign of Taila II, Saka 902</ref>lines , stanza </item>
+                           <item> INSKalyanaCalukya00017 = <ref target="INSKalyanaCalukya00017.xml">Guḍlānūru Inscription of the reign of Taila II, Śaka 909</ref>lines , stanza </item>
+                           <item> INSKalyanaCalukya00099 = <ref target="INSKalyanaCalukya00099.xml">Maṟutuṟupalli grant of Satyāśraya</ref>lines 91-92, stanza 38</item>
+                           <item>INSPallava00053 = <ref target="INSPallava00053.xml">Rēyūru plates, time of Narasiṁhavarman, year 12</ref>, lines 23-24, stanza 3</item>
+                            <item>INSPallava00077 = <ref target="INSPallava00077.xml">Kacākūṭi plates, time of Nandivarman, year 22</ref>, lines , stanza </item>
+                           <item>INSPallava00081 = <ref target="INSPallava00081.xml">Pullūr plates, time of Nandivarman, year 33</ref>, lines , stanza </item>
+                            <item>INSPandya10004 = <ref target="INSPandya10004.xml">Ciṉṉamaṉūr plates (smaller set)</ref>, circa 750–810 CE (Francis, forthcoming)</item>
+                           <item>INSSiddham01021 = <ref target="INSSiddham01021.xml">Saṅgoḷḷi Grant of Harivarman , Year 8</ref>, with a variation on pāda d, lines , stanza </item>
+                           <item>INSSiddham01024 = <ref target="INSSiddham01024.xml">Sirsi Grant of Kr̥ṣṇavarman , Year 19</ref>, lines 15-16, stanza 2</item>
+                           <item>INSSiddham01032 = <ref target="INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 13, stanza 2</item>
+                           <item>INSSiddham01033 = <ref target="INSSiddham01033.xml">Devarahaḷḷi Grant of Māndhātr̥rāja, Year 5</ref>, lines 17-18, stanza 1</item>
+                           <item>INSSiddham01036 = <ref target="INSSiddham01036.xml">Bannahaḷḷi Grant of Kr̥ṣṇavarman II, Year 7</ref> with a variation on pāda d, lines , stanza </item>
+                            <item>INSSiddham01047 = <ref target="INSSiddham01047.xml">Taḍagaṇi Inscription of Madhuvarman</ref>, lines 9-10, stanza 1</item>                        
+                           <item>INSTelugu00018 = <ref target="DHARMA_INSTelugu00018.xml">Grant of the paḍuvāraṁbu to three villages by Kalimuḍirāju</ref>, lines 19-20 </item>
+                           <item>INSTelugu00040 = <ref target="DHARMA_INSTelugu00040.xml">Untitled</ref>, lines 10-11 </item>
+                           <item>INSTelugu00091 = <ref target="DHARMA_INSTelugu00091.xml">Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</ref> (mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                           <item>INSTiruvavatuturai00001 = <ref target="INSTiruvavatuturai00001.xml">Tiruvāvaṭutuṟai, recapitulative set of copper-plates</ref>, Grant no. 1: Śaka year 1448, lines 25-26, stanza 3</item>
+                           <item>INSVengiCalukya00007 = <ref target="DHARMA_INSVengiCalukya00007.xml">Guḍivāḍa plates (set 3) of Jayasiṁha I</ref>, lines 23-24, stanza 2</item>
+                           <item>INSVengiCalukya00014 = <ref target="DHARMA_INSVengiCalukya00014.xml">Nutulapaṟu grant of Maṅgi Yuvarāja</ref>, lines 27-28, stanza 2</item>
+                           <item>INSVengiCalukya00015 = <ref target="DHARMA_INSVengiCalukya00015.xml">Peṇukapaṟu grant of Jayasiṁha II</ref>, lines 27-28, stanza 2</item>
+                            <item>INSVengiCalukya00016 = <ref target="DHARMA_INSVengiCalukya00016.xml">Jaḷayūru grant of Viṣṇuvardhana III</ref>, lines 22-25, stanza 2</item>
+                           <item>INSVengiCalukya00018 = <ref target="DHARMA_INSVengiCalukya00018.xml">Zulakallu plates of Vijayāditya I</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00021 = <ref target="DHARMA_INSVengiCalukya00021.xml">Koṟṟapaṟṟu grant of Vijayāditya II</ref>, lines 47-48, stanza 2</item>
+                           <item>INSVengiCalukya00022 = <ref target="DHARMA_INSVengiCalukya00022.xml">Cheruvu Madhavaram plates of Viṣṇuvardhana V</ref>, lines 23-25, stanza 3</item>
+                           <item>INSVengiCalukya00023 = <ref target="DHARMA_INSVengiCalukya00023.xml">Masulipatam plates of Vijayāditya III</ref>, lines 30-31, stanza 6</item>
+                           <item>INSVengiCalukya00027 = <ref target="DHARMA_INSVengiCalukya00027.xml">Cevuru plates of Amma I</ref>, lines 34-35, stanza 2</item>
+                           <item>INSVengiCalukya00028 = <ref target="DHARMA_INSVengiCalukya00028.xml">Eḍeru plates of Amma I</ref>, lines 62-63, stanza 17</item>
+                           <item>INSVengiCalukya00029 = <ref target="DHARMA_INSVengiCalukya00029.xml">Drujjūru grant of Amma I</ref>, lines 35-36, stanza 11</item>
+                           <item>INSVengiCalukya00030 = <ref target="DHARMA_INSVengiCalukya00030.xml">Āruṁbāka grant of Bādapa</ref>, lines 65-66, stanza 26</item>
+                           <item>INSVengiCalukya00031 = <ref target="DHARMA_INSVengiCalukya00031.xml">Śrīpūṇḍi grant of Tāḻa II</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00032 = <ref target="DHARMA_INSVengiCalukya00032.xml">Diggubaṟṟu grant of Bhīma II</ref>, lines 63-64, stanza 13</item>
+                           <item>INSVengiCalukya00034 = <ref target="DHARMA_INSVengiCalukya00034.xml">Ākulamannaṇḍu grant of Bhīma II</ref>, lines 34-35, stanza 11</item>
+                           <item>INSVengiCalukya00035 = <ref target="DHARMA_INSVengiCalukya00035.xml">Elavaṟṟu grant of Amma II</ref>, lines 58-59, stanza 16</item>
+                           <item>INSVengiCalukya00036 = <ref target="DHARMA_INSVengiCalukya00036.xml">Guṇḍugolanu grant of Amma II</ref>, lines 33-34, stanza 7</item>
+                           <item>INSVengiCalukya00037 = <ref target="DHARMA_INSVengiCalukya00037.xml">Kalucuṁbaṟṟu grant of Amma II</ref>, lines 68-69, stanza 18</item>
+                           <item>INSVengiCalukya00039 = <ref target="DHARMA_INSVengiCalukya00039.xml">Māṁgallu grant of Dānārṇava</ref>, lines 64-65, stanza 22</item>
+                           <item>INSVengiCalukya00040 = <ref target="DHARMA_INSVengiCalukya00040.xml">Pedda-Gāḻidipaṟṟu grant of Amma II</ref>, lines 66-67, stanza 20</item>
+                           <item>INSVengiCalukya00041 = <ref target="DHARMA_INSVengiCalukya00041.xml">Nāgiyapūṇḍi grant of Amma II</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00042 = <ref target="DHARMA_INSVengiCalukya00042.xml">Nammūru grant of Amma II</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00043 = <ref target="DHARMA_INSVengiCalukya00043.xml">Paḷaṁkalūru grant of Amma II</ref>, lines 58-59, stanza 16</item>
+                           <item>INSVengiCalukya00045 = <ref target="DHARMA_INSVengiCalukya00045.xml">Tāṇḍikoṇḍa grant of Amma II</ref>, lines 65-66, stanza 21</item>
+                            <item>INSVengiCalukya00047 = <ref target="DHARMA_INSVengiCalukya00047.xml">Vemalūrpāḍu plates of Amma II</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00048 = <ref target="DHARMA_INSVengiCalukya00048.xml">London plates of Maṅgi Yuvarāja</ref>, lines , stanza </item>
+                          
+                           <item>INSVengiCalukya00049 = <ref target="DHARMA_INSVengiCalukya00049.xml">Raṇastipūṇḍi grant of Vimalāditya</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00054 =<ref target="DHARMA_INSVengiCalukya00054.xml">Mḻopaṟṟu grant probably of Maṅgi Yuvarāja</ref> (mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                           <item>INSVengiCalukya00060 = <ref target="DHARMA_INSVengiCalukya00060.xml">Cendaṟa grant of Jayasiṁha II</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00061 = <ref target="DHARMA_INSVengiCalukya00061.xml">Koṇḍakaḻipḻola grant of Viṣṇuvardhana III</ref>, lines 24-25, stanza 2</item>
+                           <item>INSVengiCalukya00062 = <ref target="DHARMA_INSVengiCalukya00062.xml">Ciṁbuluru plates of Vijayāditya III</ref>, lines 30-31, stanza 9</item>
+                           <item>INSVengiCalukya00063 = <ref target="DHARMA_INSVengiCalukya00063.xml">Velaṁbaṟṟu (spurious?) grant of Amma I</ref>, lines 34-35, stanza 5</item>
+                           <item>INSVengiCalukya00065 = <ref target="DHARMA_INSVengiCalukya00065.xml">Varppoṁgu grant of Vijayāditya II</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00066 = <ref target="DHARMA_INSVengiCalukya00066.xml">Nemmaḷūru grant of Vijayāditya I</ref>, lines 25-26, stanza 2</item>
+                           <item>INSVengiCalukya00067 = <ref target="DHARMA_INSVengiCalukya00067.xml">Dinakādu grant of Vijayāditya I</ref>, lines 25-26, stanza 2</item>
+                           <item>INSVengiCalukya00069 = <ref target="DHARMA_INSVengiCalukya00069.xml">Sātalūru plates of Vijayāditya III</ref>, lines 86-87, stanza 13</item>
+                           <item>INSVengiCalukya00070 = <ref target="DHARMA_INSVengiCalukya00070.xml">Īnteṟu grant of Bādapa</ref>, lines 70-71, stanza 26</item>
+                           <item>INSVengiCalukya00071 = <ref target="DHARMA_INSVengiCalukya00071.xml">Kaṇḍyam plates of Dānārṇava</ref>, lines 66-67, stanza 27</item>
+                           <item>INSVengiCalukya00075 = <ref target="DHARMA_INSVengiCalukya00075.xml">Pañcapāka grant of Bhīma I</ref>, lines 45-46, stanza 16</item>
+                           <item>INSVengiCalukya00077 = <ref target="DHARMA_INSVengiCalukya00077.xml">Varaṇaveṇḍi grant of Bhīma II</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00078 = <ref target="DHARMA_INSVengiCalukya00078.xml">Korumelli grant of Rājarāja I Narendra</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00079 = <ref target="DHARMA_INSVengiCalukya00079.xml">Kalidiṇḍi grant of Rājarāja I Narendra</ref>, (text lost)</item>
+                           <item>INSVengiCalukya00080 = <ref target="DHARMA_INSVengiCalukya00080.xml">Musinikuṇḍa grant of Viṣṇuvardhana III</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00082 = <ref target="DHARMA_INSVengiCalukya00082.xml">Tāṇḍivāḍa grant of Vijayāditya II</ref>, lines 28-29, stanza 2 </item>
+                           <item>INSVengiCalukya00083 = <ref target="DHARMA_INSVengiCalukya00083.xml">Peravali plates of Viṣṇuvardhana IV</ref>, lines 32-33, stanza 2 </item>
+                           <item>INSVengiCalukya00087 = <ref target="DHARMA_INSVengiCalukya00087.xml">Pulivaṟṟu (spurious?) grant of Amma I</ref>, lines 53-55, stanza 11 </item>
+                           <item>INSVengiCalukya00088 = <ref target="DHARMA_INSVengiCalukya00088.xml">Pamiḍimukkala plates (set 1) of Viṣṇuvardhana II, year 3</ref>, lines , stanza </item>
+                            <item>INSVengiCalukya00091 = <ref target="DHARMA_INSVengiCalukya00091.xml">Timmapuram unfinished plates of Maṅgi Yuvarāja</ref>, lines 17-18, stanza 2</item>
+                           <item>INSVengiCalukya00092 = <ref target="DHARMA_INSVengiCalukya00092.xml">Pasapubaṟṟu grant of Viṣṇuvardhana III</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00094 = <ref target="DHARMA_INSVengiCalukya00094.xml">Senavurabu grant of Viṣṇuvardhana IV</ref>, lines , stanza </item>
+                            <item>INSVengiCalukya00095 = <ref target="DHARMA_INSVengiCalukya00095.xml">Uṟuvuṭūru grant of Vijayāditya III</ref>, lines 48-49, stanza 10</item>
+                           <item>INSVengiCalukya00096 = <ref target="DHARMA_INSVengiCalukya00096.xml">Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II</ref>, lines 34-36, stanza 3</item>
+                           <item>INSVengiCalukya00097 = <ref target="DHARMA_INSVengiCalukya00097.xml">Pulgoṭlapaṁbuluru grant of Vijayāditya III</ref>, lines 50-51, stanza 14</item>
+                           <item>INSVengiCalukya00100 = <ref target="DHARMA_INSVengiCalukya00100.xml">Vedatulūru grant of Bhīma I</ref>, lines 63-64, stanza 10</item>
+                           <item>INSVengiCalukya00101 = <ref target="DHARMA_INSVengiCalukya00101.xml">Penuṁbulugu grant of Amma I</ref>, lines , stanza </item>
+                           <item>INSVengiCalukya00103 = <ref target="DHARMA_INSVengiCalukya00103.xml">Guṇḍipoduṟu grant of Śaktivarman</ref>, lines 68-69, stanza 23</item> 
+                           <item>INSVengiCalukya00104 = <ref target="DHARMA_INSVengiCalukya00104.xml">Nandamapūṇḍi grant of Rājarāja I Narendra</ref>, lines 89-90, stanza 27</item>
+                         
+                           <item>INSEC03Sr064 = <ref target="DHARMA_INSEC03Sr064.xml">Copper plates of Kṛṣṇa-deva Temple at Toṇḍanūr (Tirumalasāgara-chatra hobli)</ref></item>                         
                            <item>Inscriptions numbered 1, 3, 4, 8, 15, 17, 18, 27, 29, 30, 31, 32, 33, 34, 36, 37, 39, (60), 63, 64, 67, 68, 71, 74, 78, 79 in <bibl><ptr target="bib:Chhabra1957_01"/><citedRange unit="appendix">A</citedRange><citedRange unit="page">179</citedRange></bibl></item>
                            <item>SIIv04p0i1030 = <ref target="INSSIIv04p0i1030.xml">SII 4.1030: original edition by H. Krishna Sastri</ref>, lines 4-6</item>
                            <item>SIIv04p0i0526 = <ref target="INSSIIv04p0i0526.xml">SII 4.526: original edition by H. Krishna Sastri</ref></item>
@@ -4983,7 +5193,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p>The king who does not rescue or sustain what is given by himself or given by another, surely (<foreign>dhruvam</foreign>) drinks the poison (named) Hālahala from birth to birth. <supplied reason="explanation">translation given in DHARMA_INSEIAD00161</supplied></p>
                 </div>
                 <div type="notes">
-                    <p>This variation is not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, but it is found in one of the earliest records of the Śālaṅkāyana dynasty. This prakrit inscription contains two final stanzas in sanskrit (see <bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> and <ref target="DHARMA_INSEIAD00161.xml">Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year 14</ref> : in this inscription, a space precedes the sanskrit part of the inscription and the two stanzas are introduced by the word <foreign>bhavati cātra</foreign>). </p>
+                    <p>This variation is not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, but it is found in one of the earliest records of the Śālaṅkāyana dynasty. This prakrit inscription contains two final stanzas in sanskrit (see <bibl><ptr target="bib:KrishnaRao1955-1956_01"/></bibl> and EIAD00161 = <ref target="DHARMA_INSEIAD00161.xml">Piḍiha grant (Kānukollu plates, set I) — reign of Nandivarman I, year 14</ref> : in this inscription, a space precedes the sanskrit part of the inscription and the two stanzas are introduced by the word <foreign>bhavati cātra</foreign>). </p>
                 </div>
                 </div>
            <div xml:id="BEst_0132v05">  
@@ -4995,10 +5205,16 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="d">cāṇḍāleṣv abhijāyate</l>
                     </lg>
                 </div>
+               <div type="inscriptions">
+                   <p>See the following inscriptions:
+                   <list>
+                       <item>INSEI20_14a = <ref target="INSEI20_14a.xml">Charkari Plate of Devavarmandeva: [vikrama] samvat 1108</ref> line 21 (see <bibl><ptr target="bib:HiraLal1929-1930_01"/></bibl>; quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>).</item>
+                   </list></p>
+               </div>
                 <div type="notes">
                     <p>The verse is quoted in the <ref>Charkari Plate of Devavarmandeva: [vikrama] samvat 1108</ref>, line 21 (see <bibl><ptr target="bib:HiraLal1929-1930_01"/></bibl>). 
                     </p>
-                </div>
+                </div>    
              </div>
           <div xml:id="BEst_0132v06">
                 <div type="text">
@@ -5009,8 +5225,8 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="d">narake pātitā dhruvam</l>
                     </lg>                  
                 </div>
-              <div type="notes">
-                  <p>The verse is quoted in the <ref target="DHARMA_INSEI12_23.xml">Hansot Plates of the Chahamana Bhartrivaddha, Samvat 813</ref>, lines 28-29 (see <bibl><ptr target="bib:Konow1913-1914_01"/></bibl>).</p>
+              <div type="inscriptions">
+                  <p>TSee EI12_23 = <ref target="DHARMA_INSEI12_23.xml">Hansot Plates of the Chahamana Bhartrivaddha, Samvat 813</ref>, lines 28-29 (see <bibl><ptr target="bib:Konow1913-1914_01"/></bibl>, noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>).</p>
               </div>
            </div>
          <div xml:id="BEst_0132v07">
@@ -5022,8 +5238,17 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="d">yāvac candra-divākaraḥ</l>
                     </lg>
                 </div>
-             <div type="notes">
+             <div type="inscriptions">
                  <p>This variation is quoted in a stone inscription of the Nīlakanṇṭha temple at Hechche, see Epigraphia Carnatica, volume VIII, Sb 477 (DHARMA ID: INSEC08Sb477). </p>
+                 <p>The pādas c and d are quoted in INSCIK01489 = <ref target="INSCIK01489.xml">Inscription of Tuol Slaeng (K. 1489), 563 Śaka</ref>, stanza 3:</p>
+                 <lg met="anuṣṭubh">
+                        <l n="a">pāka-bhedo kr̥taghnaś ca</l>
+                        <l n="b">bhumi-harttā ca te trayaḥ</l>
+                        <l n="c">narakān na nivartante</l>
+                        <l n="d">yāvac soma-divākaraḥ</l>
+                    </lg>
+                 <p><quote>The obstructer of [what is] cooked (pākabhedaḥ), the destroyer of [what is] created (kr̥taghnaś) and the robber of land, these three (te trayaḥ) do not return (na nivarttante) from hell (narakāt) as long as (yāvat) the moon and the sun (soma-divākaraḥ) [exist].</quote>
+</p>
              </div>
             </div>
             <div xml:id="BEst_0132v08">
@@ -5052,7 +5277,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                <div type="notes">
-                   <p>The verse is quoted in the <ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 22-23 (= <ref target="INSEI33_41.xml">Malga plates of Samanta Indraraja</ref>, lines 22-23; see <bibl><ptr target="bib:Sircar+Sankaranarayanan1959-1960_01"/></bibl>).</p>
+                   <p>The verse is quoted in the INSDaksinaKosala00018 = <ref target="INSDaksinaKosala00018.xml">Malgā Plates of Indrabala, Year 11</ref> lines 22-23 (= <ref target="INSEI33_41.xml">Malga plates of Samanta Indraraja</ref>, lines 22-23; see <bibl><ptr target="bib:Sircar+Sankaranarayanan1959-1960_01"/></bibl>).</p>
                </div>
             </div>
             <div xml:id="BEst_0132v10">
@@ -5061,11 +5286,11 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="a">Aṅgam ekaṁ padam</l>
                         <l n="b">yo hareta vasundharām</l>
                         <l n="c">divyaṁ varṣa-sahasrāṇi</l>
-                        <l n="d">jāyate brahmarākṣasaḥ</l>
+                        <l n="d">jāyate brahma-rākṣasaḥ</l>
                     </lg>
                 </div>
                 <div type="notes">
-                    <p>This verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 11-13 (<bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) and is followed by a variation of BEst_0132_03. </p>
+                    <p>This verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 11-13 (EI23.21 = <bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) and is followed by a variation of BEst_0132_03. </p>
                 </div>
             </div>
             <div xml:id="BEst_0132v11">
@@ -5100,12 +5325,12 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                    <div type="inscriptions">
                        <p>See the following inscriptions :
                            <list>
-                               <item><ref target="DHARMA_INSSiddham00082.xml">Karitalai Charter of Jayanātha, year 174</ref> (<foreign>majjati</foreign> in pāda d)</item>
-                               <item><ref target="DHARMA_INSSiddham00083.xml">Khoh Charter 1 of Śarvanātha, year 177</ref> (<foreign>majyate</foreign> in pāda d)</item>
-                               <item><ref target="DHARMA_INSSiddham00084.xml">Khoh Charter 1 of Śarvanātha, year 193</ref> (<foreign>majjate</foreign> in pāda d)</item>
-                               <item><ref target="DHARMA_INSSiddham00087.xml">Khoh Final Charter Fragment of Śarvanātha, year 197</ref> (<foreign>majjate</foreign> in pāda d)</item>
-                               <item><ref target="DHARMA_INSSiddham00089.xml">Sohawal Charter of Śarvanātha, year 191</ref>(<foreign>majjate</foreign> in pāda d)</item>
-                               <item><ref target="DHARMA_INSSiddham00093.xml">Katni Charter of Jayanātha, year 182</ref> (<foreign>majjati</foreign> in pāda d)</item>
+                               <item>INSSiddham00082 = <ref target="DHARMA_INSSiddham00082.xml">Karitalai Charter of Jayanātha, year 174</ref> (<foreign>majjati</foreign> in pāda d)</item>
+                               <item>INSSiddham00083 = <ref target="DHARMA_INSSiddham00083.xml">Khoh Charter 1 of Śarvanātha, year 177</ref> (<foreign>majyate</foreign> in pāda d)</item>
+                               <item>INSSiddham00084 = <ref target="DHARMA_INSSiddham00084.xml">Khoh Charter 1 of Śarvanātha, year 193</ref> (<foreign>majjate</foreign> in pāda d)</item>
+                               <item>INSSiddham00087 = <ref target="DHARMA_INSSiddham00087.xml">Khoh Final Charter Fragment of Śarvanātha, year 197</ref> (<foreign>majjate</foreign> in pāda d)</item>
+                               <item>INSSiddham00089 = <ref target="DHARMA_INSSiddham00089.xml">Sohawal Charter of Śarvanātha, year 191</ref>(<foreign>majjate</foreign> in pāda d)</item>
+                               <item>INSSiddham00093 = <ref target="DHARMA_INSSiddham00093.xml">Katni Charter of Jayanātha, year 182</ref> (<foreign>majjati</foreign> in pāda d)</item>
                            </list></p></div>
             </div>
            <!--  <div xml:id="BEst_0132_13">
@@ -5658,6 +5883,13 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <l n="c">mahāhayo hi jāyante</l> 
                         <l n="d">bhūmi-dānāpahārakāḥ</l>
                     </lg>
+                    <p>The <ref target="INSSiddham00079.xml">Majhgawam Charter of Hastin, year 191</ref> (INSSiddham00079, lines 17-18, stanza 5, already quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) and the <ref target="INSSiddham00088.xml">Khoh Charter 2 of Śarvanātha, year 214</ref> (INSSiddham00088, lines 26-27, stanza 5) have the following reading :</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">apānīyeṣv araṇyeṣu</l> 
+                        <l n="b">śuṣka-koṭara-vāsinaḥ</l>
+                        <l n="c">kr̥ṣṇāhayo hi jāyante</l> 
+                        <l n="d">pūrvva-dāyaṁ haranti ye</l>
+                    </lg>
                     <!-- Lakṣmīdhara gṛhasthakāṇḍa p 317-318 dānabṛhaspati https://docs.google.com/document/d/1pbDnABNQ-j9aODuNqfYNFYK9jP8VGuUO6aRcT40gTVQ/edit?tab=t.0 -->
                     <l>Vāri-hīneṣv=araṇyeṣu, etc. See No. 150, note.</l>
                     <l>A-pānīyeṣv=araṇyeṣu, etc. See No. 150, note. </l>
@@ -5869,7 +6101,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <l n="a">yathā janitrī kṣīreṇa</l>
                      <l n="b">svaputraṃ bharate sadā</l>
                      <l n="c">anugṛhṇāti dātāraṃ</l>
-                     <l n="d">tathā sarvarasair mahī</l>
+                     <l n="d">tathā sarva-rasair mahī</l>
                 </lg>
                 <p>see also 14,096.015d@004_1097</p>
             </div>
@@ -5958,7 +6190,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     <p><!-- my own note --></p>
                 </div>
                 <div type="bibliography">
-                        <p></p>
+                        <p></p><!-- on the defintion of gocarma see Kanne vol 2.2 note 2021 p. 859 -->
                 </div>
                 <div type="inscriptions">
                         <p>See the following inscriptions:
@@ -5999,9 +6231,9 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                         <l n="d">bhūmi-dānena śudhyati</l></lg>
                     <p>The same Aparārka (<title>Ācārādhyāya</title>) quotes a verse with the same meaning attributed to Ādityapurāṇa (p.370):</p>
                     <lg met="anuṣṭubh">
-                        <l n="a">yas tu gocarmamātrāṃ vai</l> 
+                        <l n="a">yas tu gocarma-mātrāṃ vai</l> 
                         <l n="b">prayacchanti vasuṃdharām</l>
-                        <l n="c">vimuktaḥ sarvapāpebhyo</l>
+                        <l n="c">vimuktaḥ sarva-pāpebhyo</l>
                         <l n="d">viṣṇulokaṃ sa gacchati</l></lg>
 <!-- My own research : a verse more or less similar in Hemadri Danakanda p 510 api gocarma-mātrāṁ yo dadāti harayebhuvama | saptajanmāni rājendra sa śrīmānabhijāyati -->
                         <!-- Voir Mitākṣarā of Vijñāneśvara commentaire de Yājñavalkya vers 1.210 il cite 
@@ -6784,7 +7016,13 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
         </body>
     </text>
 </TEI>
-<!-- 
+<!--
+    Aller voir https://dharmalekha.info/texts/INSEIAD00188 car plusieurs stances sans doute nouvelles 
+    
+   Note 43 p 95 tim Lubin 2005 The Transmission, Patronage, and Prestige of Brahmanical Piety From the Mauryas to the Guptas: 
+   "in fact, although the Mahåbhårata contains a long section on bhümidåna (13.61), and  although the Månavadharma†åstra also contains similar material, most of these stanzas do  not appear in either source. The names Vyåsa and Manu rather stand for dharma†åstra in general, and the stanzas would seem to constitute a loose body of orally preserved individual maxims, most of which did not appear in any generally recognized compilation. This is evident from the fact that from one inscription to the next, even over a short period of time and in inscriptions of a single donor, the stanzas were recorded in varying forms and sequences. For an alphabetical list of most of these stanzas, see Sircar 1965, app. II: 170-201. 
+
+
     A AJOUTER Banerji1927-1928_02 The Kalvan Plates of Yaśovarman lines 32-33 c'est une stance rejétée par Sircar mais proche de BEst_0065
     
     A AJOUTER voir SV24  Nibinna Charter MSY Somac une stance sur l'impermanence + présente aussi dans DHARMA_INSSomavamsin00022
