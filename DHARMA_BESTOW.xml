@@ -2580,6 +2580,13 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                <div type="notes">
                    <note>2. Ep. Ind., Vol. XXXII, p. 70, text lines 21–22.</note><!-- checked but not yet encoded EI32_5_2.tif  -->
                </div>
+               <div type="inscriptions">
+                   <p>See the following inscriptions:
+                   <list>
+                       <item>CII6_4 = Prince of ales Museum Plates of Chhadvaideva, lines 65-66 with variation in pāda c <bibl><ptr target="bib:Mirashi1977_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">8-17</citedRange></bibl></item>
+                       <item>EI32_5 = Grant of Vijjala śaka 969 <bibl><ptr target="bib:Sircar1957-1958_07"/><citedRange unit="item">2</citedRange><citedRange unit="page">68-71</citedRange></bibl>lines 21-22 (reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                   </list></p>
+               </div>
            </div>          
            <div xml:id="BEst_0074">
                <div type="text">
@@ -2772,6 +2779,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                         <l n="c">śataṃ kanyānṛte hanti</l>
                         <l n="d">sahasraṃ puruṣānṛte</l>
                     </lg>
+                    <p>The above text is quoted in the Janjirā Plates (set 1) of Aparājita śaka year 915 (993AD), lines 76-77 (see <bibl><ptr target="bib:Mirashi1977_01"/><citedRange unit="item">5</citedRange><citedRange unit="page">23</citedRange></bibl>.</p>
                      <l>Pañca paśv-anr̥te hanti, etc. See Nos. 80-81, note. </l>
                     <l>Śāstreṣu, etc. See No. 15, note. </l>
             <l>Śatam=aśv-ānr̥te hanti, etc. Sec Nos. 80-81, note. </l>
@@ -2820,10 +2828,12 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                       <l n="c">sa baddho vāruṇaiḥ pāśais</l>
                       <l n="d">tiryag yonyāṁ tu jāyate</l>
                   </lg>
-                    <l>Pañca paśv-anr̥te hanti, etc. See Nos. 80-81, note. </l>
+                    <p>See also Janjirā Plates (set 1) of Aparājita śaka year 915 (993AD), lines 76-77 (see <bibl><ptr target="bib:Mirashi1977_01"/><citedRange unit="item">5</citedRange><citedRange unit="page">23</citedRange></bibl></p>
+                   <!-- 
+                       <l>Pañca paśv-anr̥te hanti, etc. See Nos. 80-81, note. </l>
                     <l>Śāstreṣu, etc. See No. 15, note. </l>
-            <l>Śatam=aśv-ānr̥te hanti, etc. Sec Nos. 80-81, note. </l>
-                    <l>hanti jātān=ajatāṁś=ca, etc. See No. 81.</l>
+                       <l>Śatam=aśv-ānr̥te hanti, etc. Sec Nos. 80-81, note. </l>
+                    <l>hanti jātān=ajatāṁś=ca, etc. See No. 81.</l> -->
                 </div>
                 <div type="notes">
                       <note>1. Mys. Arch. Rep., 1910, paragraphs 47-50. The second stanza is sometimes found
@@ -4076,6 +4086,13 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p rend="stanza">A conch, a throne, an umbrella, the BEst horses and elephants are the flowers of land-donation, its fruit is the sky, o destroyer of strongholds!</p>
                 </div>
                 <div type="variation">
+                    <p>A variation of the pādas ab can be read in the Janjirā Plates (set 1) of Aparājita śaka year 915 (993AD), lines 81-82 (see CII6_5 = <bibl><ptr target="bib:Mirashi1977_01"/><citedRange unit="item">5</citedRange><citedRange unit="page">23</citedRange></bibl>):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">dhavalāny ātapatrāṇi</l>
+                        <l n="b">dantinaśca madotkaṭāḥ</l>
+                        <l n="c">bhūmi-dānasya puṣpāṇi</l>
+                        <l n="d">phalaṁ svargaḥ purandara</l>
+                    </lg>
                     <l>Siṁhāsanaṁ tathā chatraṁ, etc. See No 119, note. </l>
                     <l>Dhavalāny=ātapatrāṇi, etc. See No. 119, note.</l>
                 </div>
@@ -4442,6 +4459,12 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                 (op. cit., p. 481) and Ballāla (op. cit., p. 316) assign it to the Mahābhārata (cf.
                 XIII, 62) and the Dāna-Br̥haspati respectively.</note><!-- Found also in Lakṣmīdhara KKT 10.10 (Brick) and he ascribes it to dānabr̥haspatiḥ, caution for Brick this verse is found in Hemādri p.498 and not p.481 -->
                 </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>CII6_4 = Prince of Wales Museum Plates of Chhadvaideva, lines  (<bibl><ptr target="bib:Mirashi1977_01"/><citedRange unit="item">4</citedRange><citedRange unit="page">8-17</citedRange></bibl>)</item>
+                    </list></p>
+                </div>
                 <div type="occurences">
                     <p>This verse can be read without variations in the <title>Mahābhārata</title> 13.61.47*341_01-02 (GRETIL).</p>
                     <p>According to <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the stanza can be read in (need to check):
@@ -4675,7 +4698,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                 <div type="variation">
                     <l>sarva-sasya–samr̥ddhāṁ, etc. See No. 132, note. </l>
                     <l>Aṅgam=ekam, etc. See No. 132, note. </l>
-                    <p>This verse is found with several variations in the epigraphical records. Below the standard stanza edited by <bibl><ptr target="bib:Sircar1965_03"/></bibl> (numbered here BEst_132_00), I have listed all the major variations and have numbered them with an extented number. Each of these major variations can present minor variations. Below are the minor variations of the verse 132_00. </p>
+                    <p>This verse is found with several variations in the epigraphical records. Below the standard stanza edited by <bibl><ptr target="bib:Sircar1965_03"/></bibl> (numbered here BEst_0132_00), I have listed all the major variations and have numbered them with an extented number. Each of these major variations can present minor variations. Below are the minor variations of the verse 132_00. </p>
                  <p>The verse 132v00 is found with a regular variation on the pāda c: <foreign>sva-viṣṭhāyāṁ</foreign> or <foreign>śva-viṣṭhāyāṁ</foreign> instead of <foreign>sa viṣṭhāyāṁ</foreign> : see for example <ref target="INSCIK00055.xml">Stela from Kdei Ang (K. 55), 6th century Śaka</ref>; lines 7-8.</p> 
                  <p>For the <foreign>sva-viṣṭhāyāṁ</foreign> variation, see the <ref target="DHARMA_INSSiddham00131.xml">Ghagrahati Charter of the Time of Samācāradeva, Year 14</ref>:</p>
                  <lg met="anuṣṭubh">
@@ -5074,6 +5097,13 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
                         <l n="d">narakāyā jāyāta kr̥miḥ</l>
                     </lg>
+                   <p>The verse is quoted in the Nala Inscription of Rāmacandra Yādava Śaka 1233 (<bibl><ptr target="bib:Bhoir2003_01"/></bibl>, lines 9-11):</p>
+                    <lg met="anuṣṭubh">
+                        <l n="a">sva-dattāṁ para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām</l>
+                        <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
+                        <l n="d">caṇḍālo jāyāte kr̥miḥ</l>
+                    </lg>
                </div>
                <div type="inscriptions">
                    <p>Sircar's reference : CII, Vol. III, p. 289.</p>
@@ -5290,7 +5320,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                 <div type="notes">
-                    <p>This verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 11-13 (EI23.21 = <bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) and is followed by a variation of BEst_0132_03. </p>
+                    <p>This verse is quoted in the Upalada Plates of Ranaka Ramadeva, lines 11-13 (EI23_21 = <bibl><ptr target="bib:Chhabra1935-1936_03"/></bibl>) and is followed by a variation of BEst_0132_03. </p>
                 </div>
             </div>
             <div xml:id="BEst_0132v11">
@@ -5303,7 +5333,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     </lg>
                 </div>
                 <div type="notes">
-                    <p>This variation is quoted in the Ipur plates of Madhavavarman II, line 13 (see <bibl><ptr target="bib:Hultzsch1923-1924_04"/></bibl>).<!-- EI17_20 --></p>
+                    <p>This variation is quoted in the Ipur plates of Madhavavarman II, line 13 (see EI17_20 = <bibl><ptr target="bib:Hultzsch1923-1924_04"/></bibl>).<!-- EI17_20 --></p>
                 </div>
             
             </div>
@@ -7013,6 +7043,58 @@ Apaharet durāśaḥ śāsanaṃ devatānāṃ narakagattanagarttāvarttapātots
                         <p></p>
                     </div>
                 </div>
+            <div xml:id="BEst_0195">
+                <div type="text">
+                    <lg met="">
+                        <l n="a">vaṁśe madīye yadi kopibhayaḥ</l>
+                        <l n="b">śiṣṭo ‘thavā duṣṭataro vinaṣṭaḥ</l>
+                        <l n="c">vyatikramaṃ cātra karoti tasya</l>
+                        <l n="d">tātaḥ kharaḥ sūkarikā ca mātā</l>
+                    </lg>
+                </div>
+                <div type="translation">
+                    <p>If anyone born in my lineage, without fear of my wrath, whether virtuous, vile or ruined, transgresses this act, his father shall be a donkey and his mother a sow. </p>
+                </div>
+                <div type="bibliography">
+                    <p>Interestingly, this stanza is followed by an explicit iconographic representation of the curse described (see <bibl><ptr target="bib:Panday1918_01"/></bibl>). </p>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>The Janibigha inscription, lines 10-13, <bibl><ptr target="bib:Panday1918_01"/><citedRange unit="page">279</citedRange></bibl></item>
+                    </list></p>
+                </div>
+            </div>
+            <div xml:id="BEst_0196">
+                <div type="text">
+                    <lg met="">
+                        <l n="a">kuryāc ca yo 'nyathā dānaṁ</l>
+                        <l n="b">sadbhiḥ sammāna-vardhitaṁ</l>
+                        <l n="c">khuḍḍikā sūkarī mātā</l>
+                        <l n="d">pitā tasyaiva gardabhaḥ</l>
+                    </lg>
+                </div>
+                <div type="translation">
+                    <p>The man who would do anything else with this gift, whose merit has been increased by people of good character, his father will be a donkey and his mother a small sow.</p>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>Inscription A on a stele belonging to the monastery 1, Ratnagiri, verse 3, lines 5-6 (see volume 1 <bibl><ptr target="bib:Mitra1981-1983_01"/><citedRange unit="page">212-215</citedRange></bibl></item>
+                    </list></p>
+                </div>
+            <div type="variation">
+                <p>A stanza whose meaning is close to BEst_0196 is legible on a second stele belonging to the monastery 1, Ratnagiri, verse 4, lines 7-8 (see volume 1 <bibl><ptr target="bib:Mitra1981-1983_01"/><citedRange unit="page">212-215</citedRange></bibl>:</p>
+                <lg met="">
+                    <l n="a">haranti <supplied reason="subaudible">ye</supplied> dhruvaṁ te<supplied reason="subaudible">ṣām</supplied></l>
+                    <l n="b">... gardabhaḥ pitā</l>
+                    <l n="c">teṣā<supplied reason="omitted">ṁ</supplied> kalmaṣa<supplied reason="subaudible">liptānāṁ</supplied></l>
+                    <l n="d">mātā <unclear>bha</unclear>va<unclear>ti</unclear> sūkarī</l>
+                </lg>
+                <p>The two steles feature an explicit iconographic representation showing a donkey mounting a sow and below a couple consisting of a man and a woman in a different but unfavourable position (see plate CLXII, volume 1 <bibl><ptr target="bib:Mitra1981-1983_01"/></bibl>. </p>
+                <p>As the inscription is not edited but just described, it seems that the Danteśvarī guḍī inscription of Narasiṃhadeva (=EI9_19_5, see <bibl><ptr target="bib:HiraLal1907-1908_04"/><citedRange unit="page">163-164</citedRange></bibl>) presents an iconographic represtention of the curse and includes the text <foreign>yo 'nyathā karoti tasya pitā gardabhaḥ śukarī mātā</foreign>. Two other steles found in the same Bastar state have the same sentence and apparently the same iconographic representation of the curse (EI10_5 = <bibl><ptr target="bib:HiraLal1909-1910_01"/></bibl>, there is no facsimile). The lines 7-9 of the Sujanagar stone inscription of the time of Bhojavarman, year 7 (see <bibl><ptr target="bib:Furui2019_02"/><citedRange unit="page">116-117</citedRange></bibl>) contain the following text and an iconographic representation of the curse: <foreign>etāṃ kīrttiṁ ye paripālayanti teṣāṃ eṣo dharmmaḥ tadīyapārśve ca śuddhāñjalir mmateti ye punar anyathā kurvanti gardabhas teṣāṃ piteti</foreign> 'For those who protect this pious deed, tehre would be this religious merit. On the side of them, the mother will be the one making pure salutation. The father of those who do otherwise again will be an ass.' (Furui's translation). </p>
+                </div>
+           </div>
         </body>
     </text>
 </TEI>
