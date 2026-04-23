@@ -93,13 +93,12 @@
             <!--edition encoded as per EGD §§2−7-->
              
 
-                  <p><lb 
-n="1"/><g type="spiral">.</g> siddham mahārājasya Ikṣvākūnāṁ śrī-Ehavala-cantamūlasya samvatsaraṁ caturvvīśaṁ varṣa-pakṣaṁ catu<unclear>rttha</unclear>ṃ divasaṁ pañcamaṃ śrī-<unclear>parvvate</unclear>  <unclear>vijaya</unclear>-p<choice><orig>u</orig><reg>ū</reg></choice>rryāṁ ma<unclear>hā</unclear>devī-<unclear>pa</unclear>rive<unclear>ṇ</unclear>e Iru<unclear cert="low">sakā</unclear>nāṁ <unclear>kula</unclear>-prasū<unclear>tasya</unclear> ba<unclear cert="low">raṇa</unclear>kīyānāṁ <choice><orig>I</orig><reg>Ī</reg></choice><unclear>śvarada</unclear>ttasya putreṇa syandaka-parvvata-śreṣṭhinā ku<unclear>mā</unclear>ranandinā saha bharyyāya śreṣṭhinīya putreṇa ca Iśvarabharttinā śeṣeṇa ca svajana-sambandhi-varggeṇa Iyaṁ <unclear>bha</unclear>gavot<choice><sic>o</sic><corr>a</corr></choice>ḥ sar<choice><orig>tva</orig><reg>vva</reg></choice>sat<supplied reason="omitted">t</supplied>votta<unclear>masya</unclear> sarvva-guṇa-pāram<choice><sic>i</sic><corr>ī</corr></choice>-prāptasya samyak-sambuddha<unclear>s</unclear>ya śailamayī pratimā pratiṣṭhāpitā Ātmanaḥ sarvva-sat<supplied reason="omitted">t</supplied>vānāñ ca hita-<unclear>su</unclear>khārtthaṁ bhavati cātra ślok<choice><sic>ā</sic><corr>aḥ</corr></choice><g type="ddanda">.</g></p> 
+                  <p><lb n="1"/><g ref="sym:spiral" type="punctuation">.</g> siddham mahārājasya Ikṣvākūnāṁ śrī-Ehavala-cantamūlasya samvatsaraṁ caturvvīśaṁ varṣa-pakṣaṁ catu<unclear>rttha</unclear>ṃ divasaṁ pañcamaṃ śrī-<unclear>parvvate</unclear>  <unclear>vijaya</unclear>-p<choice><orig>u</orig><reg>ū</reg></choice>rryāṁ ma<unclear>hā</unclear>devī-<unclear>pa</unclear>rive<unclear>ṇ</unclear>e Iru<unclear cert="low">sakā</unclear>nāṁ <unclear>kula</unclear>-prasū<unclear>tasya</unclear> ba<unclear cert="low">raṇa</unclear>kīyānāṁ <choice><orig>I</orig><reg>Ī</reg></choice><unclear>śvarada</unclear>ttasya putreṇa syandaka-parvvata-śreṣṭhinā ku<unclear>mā</unclear>ranandinā saha bharyyāya śreṣṭhinīya putreṇa ca Iśvarabharttinā śeṣeṇa ca svajana-sambandhi-varggeṇa Iyaṁ <unclear>bha</unclear>gavot<choice><sic>o</sic><corr>a</corr></choice>ḥ sar<choice><orig>tva</orig><reg>vva</reg></choice>sat<supplied reason="omitted">t</supplied>votta<unclear>masya</unclear> sarvva-guṇa-pāram<choice><sic>i</sic><corr>ī</corr></choice>-prāptasya samyak-sambuddha<unclear>s</unclear>ya śailamayī pratimā pratiṣṭhāpitā Ātmanaḥ sarvva-sat<supplied reason="omitted">t</supplied>vānāñ ca hita-<unclear>su</unclear>khārtthaṁ bhavati cātra ślok<choice><sic>ā</sic><corr>aḥ</corr></choice><g ref="sym:doubleBar" type="punctuation">.</g></p> 
              <lg n="1" met="anuṣṭubh"><!-- best_0179 -->
                  <l n="a">deya-dharmmam idaṁ kṛtvā</l>
-                  <l n="b">yat puṇyaṁ samupārjjitaṁ<g type="danda">.</g></l>
+                  <l n="b">yat puṇyaṁ samupārjjitaṁ<g ref="sym:bar" type="punctuation">.</g></l>
                   <l n="c">tena puṇyeṇa loko 'yaṁ</l>
-                  <l n="d">nirvvāṇam adhigacchatu<g type="ddanda">.</g></l>
+                  <l n="d">nirvvāṇam adhigacchatu<g ref="sym:doubleBar" type="punctuation">.</g></l>
              </lg>
          </div>
          <div type="apparatus">

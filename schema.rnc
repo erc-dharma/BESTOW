@@ -1,0 +1,154 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+
+start =
+  element TEI {
+    attribute xml:lang { xsd:NCName },
+    element teiHeader {
+      element fileDesc {
+        element titleStmt {
+          title,
+          element editor {
+            attribute ref { xsd:NMTOKEN },
+            element persName {
+              element forename { xsd:NCName },
+              element surname { xsd:NCName }
+            }
+          }
+        },
+        element publicationStmt {
+          element authority { xsd:NCName },
+          element pubPlace { xsd:NCName },
+          element idno {
+            attribute type { xsd:NCName },
+            xsd:NCName
+          },
+          element availability {
+            element licence {
+              attribute target { xsd:anyURI },
+              p+
+            }
+          },
+          element date {
+            attribute from { xsd:integer },
+            attribute to { xsd:integer },
+            xsd:NMTOKEN
+          }
+        },
+        element sourceDesc { p }
+      },
+      element encodingDesc {
+        element projectDesc { p },
+        element schemaRef {
+          attribute key { xsd:NCName },
+          attribute type { xsd:NCName },
+          attribute url { xsd:anyURI }
+        },
+        element listPrefixDef {
+          element prefixDef {
+            attribute ident { xsd:NCName },
+            attribute matchPattern { text },
+            attribute replacementPattern { xsd:anyURI },
+            p
+          }+
+        }
+      },
+      element revisionDesc {
+        element listChange {
+          element change {
+            attribute when { xsd:date },
+            attribute who { xsd:NMTOKEN },
+            text
+          }+
+        }
+      }
+    },
+    element text {
+      attribute xml:space { xsd:NCName },
+      element body { \div+ }
+    }
+  }
+title = element title { text }
+p =
+  element p {
+    attribute rend { xsd:NCName }?,
+    (text
+     | bibl
+     | foreign
+     | lg
+     | note
+     | ref
+     | supplied
+     | title
+     | element list {
+         element item { (text | bibl | foreign | p | ref | title)+ }+
+       })+
+  }
+\div =
+  element div {
+    attribute resp { xsd:NMTOKEN }?,
+    attribute source { xsd:anyURI }?,
+    attribute type { xsd:NCName }?,
+    attribute xml:id { xsd:NCName }?,
+    \div?,
+    (bibl | (l | lg | p)* | note*)
+  }
+bibl =
+  element bibl {
+    (text
+     | foreign
+     | title
+     | element citedRange {
+         attribute unit { xsd:NCName },
+         text
+       }
+     | element ptr {
+         attribute target { xsd:anyURI }?
+       })+
+  }
+foreign = element foreign { text }
+ref =
+  element ref {
+    attribute target { xsd:NCName }?,
+    text
+  }
+lg =
+  element lg {
+    attribute met { text },
+    attribute n { xsd:integer }?,
+    l+
+  }
+supplied =
+  element supplied {
+    attribute reason { xsd:NCName },
+    (text | foreign)+
+  }
+note = element note { (text | bibl | foreign | lg | ref | title)+ }
+l =
+  element l {
+    attribute enjamb { xsd:NCName }?,
+    attribute met { xsd:NCName }?,
+    attribute n { xsd:NCName }?,
+    attribute real { text }?,
+    (text
+     | corr
+     | supplied
+     | unclear
+     | element choice {
+         (element sic { (text | unclear)+ },
+          corr)
+         | unclear+
+       }
+     | element g {
+         attribute type { xsd:NCName },
+         xsd:NMTOKEN
+       }
+     | element space {
+         attribute type { xsd:NCName }
+       })+
+  }
+unclear =
+  element unclear {
+    attribute cert { xsd:NCName }?,
+    text
+  }
+corr = element corr { text }

@@ -93,68 +93,45 @@
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1r"/>
               <p>
-                  <lb 
-n="1"/><lb 
-n="2"/><lb 
-n="3"/><lb 
-n="4"/><lb 
-n="5"/><lb 
-n="6"/><lb 
-n="7"/><lb 
-n="8"/><lb 
-n="9"/><lb 
-n="10"/><lb 
-n="11"/><lb 
-n="12"/><lb 
-n="13"/><lb 
-n="14"/><lb 
-n="15"/><lb 
-n="16"/><lb 
-n="17"/><lb 
-n="18"/>yathā dīyam<choice><sic>a</sic><corr>ā</corr></choice>nasya bhāgabhogakarahira<choice><orig>n</orig><reg>ṇ</reg></choice>yadaṇdādāyādi<choice><sic>kuvitānvacitaṁ</sic><corr>kamucitanucita</corr></choice>prabhṛtayastatsarccamasyopanetavyaṁ<g type="ddanda">.</g></p>
+                  <lb n="1"/><lb n="2"/><lb n="3"/><lb n="4"/><lb n="5"/><lb n="6"/><lb n="7"/><lb n="8"/><lb n="9"/><lb n="10"/><lb n="11"/><lb n="12"/><lb n="13"/><lb n="14"/><lb n="15"/><lb n="16"/><lb n="17"/><lb n="18"/>yathā dīyam<choice><sic>a</sic><corr>ā</corr></choice>nasya bhāgabhogakarahira<choice><orig>n</orig><reg>ṇ</reg></choice>yadaṇdādāyādi<choice><sic>kuvitānvacitaṁ</sic><corr>kamucitanucita</corr></choice>prabhṛtayastatsarccamasyopanetavyaṁ<g ref="sym:doubleBar" type="punctuation">.</g></p>
              <lg met="śālinī" n="2"><!-- best_0117 inversion ab/cd -->
-                       <l n="a">sarvvān<surplus>y</surplus> etān bh<choice><sic>a</sic><corr>ā</corr></choice><lb 
-n="19" break="no"/>vin<choice><sic>o</sic><corr>aḥ</corr></choice> pārthivendrā<supplied reason="omitted">n</supplied></l>
+                       <l n="a">sarvvān<surplus>y</surplus> etān bh<choice><sic>a</sic><corr>ā</corr></choice><lb n="19" break="no"/>vin<choice><sic>o</sic><corr>aḥ</corr></choice> pārthivendrā<supplied reason="omitted">n</supplied></l>
                     <l n="b">bhūyo bhūy<choice><sic>aḥ</sic><corr>o</corr></choice> yācate rāmabhadraḥ</l>
                     <l n="c">sāmānyo 'yaṁ dharmma-setur nr̥pāṇāṁ</l>
                     <l n="d">kāle <num value="2">2</num> pālanīyo bhavadbhiḥ</l>
                     
                     </lg>
               <lg met="anuṣṭubh" n="3"><!-- best_0029 -->
-                <l n="a">bhūm<choice><sic>ī</sic><corr>iṁ</corr></choice> yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti<surplus><g type="danda">.</g></surplus></l>
-                <l n="b">yaś ca<lb 
-n="20"/>bhūmiṁ prayacch<choice><sic>ā</sic><corr>a</corr></choice>ti<g type="danda">.</g></l>
-                <l n="c">Ubhau tau pu<choice><orig>n</orig><reg>ṇ</reg></choice>ya-karmmāṇau<surplus><g type="danda">.</g></surplus></l>
+                <l n="a">bhūm<choice><sic>ī</sic><corr>iṁ</corr></choice> yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti<surplus><g ref="sym:bar" type="punctuation">.</g></surplus></l>
+                <l n="b">yaś ca<lb n="20"/>bhūmiṁ prayacch<choice><sic>ā</sic><corr>a</corr></choice>ti<g ref="sym:bar" type="punctuation">.</g></l>
+                <l n="c">Ubhau tau pu<choice><orig>n</orig><reg>ṇ</reg></choice>ya-karmmāṇau<surplus><g ref="sym:bar" type="punctuation">.</g></surplus></l>
                 <l n="d">niyatau svargga-gāminau</l>
                     </lg>
              <lg met="anuṣṭubh" n="4"><!-- best_0123 -->
                    <l n="a">saṣṭ<surplus>h</surplus>i<surplus>r</surplus>vvarṣa–sahasrāṇi</l>
                    <l n="b">svargge modati bhūmidaḥ</l>
                    <l n="c"><choice><sic>A</sic><corr>Ā</corr></choice>cchet<supplied reason="omitted">t</supplied>ā cān<supplied reason="omitted">u</supplied>mantā <choice><orig>vva</orig><reg>ca</reg></choice></l>
-                   <l n="d">t<choice><sic>a</sic><corr>ā</corr></choice>n<supplied reason="omitted">y</supplied> e<lb 
-n="21" break="no"/>va narak<choice><sic>a</sic><corr>e</corr></choice> vaset<surplus>a</surplus><g type="danda">.</g></l>
+                   <l n="d">t<choice><sic>a</sic><corr>ā</corr></choice>n<supplied reason="omitted">y</supplied> e<lb n="21" break="no"/>va narak<choice><sic>a</sic><corr>e</corr></choice> vaset<surplus>a</surplus><g ref="sym:bar" type="punctuation">.</g></l>
                </lg>
              <lg met="anuṣṭubh" n="5"><!-- best_0132_05 -->
-                        <l n="a">sva-dāt<supplied reason="omitted">t</supplied>āṁ para-dat<supplied reason="omitted">t</supplied>āṁ <supplied reason="omitted">vā</supplied><surplus><g type="danda">.</g></surplus></l>
-                        <l n="b">y<choice><sic>e</sic><corr>o</corr></choice> har<choice><sic>anti</sic><corr>eta</corr></choice> vasundharāṁ<g type="danda">.</g></l>
-                        <l n="c"><choice><sic>s</sic><corr>ś</corr></choice>vāna-yoni-<choice><sic>s</sic><corr>ś</corr></choice>ataṁ gatvā<surplus><g type="danda">.</g></surplus></l>
-                        <l n="d">cāṇḍāleṣv abhijāyate<g type="danda">.</g></l>
+                        <l n="a">sva-dāt<supplied reason="omitted">t</supplied>āṁ para-dat<supplied reason="omitted">t</supplied>āṁ <supplied reason="omitted">vā</supplied><surplus><g ref="sym:bar" type="punctuation">.</g></surplus></l>
+                        <l n="b">y<choice><sic>e</sic><corr>o</corr></choice> har<choice><sic>anti</sic><corr>eta</corr></choice> vasundharāṁ<g ref="sym:bar" type="punctuation">.</g></l>
+                        <l n="c"><choice><sic>s</sic><corr>ś</corr></choice>vāna-yoni-<choice><sic>s</sic><corr>ś</corr></choice>ataṁ gatvā<surplus><g ref="sym:bar" type="punctuation">.</g></surplus></l>
+                        <l n="d">cāṇḍāleṣv abhijāyate<g ref="sym:bar" type="punctuation">.</g></l>
                     </lg>
              <lg met="anuṣṭubh" n="6"><!-- best_0150 -->
                         <l n="a">viṁdhyāṭavīṣv a-toyāsu</l> 
-                        <l n="b">śuṣka-koṭara<lb 
-n="22" break="no"/>-vāsinaḥ</l>
+                        <l n="b">śuṣka-koṭara<lb n="22" break="no"/>-vāsinaḥ</l>
                         <l n="c">marusarppābhijāyaṁte</l> 
-                        <l n="d"><choice><sic>j</sic><corr>y</corr></choice>e haranti rasuddhacā<g type="danda">.</g></l>
+                        <l n="d"><choice><sic>j</sic><corr>y</corr></choice>e haranti rasuddhacā<g ref="sym:bar" type="punctuation">.</g></l>
                     </lg>
              <lg met="anuṣṭubh" n="7"><!-- variation of best_0137 -->
-                        <l n="a">vāpī-k<choice><sic>u</sic><corr>ū</corr></choice>pa-sahasrāṇi<surplus><g type="danda">.</g></surplus></l>
+                        <l n="a">vāpī-k<choice><sic>u</sic><corr>ū</corr></choice>pa-sahasrāṇi<surplus><g ref="sym:bar" type="punctuation">.</g></surplus></l>
                         <l n="b">Aśvamedha-śatāni ca</l>
                         <l n="c">gavāṁ koṭi-pradānena</l>
-                        <l n="d">bhūmi-hartā na<lb 
-n="23"/>śudhyati<g type="ddanda">.</g></l>
+                        <l n="d">bhūmi-hartā na<lb n="23"/>śudhyati<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
-             <p>maṅgalaṁ mahāśrīḥ<g type="danda">.</g> Akṣapaṭalikayaśobhaṭena likhitaṁ<g type="ddanda">.</g>
+             <p>maṅgalaṁ mahāśrīḥ<g ref="sym:bar" type="punctuation">.</g> Akṣapaṭalikayaśobhaṭena likhitaṁ<g ref="sym:doubleBar" type="punctuation">.</g>
 
                   </p>
          </div>

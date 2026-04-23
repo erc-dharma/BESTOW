@@ -94,58 +94,26 @@
              <pb n="1v"/>
                   <pb n="1r"/>
              
-                  <lb 
-n="1"/><lb 
-n="2"/><lb 
-n="3"/><lb 
-n="4"/>
+                  <lb n="1"/><lb n="2"/><lb n="3"/><lb n="4"/>
                   <pb n="2v"/>
-             <lb 
-n="5"/><lb 
-n="6"/><lb 
-n="7"/><lb 
-n="8"/><pb n="2r"/><lb 
-n="9"/><lb 
-n="10"/><lb 
-n="11"/><lb 
-n="12"/><pb n="3r"/><lb 
-n="13"/><lb 
-n="14"/><lb 
-n="15"/><lb 
-n="16"/><pb n="3v"/><lb 
-n="17"/><lb 
-n="18"/><lb 
-n="19"/><lb 
-n="20"/><pb n="4r"/><lb 
-n="21"/><lb 
-n="22"/><lb 
-n="23"/><lb 
-n="24"/><p>kaścid enam pālāyati so rudra-loke devagaṇā
-    <pb n="4v"/><lb 
-n="25"/>koṭī-<choice><orig>s</orig><reg>ś</reg></choice>ata-sahasreṇa svar<choice><orig>gg</orig><reg>g</reg></choice>ina sukha<supplied reason="omitted">ṁ</supplied> modati vi<unclear>ja</unclear><lb 
-n="26" break="no"/>yarājya-saṁvassaraṁbuḷ <num value="10">10</num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></p>
+             <lb n="5"/><lb n="6"/><lb n="7"/><lb n="8"/><pb n="2r"/><lb n="9"/><lb n="10"/><lb n="11"/><lb n="12"/><pb n="3r"/><lb n="13"/><lb n="14"/><lb n="15"/><lb n="16"/><pb n="3v"/><lb n="17"/><lb n="18"/><lb n="19"/><lb n="20"/><pb n="4r"/><lb n="21"/><lb n="22"/><lb n="23"/><lb n="24"/><p>kaścid enam pālāyati so rudra-loke devagaṇā
+    <pb n="4v"/><lb n="25"/>koṭī-<choice><orig>s</orig><reg>ś</reg></choice>ata-sahasreṇa svar<choice><orig>gg</orig><reg>g</reg></choice>ina sukha<supplied reason="omitted">ṁ</supplied> modati vi<unclear>ja</unclear><lb n="26" break="no"/>yarājya-saṁvassaraṁbuḷ <num value="10">10</num> māsa-pakkaṁ <num value="8">8</num> gihmā <num value="5">5</num></p>
              <lg met="anuṣṭubh" n="2"> <!-- variation on pada b best_0023 -->     
-            <l n="a"><lb 
-n="27"/>bahubhir vvasudhā datt<unclear>ā</unclear></l>
+            <l n="a"><lb n="27"/>bahubhir vvasudhā datt<unclear>ā</unclear></l>
             <l n="b">bahubhiś cānupalitā</l>
-            <l n="c">yasya <lb 
-n="28"/>yasya yadā bhūmi<choice><sic>ṁ</sic><corr>s</corr></choice></l>
+            <l n="c">yasya <lb n="28"/>yasya yadā bhūmi<choice><sic>ṁ</sic><corr>s</corr></choice></l>
             <l n="d">tasya tasya tadā phalam</l>
                        </lg>
                <lg met="anuṣṭubh" n="3"><!-- best_0132_03 + variation pada d  -->
-                        <l n="a"><pb n="5r"/><lb 
-n="29"/>sva-datt<supplied reason="omitted">ā</supplied>ṁ para-datt<supplied reason="omitted">ā</supplied>ṁ vā</l>
+                        <l n="a"><pb n="5r"/><lb n="29"/>sva-datt<supplied reason="omitted">ā</supplied>ṁ para-datt<supplied reason="omitted">ā</supplied>ṁ vā</l>
                         <l n="b">yo haret<choice><sic>i</sic><corr>a</corr></choice> vasundharām</l>
-                        <l n="c"><lb 
-n="30"/>ṣaṣṭi-varṣa-sahasrāṇi</l>
+                        <l n="c"><lb n="30"/>ṣaṣṭi-varṣa-sahasrāṇi</l>
                         <l n="d">narake pacyate dhruvam</l>
                     </lg>
              <lg met="anuṣṭubh" n="4"><!-- best_0057 -->
-                        <l n="a"><lb 
-n="31"/>gāvo bhūmi tathā bhāryyā</l>
+                        <l n="a"><lb n="31"/>gāvo bhūmi tathā bhāryyā</l>
                         <l n="b">Akramya hara mā nayā</l>
-                        <l n="c"><lb 
-n="32"/>śrāvayanti hi rājānāṁ</l>
+                        <l n="c"><lb n="32"/>śrāvayanti hi rājānāṁ</l>
                         <l n="d">brahma-hatyā ca lipyati</l>
                  </lg>
          </div>
