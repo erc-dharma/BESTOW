@@ -71,7 +71,7 @@
                     <p rend="stanza">It was given with ablutions; it has been enjoyed three times; it has been protected by noble men: these acts of the kings of olden days never cease.</p>
                 </div>              
                 <div type="bibliography">
-                    <p><bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">245</citedRange></bibl> quoted this verse as an usual one. <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">122</citedRange></bibl> quotes this stanza as the second in his list. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl> attributes the number 22 to this stanza.</p>
+                    <p><bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">245</citedRange></bibl> quoted this verse as a usual one. <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">122</citedRange></bibl> quotes this stanza as the second in his list. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1274</citedRange></bibl> attributes the number 22 to this stanza.</p>
 <!-- Levi1908 : Kadaamba Kṛṣṇavarman II + Kadamba Ravivarman -->
                 </div>
                 <div type="inscriptions">
@@ -872,20 +872,14 @@
                        <l n="c">yasya yasya yadā bhūmiḥ </l>
                        <l n="d">tasya tasya tadā phalam</l><!--   DHARMA_INSEIAD00167 ; this plate is interssting because it is one the the earliest plates of the Śālaṅkāya dynasty : the plate is in prakrit except for this final stanza which is inscribed alone on the fourth plate -->
                        </lg>
-                       <p>A variation of the pāda b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) can be read in SII 4.1030 <ref target="INSSIIv04p0i1030.xml">SII 4.1030: original edition by H. Krishna Sastri</ref>, lines 3-4:</p>
-                       <lg n="1" met="anuṣṭubh">
-                    <l n="a">bahubhir vasutā dattā</l>
-                    <l n="b">bahubhiś cānupālitā</l>
-                    <l n="c">yasya yasya yadā bhūmis</l>
-                    <l n="d">tasya tasya tadā phalaM</l>
-                </lg>
+                       
                  <!--       <l>Iyaṁ rāja-śatair-dattā, etc. Sec No. 23, note. </l>= 0023_01 -->
                  <!--       <l>Rājabhir=bahubhir=dattā, etc. See No. 23, note. </l> = 0023_02 -->
                   <!--       <l>Yānti kālena, etc. See No. 23, note. </l>= 0023_03  -->
                        <!--  <l>Yas=tu pālayate, etc. See No. 23, note. </l> = 0023_04 -->
                    </div>                               
                    <div type="bibliography">
-                       <p>This verse is already quoted as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>. It was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">124</citedRange><citedRange unit="item">11</citedRange></bibl>, who had already noticed that it was one of the most commonly quoted verses, found throughout the Indian sub-continent and even beyond, in Nepal for example. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">249</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 1 in the list of forty-three customary stanzas compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1271-1277</citedRange></bibl>. He edits this one with the reading <foreign>dattā</foreign> instead of <foreign>bhuktā</foreign> (pāda a). In his note 1, he offers a lot of epigraphic quotations of this verse and the following references: <title>PadmaPurāṇa</title>, VI, 33, 26-27; <title>BhaviṣyaPurāṇa</title>, IV, 164, 22 (with <foreign>bhuktā</foreign>, for <foreign>dattā</foreign>); <foreign>Br̥haspatisaṁhitā</foreign>, verse 26; <foreign>Vr̥ddha-Gautama</foreign>, according to Aparārka. </p>
+                       <p>This verse is already quoted as a usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>. It was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">124</citedRange><citedRange unit="item">11</citedRange></bibl>, who had already noticed that it was one of the most commonly quoted verses, found throughout the Indian sub-continent and even beyond, in Nepal for example. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">249</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 1 in the list of forty-three customary stanzas compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1271-1277</citedRange></bibl>. He edits this one with the reading <foreign>dattā</foreign> instead of <foreign>bhuktā</foreign> (pāda a). In his note 1, he offers a lot of epigraphic quotations of this verse and the following references: <title>PadmaPurāṇa</title>, VI, 33, 26-27; <title>BhaviṣyaPurāṇa</title>, IV, 164, 22 (with <foreign>bhuktā</foreign>, for <foreign>dattā</foreign>); <foreign>Br̥haspatisaṁhitā</foreign>, verse 26; <foreign>Vr̥ddha-Gautama</foreign>, according to Aparārka. </p>
                    </div>
                    <div type="inscriptions">
                        <p>See the following inscriptions:
@@ -1043,6 +1037,143 @@
                     <p><ref target="DHARMA_INSEI28_13.xml">Hiregutti Plates of Bhoja Aśaṁkita</ref> (<bibl><ptr target="bib:Desai1949-1950_02"/></bibl>, already quoted by <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="note">2</citedRange><citedRange unit="page">180</citedRange></bibl>).</p>
                 </div>
             </div>
+            <div xml:id="BEst_0023v06">
+                <div type="text">
+                       <lg n="1" met="anuṣṭubh">
+                    <l n="a">bahubhir vasutā dattā</l>
+                    <l n="b">bahubhiś cānupālitā</l>
+                    <l n="c">yasya yasya yadā bhūmis</l>
+                    <l n="d">tasya tasya tadā phalaM</l>
+                </lg>
+                </div>
+                <div type="translation">
+                    <p></p>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>SII 4.1030 = <ref target="INSSIIv04p0i1030.xml">SII 4.1030: original edition by H. Krishna Sastri</ref>, lines 3-4</item>
+                        <item>EIAD00159</item>
+                        <item>EIAD00160</item>
+                        <item>EIAD00161</item>
+                        <item>EIAD00162</item>
+                        <item>EIAD00163</item>
+                        <item>EIAD00164</item>
+                        <item>EIAD00165</item>
+                        <item>EIAD00166</item>
+                        <item>EIAD00168</item>
+                        <item>EIAD00174</item>
+                        <item>EIAD00175</item>
+                        <item>EIAD00180</item>
+                        <item>EIAD00185</item>
+                        <item>EIAD00186</item>
+                        <item>EIAD00187</item>
+                        <item>EIAD00188</item>
+                        <item>EIAD00189</item>
+                        <item>Pallava00004</item>
+                        <item>Pallava00008</item>
+                        <item>Pallava00009</item>
+                        <item>Pallava00011</item>
+                        <item>Pallava00012</item>
+                        <item>Pallava00013</item>
+                        <item>Pallava00014</item>
+                        <item>Pallava00015</item>
+                        <item>Pallava00016</item>
+                        <item>Pallava00045</item>
+                        <item>Pallava00053</item>
+                        <item>Pallava00077</item>
+                        <item>Pallava00376</item>
+                        <item>Pallava00377</item>
+                        <item>Pallava00396</item>
+                        <item>BadamiCalukya00004</item>
+                        <item>VengiCalukya00002</item>
+                        <item>VengiCalukya00004</item>
+                        <item>VengiCalukya00005</item>
+                        <item>VengiCalukya00006</item>
+                        <item>VengiCalukya00007</item>
+                        <item>VengiCalukya00008</item>
+                        <item>VengiCalukya00009</item>
+                        <item>VengiCalukya00010</item>
+                        <item>VengiCalukya00013</item>
+                        <item>VengiCalukya00014</item>
+                        <item>VengiCalukya00015</item>
+                        <item>VengiCalukya00017</item>
+                        <item>VengiCalukya00018</item>
+                        <item>VengiCalukya00020</item>
+                        <item>VengiCalukya00021</item>
+                         <item>VengiCalukya00022</item>
+                        <item>VengiCalukya00023</item>
+                        <item>VengiCalukya00024</item>
+                        <item>VengiCalukya00027</item>
+                        <item>VengiCalukya00028</item>
+                        <item>VengiCalukya00029</item>
+                        <item>VengiCalukya00030</item>
+                        <item>VengiCalukya00032</item>
+                        <item>VengiCalukya00034</item>
+                        <item>VengiCalukya00035</item>
+                        <item>VengiCalukya00036</item>
+                        <item>VengiCalukya00037</item>
+                        <item>VengiCalukya00040</item>
+                        <item>VengiCalukya00041</item>
+                        <item>VengiCalukya00042</item>
+                        <item>VengiCalukya00043</item>
+                        <item>VengiCalukya00044</item>
+                        <item>VengiCalukya00045</item>
+                        <item>VengiCalukya00048</item>
+                        <item>VengiCalukya00049</item>
+                        <item>VengiCalukya00053</item>
+                        <item>VengiCalukya00054</item>     
+                        <item>VengiCalukya00055</item>
+                        <item>VengiCalukya00056</item>
+                        <item>VengiCalukya00057</item>
+                        <item>VengiCalukya00059</item>
+                        <item>VengiCalukya00060</item>
+                        <item>VengiCalukya00061</item>
+                        <item>VengiCalukya00062</item>
+                        <item>VengiCalukya00063</item>
+                        <item>VengiCalukya00065</item>
+                        <item>VengiCalukya00066</item>
+                        <item>VengiCalukya00067</item>
+                        <item>VengiCalukya00069</item>
+                        <item>VengiCalukya00070</item>
+                        <item>VengiCalukya00071</item>
+                        <item>VengiCalukya00075</item>
+                        <item>VengiCalukya00077</item>
+                        <item>VengiCalukya00078</item>
+                        <item>VengiCalukya00079</item>
+                        <item>VengiCalukya00080</item>
+                        <item>VengiCalukya00081</item>
+                        <item>VengiCalukya00082</item>
+                        <item>VengiCalukya00083</item>
+                         <item>VengiCalukya00084</item>
+                        <item>VengiCalukya00085</item>
+                        <item>VengiCalukya00086</item>
+                        <item>VengiCalukya00087</item>
+                        <item>VengiCalukya00088</item>
+                        <item>VengiCalukya00089</item>
+                        <item>VengiCalukya00090</item>
+                        <item>VengiCalukya00091</item>
+                        <item>VengiCalukya00093</item>
+                        <item>VengiCalukya00094</item>
+                        <item>VengiCalukya00095</item>
+                        <item>VengiCalukya00096</item>
+                        <item>VengiCalukya00097</item>
+                        <item>VengiCalukya00099</item>
+                        <item>VengiCalukya00100</item>
+                        <item>VengiCalukya00101</item>
+                        <item>VengiCalukya00103</item>
+                        <item>VengiCalukya00104</item>
+                        <item>VengiCalukya000</item>
+                        <item>VengiCalukya000</item>
+                        <item>VengiCalukya000</item>
+                        <item>Telugu00018</item>
+                        <item>EI4_25</item>
+                    </list></p>
+                </div>
+                <div type="bibliography">
+                    <p>This variation is not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</p>
+                </div>
+            </div>
             <div xml:id="BEst_0024">
                 <div type="text">
                     <lg met="anuṣṭubh">
@@ -1179,7 +1310,7 @@
                     </list></p>
                 </div>
                 <div type="bibliography">
-                    <p>This verse was already quoted as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>. It was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">125</citedRange><citedRange unit="item">14</citedRange></bibl>. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 25 to this stanza.</p>
+                    <p>This verse was already quoted as a usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>. It was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">125</citedRange><citedRange unit="item">14</citedRange></bibl>. <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1275</citedRange></bibl> attributes the number 25 to this stanza.</p>
 <!-- Levi1908 : Viṣṇugopavarma siṃhavarman Kumāraviṣṇu tous les trois pallava -->
                 </div>
                <!-- Traduction Brocquet : issu de l'édition de TABLETTES DE YŪVAMAHĀRĀJA-VIṢṆUGOPAVARMAN A URUVUPALLI
@@ -3414,7 +3545,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                             <l n="c">viṣam ekākinaṁ hanti</l>
                             <l n="d">brahmasvaṁ putra-pautrakaṁ</l>
                 </lg>
-                   <p>One can find the following variation on the beginning of the pādas b and d (see for example VengiCalukya00096 = <ref target="INSVengiCalukya00096.xml">Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II</ref> lines 32-34; VengiCalukya00022 = <ref target="INSVengiCalukya00022.xml">Ceruvu Mādhavaram plates of Viṣṇuvardhana V</ref> lines 25-26; EI13_14 = <ref target="INSEI13_14.xml">Baṅkāpūr inscription of the time of Someśvara I and the Kādamba Harikeśarin śaka 977</ref> lines 58-59) (this variation is already quoted as an usual stanza by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">245</citedRange></bibl>) :</p>
+                   <p>One can find the following variation on the beginning of the pādas b and d (see for example VengiCalukya00096 = <ref target="INSVengiCalukya00096.xml">Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II</ref> lines 32-34; VengiCalukya00022 = <ref target="INSVengiCalukya00022.xml">Ceruvu Mādhavaram plates of Viṣṇuvardhana V</ref> lines 25-26; EI13_14 = <ref target="INSEI13_14.xml">Baṅkāpūr inscription of the time of Someśvara I and the Kādamba Harikeśarin śaka 977</ref> lines 58-59) (this variation is already quoted as a usual stanza by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">245</citedRange></bibl>) :</p>
                    <lg met="anuṣṭubh">
                             <l n="a">na viṣaṁ viṣam ity āhuḥ</l>
                             <l n="b">deva-svaṁ viṣam ucyate</l>
@@ -4597,7 +4728,7 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                 and mahibhr̥tām).</note>
             </div>
             <div type="bibliography">
-                       <p>This verse was already quoted as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>. It was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">23</citedRange></bibl>. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">251</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 6 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">195-196</citedRange></bibl> attributed the number 131 to this verse.</p>
+                       <p>This verse was already quoted as a usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>. It was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">23</citedRange></bibl>. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">251</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 6 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. <bibl><ptr target="bib:Sircar1965_03"/><citedRange unit="page">195-196</citedRange></bibl> attributed the number 131 to this verse.</p>
                    </div>
             </div>
             <!-- Kane 1941 vol 2_2 quotes the verse in his appendix as number 6  p 1272 -->
@@ -4806,7 +4937,7 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     Aparārka p 370 from āditya purāṇa  gupta inscriptions n 23 qnd n 26 p 119  IA VI p363 EI VI p45 EI XIII p 270 qnd 233 Padmapurāna VI 33 26-30-->                   
                 </div>
               <div type="bibliography">
-                       <p>This verse was already quoted as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>, but with one of the major variation quoted below (i.e. BEst_0123v02). BEst_132v00 was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">24</citedRange></bibl>. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">250</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 4 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. He quotes it with the following reading (pāda d):</p>
+                       <p>This verse was already quoted as a usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">244</citedRange></bibl>, but with one of the major variation quoted below (i.e. BEst_0123v02). BEst_132v00 was identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">24</citedRange></bibl>. <bibl><ptr target="bib:Pargiter1912_01"/><citedRange unit="page">250</citedRange></bibl> mentioned this verse as a customary one. This verse corresponds to the number 4 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. He quotes it with the following reading (pāda d):</p>
                   <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
@@ -4981,14 +5112,14 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                     <p rend="stanza">He who would seize land, whether given by himself or by another, imbibes the sin (<foreign>kilbiṣa</foreign>) of the slayer of a hundred thousand cows.</p>
                 </div>
                 <div type="bibliography">
-                     <p>This verse is already considered as an usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">243</citedRange></bibl>. This verse corresponds to the number 3 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. He quotes it with the following reading (pāda d): </p>
+                     <p>This verse is already considered as a usual one by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">243</citedRange></bibl>. This verse corresponds to the number 3 in the list compiled by <bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1272-1277</citedRange></bibl>. He quotes it with the following reading (pāda d): </p>
                     <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
                         <l n="c">gavāṁ śata-sahasrasya</l>
                         <l n="d">hantuḥ prāpnoti kilbiṣam</l>
                     </lg>
-                    <p> <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange></bibl> quotes this reading <foreign>hantuḥ prāpnoti kilbiṣaṃ</foreign> as an usual variation of BEst_0132v00.</p>
+                    <p> <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">127</citedRange></bibl> quotes this reading <foreign>hantuḥ prāpnoti kilbiṣaṃ</foreign> as a usual variation of BEst_0132v00.</p>
                 </div>
                 <div type="inscriptions">
                     <p>Sircar's reference : <bibl><ptr target="bib:Narasimhaswami1955-1956_01"/></bibl> which corresponds to <ref target="DHARMA_INSVengiCalukya00013.xml">Koṇeki grant of Viṣṇuvardhana II</ref>
