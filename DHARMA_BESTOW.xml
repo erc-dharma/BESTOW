@@ -3611,7 +3611,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                     <p>See the following inscriptions:
                     <list>
                         <item>Pallava00005 = <ref target="DHARMA_INSPallava00005">Oṃgoḍu grant, time of Skandavarman, year 33</ref>, lines 17-18 (EI15_11 <bibl><ptr target="bib:KrishnaSastri1919-1920_01"/></bibl>; already noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
-                        <item>Siddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17 (variation on pādas ab: brahmasvena viṣaṁ ghoraṁ na viṣair viṣam ucyate)</item>
+                        <item>Siddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17 (variation on pādas ab: <foreign>brahmasvena viṣaṁ ghoraṁ na viṣair viṣam ucyate</foreign>)</item>
                         <item>EIAD00170 = <ref target="INSEIAD00170">Gōraṇṭla plates of Attivarman, ca. 5th c. CE</ref><note>
                        I would like to thank Arlo Griffiths for bringing this example to my attention.
                    </note>, stanza 4, line 12</item>
@@ -3620,7 +3620,17 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 </div>
                 <div type="variation">
                     <p>The word <foreign>brahma-svaṃ</foreign> in pāda a and c is replaced by <foreign>deva-svaṁ</foreign> in Nagamandala Copper Plate Inscription, śaka saṃvat 698 (776-777ce) <!-- Manugiitaa 132_02 0023 98 --> (<bibl><ptr target="bib:Rice1873_01"/><citedRange unit="page">159</citedRange></bibl>; this plate is seen as a spurious grant by <bibl><ptr target="bib:Fleet1894-1895_06"/><citedRange unit="page">160</citedRange></bibl>).</p>
-                </div>       
+                </div>
+                <div type="occurences">
+                    <p>As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl> and under the item BEst_0098, the verse can be read in the <title>Vasiṣṭha Dharmasūtra</title>, 17.86 :</p>
+                   <lg met="anuṣṭubh">
+                            <l n="a">na viṣaṁ viṣam ity āhur</l>
+                            <l n="b">brahma-svaṁ viṣam ucyate</l>
+                            <l n="c">viṣam ekākinaṁ hanti</l>
+                            <l n="d">brahma-svaṁ putra-pautrikaṁ</l>
+</lg>
+<p>Interestingly, the quotation of this verse in <title>Vasiṣṭha Dharmasūtra</title> is preceded by <foreign>brahma-svaṃ tu viṣaṃ ghoraṃ</foreign>(17.85) which is actually the pāda a of BEst_0098v02.</p>
+                </div>
             </div>
             <div xml:id="BEst_0098v03">
                 <div type="text">
