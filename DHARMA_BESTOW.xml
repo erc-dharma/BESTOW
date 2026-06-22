@@ -3588,14 +3588,11 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                     <list>
-                        <item>EI4_49 = Kadaba plates of Prabhutavarsha; Saka-Samvat 735 (<bibl><ptr target="bib:Luders1896-1897_01"/><citedRange unit="page">345</citedRange></bibl>)</item>
+                        <item>EI4_49 = Kadaba plates of Prabhutavarsha; Saka-Samvat 735 (<bibl><ptr target="bib:Luders1896-1897_01"/><citedRange unit="page">345</citedRange></bibl>; already noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                     </list>
                     </p>
-                    
-                </div>
-                <div type="bibliography">
-                    <p>This variation was noticed first by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. In EI4_49, the variation was used when a village was donated for the upkeep of a temple, illustrating how a well-known verse is rewritten to suit the circumstances.
-</p>
+                    <p>In EI4_49, the variation was used when a village was donated for the upkeep of a temple, illustrating how a well-known verse is rewritten to suit the circumstances.
+</p>                   
                 </div>
             </div>
             <div xml:id="BEst_0098v02">
@@ -3613,7 +3610,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                     <list>
-                        <item>Pallava00005 = <ref target="DHARMA_INSPallava00005">Oṃgoḍu grant, time of Skandavarman, year 33</ref>, lines 17-18 (EI15_11 <bibl><ptr target="bib:KrishnaSastri1919-1920_01"/></bibl></item>
+                        <item>Pallava00005 = <ref target="DHARMA_INSPallava00005">Oṃgoḍu grant, time of Skandavarman, year 33</ref>, lines 17-18 (EI15_11 <bibl><ptr target="bib:KrishnaSastri1919-1920_01"/></bibl>; already noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                         <item>Siddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17 (variation on pādas ab: brahmasvena viṣaṁ ghoraṁ na viṣair viṣam ucyate)</item>
                         <item>EIAD00170 = <ref target="INSEIAD00170">Gōraṇṭla plates of Attivarman, ca. 5th c. CE</ref><note>
                        I would like to thank Arlo Griffiths for bringing this example to my attention.
@@ -3623,10 +3620,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 </div>
                 <div type="variation">
                     <p>The word <foreign>brahma-svaṃ</foreign> in pāda a and c is replaced by <foreign>deva-svaṁ</foreign> in Nagamandala Copper Plate Inscription, śaka saṃvat 698 (776-777ce) <!-- Manugiitaa 132_02 0023 98 --> (<bibl><ptr target="bib:Rice1873_01"/><citedRange unit="page">159</citedRange></bibl>; this plate is seen as a spurious grant by <bibl><ptr target="bib:Fleet1894-1895_06"/><citedRange unit="page">160</citedRange></bibl>).</p>
-                </div>
-                <div type="bibliography">
-                    <p>This variation was noticed first by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</p>
-                </div>           
+                </div>       
             </div>
             <div xml:id="BEst_0098v03">
                 <div type="text">
@@ -3643,37 +3637,10 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                 <div type="inscriptions">
                     <p>See the following inscriptions:
                     <list>
-                        <item>EI6_11 = Nilgund (stone) inscription of the time of Amoghavarsha I.; A.D. 866 (<bibl><ptr target="bib:Fleet1900-1901_02"/></bibl>)</item>
+                        <item>EI6_11 = Nilgund (stone) inscription of the time of Amoghavarsha I.; A.D. 866 (<bibl><ptr target="bib:Fleet1900-1901_02"/></bibl>; already noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
                     </list>
                     </p>
                 </div>
-                <div type="bibliography">
-                    <p>This variation was noticed first by <bibl><ptr target="bib:Sircar1965_03"/></bibl></p>
-                </div>
-            </div>
-            <div xml:id="BEst_0098v04">
-                <div type="text">
-                    <lg met="">
-                        <l n="a"></l>
-                        <l n="b"></l>
-                        <l n="c"></l>
-                        <l n="d"></l>
-                    </lg>
-                </div>
-                <div type="translation">
-                    <p></p>
-                </div>
-                <div type="inscriptions">
-                    <p>See the following inscriptions:
-                    <list>
-                        <item></item>
-                    </list>
-                    </p>
-                </div>
-                <div type="bibliography">
-                    <p>This variation was noticed first by <bibl><ptr target="bib:Sircar1965_03"/></bibl></p>
-                </div>
-                <p>Aviṣaṁ for Na viṣaṁ (ibid., Vol. VII, p. 324)</p>
             </div>
             <div xml:id="BEst_0099">
                 <div type="text">
