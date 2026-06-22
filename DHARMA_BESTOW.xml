@@ -1491,6 +1491,12 @@ Having observed this double and balancing fortune, may you work for the longevit
                         <l n="d">dahatyā saptamaṁ kulaM</l>
                    </lg>
                </div>
+               <div type="inscriptions">
+                   <p>See the following inscriptions:
+                   <list>
+                       <item>EI6_11 = Nilgund (stone) inscription of the time of Amoghavarsha I.; A.D. 866, line 32-33 (<bibl><ptr target="bib:Fleet1900-1901_02"/></bibl>, reference quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>)</item>
+                   </list></p>
+               </div>
                <div type="notes">
                    <note> 
                 4. Ep. Ind., Vol. VI, p. 102 text lines 33-34. Ibid Vol. XXV, p. 219, verse 52 has
@@ -1506,6 +1512,13 @@ Having observed this double and balancing fortune, may you work for the longevit
                     <l n="b">dahatyāsaptamaṃ kulam</l>
                     <l n="c">tad eva cauryarūpeṇa</l>
                     <l n="d">dahatyācandratārakam</l>
+                </lg>
+                <p>A variation attributed to the <title>Dānabṛhaspati</title> can be read in the <title>Gṛhasthakāṇḍa</title> of Lakṣmīdhara (p.318):</p>
+                <lg met="anuṣṭubh">
+                    <l n="a">brahmasvaṃ praṇayād bhuktaṃ</l>
+                    <l n="b">hanyād āsaptamaṃ kulam</l>
+                    <l n="c">vikrameṇa ca bhuktaṃ tad</l>
+                    <l n="d">daśapūrvān daśāparān </l>
                 </lg>
             </div>
                </div>
@@ -1558,6 +1571,7 @@ Having observed this double and balancing fortune, may you work for the longevit
                     <list>
                         <item>Br̥hāspatisaṁhitā, verse 45 (with ratiṁ for matiṁ)</item>
                     </list></p>
+                   <p>The verse is attributed to the <title>Dānabṛhaspati</title> can be read in the <title>Gṛhasthakāṇḍa</title> of Lakṣmīdhara (p.318).</p>
                 </div>
             </div>
             <div xml:id="BEst_0035">
@@ -3517,26 +3531,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                <div type="translation" resp="part:amwb">
                     <p rend="stanza">They said that the poison is not poison, the property of a brahmin is also said to be a poison: the poison kills only one man while the (steal of) a brahmin property kills sons and grandsons ! </p>
                 </div><!-- Lakṣmīdhara gṛhasthakāṇḍa p 317-318 dānabṛhaspati https://docs.google.com/document/d/1pbDnABNQ-j9aODuNqfYNFYK9jP8VGuUO6aRcT40gTVQ/edit?tab=t.0 -->
-               <div type="variation">
-                   <l>Aviṣaṁ viṣam=ity=āhu, etc. See No. 98, note. </l>
-                   <l>Brahma-svaṁ putra-pautraghnaṁ, etc. See No. 98, note. </l>
-                    <l>Brahma-svaṁ tu viṣam, etc. See No. 98, note. </l>
-                   <l>Deva-svaṁ tu viṣaṁ ghoram, etc. See No. 98, note.</l> <!-- EI6_11  -->
-                   <p>A variation of this stanza (pādas a and b) can be read in Pallava00005 = <ref target="DHARMA_INSPallava00005">Oṃgoḍu grant, time of Skandavarman, year 33</ref>, lines 17-18</p>
-                       <lg met="anuṣṭubh">
-        <l n="a">b<unclear>ra</unclear>h<unclear>ma</unclear>-svaṃ tu viṣaṃ <unclear>gho</unclear>raṃ</l>
-        <l n="b">na viṣaṃ viṣam ucyate</l>
-        <l n="c"><unclear>viṣan</unclear> t<unclear>v e</unclear>kākinaṃ hanti</l>
-        <l n="d">brahma-svaṃ putra-pautrika<choice><unclear>M</unclear><unclear>ṃ</unclear></choice></l>
-    </lg>    
-                       
-                      <p>An almost identical variation can be read in Siddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17:</p>
-                   <lg met="anuṣṭubh">
-                            <l n="a">brahmasvena viṣaṁ ghoraṁ</l>
-                            <l n="b">na viṣair viṣam ucyate</l>
-                            <l n="c">viṣam ekākinaṁ hanti</l>
-                            <l n="d">brahmasvaṁ putra-pautrakaṁ</l>
-                </lg>
+               <div type="variation">                 
                    <p>One can find the following variation on the beginning of the pādas b and d (see for example VengiCalukya00096 = <ref target="INSVengiCalukya00096.xml">Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II</ref> lines 32-34; VengiCalukya00022 = <ref target="INSVengiCalukya00022.xml">Ceruvu Mādhavaram plates of Viṣṇuvardhana V</ref> lines 25-26; INSVaria90013 (EI13_14) = <ref target="INSVaria90013.xml">Baṅkāpūr inscription of the time of Someśvara I and the Kādamba Harikeśarin śaka 977</ref> lines 58-59) (this variation is already quoted as a usual stanza by <bibl><ptr target="bib:Hopkins1885_01"/><citedRange unit="page">245</citedRange></bibl>) :</p>
                    <lg met="anuṣṭubh">
                             <l n="a">na viṣaṁ viṣam ity āhuḥ</l>
@@ -3544,28 +3539,16 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                             <l n="c">viṣam ekākinaṁ hanti</l>
                             <l n="d">deva-svaṁ putra-pautrikaṁ</l>
 </lg>
-               </div><!--  A variation in The Nāgamaṅgala grant of śripuruṣa pṛthuvī koṅgaṇi 50th royal reign śaka saṃvat 698 (776-777ce) Ind Ant vol 2 p 155 => Manugiitaa 132_02 0023 98 ; this plate is seen as a spurious grant by Fleet see EI3_25 p.160 -->
-               <div type="notes">
-                   <note>6. Ep. Ind., Vol. XXII, p. 167, text lines 35-36<!-- EI22_26 -->. In some cases, the first half
-                reads : Deva-svaṁ hi viṣaṁ ghoraṁ kālakūṭa-sama-prabham (ibid., vol. IV, p. 345).
-                Sometimes we have Brahma-svaṁ tu viṣaṁ ghoraṁ na viṣaṁ viṣam ucyate | viṣaṁ
-                tv ekā°(ibid., Vol. XV, p. 252) and deva-svaṁ for brahma-svaṁ or for Na viṣaṁ
-                (ibid., Vol. VI, p. 105) and Aviṣaṁ for Na viṣaṁ (ibid., Vol. VII, p. 324). The
-                stanza occurs in the Br̥haspatisaṁhitā, verses 46-47 (with pautrakam for pautrikam);
-                Vasiṣṭhasmr̥ti, 17, 86; Padma Purāṇa,VI, 33,45. The Baudhāyana Dharmasūtra (I, 11,
-                16) has the stanza as: Brahma-svaṁ putra-pautra-ghnaṁ viṣam ekākinaṁ haret | na
-                viṣaṁ, etc,</note><!-- From Sircar -->
-                   
                </div>
                <div type="bibliography">
-                   <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1273</citedRange></bibl> attributes the number 11 to this stanza in his list.</p><!-- Add that Lubin 2026 (p12 V01 paper) noticed that the word brahmasva is replaced by devasva in case of a grant issued to a deity example given Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II INSVengiCalukya00096 -->
+                   <p><bibl><ptr target="bib:Kane1941_01"/><citedRange unit="page">1273</citedRange></bibl> attributes the number 11 to this stanza in his list. Lubin ("What Were Grant Charters Good For? Religious, Political, and Legal Implications in Java and Bali", forthcoming) noticed that the word <foreign>brahmasva</foreign> is replaced by <foreign>devasva</foreign> in case of a grant issued to a deity (see for example, <ref target="INSVengiCalukya00096.xml">Peddāpurappāḍu plates (set 3) of Viṣṇuvardhana II</ref>. </p><!-- Sircar gives the reference: Aviṣaṁ for Na viṣaṁ (EI, Vol. VII, p. 324) but iti seems to be wrong -->
                </div>
                <div type="inscriptions">
                    <p>This verse can be read in the following inscriptions:
                    <list>
                        <item>EI22_26 = The Sarkho Plates of Ratnadeva II of the (Chedi) year 880, lines 35-36, <bibl><ptr target="bib:Mirashi1933-1934_05"/><citedRange unit="page">167</citedRange></bibl> (already mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl></item>
                        <item>inscription numbered 21 in <bibl><ptr target="bib:Chhabra1957_01"/></bibl> (this is the only inscription in this volume that quoted this stanza)</item>
-                       <item>Pandya10003 <ref target="INSPandya10003.xml">Śrīvaramaṅgala grant, time of Neṭuñcaṭaiyaṉ, year 17</ref>, lines 88-90</item>
+                       <item>Pandya10003 = <ref target="INSPandya10003.xml">Śrīvaramaṅgala grant, time of Neṭuñcaṭaiyaṉ, year 17</ref>, lines 88-90</item>
                    </list></p>
                </div>
                <div type="occurences">
@@ -3585,9 +3568,113 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                            <l n="d">brahma-svaṁ viṣam ucyate</l>
                        </lg>
                       <p>According to <bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">191</citedRange></bibl>, the book one and the first sixteen chapters of the book two belongs to the "proto-Baudhāyana". This author dates the composition of the <title>Baudhāyana Dharmasūtra</title> not before the middle of the second century BCE (<bibl><ptr target="bib:Olivelle2000_01"/><citedRange unit="page">10</citedRange></bibl>).  </p>
+                   <p>The verse is attributed to the <title>Dānabṛhaspati</title> can be read in the <title>Gṛhasthakāṇḍa</title> of Lakṣmīdhara (p.318) (not noticed by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</p>
+                   <p><bibl><ptr target="bib:Sircar1965_03"/></bibl> provides the following references, which I haven't checked yet: <title>Br̥haspatisaṁhitā</title>, verses 46-47 (with pautrakam for pautrikam); <title>Vasiṣṭhasmr̥ti</title>, 17, 86; <title>Padma Purāṇa</title>,VI, 33,45.</p>
                    
                </div>
            </div>
+            <div xml:id="BEst_0098v01">
+                <div type="text">
+                    <lg met="">
+                        <l n="a">deva-svaṁ hi viṣaṁ ghoraṁ</l>
+                        <l n="b">kālakūṭa-sama-prabham</l>
+                        <l n="c">viṣam ekākinaṁ hanti</l>
+                        <l n="d">deva-svaṁ putra-pautrikaṁ</l>
+                    </lg>
+                </div>
+                <div type="translation">
+                    <p>Indeed the property of a god is  a terrible poison, possessing a radiance equal to the Kālakuṭa [poison]: the poison kills only one man while the (steal of) a property of a god kills sons and grandsons !</p>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>EI4_49 = Kadaba plates of Prabhutavarsha; Saka-Samvat 735 (<bibl><ptr target="bib:Luders1896-1897_01"/><citedRange unit="page">345</citedRange></bibl>)</item>
+                    </list>
+                    </p>
+                    
+                </div>
+                <div type="bibliography">
+                    <p>This variation was noticed first by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. In EI4_49, the variation was used when a village was donated for the upkeep of a temple, illustrating how a well-known verse is rewritten to suit the circumstances.
+</p>
+                </div>
+            </div>
+            <div xml:id="BEst_0098v02">
+                <div type="text"> 
+                       <lg met="anuṣṭubh">
+        <l n="a">brahma-svaṃ tu viṣaṃ ghoraṃ</l>
+        <l n="b">na viṣaṃ viṣam ucyate</l>
+        <l n="c">viṣaṁ tv ekākinaṃ hanti</l>
+        <l n="d">brahma-svaṃ putra-pautrikam</l>
+    </lg>    
+                </div>
+                <div type="translation">
+                    <p></p>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>Pallava00005 = <ref target="DHARMA_INSPallava00005">Oṃgoḍu grant, time of Skandavarman, year 33</ref>, lines 17-18 (EI15_11 <bibl><ptr target="bib:KrishnaSastri1919-1920_01"/></bibl></item>
+                        <item>Siddham01032 = <ref target="DHARMA_INSSiddham01032.xml">Kāsipura Grant of Ravivarman</ref>, line 17 (variation on pādas ab: brahmasvena viṣaṁ ghoraṁ na viṣair viṣam ucyate)</item>
+                        <item>EIAD00170 = <ref target="INSEIAD00170">Gōraṇṭla plates of Attivarman, ca. 5th c. CE</ref><note>
+                       I would like to thank Arlo Griffiths for bringing this example to my attention.
+                   </note>, stanza 4, line 12</item>
+                    </list>
+                    </p>
+                </div>
+                <div type="variation">
+                    <p>The word <foreign>brahma-svaṃ</foreign> in pāda a and c is replaced by <foreign>deva-svaṁ</foreign> in Nagamandala Copper Plate Inscription, śaka saṃvat 698 (776-777ce) <!-- Manugiitaa 132_02 0023 98 --> (<bibl><ptr target="bib:Rice1873_01"/><citedRange unit="page">159</citedRange></bibl>; this plate is seen as a spurious grant by <bibl><ptr target="bib:Fleet1894-1895_06"/><citedRange unit="page">160</citedRange></bibl>).</p>
+                </div>
+                <div type="bibliography">
+                    <p>This variation was noticed first by <bibl><ptr target="bib:Sircar1965_03"/></bibl>.</p>
+                </div>           
+            </div>
+            <div xml:id="BEst_0098v03">
+                <div type="text">
+                    <lg met="anuṣṭubh">
+                    <l n="a">deva-svaṁ viṣam ity āhur</l> 
+                    <l n="b">brahma-svaṁ viṣam ucyate</l>
+                    <l n="c">viṣam ekākinaṁ hanti</l> 
+                    <l n="d">brahma-svaṁ putra-pautrikam</l>
+                   </lg>         
+                </div>
+                <div type="translation">
+                    <p></p>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item>EI6_11 = Nilgund (stone) inscription of the time of Amoghavarsha I.; A.D. 866 (<bibl><ptr target="bib:Fleet1900-1901_02"/></bibl>)</item>
+                    </list>
+                    </p>
+                </div>
+                <div type="bibliography">
+                    <p>This variation was noticed first by <bibl><ptr target="bib:Sircar1965_03"/></bibl></p>
+                </div>
+            </div>
+            <div xml:id="BEst_0098v04">
+                <div type="text">
+                    <lg met="">
+                        <l n="a"></l>
+                        <l n="b"></l>
+                        <l n="c"></l>
+                        <l n="d"></l>
+                    </lg>
+                </div>
+                <div type="translation">
+                    <p></p>
+                </div>
+                <div type="inscriptions">
+                    <p>See the following inscriptions:
+                    <list>
+                        <item></item>
+                    </list>
+                    </p>
+                </div>
+                <div type="bibliography">
+                    <p>This variation was noticed first by <bibl><ptr target="bib:Sircar1965_03"/></bibl></p>
+                </div>
+                <p>Aviṣaṁ for Na viṣaṁ (ibid., Vol. VII, p. 324)</p>
+            </div>
             <div xml:id="BEst_0099">
                 <div type="text">
                     <lg met="upendravajrā">
@@ -4127,6 +4214,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                         <item>INSVaria90020 (EI25_21) = <ref target="INSVaria90020.xml">Purshottampuri plates of Ramachandra: Saka 1232</ref>, lines 139-140 (<bibl><ptr target="bib:Mirashi1939-1940_01"/></bibl>)</item>
                         <item>Inscriptions n° 20, 27, 33, 34, 35, 36, 37, 38, 39, 43, 44, 45, 48, 49, 50, 52, 57, 60, 63, 64, 67, 68, 70, 77, 78, 79 and 81 edited by <bibl><ptr target="bib:Chhabra1957_01"/><citedRange unit="appendix">A</citedRange><citedRange unit="page">178</citedRange></bibl></item>
                         <item>INSVaria90012 (before INSEI13_3b) = <ref target="INSVaria90012.xml">Stone Inscription #2 of the time of Raṭṭa Prince Kārtavīrya IV: A.D. 1204</ref></item>
+                        <item>EI6_11 = Nilgund (stone) inscription of the time of Amoghavarsha I.; A.D. 866, line 34-35 (<bibl><ptr target="bib:Fleet1900-1901_02"/></bibl>)</item>
                     </list>
                         <!-- ajouter EI23_17B Plates of Vākpati-Muñja VS 1038 981 AD -->
                         </p>
@@ -4189,10 +4277,9 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                         <l>pālanīyas sadā so 'yaṃ</l>
                         <l>jagatāṃ yatra saṃsthitiḥ</l>
                     </lg>
+                    <p>A person should recognize this <foreign>dharmasetu</foreign> as common to all. It should always be protected since it is the stability of the worlds.</p>
                 </div>
-                <div type="notes">
                      <note>2. Ind. Ant., Vol. XII, p. 186. See No. 117.</note><!-- IAXII_186 https://archive.org/details/TheIndianAntiquaryVolXII/page/n207/mode/2up -->
-                </div>
             </div>
             <div xml:id="BEst_0119">
                 <div type="text">
@@ -4366,7 +4453,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                <lg met="anuṣṭubh">
                    <l n="a">saṣṭiṁ varṣa–sahasrāṇi</l>
                    <l n="b">svarge modati bhūmidaḥ</l>
-                   <l n="c">Ācchettā cānumantā ca</l>
+                   <l n="c">ācchettā cānumantā ca</l>
                    <l n="d">tāny eva narake vaseT</l>
                </lg>
            </div>
@@ -4379,7 +4466,7 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    <lg met="anuṣṭubh">
                        <l n="a">ṣaṣṭivarṣasahasrāṇi </l>
                        <l n="b">svargge krīḍati bhūmidaḥ </l>
-                       <l n="c">Ākṣeptā cānumantā ca </l>
+                       <l n="c">ākṣeptā cānumantā ca </l>
                        <l n="d">tāny eva narake vaseT</l>
                    </lg>
                    
@@ -4446,14 +4533,14 @@ As mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the verse can be
                    <lg met="anuṣṭubh">
                    <l n="a">saṣṭi-varṣa–sahasrāṇi</l>
                    <l n="b">svarge tiṣṭhati bhūmidaḥ</l>
-                   <l n="c">Ācchettā cānumantā ca</l>
+                   <l n="c">ācchettā cānumantā ca</l>
                    <l n="d">tāny eva narake vaseT</l>
                </lg>
                    <p>The verse (with minor variations) is quoted by Hemādri in his <title>Dānakhaṇḍacaturvargacintāmaṇi</title> (p. 504) and attributed to the <title>Viṣṇudharmottara</title>: </p>
                    <lg met="anuṣṭubh">
                    <l n="a">saṣṭir varṣa–sahasrāṇi</l>
                    <l n="b">svarge vasati bhūmidaḥ</l>
-                   <l n="c">Ācchettā cānumantā ca</l>
+                   <l n="c">ācchettā cānumantā ca</l>
                    <l n="d">tāvanti narakaṁ vaseT</l>
                </lg>
                    <p>According to <bibl><ptr target="bib:Sircar1965_03"/></bibl>, the stanza can be read in (need to check):
@@ -7307,7 +7394,6 @@ Donation and the preservation of land <supplied reason="subaudible">as granted</
                     <l n="c">brahma-svaṃ brāhmaṇa-kṣetraṃ</l> 
                     <l n="d">hārayanti haranti ye <g type="danda">.</g></l>
                     <l n="e">teṣāṃ pāda-rajo-bhītyā</l> 
-                    <l n="f">carmmaṇā pihitaṃ mayā <g type="ddanda">.</g></l
             -->
 <!-- A ajouter ? dans une inscription trois vers nouveaux dont un utilisant la notion de traitre drohi (+ aussi un 4eme vers aavec Indra) DHARMA_INSEC03Sr157 = INSVaria90003
             <lg met="" n="10">
