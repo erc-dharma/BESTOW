@@ -2294,7 +2294,7 @@ wealth and fame are comparable to the remains of offerings to the gods. What goo
                     </list></p>
                 </div>
                 <div type="bibliography">
-                    <p>The text of this stanza is quite problematic and <bibl><ptr target="bib:Kielhorn1896-1897_02"/><citedRange unit="note">4</citedRange><citedRange unit="page">197</citedRange></bibl> explains that he was unable to find this verse elsewhere and to give a correct text. </p>
+                    <p>The text of the stanza given here is the version standardised by <bibl><ptr target="bib:Sircar1965_03"/></bibl>. In fact, the epigraphic source reads <foreign>lipyati</foreign> rather than <foreign>limpati</foreign>.The text of this stanza is quite problematic and <bibl><ptr target="bib:Kielhorn1896-1897_02"/><citedRange unit="note">4</citedRange><citedRange unit="page">197</citedRange></bibl> explains that he was unable to find this verse elsewhere and to give a correct text. </p>
                 </div>
             </div>
            <div xml:id="BEst_0058">
@@ -5234,14 +5234,14 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
                         <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
-                        <l n="d">viṣṭhāyāṁ jāyate kr̥miḥ</l><!-- INSVaria90009 = INSEI4_25 narake pacyate dhruvam -->
+                        <l n="d">viṣṭhāyāṁ jāyate kr̥miḥ</l><!-- INSEIAD00182 = INSEI4_25 narake pacyate dhruvam -->
                     </lg><!-- Lakṣmīdhara gṛhasthakāṇḍa p 317-318 dānabṛhaspati https://docs.google.com/document/d/1pbDnABNQ-j9aODuNqfYNFYK9jP8VGuUO6aRcT40gTVQ/edit?tab=t.0 -->
                 </div>
                <div type="translation">
                    <p>He who would seize land, whether given by himself or by another, will be reborn as a worm in n excrement for sixty thousand years. </p>
                </div>
                <div type="variation">
-                   <p>The bibliographical reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl> is the Nirmand copper-plate inscription of the Mahasamata and Mahararaja Samudrasena (see <bibl><ptr target="bib:Fleet1888_03"/></bibl>). The verse is also quoted in the <ref target="DHARMA_INSVaria90009.xml">Chikkulla plates of Vikramendravarman</ref> (INSVaria90009 before INSEI4_25) with the following variation in the pāda d (which is not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, even though he quotes this record as the source for stanza BEst_0057):</p>
+                   <p>The bibliographical reference given by <bibl><ptr target="bib:Sircar1965_03"/></bibl> is the Nirmand copper-plate inscription of the Mahasamata and Mahararaja Samudrasena (see <bibl><ptr target="bib:Fleet1888_03"/></bibl>). The verse is also quoted in the <ref target="DHARMA_INSEIAD00182.xml">Copper plates from Chikula — grant of Vikramendravarman, year 10</ref> (EI4_25 <bibl><ptr target="bib:Kielhorn1896-1897_02"/></bibl>) with the following variation in the pāda d (which is not mentioned by <bibl><ptr target="bib:Sircar1965_03"/></bibl>, even though he quotes this record as the source for stanza BEst_0057):</p>
                    <lg met="anuṣṭubh">
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo hareta vasundharām</l>
