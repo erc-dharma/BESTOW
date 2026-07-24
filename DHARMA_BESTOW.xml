@@ -6076,17 +6076,17 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
                     </lg>
                 </div>
                  <div type="translation" resp="part:amwb">
-                    <p rend="stanza">Those who steal ancient gifts are reborn as black serpents dwelling in hollow tress in the dried up forests of the Vindhya mountains.</p>
+                    <p rend="stanza">Those who steal ancient gifts are reborn as black serpents dwelling in hollow trees in the dried up forests of the Vindhya mountains.</p>
                 </div>
                 <div type="variation">
-                    <p>Some variations in the pādas a and b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) can be read in <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref> line 25 (identical to <ref target="DHARMA_INSSiddham00065.xml">Paharpur Charter of the Time of Budhagupta</ref>):</p>
+                    <p>Some variations in the pādas a and b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl>) can be read in <ref target="DHARMA_INSBengalCharters00052.xml">Paharpur Charter of the Time of Budhagupta</ref> line 25 (INSBengalCharters00052 identical to <ref target="DHARMA_INSSiddham00065.xml">Paharpur Charter of the Time of Budhagupta</ref>, INSSiddham00065):</p>
                     <lg met="anuṣṭubh">
 <l n="a">vindhyāṭavīṣv anambhassu</l>
 <l n="b">śuṣka-koṭara-vāsinaḥ</l>
 <l n="c">kr̥ṣṇāhino hi jāyante</l>
 <l n="d">deva-dāyaṁ haranti ye</l>
 </lg>
-                    <p>Some variations in the pādas a and b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> but identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">20</citedRange></bibl>) can be read in <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref> line 27-28 :</p>
+                    <p>Some variations in the pādas a and b (not quoted by <bibl><ptr target="bib:Sircar1965_03"/></bibl> but identified as a formulaic stanza by <bibl><ptr target="bib:Levi1908_01"/><citedRange unit="page">126</citedRange><citedRange unit="item">20</citedRange></bibl>) can be read in <ref target="DHARMA_INSBengalCharters00034.xml">Jagadispur Charter of the Time of Kumāragupta I</ref> (INSBengalCharters00034) line 27-28 :</p>
                     <lg met="anuṣṭubh">
 <l n="a">vindhyāṭavīṣv anaṁbhassu</l>
 <l n="b">śuṣka-koṭara-vāsinaḥ</l>
@@ -6100,7 +6100,7 @@ Even Hari, the creator of the lotus-seated one, was always worshipped by the wor
 <l n="c">kr̥ṣṇasarpā hi jāyante</l>
 <l n="d">deva-dravyāpahārakāḥ</l>
 </lg>
-                    <p>The <ref target="INSVaria90005.xml">Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922</ref>, lines 103-104 (EI2_15 = <bibl><ptr target="bib:Kielhorn1894_02"/></bibl>) has the following reading:</p><!-- EI2_15 -->
+                    <p>The <ref target="INSVaria90005.xml">Samgamner Copper-plate Inscription of the Yadava Bhillama II, the śaka year 922</ref>, lines 103-104 (INSVaria90005 = EI2_15 = <bibl><ptr target="bib:Kielhorn1894_02"/></bibl>) has the following reading:</p><!-- EI2_15 -->
                      <lg met="anuṣṭubh">
                         <l n="a">vindhyāṭavīṣv a-toyāsu</l> 
                         <l n="b">śuṣka-koṭara-vāsinaḥ</l>
@@ -6846,7 +6846,7 @@ voir https://docs.google.com/document/d/1bbOZp7PjoIFTmbYo142wDqXp4LAlSLxEnXniHzw
                         </lg>
                     </div>
                     <div type="translation" resp="part:amwb">
-                        <p>The Gods and his Ancestors <supplied reason="subaudible">of a land-thief</supplied> will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. Like a palm tree with his tuft of leaves cut, deprived of stability, he will fall <supplied reason="subaudible">in hell</supplied></p>
+                        <p>The Gods and his Ancestors <supplied reason="subaudible">of a land-thief</supplied> will never receive his offering <supplied reason="explanation"><foreign>havis</foreign></supplied> and his oblation <supplied reason="explanation"><foreign>piṇḍa</foreign></supplied>. Like a palm tree with his tuft of leaves cut, deprived of stability, he will fall <supplied reason="subaudible">in hell</supplied>. </p>
                     </div>
                     <div type="inscriptions">
                         <p>See EI23_24 = BengalCharters00084 = <ref target="DHARMA_INSBengalCharters00084.xml">Mallasarul Charter of Vijayasena, time of Gopacandra year 3</ref> (<bibl><ptr target="bib:Majumdar1935-1936_02"/></bibl>), lines 18-19.</p>
