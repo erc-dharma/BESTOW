@@ -702,7 +702,7 @@
                 <div type="inscriptions">
                     <p>See the following inscriptions: 
                         <list>
-                            <item>INSVaria90006 (before INSEI2_29) <ref target="DHARMA_INSVaria90006.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 20-21 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</item>
+                            <item>INSVaria90006 (= EI2_29) <ref target="DHARMA_INSVaria90006.xml">Benares Copper-plate Grant of Govindracandra of Kanauj Saṁvat 1162</ref>, lines 20-21 (introduced by the sentence <foreign>atrātha paurāṇikāḥ ślokāḥ</foreign>).</item>
                             <item><ref target="INSBengalCharters00104.xml">Nalanda Plate of Devapāla, year 35</ref>, vers XX lines 48-49</item>
                             <item>EI1_11 = The Madhuban Copper-Plate of Harsha Dated Samvat 25, line 16 (<bibl><ptr target="bib:Buhler1892_07"/></bibl></item>
                         </list>
@@ -1790,6 +1790,7 @@ dattāṃ bhuvaṃ bhavatu vo matir e!!ṣā!! goptum
                         <item><ref target="INSTamilNadu00455.xml">Pirāṉmalai, Maṅkai Pākar, time of Accutatēvamahārāya, Śaka year 1452</ref>, <bibl><ptr target="bib:Vijayavenugopal2022_01"/><citedRange unit="item">55</citedRange><citedRange unit="page">133-135</citedRange></bibl></item>
                         <item><ref target="INSTamilNadu00446.xml">Pirāṉmalai, Maṅkai Pākar, time of Naraciṅkarāya, Śaka year 1422
 </ref>, <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/><citedRange unit="item">439</citedRange><citedRange unit="page">229-230</citedRange></bibl>, <bibl><ptr target="bib:Vijayavenugopal2022_01"/><citedRange unit="item">46</citedRange><citedRange unit="page">109-110</citedRange></bibl></item>
+                        <item>INSSIIv17p0i0264 = <ref target="INSSIIv17p0i0264.xml">No. 264. (A.R. No. 241 of 1904.) KŪṈIMĒḌU, TINDIVANAM TALUK, SOUTH ARCOT DISTRICT</ref>, 1532 AD</item>
                     </list></p>
                 </div>
                 <div type="notes">
@@ -4688,6 +4689,13 @@ Bhrgusamhita GRETIL https://gretil.sub.uni-goettingen.de/gretil/corpustei/transf
                         <item>INSVaria90004 (before INSEC01011) = <ref target="INSVaria90004.xml">A copper plate at Kaṭṭepura</ref> (<bibl><ptr target="bib:Rice1914"/><citedRange unit="item">11</citedRange></bibl>, Epigraphia Carnatica volume 1, n° 11)</item>
                         <item>Two inscriptions on copper-plates from Nutimadugu, lines 61-63 <bibl><ptr target="bib:LakshminarayanRao1939-1940_01"/><citedRange unit="page">194</citedRange></bibl> (the stanza belongs to the second record from Vijayanagar and is inscribed on the recto of the third plate)</item>
                         <item>EI41_34 = Dasgoba plates of rajaraja III, Saka 1120, lines 147 <bibl><ptr target="bib:Sircar+RathaSarma1955-1956_01"/></bibl></item>
+                        <item>INSSIIv17p0i0751 = <ref target="INSSIIv17p0i0751.xml">No. 751. (A.R. No. 694 of 1904.) TIRUPPĀṞKAḌAL, WALAJAPET TALUK, NORTH ARCOT DISTRICT.</ref></item>
+                        <item>INSSIIv17p0i0760 = <ref target="DHARMA_INSSIIv17p0i0760.xml">No. 760. (A.R. No. 703 of 1904.) TIRUPPĀṞKAḌAL, WALAJAPET TALUK, NORTH ARCOT DISTRICT</ref></item>
+                        <item>INSSIIv17p0i0761 = <ref target="DHARMA_INSSIIv17p0i0761.xml">No. 761. (A.R. No. 704 of 1904.) NEḌUṄGUṄAM, WANDIWASH TALUK, NORTH ARCOT DISTRICT</ref></item>
+                        <item><ref target="DHARMA_INStfaSIIv02p0i0023.xml">Tanjore, Bṛhadīśvara, time of Tirumalai, Śaka year 1377 (SII 2.23)</ref> (previous edition SIIv02p0i0023 = <ref target="SIIv02p0i0023.xml">No. 23. ON THE SOUTH WALL, FIRST TIER</ref>). Unusually, the stanza is quoted at the beginning rather than at the end. As Francis remarks, the <q> formulaic verse in line A1 is in larger characters</q>. </item>
+                        <item>INSSIIv17p0i0264 = <ref target="INSSIIv17p0i0264.xml">No. 264. (A.R. No. 241 of 1904.) KŪṈIMĒḌU, TINDIVANAM TALUK, SOUTH ARCOT DISTRICT</ref>, 1532 AD</item>
+                        <item>INSSIIv17p0i0267 = <ref target="INSSIIv17p0i0267.xml">No. 267. (A.R. No. 244 of 1904.) CHANDRAGIRI, CHANDRAGIRI TALUK, CHITTOOR DISTRICT. On another shrine in the ruined temple near the palace</ref>, 1537 AD</item>
+                        <item>INSSIIv17p0i0145 = <ref target="INSSIIv17p0i0145.xml">No. 145. (A.R. No. 125 of 1904.) TĪRTHANAGARI, CUDDALORE TALUK, SOUTH ARCOT DISTRICT</ref>, 1517-18 AD</item>
                     </list>
                     </p><!-- citer dans EI25_19 palimpseste sur une nouvelle plaque Dikshit1935-1936_01 EI23_17 -->
                 </div>
@@ -5396,9 +5404,9 @@ mahī mahīkṣitā nityaṃ dānācchreyo 'nupālanam  // RKV_133.31 //
                            <item>SIIv04p0i0526 = <ref target="INSSIIv04p0i0526.xml">SII 4.526: original edition by H. Krishna Sastri</ref></item>
                            <item>SIIv04p0i0501 = <ref target="INSSIIv04p0i0501.xml">SII 4.501: original edition by H. Krishna Sastri</ref></item>
                            <item>INSVaria90012 (before INSEI13_3b) = <ref target="INSVaria90011.xml">Stone Inscription #2 of the time of Raṭṭa Prince Kārtavīrya IV: A.D. 1204</ref></item>
+                           <item>INSSIIv17p0i0761 = <ref target="DHARMA_INSSIIv17p0i0761.xml">No. 761. (A.R. No. 704 of 1904.) NEḌUṄGUṄAM, WANDIWASH TALUK, NORTH ARCOT DISTRICT</ref>, 1544 A.D</item>
                        </list>                  
-                   </p>                          
-                   
+                   </p>                                         
                </div>
                <div type="occurences">
                    <p>This stanza is quoted by Lakṣmīdhara (<title>Gṛhasthakāṇḍa</title> of <title>Kṛtyakalapataru</title>, p. 317-318) and is there attributed to the <title>Dānabṛhaspati</title>. </p>
